@@ -1,60 +1,138 @@
 @charset "utf-8";
 
 @font-face {
-	font-family: 'UKIJ Basma Qara';
-	src: local("UKIJ Basma Qara"),
-        url('./fonts/UKIJBasma.ttf') format('truetype')
+    font-family: 'UKIJ Basma Qara';
+    src: local("UKIJ Basma Qara"),
+         url('./fonts/UKIJBasma.ttf') format('truetype');
+    font-display: swap;
 }
 
 @font-face {
-	font-family: 'UKIJ Kawak 3D';
-	src: local("UKIJ Kawak 3D"),
-        url('./fonts/UKIJKa3D.ttf') format('truetype')
+    font-family: 'UKIJ Kawak 3D';
+    src: local("UKIJ Kawak 3D"),
+         url('./fonts/UKIJKa3D.ttf') format('truetype');
+    font-display: swap;
 }
 
 @font-face {
-	font-family: 'UKIJ Tuz Gezit';
-	src: local("UKIJ Tuz Gezit"),
-        url('./fonts/UKIJTuzG.ttf') format('truetype')
+    font-family: 'UKIJ Tuz Gezit';
+    src: local("UKIJ Tuz Gezit"),
+         url('./fonts/UKIJTuzG.ttf') format('truetype');
+    font-display: swap;
 }
 
+/* Default text direction for Uyghur */
+[lang="ug"] {
+    direction: rtl;
+    unicode-bidi: embed;
+}
 
 h1 {
-  font-family: "UKIJ Basma Qara", Times, serif;
-  font-size: 36px;
-  direction: rtl;
-  text-align: right;
+    font-family: "UKIJ Basma Qara", Times, serif;
+    font-size: 2.25rem; /* 36px */
+    text-align: center;
+    margin-bottom: 1.5rem;
 }
+
+h2 {
+    font-family: "UKIJ Basma Qara", Times, serif;
+    font-size: 1.875rem; /* 30px */
+    text-align: right;
+    margin-bottom: 1rem;
+}
+
+h3 {
+    font-family: "UKIJ Basma Qara", Times, serif;
+    font-size: 1.5rem; /* 24px */
+    text-align: right;
+    margin-bottom: 0.75rem;
+}
+
 p {
-  font-family: "UKIJ Basma Qara", Times, serif;
-  font-size: 24px;
-  direction: rtl;
-  text-align: right;
+    font-family: "UKIJ Basma Qara", Times, serif;
+    font-size: 1.25rem; /* 20px */
+    line-height: 1.6;
+    text-align: right;
+    margin-bottom: 1rem;
 }
 
-title{
-  font-family: "UKIJ Basma Qara"
-  align="center";
-  direction: rtl;
+a {
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
+
+/* Table styles with better spacing and borders */
 table {
-  font-family: "UKIJ Basma Qara"
-  border-collapse: collapse;
-  width: 100%;
-  align="center";
-  direction: rtl;
+    font-family: "UKIJ Basma Qara", Times, serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1rem 0;
+    direction: rtl;
 }
 
-
-th,td {
-  font-family: "UKIJ Basma Qara";
-  font-size: 24px;
-  text-align: center;
-  direction: rtl;
-  padding: 0px;
-}
-p.a {
-  font-family: "UKIJ Basma";
-  font-size: 36px;
+th, td {
+    font-family: "UKIJ Basma Qara", Times, serif;
+    font-size: 1.25rem;
+    text-align: right;
+    padding: 0.75rem;
+    border: 1px solid #e5e7eb;
 }
 
+th {
+    background-color: #f3f4f6;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f9fafb;
+}
+
+/* Utility classes */
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-large {
+    font-size: 1.5rem;
+}
+
+.text-medium {
+    font-size: 1.25rem;
+}
+
+.text-small {
+    font-size: 1rem;
+}
+
+/* Animation for page transitions */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-in;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.875rem; /* 30px */
+    }
+    
+    h2 {
+        font-size: 1.5rem; /* 24px */
+    }
+    
+    h3 {
+        font-size: 1.25rem; /* 20px */
+    }
+    
+    p, th, td {
+        font-size: 1rem; /* 16px */
+    }
+}

@@ -1,57 +1,298 @@
- <!DOCTYPE html>
-<html>
-<title>Okyanus</title>
-<meta name="viewport" content="width=device-width">
-<link rel="stylesheet" type="text/css" href="uyghur-font.css" title="default"/>
+<!DOCTYPE html>
+<html lang="ug">
 <head>
-    <style>
-        body {background-color: powderblue;}
-        h1   {
-                color: blue;
-                text-align:center;
-                }
-        p    {text-align:center;}
-        a {
-            color: blue;
-            font-size:24px;
-            text-align:center;
-        }
-        ul{
-            text-align:center;
-        }
-        </style>
+    <title>Okyanus - ئوكيانۇس</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Uyghur language resources and dictionaries">
+    <link rel="stylesheet" type="text/css" href="uyghur-font.css" title="default"/>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- HTMX for interactivity -->
+    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div id="app" class="min-vh-100 d-flex flex-column">
+        <!-- Theme toggle button with Bootstrap form-switch -->
+        <div class="theme-toggle-container">
+            <div class="form-check form-switch dark-mode-switch">
+                <input type="checkbox" id="dark-mode-toggle" class="form-check-input dark-mode-input">
+                <label for="dark-mode-toggle" class="form-check-label dark-mode-label" aria-label="Toggle dark mode">
+                    <i class="bi bi-moon-fill moon-icon" aria-hidden="true"></i>
+                    <i class="bi bi-sun-fill sun-icon" aria-hidden="true"></i>
+                    <span class="slider"></span>
+                </label>
+            </div>
+        </div>
+        
+        <!-- Ocean-themed animated header -->
+        <header class="position-relative overflow-hidden header-banner">
+            <!-- Ocean waves container -->
+            <div class="ocean-container position-absolute w-100 h-100">
+                <div class="wave-container">
+                    <div class="wave wave1"></div>
+                    <div class="wave wave2"></div>
+                    <div class="wave wave3"></div>
+                    <div class="wave wave4"></div>
+                    <div class="wave wave5"></div>
+                </div>
+                <!-- Floating particles -->
+                <div class="particles"></div>
+            </div>
+            
+            <!-- Animated gradient overlay -->
+            <div class="overlay-gradient position-absolute top-0 start-0 w-100 h-100"></div>
+            
+            <!-- Header content -->
+            <div class="header-content position-relative z-index-2 h-100 d-flex flex-column justify-content-center align-items-center text-center">
+                <h1 class="display-1 fw-bold text-white mb-4 header-title animate-title">
+                    ئوكيانۇس قامۇسى
+                </h1>
+                <p class="lead text-white text-shadow mb-0 animate-subtitle hover-underline">
+                    بىلىملەر ئوكيانى - بىلىم ئىزدىگۈچىلەر ئۈچۈن
+                </p>
+            </div>
+        </header>
 
-<h1>ئوكيانۇس خەزىنىسى</h1>
-
-<p>
-   <a href="uyghur/index.html">ئۇيغۇر تىلى ئىزاھلىق لۇغىتى</a>
-   <br><br>
-   <a href="latin/index.html">Uyghur Tili Izahliq Lughiti</a>
-
-   <br><br>
-   <a href="names/index.html">ئۇيغۇر كىشى ئىسىملىرى لۇغىتى</a>
-
-   <br><br>
-   <a href="history/index.html"> تارىخ لۇغىتى</a>
-
-   <br><br>
-   <a href="english-uyghur/index.html"> ئىنگلىزچە-ئۇيغۇرچە لۇغەت</a>
-
-   <br><br>
-   <a href="uyghur-synonyms/index.html"> ئۇيغۇر تىلىدىكى مەنىداش سۆزلەر</a>
-    </p>
-<br><br>
-
-
-
-
-
-
-
-   <p> <a href="https://github.com/orgs/uyghur-language/repositories">GitHub source: https://github.com/uyghur-language</a> </p>
-   <p> <a href="https://github.com/uyghur-language/uyghur-language.github.io/blob/main/contributors.md">Contributors</a>
-   <p> Contact: anwarmamat@gmail.com </p>
+        <main class="flex-grow-1">
+            <!-- Two-Row Navigation Menu -->
+            <div class="container my-5">
+                <div class="row justify-content-center">
+                    <!-- Center the card and enhance responsiveness -->
+                    <div class="col-12 col-md-11 col-lg-10 col-xl-9">
+                        <div class="card border-0 shadow-lg rounded-4 overflow-hidden menu-card glow-card">
+                            <!-- Gradient header -->
+                            <div class="card-header p-3 text-center text-white bg-gradient-primary">
+                                <h5 class="mb-0 fw-bold fs-4">
+                                    <i class="bi bi-book me-2" aria-hidden="true"></i> 
+                                </h5>
+                            </div>
+                            <div class="card-body p-4">
+                                <!-- First row of menu items -->
+                                <div class="row g-4 mb-4">
+                                    <div class="col-12 col-md-4">
+                                        <a href="uyghur/index.html" class="menu-tile h-100 tile-glow" aria-label="Uyghur Dictionary">
+                                            <i class="bi bi-journal-text mb-3 d-block" aria-hidden="true"></i>
+                                            <span>ئۇيغۇر تىلى ئىزاھلىق لۇغىتى</span>
+                                        </a>
+                                    </div>
+                                    <div class="col-12 col-md-4">
+                                        <a href="latin/index.html" class="menu-tile h-100 tile-glow" aria-label="Latin Script Uyghur Dictionary">
+                                            <i class="bi bi-translate mb-3 d-block" aria-hidden="true"></i>
+                                            <span>Uyghur Tili Izahliq Lughiti</span>
+                                        </a>
+                                    </div>
+                                    <div class="col-12 col-md-4">
+                                        <a href="names/index.html" class="menu-tile h-100 tile-glow" aria-label="Uyghur Names Dictionary">
+                                            <i class="bi bi-person-badge mb-3 d-block" aria-hidden="true"></i>
+                                            <span>ئۇيغۇر كىشى ئىسىملىرى لۇغىتى</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                
+                                <!-- Second row of menu items -->
+                                <div class="row g-4">
+                                    <div class="col-12 col-md-4">
+                                        <a href="history/index.html" class="menu-tile h-100 tile-glow" aria-label="History Dictionary">
+                                            <i class="bi bi-clock-history mb-3 d-block" aria-hidden="true"></i>
+                                            <span>تارىخ لۇغىتى</span>
+                                        </a>
+                                    </div>
+                                    <div class="col-12 col-md-4">
+                                        <a href="english-uyghur/index.html" class="menu-tile h-100 tile-glow" aria-label="English-Uyghur Dictionary">
+                                            <i class="bi bi-globe mb-3 d-block" aria-hidden="true"></i>
+                                            <span>ئىنگلىزچە-ئۇيغۇرچە لۇغەت</span>
+                                        </a>
+                                    </div>
+                                    <div class="col-12 col-md-4">
+                                        <a href="uyghur-synonyms/index.html" class="menu-tile h-100 tile-glow" aria-label="Uyghur Synonyms">
+                                            <i class="bi bi-file-word mb-3 d-block" aria-hidden="true"></i>
+                                            <span>ئۇيغۇر تىلىدىكى مەنىداش سۆزلەر</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        
+        <!-- Enhanced Footer with proper Bootstrap classes -->
+        <footer class="mt-auto">
+            <div class="container-fluid bg-gradient-primary text-white py-4 shadow-lg">
+                <div class="container py-2">
+                    <div class="row justify-content-center text-center">
+                        <div class="col-lg-8">
+                            <h4 class="mb-4">ئوكيانۇس قامۇسى</h4>
+                            <div class="d-flex justify-content-center gap-4 mb-4">
+                                <a href="https://github.com/orgs/uyghur-language/repositories" target="_blank" rel="noopener" class="btn btn-outline-light rounded-circle p-2" aria-label="GitHub">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16" aria-hidden="true">
+                                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+                                    </svg>
+                                </a>
+                                <a href="mailto:anwarmamat@gmail.com" class="btn btn-outline-light rounded-circle p-2" aria-label="Email">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16" aria-hidden="true">
+                                        <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/>
+                                    </svg>
+                                </a>
+                            </div>
+                            <div class="mb-3">
+                                <a href="https://github.com/uyghur-language/uyghur-language.github.io/blob/main/contributors.md" target="_blank" rel="noopener" class="btn btn-light px-4 py-2 shadow-sm" aria-label="Contributors">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-people-fill me-2" viewBox="0 0 16 16" aria-hidden="true">
+                                        <path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7Zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm-5.784 6A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216ZM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"/>
+                                    </svg>
+                                    تۆھپىكارلار
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bg-dark text-white-50 py-3 text-center">
+                <div class="container">
+                    <small>&copy; 2025 ئوكيانۇس قامۇسى - بارلىق ھوقۇقلار قوغدالغان</small>
+                </div>
+            </div>
+        </footer>
+    </div>
+    
+    <!-- Loading indicator template for HTMX -->
+    <template id="loading-indicator">
+        <div class="d-flex flex-column align-items-center py-4">
+            <p class="mb-3">يۈكلەۋاتىدۇ...</p>
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+    </template>
+    
+    <!-- Preview card template (for showing content previews) -->
+    <template id="preview-card-template">
+        <div id="preview-card" class="preview-card card shadow-lg border-0 d-none">
+            <div class="card-header d-flex justify-content-between align-items-center bg-gradient-primary text-white">
+                <h5 class="mb-0" id="preview-title"></h5>
+                <button type="button" class="btn-close btn-close-white" aria-label="Close preview" onclick="hidePreview()"></button>
+            </div>
+            <div class="card-body" id="preview-content"></div>
+        </div>
+    </template>
+    
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Main JavaScript -->
+    <script>
+        // Get the dark mode toggle input element
+        const darkModeToggle = document.getElementById('dark-mode-toggle');
+        
+        // Function to toggle dark mode with error handling
+        function toggleDarkMode() {
+            try {
+                document.body.classList.toggle('dark-mode');
+                
+                // Save preference to localStorage
+                localStorage.setItem('dark-mode', document.body.classList.contains('dark-mode'));
+            } catch (error) {
+                console.error('Error toggling dark mode:', error);
+                // Fallback if localStorage is not available
+                document.body.classList.toggle('dark-mode');
+            }
+        }
+        
+        // Add event listener to the toggle switch
+        darkModeToggle.addEventListener('change', toggleDarkMode);
+        
+        // Check for saved theme preference on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            try {
+                if (localStorage.getItem('dark-mode') === 'true') {
+                    document.body.classList.add('dark-mode');
+                    darkModeToggle.checked = true;
+                }
+                
+                // Initialize preview template
+                const previewTemplate = document.getElementById('preview-card-template');
+                if (previewTemplate && 'content' in document.createElement('template')) {
+                    document.body.appendChild(previewTemplate.content.cloneNode(true));
+                }
+            } catch (error) {
+                console.error('Error loading preferences:', error);
+            }
+        });
+        
+        function showPreview(title, contentId) {
+            try {
+                const previewCard = document.getElementById('preview-card');
+                const previewTitle = document.getElementById('preview-title');
+                
+                if (previewCard && previewTitle) {
+                    previewTitle.textContent = title || 'Preview';
+                    previewCard.classList.remove('d-none');
+                    previewCard.classList.add('show');
+                    
+                    // If content ID is provided, fetch that content
+                    if (contentId) {
+                        const previewContent = document.getElementById('preview-content');
+                        if (previewContent) {
+                            // Use the template for loading indicator
+                            const loadingTemplate = document.getElementById('loading-indicator');
+                            if (loadingTemplate && 'content' in document.createElement('template')) {
+                                previewContent.innerHTML = '';
+                                previewContent.appendChild(loadingTemplate.content.cloneNode(true));
+                            }
+                            
+                            // Here you would typically use HTMX to load content
+                        }
+                    }
+                }
+            } catch (error) {
+                console.error('Error showing preview:', error);
+            }
+        }
+        
+        function hidePreview() {
+            try {
+                const previewCard = document.getElementById('preview-card');
+                if (previewCard) {
+                    previewCard.classList.remove('show');
+                    setTimeout(() => {
+                        previewCard.classList.add('d-none');
+                    }, 300);
+                }
+            } catch (error) {
+                console.error('Error hiding preview:', error);
+            }
+        }
+        
+        // HTMX event handlers
+        document.body.addEventListener('htmx:beforeRequest', function(evt) {
+            try {
+                const target = evt.detail.target;
+                if (target.id === 'preview-content') {
+                    const loadingTemplate = document.getElementById('loading-indicator');
+                    if (loadingTemplate && 'content' in document.createElement('template')) {
+                        target.innerHTML = '';
+                        target.appendChild(loadingTemplate.content.cloneNode(true));
+                    } else {
+                        target.innerHTML = `
+                            <div class="d-flex flex-column align-items-center py-4">
+                                <p class="mb-3">يۈكلەۋاتىدۇ...</p>
+                                <div class="spinner-border text-primary" role="status">
+                                    <span class="visually-hidden">Loading...</span>
+                                </div>
+                            </div>
+                        `;
+                    }
+                }
+            } catch (error) {
+                console.error('Error in HTMX request handler:', error);
+            }
+        });
+    </script>
 </body>
-</html> 
+</html>

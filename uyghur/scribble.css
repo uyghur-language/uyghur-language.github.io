@@ -1,4 +1,3 @@
-
 /* This file is used by default by all Scribble documents.
    See also "manual.css", which is added by default by the
    `scribble/manual` language. */
@@ -13,17 +12,19 @@
 
 /* Monospace: */
 .maincolumn, .refpara, .refelem, .tocset, .stt, .hspace, .refparaleft, .refelemleft {
-  font-family: monospace;
+  font-family: 'Fira Mono', 'Source Code Pro', Consolas, monospace;
+  line-height: 1.5;
 }
 
 /* Serif: */
 .main, .refcontent, .tocview, .tocsub, .sroman, i {
-  font-family: serif;
+  font-family: 'Noto Serif', 'Charter', 'Georgia', serif;
+  line-height: 1.6;
 }
 
 /* Sans-serif: */
 .version, .versionNoNav, .ssansserif {
-  font-family: sans-serif;
+  font-family: 'Fira Sans', 'Source Sans Pro', 'Open Sans', sans-serif;
 }
 .ssansserif {
   font-size: 80%;
@@ -54,17 +55,27 @@
 
 p, .SIntrapara {
   display: block;
-  margin: 1em 0;
+  margin: 1.2em 0;
+  line-height: 1.6;
 }
 
 h2 { /* per-page main title */
   margin-top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #333;
 }
 
 h3, h4, h5, h6, h7, h8 {
   margin-top: 1.75em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.75em;
+  font-weight: 600;
 }
+
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+h5 { font-size: 1.1rem; }
+h6, h7, h8 { font-size: 1rem; }
 
 .SSubSubSubSection {
   font-weight: bold;
@@ -83,8 +94,11 @@ table p {
 /* Main */
 
 body {
-  color: black;
+  color: #1a1a1a;
   background-color: #ffffff;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
 }
 
 table td {
@@ -96,6 +110,7 @@ table td {
   width: 43em;
   margin-right: -40em;
   margin-left: 15em;
+  max-width: 100%;
 }
 
 .main {
@@ -106,18 +121,18 @@ table td {
 /* Navigation */
 
 .navsettop, .navsetbottom {
-  background-color: #f0f0e0;
-  padding: 0.25em 0 0.25em 0;
+  background-color: #f5f5f5;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #e0e0e0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
 .navsettop {
   margin-bottom: 1.5em;
-  border-bottom: 2px solid #e0e0c0;
 }
 
 .navsetbottom {
   margin-top: 2em;
-  border-top: 2px solid #e0e0c0;
 }
 
 .navleft {
@@ -152,15 +167,25 @@ table td {
 
 .searchbox {
   width: 16em;
-  margin: 0px;
-  padding: 0px;
-  background-color: #eee;
+  margin: 0;
+  padding: 0.25rem 0.5rem;
+  background-color: #f9f9f9;
   border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 0.9rem;
   vertical-align: middle;
+  transition: all 0.2s ease;
+}
+
+.searchbox:focus {
+  outline: none;
+  border-color: #a0a0a0;
+  box-shadow: 0 0 3px rgba(0,0,0,0.1);
 }
 
 .searchbox::placeholder {
   text-align: center;
+  color: #a0a0a0;
 }
 
 #contextindicator {
@@ -173,6 +198,8 @@ table td {
   display: none;
   right: 0;
   bottom: 0;
+  border-radius: 3px 0 0 0;
+  z-index: 1000;
 }
 
 /* ---------------------------------------- */
@@ -188,9 +215,11 @@ table td {
 }
 .version {
   font-size: small;
+  color: #747474;
 }
 .versionNoNav {
   font-size: xx-small; /* avoid overlap with author */
+  color: #747474;
 }
 
 .version:before, .versionNoNav:before {
@@ -222,6 +251,8 @@ table td {
   border: 0.5em solid #F5F5DC;
   margin: 0 0 0 0;
   white-space: normal; /* in case margin note is inside code sample */
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
 .refcontent {
@@ -230,7 +261,16 @@ table td {
 
 .refcontent p {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 0.8em;
+}
+
+.refcontent a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.refcontent a:hover {
+  text-decoration: underline;
 }
 
 .refparaleft, .refelemleft {
@@ -250,6 +290,8 @@ table td {
   font-size: 85%;
   border: 0.5em solid #F5F5DC;
   margin: 0 0 0 0;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
 
@@ -258,14 +300,26 @@ table td {
 
 .toclink {
   text-decoration: none;
-  color: blue;
+  color: #0066cc;
   font-size: 85%;
+  transition: color 0.2s ease;
+}
+
+.toclink:hover {
+  color: #0099ff;
+  text-decoration: underline;
 }
 
 .toptoclink {
   text-decoration: none;
-  color: blue;
+  color: #0066cc;
   font-weight: bold;
+  transition: color 0.2s ease;
+}
+
+.toptoclink:hover {
+  color: #0099ff;
+  text-decoration: underline;
 }
 
 /* ---------------------------------------- */
@@ -276,20 +330,25 @@ table td {
   float: left;
   width: 12.5em;
   margin-right: 2em;
+  background-color: #f9f9f9;
+  border-right: 1px solid #e0e0e0;
+  padding: 1em 0;
+  box-sizing: border-box;
 }
 .tocset td {
   vertical-align: text-top;
+  padding: 0.2em 0;
 }
 
 .tocview {
   text-align: left;
-  background-color: #f0f0e0;
+  background-color: transparent;
 }
 
 .tocsub {
   text-align: left;
   margin-top: 0.5em;
-  background-color: #f0f0e0;
+  background-color: transparent;
 }
 
 .tocviewlist, .tocsublist {
@@ -308,7 +367,7 @@ table td {
 
 .tocviewsublist, .tocviewsublistonly, .tocviewsublisttop, .tocviewsublistbottom {
   margin-left: 0.4em;
-  border-left: 1px solid #bbf;
+  border-left: 1px solid #bbccff;
   padding-left: 0.8em;
 }
 .tocviewsublist {
@@ -327,18 +386,35 @@ table td {
 
 .tocviewlink {
   text-decoration: none;
-  color: blue;
+  color: #0066cc;
+  transition: color 0.2s ease;
+}
+
+.tocviewlink:hover {
+  color: #0099ff;
+  text-decoration: underline;
 }
 
 .tocviewselflink {
   text-decoration: underline;
-  color: blue;
+  color: #0066cc;
+  transition: color 0.2s ease;
+}
+
+.tocviewselflink:hover {
+  color: #0099ff;
 }
 
 .tocviewtoggle {
   text-decoration: none;
-  color: blue;
+  color: #0066cc;
   font-size: 75%; /* looks better, and avoids bounce when toggling sub-sections due to font alignments */
+  transition: color 0.2s ease;
+}
+
+.tocviewtoggle:hover {
+  color: #0099ff;
+  text-decoration: underline;
 }
 
 .tocsublist td {
@@ -353,23 +429,45 @@ table td {
 .tocsublink {
   font-size: 82%;
   text-decoration: none;
+  color: #0066cc;
+  transition: color 0.2s ease;
+}
+
+.tocsublink:hover {
+  color: #0099ff;
+  text-decoration: underline;
 }
 
 .tocsubseclink {
   font-size: 82%;
   text-decoration: none;
+  color: #0066cc;
+  transition: color 0.2s ease;
+}
+
+.tocsubseclink:hover {
+  color: #0099ff;
+  text-decoration: underline;
 }
 
 .tocsubnonseclink {
   font-size: 82%;
   text-decoration: none;
+  color: #0066cc;
   padding-left: 0.5em;
+  transition: color 0.2s ease;
+}
+
+.tocsubnonseclink:hover {
+  color: #0099ff;
+  text-decoration: underline;
 }
 
 .tocsubtitle {
   font-size: 82%;
   font-style: italic;
   margin: 0.2em;
+  color: #606060;
 }
 
 /* ---------------------------------------- */
@@ -377,27 +475,59 @@ table td {
 
 .indexlink {
   text-decoration: none;
+  color: #0066cc;
+}
+
+.indexlink:hover {
+  text-decoration: underline;
+  color: #0099ff;
 }
 
 .nobreak {
   white-space: nowrap;
 }
 
-pre { margin-left: 2em; }
-blockquote { margin-left: 2em; }
+pre {
+  margin-left: 2em;
+  background-color: #f5f5f5;
+  padding: 0.5em;
+  border-radius: 3px;
+  overflow-x: auto;
+}
 
-ol          { list-style-type: decimal; }
-ol ol       { list-style-type: lower-alpha; }
-ol ol ol    { list-style-type: lower-roman; }
-ol ol ol ol { list-style-type: upper-alpha; }
+blockquote {
+  margin-left: 2em;
+  padding-left: 1em;
+  border-left: 3px solid #e0e0e0;
+  color: #505050;
+}
+
+ol {
+  list-style-type: decimal;
+  padding-left: 2em;
+}
+ol ol {
+  list-style-type: lower-alpha;
+}
+ol ol ol {
+  list-style-type: lower-roman;
+}
+ol ol ol ol {
+  list-style-type: upper-alpha;
+}
 
 .SCodeFlow {
   display: block;
   margin-left: 1em;
-  margin-bottom: 0em;
+  margin-bottom: 1em;
   margin-right: 1em;
-  margin-top: 0em;
+  margin-top: 1em;
   white-space: nowrap;  
+  background-color: #f5f5f5;
+  padding: 0.5em;
+  border-radius: 3px;
+  overflow-x: auto;
+  border-left: 3px solid #ddd;
 }
 
 .SVInsetFlow {
@@ -416,6 +546,9 @@ ol ol ol ol { list-style-type: upper-alpha; }
 .boxed {
   width: 100%;
   background-color: #E8E8FF;
+  border-radius: 3px;
+  padding: 0.5em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
 .hspace {
@@ -427,23 +560,43 @@ ol ol ol ol { list-style-type: upper-alpha; }
 
 .badlink {
   text-decoration: underline;
-  color: red;
+  color: #e00;
 }
 
 .plainlink {
   text-decoration: none;
-  color: blue;
+  color: #0066cc;
+  transition: color 0.2s ease;
 }
 
-.techoutside       { text-decoration: underline; color: #b0b0b0; }
-.techoutside:hover { text-decoration: underline; color: blue; }
+.plainlink:hover {
+  color: #0099ff;
+  text-decoration: underline;
+}
+
+.techoutside {
+  text-decoration: underline;
+  color: #b0b0b0;
+  transition: color 0.2s ease;
+}
+.techoutside:hover {
+  text-decoration: underline;
+  color: #0066cc;
+}
 
 /* .techinside:hover doesn't work with FF, .techinside:hover>
    .techinside doesn't work with IE, so use both (and IE doesn't
    work with inherit in the second one, so use blue directly) */
-.techinside                    { color: black; }
-.techinside:hover              { color: blue; }
-.techoutside:hover>.techinside { color: inherit; }
+.techinside {
+  color: black;
+  transition: color 0.2s ease;
+}
+.techinside:hover {
+  color: #0066cc;
+}
+.techoutside:hover>.techinside {
+  color: inherit;
+}
 
 .SCentered {
   text-align: center;
@@ -494,6 +647,7 @@ ol ol ol ol { list-style-type: upper-alpha; }
 }
 .SAuthorList {
   font-size: 82%;
+  color: #606060;
 }
 .SAuthorList:before {
   content: "by ";
@@ -507,11 +661,17 @@ ol ol ol ol { list-style-type: upper-alpha; }
 @media print {
   .tocset,
   .navsettop,
-  .navsetbottom { display: none; }
+  .navsetbottom {
+    display: none;
+  }
   .maincolumn {
     width: auto;
     margin-right: 13em;
     margin-left: 0;
+  }
+  a {
+    text-decoration: none;
+    color: black;
   }
 }
 
@@ -545,4 +705,30 @@ ol ol ol ol { list-style-type: upper-alpha; }
 
 .heading-source {
     visibility: hidden;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .maincolumn {
+    width: auto;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  
+  .tocset {
+    float: none;
+    width: auto;
+    margin-bottom: 2em;
+    border-right: none;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .navsettop, .navsetbottom {
+    position: relative;
+  }
+  
+  .searchbox {
+    width: 100%;
+    box-sizing: border-box;
+  }
 }
