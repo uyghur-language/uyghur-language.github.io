@@ -83,6 +83,10 @@ table p {
 /* Main */
 
 body {
+	direction: rtl;
+    text-align: right; /* Important for text alignment */
+    unicode-bidi: embed; /* Ensures correct bidirectional text processing */
+
   color: black;
   background-color: #ffffff;
 }
@@ -99,7 +103,7 @@ table td {
 }
 
 .main {
-  text-align: left;
+  text-align: right;
 }
 
 /* ---------------------------------------- */

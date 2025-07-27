@@ -10,7 +10,7 @@
     padding: 0;
 }
 
-@media all {html {font-size: 15px;}}
+@media all {html direction="rtl"; {font-size: 15px;}}
 @media all and (max-width:940px){html {font-size: 14px;}}
 @media all and (max-width:850px){html {font-size: 13px;}}
 @media all and (max-width:830px){html {font-size: 12px;}}
@@ -156,15 +156,19 @@ h3, h4, h5, h6, h7, h8 {
 /* Main */
 
 body {
+    direction: rtl;
+   overflow: scroll;
+
     color: black;
     background-color: white;
 }
 
 .maincolumn {
+
     width: auto;
     margin-top: 4rem;
-    margin-left: 17rem;
-    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-right: 17.5rem;
     margin-bottom: 10rem; /* to avoid fixed bottom nav bar */
     max-width: 700px;
     min-width: 370px; /* below this size, code samples don't fit */
@@ -188,7 +192,7 @@ a:hover {
 /* Navigation */
 
 .navsettop, .navsetbottom {
-    left: 0;
+    right: 0;
     width: 15rem;
     height: 6rem;
     font-family: 'Fira', sans-serif;
@@ -203,7 +207,7 @@ a:hover {
     z-index: 2;
     background: #a7b0be;
     top: 0;
-    left: 0;
+    right: 0;
     margin-bottom: 0;
     border-bottom: 0;
 }
@@ -381,8 +385,8 @@ a:hover {
 @media all and (min-width:1340px) {
     .refcolumn {
         margin: 0 -22.5rem 1rem 0;
-        float: right;
-        clear: right;
+        float: left;
+        clear: left;
         width: 18rem;
     }
 }
@@ -397,7 +401,7 @@ a:hover {
 
 .refparaleft, .refelemleft {
     position: relative;
-    float: left;
+    float: right;
     right: 2em;
     height: 0em;
     width: 13em;
@@ -422,9 +426,9 @@ a:hover {
 .tocset {
     position: fixed;
     z-index: 2;
-    overflow-y: scroll;
+    overflow-y: scroll; 
     float: none;
-    left: 0;
+    right: 0;
     top: 0rem;
     bottom: 0;
     width: 14rem;

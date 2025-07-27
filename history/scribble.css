@@ -83,6 +83,10 @@ table p {
 /* Main */
 
 body {
+	direction: rtl;
+    text-align: right; /* Important for text alignment */
+    unicode-bidi: embed; /* Ensures correct bidirectional text processing */
+
   color: black;
   background-color: #ffffff;
 }
@@ -99,7 +103,7 @@ table td {
 }
 
 .main {
-  text-align: left;
+  text-align: right;
 }
 
 /* ---------------------------------------- */
@@ -123,7 +127,7 @@ table td {
 .navleft {
   margin-left: 1ex;
   position: relative;
-  float: left;
+  float: right;
   white-space: nowrap;
 }
 .navright {
@@ -235,7 +239,7 @@ table td {
 
 .refparaleft, .refelemleft {
   position: relative;
-  float: left;
+  float: right;
   right: 2em;
   height: 0em;
   width: 13em;
@@ -273,7 +277,7 @@ table td {
 
 .tocset {
   position: relative;
-  float: left;
+  float: right;
   width: 12.5em;
   margin-right: 2em;
 }
@@ -282,12 +286,12 @@ table td {
 }
 
 .tocview {
-  text-align: left;
+  text-align: right;
   background-color: #f0f0e0;
 }
 
 .tocsub {
-  text-align: left;
+  text-align: right;
   margin-top: 0.5em;
   background-color: #f0f0e0;
 }
