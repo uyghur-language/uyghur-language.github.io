@@ -1,71 +1,84 @@
-
 .boxedtable {
-
-    background-color: inherit;
-    border-collapse:collapse;
+  background-color: inherit;
+  border-collapse: collapse;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  overflow: hidden;
 }
 
 .boxedtable td {
-    border: 1px solid black;
-    padding-left: 10px;
-    padding-right: 10px;
+  border: 1px solid #ddd;
+  padding: 12px 15px;
+  font-size: 14px;
 }
 
 .version {
-visibility:hidden;
+  visibility: hidden;
 }
 
 .strike {
-    text-decoration: line-through;
+  text-decoration: line-through;
+  color: #a9a9a9;
 }
 
 .accessibility-link {
-   float: right;
+  float: right;
+  font-size: 13px;
+  color: #007BFF;
+  text-decoration: none;
 }
 
-.stale-warning {
-    color: red;
-    background-color: #fbc9c7;
-    border: 1px solid red;
-    padding: 10px;
-}
-
-.warning {
-    color: red;
-    background-color: #fbc9c7;
-    border: 1px solid red;
-    padding: 10px;
+.stale-warning, .warning {
+  color: #a94442;
+  background-color: #f2dede;
+  border: 1px solid #ebccd1;
+  border-radius: 5px;
+  padding: 12px;
+  font-weight: bold;
 }
 
 .tocset td a.tocviewselflink {
-   color: black;
-   text-decoration: underline;
+  color: #555;
+  text-decoration: underline;
 }
 
 .ExerciseBody {
-  padding: 0px 0px 0.5em 10px;
-  border-left-style: solid;
-  border-width: 5px;
-  border-color: orange;
-  background-color: #ffebcd;
+  padding: 15px;
+  border-left: 5px solid #ff9800;
+  background-color: #fff8e6;
+  border-radius: 0 8px 8px 0;
+  font-size: 15px;
 }
 
 .Exercise {
-   font-weight: bold;
-   background-color: #ffb167;
-   padding: 5px 0px 5px 10px;
-   margin-left: -10px;
+  font-weight: bold;
+  background-color: #ff9800;
+  padding: 10px 15px;
+  margin-left: -15px;
+  border-radius: 8px 8px 0 0;
+  color: white;
+  font-size: 16px;
 }
 
 .tocset {
-    background-color: hsl(293, 33%, 90%);
+  background-color: hsl(293, 33%, 95%);
+  border-radius: 8px;
 }
 
 a, .toclink, .toptoclink, .tocviewlink, .tocviewselflink, .tocviewtoggle, .plainlink,
 .techinside, .techoutside:hover, .techinside:hover {
-    color: hsl(296, 100%, 22%);
+  color: hsl(300, 28%, 7%);
+  transition: color 0.3s ease;
+}
+
+a:hover, .toclink:hover, .toptoclink:hover, .tocviewlink:hover, .plainlink:hover {
+  color: hsl(209, 87%, 45%);
 }
 
 .boxed {
-    background: linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(293, 33%, 90%) 100%);
+  background: linear-gradient(to bottom left, hsl(200, 70%, 90%) 0%, hsl(200, 50%, 80%) 100%);
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  padding: 15px;
 }
