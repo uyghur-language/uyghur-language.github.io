@@ -77,6 +77,12 @@ a, .toclink, .toptoclink, .tocviewlink, .tocviewselflink, .tocviewtoggle, .plain
     gap: 8px;
     margin: 1em 0;
     flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: white;
+    padding: 6px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.06);
 }
 
 #dict-search {
@@ -136,4 +142,61 @@ table.boxed tr.clickable-row {
 
 table.boxed tr.clickable-row:hover {
     background-color: hsl(293, 33%, 82%);
+}
+
+mark {
+    background-color: hsl(50, 100%, 70%);
+    color: inherit;
+    border-radius: 2px;
+    padding: 0 1px;
+}
+
+#search-count {
+    font-size: 14px;
+    color: hsl(296, 100%, 22%);
+    min-width: 70px;
+    text-align: right;
+}
+
+#search-mode-btn {
+    font-family: "UKIJ Basma Qara", serif;
+    font-size: 14px;
+    padding: 4px 10px;
+    background: hsl(293, 33%, 90%);
+    color: hsl(296, 100%, 22%);
+    border: 1px solid hsl(296, 100%, 22%);
+    border-radius: 4px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+#search-mode-btn:hover {
+    background: hsl(293, 33%, 82%);
+}
+
+#pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 10px 0;
+    font-size: 15px;
+}
+
+.page-btn {
+    padding: 4px 12px;
+    background: hsl(296, 100%, 22%);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.page-btn:hover:not(:disabled) {
+    background: hsl(296, 80%, 32%);
+}
+
+.page-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
 }

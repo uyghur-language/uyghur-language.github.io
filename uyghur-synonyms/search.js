@@ -1,3 +1,5 @@
+const PAGE_SIZE = 200;
+
 // Maps first one or two Uyghur characters to their letter-page filename.
 // Vowel letters all start with ئ (U+0626), so we check two chars first.
 const CHAR_TO_PAGE = {
@@ -55,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 });
 
-// --- Main page (index.html): navigate to the right letter page on Enter ---
+// --- Main page: navigate to the right letter page on Enter ---
 
 function setupMainPageSearch() {
     const alphabetTable = document.querySelector('table.boxed');
@@ -69,6 +71,7 @@ function setupMainPageSearch() {
     input.id = 'dict-search';
     input.setAttribute('dir', 'rtl');
     input.setAttribute('placeholder', ' ئىزدەش...');
+    input.setAttribute('aria-label', 'ئىزدەش');
 
     const btn = document.createElement('button');
     btn.id = 'search-btn';
@@ -123,7 +126,6 @@ function setupMainPageSearch() {
 
     btn.addEventListener('click', navigate);
 
-    // Make alphabet rows clickable
     Array.from(alphabetTable.querySelectorAll('tr')).slice(1).forEach(row => {
         const link = row.querySelector('a');
         if (!link) return;
@@ -131,29 +133,138 @@ function setupMainPageSearch() {
         row.addEventListener('click', () => { window.location.href = link.href; });
     });
 
+    // '/' focuses the search box from anywhere on the page
+    document.addEventListener('keydown', e => {
+        if (e.key === '/' && document.activeElement !== input) {
+            e.preventDefault();
+            input.focus();
+        }
+    });
+
     input.focus();
 }
 
-// --- Letter pages (A.html etc.): filter the word-synonym table as you type ---
+// --- Letter pages: filter, highlight, paginate ---
 
 function setupLetterPageSearch() {
     const wordTable = document.querySelector('table.boxed');
     if (!wordTable) return;
 
-    const wrapper = document.createElement('p');
+    // Build search UI
+    const wrapper = document.createElement('div');
     wrapper.id = 'search-container';
+
     const input = document.createElement('input');
     input.type = 'text';
     input.id = 'dict-search';
     input.setAttribute('dir', 'rtl');
     input.setAttribute('placeholder', ' ئىزدەش...');
+    input.setAttribute('aria-label', 'ئىزدەش');
+
+    // Toggle cycles: all → word-only → synonym-only → all
+    const modeBtn = document.createElement('button');
+    modeBtn.id = 'search-mode-btn';
+
+    const countEl = document.createElement('span');
+    countEl.id = 'search-count';
+    countEl.setAttribute('dir', 'rtl');
+
     wrapper.appendChild(input);
+    wrapper.appendChild(modeBtn);
+    wrapper.appendChild(countEl);
     wordTable.parentNode.insertBefore(wrapper, wordTable);
 
-    const allRows = Array.from(wordTable.querySelectorAll('tr'));
+    const paginationEl = document.createElement('div');
+    paginationEl.id = 'pagination';
+    wordTable.after(paginationEl);
+
+    // Snapshot original cell HTML once for highlight restore
+    const dataRows = Array.from(wordTable.querySelectorAll('tr')).slice(1);
+    dataRows.forEach(row => {
+        row.querySelectorAll('td').forEach(td => { td.dataset.orig = td.innerHTML; });
+    });
+
+    // Search mode state
+    const MODES = ['all', 'word', 'synonym'];
+    const LABELS = { all: 'ھەممە', word: 'سۆز', synonym: 'مەنىداش' };
+    let mode = 'all';
+    modeBtn.textContent = LABELS[mode];
+    modeBtn.addEventListener('click', () => {
+        mode = MODES[(MODES.indexOf(mode) + 1) % MODES.length];
+        modeBtn.textContent = LABELS[mode];
+        applyFilter(input.value.trim());
+    });
+
+    let filteredRows = dataRows.slice();
+    let highlightedRows = new Set();
+    let currentPage = 1;
+
+    function escapeRe(s) {
+        return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
 
     function applyFilter(q) {
-        allRows.forEach(r => (r.style.display = (!q || r.textContent.includes(q)) ? '' : 'none'));
+        // Restore only rows that were previously highlighted
+        highlightedRows.forEach(row => {
+            row.querySelectorAll('td').forEach(td => { td.innerHTML = td.dataset.orig; });
+        });
+        highlightedRows.clear();
+
+        filteredRows = dataRows.filter(row => {
+            if (!q) return true;
+            const tds = row.querySelectorAll('td');
+            if (mode === 'word')    return tds[1] && tds[1].textContent.includes(q);
+            if (mode === 'synonym') return tds[0] && tds[0].textContent.includes(q);
+            return row.textContent.includes(q);
+        });
+
+        if (q) {
+            const re = new RegExp(escapeRe(q), 'g');
+            filteredRows.forEach(row => {
+                row.querySelectorAll('td').forEach((td, i) => {
+                    if (mode === 'word'    && i !== 1) return;
+                    if (mode === 'synonym' && i !== 0) return;
+                    td.innerHTML = td.dataset.orig.replace(re, m => `<mark>${m}</mark>`);
+                });
+                highlightedRows.add(row);
+            });
+        }
+
+        countEl.textContent = q ? filteredRows.length + ' نەتىجە' : '';
+        currentPage = 1;
+        renderPage();
+        history.replaceState(null, '', q
+            ? window.location.pathname + '?q=' + encodeURIComponent(q)
+            : window.location.pathname);
+    }
+
+    function renderPage() {
+        const start = (currentPage - 1) * PAGE_SIZE;
+        const visible = new Set(filteredRows.slice(start, start + PAGE_SIZE));
+        dataRows.forEach(r => { r.style.display = visible.has(r) ? '' : 'none'; });
+        renderPagination();
+    }
+
+    function renderPagination() {
+        paginationEl.innerHTML = '';
+        const total = Math.ceil(filteredRows.length / PAGE_SIZE);
+        if (total <= 1) return;
+
+        function mkBtn(label, disabled, onClick) {
+            const b = document.createElement('button');
+            b.className = 'page-btn';
+            b.textContent = label;
+            b.disabled = disabled;
+            if (!disabled) b.addEventListener('click', () => { onClick(); window.scrollTo(0, 0); });
+            return b;
+        }
+
+        const info = document.createElement('span');
+        info.textContent = currentPage + ' / ' + total;
+
+        paginationEl.appendChild(mkBtn('◀', currentPage === 1,    () => { currentPage--; renderPage(); }));
+        paginationEl.appendChild(info);
+        paginationEl.appendChild(mkBtn('▶', currentPage === total, () => { currentPage++; renderPage(); }));
     }
 
     input.addEventListener('input', () => applyFilter(input.value.trim()));
@@ -161,11 +272,20 @@ function setupLetterPageSearch() {
         if (e.key === 'Escape') { input.value = ''; applyFilter(''); }
     });
 
+    // '/' focuses search from anywhere on the page
+    document.addEventListener('keydown', e => {
+        if (e.key === '/' && document.activeElement !== input) {
+            e.preventDefault();
+            input.focus();
+        }
+    });
+
     const preload = new URLSearchParams(window.location.search).get('q');
     if (preload) {
         input.value = preload;
         applyFilter(preload);
-        const first = wordTable.querySelector('tr:not([style*="none"])');
-        if (first) first.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        if (filteredRows[0]) filteredRows[0].scrollIntoView({ behavior: 'smooth', block: 'center' });
+    } else {
+        applyFilter('');
     }
 }
