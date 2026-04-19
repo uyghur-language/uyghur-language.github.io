@@ -69,3 +69,23 @@ a, .toclink, .toptoclink, .tocviewlink, .tocviewselflink, .tocviewtoggle, .plain
 .boxed {
     background: linear-gradient(to bottom left, hsl(0, 0%, 99%) 0%, hsl(293, 33%, 90%) 100%);
 }
+
+#search-container {
+    text-align: right;
+    margin: 1em 0;
+}
+
+#dict-search {
+    font-family: "UKIJ Basma Qara", serif;
+    font-size: 20px;
+    direction: rtl;
+    width: 300px;
+    padding: 6px 10px;
+    border: 1px solid hsl(296, 100%, 22%);
+    border-radius: 4px;
+    outline: none;
+}
+
+#dict-search:focus {
+    box-shadow: 0 0 0 2px hsl(296, 100%, 60%);
+}
