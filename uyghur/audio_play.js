@@ -1,7 +1,8 @@
 
-function playAudio(file){
+function playAudio(file) {
+    if (!file) return;
     const audio = document.getElementById('audioPlayer');
+    if (!audio) return;
     audio.src = file;
-    audio.load();
-    audio.play();
+    audio.play().catch(err => console.warn('Playback failed:', err));
 }

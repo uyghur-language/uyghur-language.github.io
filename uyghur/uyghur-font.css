@@ -3,7 +3,7 @@
 @font-face {
 	font-family: 'UKIJ Basma Qara';
 	src: local("UKIJ Basma Qara"),
-        url('../../fonts/UKIJBasma.ttf') format('truetype')
+        url('../fonts/UKIJBasma.ttf') format('truetype')
 }
 
 @font-face {
@@ -15,7 +15,7 @@
 @font-face {
 	font-family: 'UKIJ Tuz Gezit';
 	src: local("UKIJ Tuz Gezit"),
-        url('../../fonts/UKIJTuzG.ttf') format('truetype')
+        url('../fonts/UKIJTuzG.ttf') format('truetype')
 }
 
 
