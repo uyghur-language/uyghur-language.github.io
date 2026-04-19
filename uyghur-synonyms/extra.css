@@ -95,6 +95,8 @@ a, .toclink, .toptoclink, .tocviewlink, .tocviewselflink, .tocviewtoggle, .plain
     border: 1px solid hsl(296, 100%, 22%);
     border-radius: 4px;
     outline: none;
+    -webkit-appearance: none;
+    appearance: none;
 }
 
 #dict-search:focus {
@@ -151,6 +153,13 @@ mark {
     padding: 0 1px;
 }
 
+#no-results-row td {
+    text-align: center;
+    padding: 16px;
+    color: hsl(0, 0%, 45%);
+    font-style: italic;
+}
+
 #search-count {
     font-size: 14px;
     color: hsl(296, 100%, 22%);
@@ -199,4 +208,24 @@ mark {
 .page-btn:disabled {
     opacity: 0.35;
     cursor: default;
+}
+
+#letter-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0.5em 0 0;
+}
+
+.letter-nav-link {
+    font-family: "UKIJ Basma Qara", serif;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 4px 10px;
+    border-radius: 4px;
+    border: 1px solid hsl(296, 100%, 22%);
+}
+
+.letter-nav-link:hover {
+    background: hsl(293, 33%, 90%);
 }
