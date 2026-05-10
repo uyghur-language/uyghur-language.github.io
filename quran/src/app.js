@@ -10,6 +10,8 @@ const state = {
   bookmarks:     JSON.parse(localStorage.getItem('bookmarks') || '[]'),
   isPlaying:     false,
   autoPlay:      false,
+  filterActive:  false,
+  filterResults: [],
 };
 
 // ── DOM refs ──────────────────────────────────────────────────────────────────
@@ -65,12 +67,20 @@ function buildBismillah() {
   return el;
 }
 
-function buildVerseCard(verse) {
+function highlightText(text, query) {
+  if (!query) return escapeHtml(text);
+  const re = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+  return text.split(re).map((part, i) =>
+    i % 2 === 1 ? `<mark>${escapeHtml(part)}</mark>` : escapeHtml(part)
+  ).join('');
+}
+
+function buildVerseCard(verse, query = null) {
   const bm = isBookmarked(verse.surah, verse.ayah);
 
   const card = document.createElement('article');
   card.className = 'verse-card';
-  card.id = `ayah-${verse.ayah}`;
+  card.id = `v${verse.surah}-${verse.ayah}`;
   card.setAttribute('role', 'listitem');
   card.dataset.surah = verse.surah;
   card.dataset.ayah  = verse.ayah;
@@ -112,19 +122,22 @@ function buildVerseCard(verse) {
   ar.className = 'text-ar';
   ar.setAttribute('dir', 'rtl');
   ar.setAttribute('lang', 'ar');
-  ar.textContent = verse.text_ar;
+  if (query) { ar.innerHTML = highlightText(verse.text_ar, query); }
+  else        { ar.textContent = verse.text_ar; }
 
   const en = document.createElement('p');
   en.className = 'text-en';
   en.setAttribute('dir', 'ltr');
   en.setAttribute('lang', 'en');
-  en.textContent = verse.text_en;
+  if (query) { en.innerHTML = highlightText(verse.text_en, query); }
+  else        { en.textContent = verse.text_en; }
 
   const ug = document.createElement('p');
   ug.className = 'text-ug';
   ug.setAttribute('dir', 'rtl');
   ug.setAttribute('lang', 'ug');
-  ug.textContent = verse.text_ug;
+  if (query) { ug.innerHTML = highlightText(verse.text_ug, query); }
+  else        { ug.textContent = verse.text_ug; }
 
   body.appendChild(ar);
   body.appendChild(en);
@@ -159,6 +172,10 @@ function renderVerses(verses) {
 // ── loadSurah ─────────────────────────────────────────────────────────────────
 async function loadSurah(surahNumber) {
   stopAudio();
+  // Clear filter state (no re-render; this function will render after fetch)
+  state.filterActive  = false;
+  state.filterResults = [];
+  $filterBanner.hidden = true;
   showLoading();
   if (location.protocol === 'file:') {
     showError('Open the app via a server (run: bash script/serve) or deploy to GitHub Pages.');
@@ -178,6 +195,7 @@ async function loadSurah(surahNumber) {
     state.currentSurah = surahNumber;
     renderVerses(state.verses);
     $surahSelect.value = surahNumber;
+    setPermalink(surahNumber);
   } catch (e) {
     console.error('loadSurah render error:', e);
     showError(`Render error: ${e.message}`);
@@ -341,10 +359,51 @@ function populateSurahDropdown() {
   $surahSelect.value = state.currentSurah;
 }
 
-// ── scrollToAyah ──────────────────────────────────────────────────────────────
-function scrollToAyah(ayah) {
-  const el = document.getElementById(`ayah-${ayah}`);
+// ── scrollToVerse ─────────────────────────────────────────────────────────────
+function scrollToVerse(surah, ayah) {
+  const el = document.getElementById(`v${surah}-${ayah}`);
   if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+// ── Filter ────────────────────────────────────────────────────────────────────
+const $filterBanner = document.getElementById('filter-banner');
+const $filterCount  = document.getElementById('filter-count');
+
+function clearFilter() {
+  state.filterActive  = false;
+  state.filterResults = [];
+  $filterBanner.hidden = true;
+  // Restore surah view only when verses are available
+  if (state.verses.length) renderVerses(state.verses);
+}
+
+function applySearchFilter(verses, scrollSurah, scrollAyah) {
+  stopAudio();
+  state.filterActive  = true;
+  state.filterResults = verses;
+  // Render all matched verses in the main list
+  $verseList.innerHTML = '';
+  const frag = document.createDocumentFragment();
+  for (const v of verses) frag.appendChild(buildVerseCard(v, state.searchQuery));
+  $verseList.appendChild(frag);
+  showVerses();
+  // Show filter banner
+  $filterCount.textContent = `${verses.length} result${verses.length !== 1 ? 's' : ''} for "${state.searchQuery}"`;
+  $filterBanner.hidden = false;
+  // Scroll to the selected verse
+  requestAnimationFrame(() => scrollToVerse(scrollSurah, scrollAyah));
+}
+
+// ── Permalink ─────────────────────────────────────────────────────────────────
+function setPermalink(surah, ayah = null) {
+  const url = new URL(location.href);
+  url.searchParams.set('surah', surah);
+  if (ayah) {
+    url.searchParams.set('ayah', ayah);
+  } else {
+    url.searchParams.delete('ayah');
+  }
+  history.replaceState(null, '', url);
 }
 
 // ── Surah dropdown handler ────────────────────────────────────────────────────
@@ -368,11 +427,12 @@ async function handleJump() {
     return;
   }
 
-  if (s !== state.currentSurah) {
+  if (s !== state.currentSurah || state.filterActive) {
     await loadSurah(s);
   }
   state.currentAyah = a;
-  scrollToAyah(a);
+  scrollToVerse(s, a);
+  setPermalink(s, a);
 }
 
 $jumpBtn.addEventListener('click', handleJump);
@@ -479,13 +539,11 @@ function renderSearchResults(query) {
     item.appendChild(label);
     item.appendChild(snippet);
 
-    item.addEventListener('click', async () => {
-      closeSearch();
-      if (verse.surah !== state.currentSurah) {
-        await loadSurah(verse.surah);
-      }
+    item.addEventListener('click', () => {
       state.currentAyah = verse.ayah;
-      scrollToAyah(verse.ayah);
+      applySearchFilter(state.searchResults, verse.surah, verse.ayah);
+      setPermalink(verse.surah, verse.ayah);
+      dismissSearchPanel();
     });
 
     frag.appendChild(item);
@@ -496,17 +554,25 @@ function renderSearchResults(query) {
 
 // ── Open / close search panel ─────────────────────────────────────────────────
 function openSearch() {
-  $searchPanel.hidden   = false;
-  $backdrop.hidden      = false;
+  $searchPanel.hidden = false;
+  $backdrop.hidden    = false;
+}
+
+// Hides the panel and backdrop without touching search/filter state.
+// Used after selecting a result so the filtered main view becomes visible.
+function dismissSearchPanel() {
+  $searchPanel.hidden = true;
+  $backdrop.hidden    = true;
 }
 
 function closeSearch() {
-  $searchPanel.hidden   = true;
-  $backdrop.hidden      = true;
-  state.searchQuery     = '';
-  $searchInput.value    = '';
+  dismissSearchPanel();
+  state.searchQuery        = '';
+  state.searchResults      = [];
+  $searchInput.value       = '';
   $searchResults.innerHTML = '';
-  $searchEmpty.hidden   = true;
+  $searchEmpty.hidden      = true;
+  // Filter stays active — cleared only by the explicit "✕ Clear" button
 }
 
 // ── Debounce ──────────────────────────────────────────────────────────────────
@@ -523,6 +589,7 @@ const handleSearch = debounce(async () => {
   if (!query) {
     $searchResults.innerHTML = '';
     $searchEmpty.hidden = true;
+    if (state.filterActive) clearFilter();
     return;
   }
 
@@ -571,8 +638,8 @@ function toggleBookmark(verse) {
   saveBookmarks();
 
   // Update the button in the currently rendered verse list
-  const card  = document.getElementById(`ayah-${verse.ayah}`);
-  if (card && parseInt(card.dataset.surah, 10) === verse.surah) {
+  const card  = document.getElementById(`v${verse.surah}-${verse.ayah}`);
+  if (card) {
     const btn = card.querySelector('.bookmark-btn');
     const bm  = isBookmarked(verse.surah, verse.ayah);
     btn.classList.toggle('bookmarked', bm);
@@ -591,7 +658,8 @@ $verseList.addEventListener('click', e => {
   const card  = btn.closest('.verse-card');
   const surah = parseInt(card.dataset.surah, 10);
   const ayah  = parseInt(card.dataset.ayah, 10);
-  const verse = state.verses.find(v => v.surah === surah && v.ayah === ayah);
+  const pool  = state.filterActive ? state.filterResults : state.verses;
+  const verse = pool.find(v => v.surah === surah && v.ayah === ayah);
   if (verse) toggleBookmark(verse);
 });
 
@@ -639,11 +707,12 @@ function renderBookmarksList() {
 
     item.addEventListener('click', async () => {
       closeBookmarks();
-      if (verse.surah !== state.currentSurah) {
+      if (verse.surah !== state.currentSurah || state.filterActive) {
         await loadSurah(verse.surah);
       }
       state.currentAyah = verse.ayah;
-      scrollToAyah(verse.ayah);
+      scrollToVerse(verse.surah, verse.ayah);
+      setPermalink(verse.surah, verse.ayah);
     });
 
     frag.appendChild(item);
@@ -785,21 +854,36 @@ audio.addEventListener('ended', () => {
     return;
   }
 
-  const surah   = parseInt($playingCard.dataset.surah, 10);
-  const ayah    = parseInt($playingCard.dataset.ayah, 10);
-  const nextAyah = ayah + 1;
+  const surah = parseInt($playingCard.dataset.surah, 10);
+  const ayah  = parseInt($playingCard.dataset.ayah,  10);
 
   setCardPlaying($playingCard, false);
   $playingCard = null;
 
-  if (nextAyah > SURAH_VERSE_COUNTS[surah - 1]) {
-    state.isPlaying = false;
-    return;
+  let nextSurah, nextAyah;
+
+  if (state.filterActive && state.filterResults.length) {
+    // Advance to the next verse in the filtered set
+    const idx = state.filterResults.findIndex(v => v.surah === surah && v.ayah === ayah);
+    if (idx === -1 || idx + 1 >= state.filterResults.length) {
+      state.isPlaying = false;
+      return;
+    }
+    const next = state.filterResults[idx + 1];
+    nextSurah = next.surah;
+    nextAyah  = next.ayah;
+  } else {
+    nextSurah = surah;
+    nextAyah  = ayah + 1;
+    if (nextAyah > SURAH_VERSE_COUNTS[surah - 1]) {
+      state.isPlaying = false;
+      return;
+    }
   }
 
-  const nextCard = document.getElementById(`ayah-${nextAyah}`);
+  const nextCard = document.getElementById(`v${nextSurah}-${nextAyah}`);
   if (nextCard) {
-    scrollToAyah(nextAyah);
+    scrollToVerse(nextSurah, nextAyah);
     playCard(nextCard);
   } else {
     state.isPlaying = false;
@@ -820,8 +904,25 @@ $autoplayToggle.addEventListener('change', () => {
   state.autoPlay = $autoplayToggle.checked;
 });
 
+document.getElementById('clear-filter-btn').addEventListener('click', () => {
+  closeSearch();
+  clearFilter();
+});
+
 // ── Initialise ────────────────────────────────────────────────────────────────
 applyDark(localStorage.getItem('darkMode') === '1');
 applyFontSize(parseFloat(localStorage.getItem('arabicSize')) || FONT_DEFAULT);
 populateSurahDropdown();
-loadSurah(1);
+
+const _params    = new URLSearchParams(location.search);
+const _initSurah = Math.max(1, Math.min(114, parseInt(_params.get('surah'), 10) || 1));
+const _initAyah  = parseInt(_params.get('ayah'), 10) || null;
+
+loadSurah(_initSurah).then(() => {
+  if (_initAyah) requestAnimationFrame(() => scrollToVerse(_initSurah, _initAyah));
+});
+
+// ── Service Worker registration ───────────────────────────────────────────────
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('../sw.js').catch(() => {});
+}
