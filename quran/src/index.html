@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quran — Arabic · English · Uyghur</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ═══════════════════ HEADER ═══════════════════ -->
+  <header class="app-header">
+    <div class="header-brand">
+      <span class="brand-ar" lang="ar" dir="rtl">القرآن</span>
+      <span class="brand-en">Quran</span>
+    </div>
+
+    <div class="header-search-wrap">
+      <input
+        type="search"
+        id="search-input"
+        class="search-input"
+        placeholder="Search Arabic, English or Uyghur…"
+        autocomplete="off"
+        aria-label="Search Quran"
+      >
+    </div>
+
+    <div class="header-controls">
+      <button id="bookmarks-btn" class="icon-btn" aria-label="Bookmarks" title="Bookmarks">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/>
+        </svg>
+      </button>
+      <button id="dark-mode-btn" class="icon-btn" aria-label="Toggle dark mode" title="Dark mode">
+        <svg id="dark-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/>
+        </svg>
+        <svg id="light-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" hidden>
+          <circle cx="12" cy="12" r="5"/>
+          <line x1="12" y1="1" x2="12" y2="3"/>
+          <line x1="12" y1="21" x2="12" y2="23"/>
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+          <line x1="1" y1="12" x2="3" y2="12"/>
+          <line x1="21" y1="12" x2="23" y2="12"/>
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+        </svg>
+      </button>
+      <button id="font-decrease-btn" class="icon-btn font-btn" aria-label="Decrease Arabic font size" title="Smaller Arabic text">A−</button>
+      <button id="font-increase-btn" class="icon-btn font-btn" aria-label="Increase Arabic font size" title="Larger Arabic text">A+</button>
+    </div>
+  </header>
+
+  <!-- ═══════════════════ APP BODY ═══════════════════ -->
+  <div class="app-body">
+
+    <!-- ── Navigation Panel ── -->
+    <nav class="nav-panel" id="nav-panel" aria-label="Quran navigation">
+
+      <section class="nav-section">
+        <label for="surah-select" class="nav-label">Surah</label>
+        <select id="surah-select" class="surah-select" aria-label="Select surah">
+          <!-- Populated by app.js -->
+        </select>
+      </section>
+
+      <section class="nav-section">
+        <label class="nav-label">Jump to verse</label>
+        <div class="ayah-jump">
+          <input
+            type="number"
+            id="jump-surah"
+            class="jump-input"
+            min="1"
+            max="114"
+            placeholder="Surah"
+            aria-label="Surah number (1–114)"
+          >
+          <span class="jump-sep">:</span>
+          <input
+            type="number"
+            id="jump-ayah"
+            class="jump-input"
+            min="1"
+            placeholder="Ayah"
+            aria-label="Ayah number"
+          >
+          <button id="jump-btn" class="jump-btn">Go</button>
+        </div>
+      </section>
+
+      <section class="nav-section">
+        <label class="nav-label">Recitation</label>
+        <label class="toggle-label" for="autoplay-toggle">
+          <input type="checkbox" id="autoplay-toggle" class="toggle-input">
+          <span class="toggle-track" aria-hidden="true"></span>
+          Auto-play next verse
+        </label>
+      </section>
+
+    </nav>
+
+    <!-- ── Main Content ── -->
+    <main class="main-content" id="main-content" aria-live="polite">
+
+      <div id="loading-state" class="state-message loading-state" hidden>
+        <div class="spinner" aria-hidden="true"></div>
+        <p>Loading surah…</p>
+      </div>
+
+      <div id="error-state" class="state-message error-state" hidden>
+        <p id="error-message">Failed to load surah. Please check your connection.</p>
+        <button id="retry-btn" class="retry-btn">Retry</button>
+      </div>
+
+      <div id="verse-list" class="verse-list" role="list"></div>
+
+    </main>
+
+  </div><!-- /.app-body -->
+
+  <!-- ═══════════════════ SEARCH PANEL ═══════════════════ -->
+  <div id="search-panel" class="overlay-panel" hidden aria-label="Search results" role="dialog">
+    <div class="overlay-header">
+      <h2 class="overlay-title">Search Results</h2>
+      <button id="close-search-btn" class="icon-btn close-btn" aria-label="Close search results">✕</button>
+    </div>
+    <div id="search-results" class="search-results" role="list"></div>
+    <p id="search-empty" class="empty-msg" hidden>No results found.</p>
+  </div>
+
+  <!-- ═══════════════════ BOOKMARKS PANEL ═══════════════════ -->
+  <div id="bookmarks-panel" class="overlay-panel" hidden aria-label="Bookmarks" role="dialog">
+    <div class="overlay-header">
+      <h2 class="overlay-title">Bookmarks</h2>
+      <button id="close-bookmarks-btn" class="icon-btn close-btn" aria-label="Close bookmarks">✕</button>
+    </div>
+    <div id="bookmarks-list" class="bookmarks-list" role="list"></div>
+    <p id="bookmarks-empty" class="empty-msg" hidden>No bookmarks yet.</p>
+  </div>
+
+  <!-- ═══════════════════ OVERLAY BACKDROP ═══════════════════ -->
+  <div id="overlay-backdrop" class="overlay-backdrop" hidden aria-hidden="true"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

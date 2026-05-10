@@ -1,0 +1,372 @@
+[
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 1,
+    "text_ar": "حمٓ",
+    "text_en": "Ḥā, Meem.",
+    "text_ug": "ھا، مىم"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 2,
+    "text_ar": "تَنزِيلُ ٱلۡكِتَٰبِ مِنَ ٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَكِيمِ",
+    "text_en": "The revelation of the Book is from Allāh, the Exalted in Might, the Wise.",
+    "text_ug": "(بۇ) كىتاب غالىب، ھېكمەت بىلەن ئىش قىلغۇچى ئاللاھ تەرىپىدىن نازىل قىلىنغاندۇر"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 3,
+    "text_ar": "إِنَّ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ لَأٓيَٰتٖ لِّلۡمُؤۡمِنِينَ",
+    "text_en": "Indeed, within the heavens and earth are signs for the believers.",
+    "text_ug": "ئاسمانلاردا ۋە زېمىندا مۆمىنلەر ئۈچۈن (ئاللاھنىڭ قۇدرىتىنى كۆرسىتىدىغان) ھەقىقەتەن نۇرغۇن دەلىللەر بار"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 4,
+    "text_ar": "وَفِي خَلۡقِكُمۡ وَمَا يَبُثُّ مِن دَآبَّةٍ ءَايَٰتٞ لِّقَوۡمٖ يُوقِنُونَ",
+    "text_en": "And in the creation of yourselves and what He disperses of moving creatures are signs for people who are certain [in faith].",
+    "text_ug": "سىلەرنىڭ يارىتىلىشىڭلاردا ۋە (ئاللاھ زېمىندا) تارقىتىۋەتكەن جانىۋارلاردا (ئاللاھنىڭ قۇدرىتىگە) جەزمەن ئىشىنىدىغان قەۋم ئۈچۈن نۇرغۇن دەلىللەر بار"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 5,
+    "text_ar": "وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزۡقٖ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَا وَتَصۡرِيفِ ٱلرِّيَٰحِ ءَايَٰتٞ لِّقَوۡمٖ يَعۡقِلُونَ",
+    "text_en": "And [in] the alternation of night and day and [in] what Allāh sends down from the sky of provision [i.e., rain] and gives life thereby to the earth after its lifelessness and [in His] directing of the winds are signs for a people who reason.",
+    "text_ug": "كېچە بىلەن كۈندۈزنىڭ نۆۋەتلىشىپ تۇرۇشىدا، ئاللاھنىڭ بۇلۇتتىن (كۆكتىن) يامغۇر ياغدۇرۇپ ئۇنىڭ بىلەن ئۆلگەن زېمىننى تىرىلدۈرۈشىدە ۋە شاماللارنىڭ يۆنىلىشىنى ئۆزگەرتىپ تۇرۇشىدا، چۈشىنىدىغان قەۋم ئۈچۈن (ئاللاھنىڭ بىرلىكىنى كۆرسىتىدىغان) نۇرغۇن دەلىللەر بار"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 6,
+    "text_ar": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۖ فَبِأَيِّ حَدِيثِۭ بَعۡدَ ٱللَّهِ وَءَايَٰتِهِۦ يُؤۡمِنُونَ",
+    "text_en": "These are the verses of Allāh which We recite to you in truth. Then in what statement after Allāh and His verses will they believe?",
+    "text_ug": "ئەنە شۇلار ئاللاھنىڭ ئايەتلىرىدۇر. (ئى مۇھەممەد!) ئۇنى ساڭا ھەقلىق بىلەن تىلاۋەت قىلىپ بېرىمىز. ئۇلار (يەنى مەككە كۇففارلىرى) ئاللاھنى ۋە ئۇنىڭ ئايەتلىرىنى قويۇپ قايسى سۆزگە ئىشىنىدۇ؟"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 7,
+    "text_ar": "وَيۡلٞ لِّكُلِّ أَفَّاكٍ أَثِيمٖ",
+    "text_en": "Woe to every sinful liar",
+    "text_ug": "ھەر بىر گۇناھكار يالغانچىغا ۋاي!"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 8,
+    "text_ar": "يَسۡمَعُ ءَايَٰتِ ٱللَّهِ تُتۡلَىٰ عَلَيۡهِ ثُمَّ يُصِرُّ مُسۡتَكۡبِرٗا كَأَن لَّمۡ يَسۡمَعۡهَاۖ فَبَشِّرۡهُ بِعَذَابٍ أَلِيمٖ",
+    "text_en": "Who hears the verses of Allāh recited to him, then persists arrogantly as if he had not heard them. So give him tidings of a painful punishment.",
+    "text_ug": "ئۇ ئاللاھنىڭ ئايەتلىرىنىڭ ئۆزىگە ئوقۇپ بېرىلىۋاتقانلىقىنى ئاڭلاپ تۇرىدۇ، ئاندىن تەكەببۇرلۇق قىلغان ھالدا گويا ئۇنى ئاڭلىمىغاندەك (كۇفرىدا) چىڭ تۇرىدۇ (گۇمراھلىقتا تېخىمۇ ئەزۋەيلەيدۇ)، ئۇنىڭغا قاتتىق ئازاب بىلەن خۇشخەۋەر بەرگىن"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 9,
+    "text_ar": "وَإِذَا عَلِمَ مِنۡ ءَايَٰتِنَا شَيۡـًٔا ٱتَّخَذَهَا هُزُوًاۚ أُوْلَٰٓئِكَ لَهُمۡ عَذَابٞ مُّهِينٞ",
+    "text_en": "And when he knows anything of Our verses, he takes them in ridicule. Those will have a humiliating punishment.",
+    "text_ug": "ئۇ بىزنىڭ ئايەتلىرىمىزدىن بىرەر نەرسىنى بىلگەن چاغدا (يەنى ئۇنىڭغا قۇرئان ئايەتلىرى يەتكەن چاغدا)، ئۇنى مەسخىرە قىلىدىغان نەرسە قىلىۋالىدۇ، ئەنە شۇلار خار قىلغۇچى ئازابقا دۇچار بولىدۇ"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 10,
+    "text_ar": "مِّن وَرَآئِهِمۡ جَهَنَّمُۖ وَلَا يُغۡنِي عَنۡهُم مَّا كَسَبُواْ شَيۡـٔٗا وَلَا مَا ٱتَّخَذُواْ مِن دُونِ ٱللَّهِ أَوۡلِيَآءَۖ وَلَهُمۡ عَذَابٌ عَظِيمٌ",
+    "text_en": "Before them is Hell, and what they had earned will not avail them at all nor what they had taken besides Allāh as allies. And they will have a great punishment.",
+    "text_ug": "ئۇلارنى ئالدىدا جەھەننەم (كۈتۈپ تۇرىدۇ)، ئۇلارنىڭ ئېرىشكەن نەرسىلىرى (يەنى دۇنيادا تاپقان ماللىرى ۋە بالىلىرى) ۋە ئاللاھنى قويۇپ دوست تۇتقان نەرسىلىرى (يەنى بۇتلىرى) ئۇلارغا ھېچ نەرسىگە ئەسقاتمايدۇ، ئۇلار چوڭ ئازابقا دۇچار بولىدۇ"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 11,
+    "text_ar": "هَٰذَا هُدٗىۖ وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ رَبِّهِمۡ لَهُمۡ عَذَابٞ مِّن رِّجۡزٍ أَلِيمٌ",
+    "text_en": "This [Qur’ān] is guidance. And those who have disbelieved in the verses of their Lord will have a painful punishment of foul nature.",
+    "text_ug": "بۇ (قۇرئان ئۇنىڭغا ئىشەنگەن ۋە ئۇنىڭغا ئەگەشكەن كىشىگە كامىل) ھىدايەتتۇر، پەرۋەردىگارىنىڭ ئايەتلىرىنى ئىنكار قىلغانلار ئەڭ قاتتىق ئازابقا دۇچار بولىدۇ"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 12,
+    "text_ar": "۞ ٱللَّهُ ٱلَّذِي سَخَّرَ لَكُمُ ٱلۡبَحۡرَ لِتَجۡرِيَ ٱلۡفُلۡكُ فِيهِ بِأَمۡرِهِۦ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+    "text_en": "It is Allāh who subjected to you the sea so that ships may sail upon it by His command and that you may seek of His bounty; and perhaps you will be grateful.",
+    "text_ug": "اللاھنىڭ ئەمرى بىلەن دېڭىزدا كېمىلەرنىڭ يۈرۈشى ئۈچۈن، سىلەرنىڭ ئاللاھنىڭ پەزلىدىن تەلەپ قىلىشىڭلار ئۈچۈن (يەنى تىجارەت قىلىشىڭلار، بېلىق تۇتۇشۇڭلار، دېڭىز ئاستىدىن ئۈنچە ـ مەرۋايىتلارنى سۈزۈۋېلىشىڭلار ئۈچۈن) ۋە (ئاللاھقا) شۈكۈر قىلىشىڭلار ئۈچۈن، ئاللاھ سىلەرگە دېڭىزنى بويسۇندۇرۇپ بەردى"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 13,
+    "text_ar": "وَسَخَّرَ لَكُم مَّا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ جَمِيعٗا مِّنۡهُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ",
+    "text_en": "And He has subjected to you whatever is in the heavens and whatever is on the earth - all from Him. Indeed in that are signs for a people who give thought.",
+    "text_ug": "ئاللاھ ئاسمانلاردىكى ۋە زېمىندىكى نەرسىلەرنىڭ ھەممىسىنى (كامالى) پەزلىدىن سىلەرگە بويسۇندۇرۇپ بەردى، بۇنىڭدا ھەقىقەتەن (قۇدرىتى ئىلاھىييەنى) تەپەككۈر قىلىدىغان قەۋم ئۈچۈن (ئاللاھنىڭ قۇدرىتى ۋە بىرلىكىنى كۆرسىتىدىغان) (روشەن) دەلىللەر بار"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 14,
+    "text_ar": "قُل لِّلَّذِينَ ءَامَنُواْ يَغۡفِرُواْ لِلَّذِينَ لَا يَرۡجُونَ أَيَّامَ ٱللَّهِ لِيَجۡزِيَ قَوۡمَۢا بِمَا كَانُواْ يَكۡسِبُونَ",
+    "text_en": "Say, [O Muḥammad], to those who have believed that they [should] forgive those who expect not the days of Allāh [i.e., of His retribution] so that He may recompense a people for what they used to earn.",
+    "text_ug": "مۆمىنلەرگە ئېيتقىنكى، ئاللاھ ھەر قەۋمنىڭ قىلمىشلىرىغا يارىشا جازا بېرىدىغانلىقى ئۈچۈن، ئۇلار ئاللاھنىڭ كۈنلىرىنى ئۈمىد قىلمايدىغانلارنى (يەنى ئاللاھنىڭ ئازابىدىن قورقمايدىغان كۇففارلارنىڭ يەتكۈزگەن ئەزىيەتلىرىنى) كەچۈرسۇن"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 15,
+    "text_ar": "مَنۡ عَمِلَ صَٰلِحٗا فَلِنَفۡسِهِۦۖ وَمَنۡ أَسَآءَ فَعَلَيۡهَاۖ ثُمَّ إِلَىٰ رَبِّكُمۡ تُرۡجَعُونَ",
+    "text_en": "Whoever does a good deed - it is for himself; and whoever does evil - it is against it [i.e., the self or soul]. Then to your Lord you will be returned.",
+    "text_ug": "كىمكى (دۇنيادا) ياخشى ئىش قىلسا، ئۇ ئۆزىنىڭ پايدىسى ئۈچۈن قىلىدۇ، كىمكى يامان ئىش قىلسا، ئۇ ئۆزىنىڭ زىيىنى ئۈچۈن قىلىدۇ، ئاندىن كېيىن پەرۋەردىگارىڭلارنىڭ دەرگاھىغا قايتۇرۇلىسىلەر (ئاللاھ ياخشىلىققا مۇكاپات، يامانلىققا جازا بېرىدۇ)"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 16,
+    "text_ar": "وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ",
+    "text_en": "And We did certainly give the Children of Israel the Scripture and judgement and prophethood, and We provided them with good things and preferred them over the worlds.",
+    "text_ug": "شەك ـ شۈبھىسىزكى، بىز ئىسرائىل ئەۋلادىغا كىتابنى (يەنى تەۋراتنى)، ھېكمەتنى ۋە پەيغەمبەرلىكنى ئاتا قىلدۇق، ئۇلارغا پاك نەرسىلەرنى رىزىق قىلىپ بەردۇق، ئۇلارنى (زامانىدىكى) جاھان ئەھلىدىن ئۈستۈن قىلدۇق"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 17,
+    "text_ar": "وَءَاتَيۡنَٰهُم بَيِّنَٰتٖ مِّنَ ٱلۡأَمۡرِۖ فَمَا ٱخۡتَلَفُوٓاْ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا بَيۡنَهُمۡۚ إِنَّ رَبَّكَ يَقۡضِي بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
+    "text_en": "And We gave them clear proofs of the matter [of religion]. And they did not differ except after knowledge had come to them - out of jealous animosity between themselves. Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.",
+    "text_ug": "ئۇلارغا دىن ئىشىدا روشەن دەلىللەرنى بەردۇق، پەقەت ئۇلارغا ئىلىم (يەنى دىننىڭ راستلىقىغا قەتئى دەلىللەر) كەلگەندىن كېيىنلا، ئاندىن ئۇلار ئۆزئارا ھەسەت قىلىشىپ ئىختىلاپ قىلىشتى. پەرۋەردىگارىڭ ھەقىقەتەن قىيامەت كۈنى ئۇلار ئىختىلاپ قىلىشقان ئىشلار ئۈستىدە ھۆكۈم چىقىرىدۇ"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 18,
+    "text_ar": "ثُمَّ جَعَلۡنَٰكَ عَلَىٰ شَرِيعَةٖ مِّنَ ٱلۡأَمۡرِ فَٱتَّبِعۡهَا وَلَا تَتَّبِعۡ أَهۡوَآءَ ٱلَّذِينَ لَا يَعۡلَمُونَ",
+    "text_en": "Then We put you, [O Muḥammad], on an ordained way concerning the matter [of religion]; so follow it and do not follow the inclinations of those who do not know.",
+    "text_ug": "ئاندىن سېنى بىز (ئى مۇھەممەد!) دىن ئىشىدا (روشەن) بىر يولدا قىلدۇق، شۇ يولغا ئەگەشكىن، بىلمەيدىغانلارنىڭ نەپسى خاھىشلىرىغا ئەگەشمىگىن"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 19,
+    "text_ar": "إِنَّهُمۡ لَن يُغۡنُواْ عَنكَ مِنَ ٱللَّهِ شَيۡـٔٗاۚ وَإِنَّ ٱلظَّٰلِمِينَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۖ وَٱللَّهُ وَلِيُّ ٱلۡمُتَّقِينَ",
+    "text_en": "Indeed, they will never avail you against Allāh at all. And indeed, the wrongdoers are allies of one another; but Allāh is the protector of the righteous.",
+    "text_ug": "شۈبھىسىزكى، (ئۇلارنىڭ گۇمراھلىقىغا ماسلىشىدىغان بولساڭ) ئۇلار سەندىن ئاللاھنىڭ (ئازابى) دىن ھېچ نەرسىنى دەپئى قىلالمايدۇ، شۈبھىسىزكى، (دۇنيادا) زالىملارنىڭ بەزىسى بەزىسىگە دوستتۇر، ئاللاھ تەقۋادارلارنىڭ دوستىدۇر"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 20,
+    "text_ar": "هَٰذَا بَصَٰٓئِرُ لِلنَّاسِ وَهُدٗى وَرَحۡمَةٞ لِّقَوۡمٖ يُوقِنُونَ",
+    "text_en": "This [Qur’ān] is enlightenment for mankind and guidance and mercy for a people who are certain [in faith].",
+    "text_ug": "بۇ (قۇرئان) ئىنسانلار ئۈچۈن روشەن پاكىتلاردۇر، ھىدايەتتۇر، (ئۆلگەندىن كېيىن تىرىلىشكە) جەزمەن ئىشەنگەن قەۋم ئۈچۈن رەھمەتتۇر"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 21,
+    "text_ar": "أَمۡ حَسِبَ ٱلَّذِينَ ٱجۡتَرَحُواْ ٱلسَّيِّـَٔاتِ أَن نَّجۡعَلَهُمۡ كَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ سَوَآءٗ مَّحۡيَاهُمۡ وَمَمَاتُهُمۡۚ سَآءَ مَا يَحۡكُمُونَ",
+    "text_en": "Or do those who commit evils think We will make them like those who have believed and done righteous deeds - [make them] equal in their life and their death? Evil is that which they judge [i.e., assume].",
+    "text_ug": "يامان ئىشلارنى قىلغانلار (يەنى گۇناھكار كۇففارلار) ئۆزلىرىنى ئىمان ئېيتقان ۋە ياخشى ئەمەللەرنى قىلغانلاردەك قىلىشىمىزنى، ھاياتلىقتا، ماماتلىقتا ئۇلار بىلەن ئوخشاش قىلىشىمىزنى ئويلامدۇ؟ (يەنى ئۇلارنى ئوخشاش قىلىشىمىز مۇمكىن ئەمەس) ئۇلارنىڭ چىقارغان ھۆكمى نېمىدېگەن يامان!"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 22,
+    "text_ar": "وَخَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّ وَلِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
+    "text_en": "And Allāh created the heavens and earth in truth and so that every soul may be recompensed for what it has earned, and they will not be wronged.",
+    "text_ug": "ئاللاھ ئاسمانلارنى ۋە زېمىننى ھەقلىق بىلەن ياراتتى، ھەر ئىنساننىڭ قىلمىشىغا يارىشا جازا ياكى مۇكاپات بېرىلىدۇ، ئۇلارغا زۇلۇم قىلىنمايدۇ"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 23,
+    "text_ar": "أَفَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلۡمٖ وَخَتَمَ عَلَىٰ سَمۡعِهِۦ وَقَلۡبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةٗ فَمَن يَهۡدِيهِ مِنۢ بَعۡدِ ٱللَّهِۚ أَفَلَا تَذَكَّرُونَ",
+    "text_en": "Have you seen he who has taken as his god his [own] desire, and Allāh has sent him astray due to knowledge and has set a seal upon his hearing and his heart and put over his vision a veil? So who will guide him after Allāh? Then will you not be reminded?",
+    "text_ug": "(ئى مۇھەممەد!) ماڭا نەپسى خاھىشنى ئىلاھ قىلىۋالغان، ئاللاھ ئازدۇرغان، (ھەقنى) بىلىپ تۇرغان، ئاللاھ قۇلىقىنى ۋە قەلبىنى پېچەتلىۋەتكەن ۋە كۆزىنى پەردىلىگەن ئادەمنى ئېيتىپ بەرگىن، ئاللاھ ئازدۇرغاندىن كېيىن، ئۇنى كىم ھىدايەت قىلالايدۇ؟ سىلەر (بۇلاردىن) ۋەز ـ نەسىھەت ئالمامسىلەر؟(23)"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 24,
+    "text_ar": "وَقَالُواْ مَا هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا نَمُوتُ وَنَحۡيَا وَمَا يُهۡلِكُنَآ إِلَّا ٱلدَّهۡرُۚ وَمَا لَهُم بِذَٰلِكَ مِنۡ عِلۡمٍۖ إِنۡ هُمۡ إِلَّا يَظُنُّونَ",
+    "text_en": "And they say, \"There is not but our worldly life; we die and live, and nothing destroys us except time.\" And they have of that no knowledge; they are only assuming.",
+    "text_ug": "ئۇلار (يەنى قىيامەتنى ئىنكار قىلغۇچىلار): «ھايات دېگەن پەقەت دۇنيادىكى ھاياتىمىزدۇر، ئۆلىمىز ۋە تىرىلىمىز (يەنى تۇغۇلىمىز). پەقەت زاماننىڭ ئۆتۈشى بىلەن يوق بولىمىز» (دەيدۇ). ئۇلار بۇ خۇسۇستا ھېچقانداق مەلۇماتقا ئىگە ئەمەس، ئۇلار پەقەت گۇمان بىلەن سۆزلەيدۇ"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 25,
+    "text_ar": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ مَّا كَانَ حُجَّتَهُمۡ إِلَّآ أَن قَالُواْ ٱئۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ",
+    "text_en": "And when Our verses are recited to them as clear evidences, their argument is only that they say, \"Bring [back] our forefathers, if you should be truthful.\"",
+    "text_ug": "ئۇلارغا بىزنىڭ ئايەتلىرىمىز ئوچۇق ئوقۇپ بېرىلسە، ئۇلارنىڭ پاكىتى پەقەت «ئەگەر راستچىل بولساڭلار، ئاتا ـ بوۋىلىرىمىزنى كەلتۈرۈپ بېقىڭلار (يەنى تىرىلدۈرۈڭلار)» دېيىشتىن ئىبارەت بولدى"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 26,
+    "text_ar": "قُلِ ٱللَّهُ يُحۡيِيكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يَجۡمَعُكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+    "text_en": "Say, \"Allāh causes you to live, then causes you to die; then He will assemble you for the Day of Resurrection, about which there is no doubt, but most of the people do not know.\"",
+    "text_ug": "(ئى مۇھەممەد! ئۇلارغا) ئېيتقىنكى، «ئاللاھ سىلەرنى تىرىلدۈرەلەيدۇ، ئاندىن (ئەجىلىڭلار پۈتكەندە) ۋاپات قىلدۇرالايدۇ، ئاندىن شەك ـ شۈبھىسىز قىيامەت كۈنىدە سىلەرنى يىغىدۇ، لېكىن كىشىلەرنىڭ تولىسى (ئاللاھنىڭ قۇدرىتىنى) بىلمەي (قايتا تىرىلىشنى ئىنكار قىلدى)»"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 27,
+    "text_ar": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ يَوۡمَئِذٖ يَخۡسَرُ ٱلۡمُبۡطِلُونَ",
+    "text_en": "And to Allāh belongs the dominion of the heavens and the earth. And the Day the Hour appears - that Day the falsifiers will lose.",
+    "text_ug": "ئاسمانلار بىلەن زېمىننىڭ پادىشاھلىقى ئاللاھقا خاستۇر، قىيامەت قايىم بولغان كۈندە كاپىرلار زىيان تارتىدۇ"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 28,
+    "text_ar": "وَتَرَىٰ كُلَّ أُمَّةٖ جَاثِيَةٗۚ كُلُّ أُمَّةٖ تُدۡعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلۡيَوۡمَ تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
+    "text_en": "And you will see every nation kneeling [from fear]. Every nation will be called to its record [and told], \"Today you will be recompensed for what you used to do.",
+    "text_ug": "ھەر ئۈممەتنى (قورقۇنچنىڭ قاتتىقلىقىدىن) تىزلانغان ھالدا كۆرىسەن، ھەر ئۈممەت ئۆزىنىڭ نامە ـ ئەمالىغا چاقىرىلىدۇ، (ئۇلارغا) «بۈگۈن قىلمىشىڭلارغا يارىشا مۇكاپاتقا ئېرىشىسىلەر ياكى جازاغا ئۇچرايسىلەر» (دېيىلىدۇ)"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 29,
+    "text_ar": "هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيۡكُم بِٱلۡحَقِّۚ إِنَّا كُنَّا نَسۡتَنسِخُ مَا كُنتُمۡ تَعۡمَلُونَ",
+    "text_en": "This, Our record, speaks about you in truth. Indeed, We were having transcribed whatever you used to do.\"",
+    "text_ug": "بۇ بىزنىڭ كىتابىمىز (يەنى نامە ـ ئەمال) سىلەرگە ھەق بىلەن سۆزلەيدۇ، بىز قىلمىشىڭلارنى يازدۇرۇپ تۇرغان ئىدۇق (يەنى پەرىشتىلەرنى ئەمەللىرىڭلارنى يېزىپ تۇرۇشقا بۇيرۇيتتۇق)"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 30,
+    "text_ar": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُدۡخِلُهُمۡ رَبُّهُمۡ فِي رَحۡمَتِهِۦۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡمُبِينُ",
+    "text_en": "So as for those who believed and did righteous deeds, their Lord will admit them into His mercy. That is what is the clear attainment.",
+    "text_ug": "ئىمان ئېيتقان ۋە ياخشى ئىشلارنى قىلغانلارغا كەلسەك، پەرۋەردىگارى ئۇلارنى ئۆزىنىڭ رەھمىتى دائىرىسىگە كىرگۈزىدۇ، بۇ روشەن مۇرادقا يېتىشتۇر"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 31,
+    "text_ar": "وَأَمَّا ٱلَّذِينَ كَفَرُوٓاْ أَفَلَمۡ تَكُنۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَٱسۡتَكۡبَرۡتُمۡ وَكُنتُمۡ قَوۡمٗا مُّجۡرِمِينَ",
+    "text_en": "But as for those who disbelieved, [it will be said], \"Were not Our verses recited to you, but you were arrogant and became a criminal people?",
+    "text_ug": "كاپىرلارغا كەلسەك، (ئۇلارنى ئەيىبلەش يۈزىسىدىن) ئۇلارغا: «مېنىڭ ئايەتلىرىم سىلەرگە ئوقۇپ بېرىلمىدىمۇ؟ سىلەر چوڭچىلىق قىلىپ (ئۇنىڭغا ئىمان ئېيتىشتىن) باش تارتتىڭلار، سىلەر گۇناھقا چۆمگەن قەۋم ئىدىڭلار» (دېيىلىدۇ)"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 32,
+    "text_ar": "وَإِذَا قِيلَ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَٱلسَّاعَةُ لَا رَيۡبَ فِيهَا قُلۡتُم مَّا نَدۡرِي مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنّٗا وَمَا نَحۡنُ بِمُسۡتَيۡقِنِينَ",
+    "text_en": "And when it was said, 'Indeed, the promise of Allāh is truth and the Hour [is coming] - no doubt about it,' you said, 'We know not what is the Hour. We assume only assumption, and we are not convinced.'\"",
+    "text_ug": "(سىلەرگە) «ئاللاھنىڭ ۋەدىسى ھەقىقەتەن ھەقتۇر، قىيامەتتە (يەنى قىيامەتنىڭ بولۇشىدا) ھېچ شەك يوق» دېيىلسە، سىلەر (ھەددىدىن زىيادە سەركەشلىكىڭلاردىن): «قىيامەتنىڭ نېمە ئىكەنلىكىنى بىلمەيمىز، پەقەت ئۇنى بولۇشى مۇمكىن دەپ گۇمان قىلىمىز، (ئۇنىڭغا) بىز ھەقىقىي ئىشەنمەيمىز» دېدىڭلار"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 33,
+    "text_ar": "وَبَدَا لَهُمۡ سَيِّـَٔاتُ مَا عَمِلُواْ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+    "text_en": "And the evil consequences of what they did will appear to them, and they will be enveloped by what they used to ridicule.",
+    "text_ug": "(ئاخىرەتتە) ئۇلارنىڭ قىلغان يامان ئىشلىرى ئاشكارا بولىدۇ، ئۇلار (دۇنيادىكى چاغلىرىدا) مەسخىرە قىلغان ئازاب ئۇلارنى ئورىۋالىدۇ"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 34,
+    "text_ar": "وَقِيلَ ٱلۡيَوۡمَ نَنسَىٰكُمۡ كَمَا نَسِيتُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَا وَمَأۡوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ",
+    "text_en": "And it will be said, \"Today We will forget you as you forgot the meeting of this Day of yours, and your refuge is the Fire, and for you there are no helpers.",
+    "text_ug": "(ئۇلارغا) دېيىلىدۇ: «سىلەرنىڭ مۇشۇ كۈندىكى مۇلاقاتنى ئۇنتۇغانلىقىڭلارغا ئوخشاش، بۈگۈن سىلەرنى ئۇنتۇيمىز (يەنى سىلەرنى ئازابقا تاشلاپ قويۇپ ئۇنتۇپ قالغاندەك مۇئامىلە قىلىمىز)، سىلەرنىڭ جايىڭلار دوزاخ بولىدۇ، سىلەرگە (سىلەرنى ئازابتىن قۇتقۇزىدىغان) ھېچقانداق ياردەمچىمۇ بولمايدۇ"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 35,
+    "text_ar": "ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذۡتُمۡ ءَايَٰتِ ٱللَّهِ هُزُوٗا وَغَرَّتۡكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَاۚ فَٱلۡيَوۡمَ لَا يُخۡرَجُونَ مِنۡهَا وَلَا هُمۡ يُسۡتَعۡتَبُونَ",
+    "text_en": "That is because you took the verses of Allāh in ridicule, and worldly life deluded you.\" So that Day they will not be removed from it, nor will they be asked to appease [Allāh].",
+    "text_ug": "بۇ شۇنىڭ ئۈچۈنكى، سىلەر ئاللاھنىڭ ئايەتلىرىنى مەسخىرە قىلىدىغان نەرسە قىلىۋالدىڭلار ۋە سىلەرنى دۇنيا تىرىكچىلىكى ئالدىدى». بۈگۈن ئۇلار دوزاختىن چىقىرىلمايدۇ، ئۇلاردىن (تەۋبە قىلىش ۋە ئىبادەت قىلىش بىلەن) ئاللاھنى رازى قىلىشمۇ تەلەپ قىلىنمايدۇ"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 36,
+    "text_ar": "فَلِلَّهِ ٱلۡحَمۡدُ رَبِّ ٱلسَّمَٰوَٰتِ وَرَبِّ ٱلۡأَرۡضِ رَبِّ ٱلۡعَٰلَمِينَ",
+    "text_en": "Then, to Allāh belongs [all] praise - Lord of the heavens and Lord of the earth, Lord of the worlds.",
+    "text_ug": "جىمى ھەمدۇسانا ئاسمانلارنىڭ پەرۋەردىگارى، زېمىننىڭ پەرۋەردىگارى ۋە ئالەملەرنىڭ پەرۋەردىگارى ئاللاھقا خاستۇر!(36)"
+  },
+  {
+    "surah": 45,
+    "surah_name_en": "Al-Jathiyah",
+    "surah_name_ar": "الجاثية",
+    "surah_name_ug": "ئەلجاسىيە",
+    "ayah": 37,
+    "text_ar": "وَلَهُ ٱلۡكِبۡرِيَآءُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+    "text_en": "And to Him belongs [all] grandeur within the heavens and the earth, and He is the Exalted in Might, the Wise.",
+    "text_ug": "ئاسمانلاردىكى ۋە زېمىندىكى ئۇلۇغلۇق ئاللاھقا خاستۇر، ئاللاھ غالىبتۇر، ھېكمەت بىلەن ئىش قىلغۇچىدۇر"
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 1,
+    "text_ar": "ٱلرَّحۡمَٰنُ",
+    "text_en": "The Most Merciful",
+    "text_ug": "مېھرىبان ئاللاھ(1)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 2,
+    "text_ar": "عَلَّمَ ٱلۡقُرۡءَانَ",
+    "text_en": "Taught the Qur’ān,",
+    "text_ug": "قۇرئاننى تەلىم بەردى (ئۇنى ھىپزى قىلىشنى ۋە چۈشىنىشنى ئاسانلاشتۇرۇپ بەردى)(2)،"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 3,
+    "text_ar": "خَلَقَ ٱلۡإِنسَٰنَ",
+    "text_en": "Created man,",
+    "text_ug": "ئىنساننى ياراتتى"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 4,
+    "text_ar": "عَلَّمَهُ ٱلۡبَيَانَ",
+    "text_en": "[And] taught him eloquence.",
+    "text_ug": "ئۇنىڭغا (مەقسىتىنى ئۇقتۇرۇش ئۈچۈن) سۆزلەشنى ئۆگەتتى"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 5,
+    "text_ar": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ",
+    "text_en": "The sun and the moon [move] by precise calculation,",
+    "text_ug": "كۈن بىلەن ئاي (ئۆز بۇرجلىرىدا) مۇئەييەن ھېساب بويىچە سەير قىلىدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 6,
+    "text_ar": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
+    "text_en": "And the stars and trees prostrate.",
+    "text_ug": "ئوت ـ چۆپلەر، دەل ـ دەرەخلەر سەجدە قىلىدۇ (يەنى ئاللاھنىڭ ئىرادىسىگە بويسۇنىدۇ)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 7,
+    "text_ar": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ",
+    "text_en": "And the heaven He raised and imposed the balance",
+    "text_ug": "ئاللاھ ئاسماننى ئېگىز ياراتتى. ئۆلچەمدە زۇلۇم قىلماسلىقىڭلار ئۈچۈن، ئاللاھ تارازىنى بېكىتتى(7ـ8)،"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 8,
+    "text_ar": "أَلَّا تَطۡغَوۡاْ فِي ٱلۡمِيزَانِ",
+    "text_en": "That you not transgress within the balance.",
+    "text_ug": "ئاللاھ ئاسماننى ئېگىز ياراتتى. ئۆلچەمدە زۇلۇم قىلماسلىقىڭلار ئۈچۈن، ئاللاھ تارازىنى بېكىتتى(7ـ8)،"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 9,
+    "text_ar": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ",
+    "text_en": "And establish weight in justice and do not make deficient the balance.",
+    "text_ug": "ئۆلچەمدە ئادىل بولۇڭلار، تارازىدا كەم بەرمەڭلار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 10,
+    "text_ar": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ",
+    "text_en": "And the earth He laid [out] for the creatures.",
+    "text_ug": "زېمىننى كىشىلەرنىڭ (پايدىلىنىشى) ئۈچۈن (يايپاڭ) قىلدى"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 11,
+    "text_ar": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ",
+    "text_en": "Therein is fruit and palm trees having sheaths [of dates]",
+    "text_ug": "زېمىندا مېۋىلەر، بوغۇنلۇق خورمىلار بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 12,
+    "text_ar": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ",
+    "text_en": "And grain having husks and scented plants.",
+    "text_ug": "سامىنى بار دانلىق زىرائەتلەر، خۇش بۇي ئۆسۈملۈكلەر بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 13,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(13)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 14,
+    "text_ar": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
+    "text_en": "He created man from clay like [that of] pottery.",
+    "text_ug": "(ئاللاھ) ئىنساننى (يەنى ئاتاڭلار ئادەمنى) (چەكسە جاراڭلايدىغان) ساپالدەك قۇرۇق لايدىن ياراتتى"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 15,
+    "text_ar": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ",
+    "text_en": "And He created the jinn from a smokeless flame of fire.",
+    "text_ug": "جىنلارنى ئوتنىڭ يالقۇنىدىن ياراتتى"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 16,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(16)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 17,
+    "text_ar": "رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ",
+    "text_en": "[He is] Lord of the two sunrises and Lord of the two sunsets.",
+    "text_ug": "ئۇ ئىككى مەشرىق (يەنى كۈن بىلەن ئاينىڭ چىقىدىغان ئىككى جايى) نىڭ پەرۋەردىگارىدۇر، ئىككى مەغرىب (يەنى كۈن بىلەن ئاينىڭ پاتىدىغان ئىككى جايى) نىڭ پەرۋەردىگارىدۇر"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 18,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(18)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 19,
+    "text_ar": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+    "text_en": "He released the two seas, meeting [one another];",
+    "text_ug": "ئۇ ئىككى دېڭىزنى (بىرى تاتلىق، بىرى ئاچچىق) ئاققۇزدى، ئۇلار ئۇچرىشىدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 20,
+    "text_ar": "بَيۡنَهُمَا بَرۡزَخٞ لَّا يَبۡغِيَانِ",
+    "text_en": "Between them is a barrier so neither of them transgresses.",
+    "text_ug": "ئۇلارنىڭ ئارىسىدا توسما بولۇپ، بىر ـ بىرىگە قوشۇلۇپ كەتمەيدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 21,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(21)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 22,
+    "text_ar": "يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ",
+    "text_en": "From both of them emerge pearl and coral.",
+    "text_ug": "ئۇلاردىن مەرۋايىت بىلەن مارجان چىقىدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 23,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(23)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 24,
+    "text_ar": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ",
+    "text_en": "And to Him belong the ships [with sails] elevated in the sea like mountains.",
+    "text_ug": "دېڭىزلاردا قاتناۋاتقان تاغدەك كېمىلەر ئاللاھنىڭ ئىلكىدىدۇر"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 25,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(25)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 26,
+    "text_ar": "كُلُّ مَنۡ عَلَيۡهَا فَانٖ",
+    "text_en": "Everyone upon it [i.e., the earth] will perish,",
+    "text_ug": "زېمىننىڭ ئۈستىدىكى ھەممە يوقىلىدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 27,
+    "text_ar": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+    "text_en": "And there will remain the Face of your Lord, Owner of Majesty and Honor.",
+    "text_ug": "ئەزىمەتلىك ۋە كەرەملىك پەرۋەردىگارىڭنىڭ زاتى مەڭگۈ قالىدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 28,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(28)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 29,
+    "text_ar": "يَسۡـَٔلُهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ كُلَّ يَوۡمٍ هُوَ فِي شَأۡنٖ",
+    "text_en": "Whoever is within the heavens and earth asks Him; every day He is in [i.e., bringing about] a matter.",
+    "text_ug": "ئاسمانلاردىكى ۋە زېمىندىكى ھەممە ئاللاھتىن (مەدەت ۋە رىزىق) تىلەيدۇ (يەنى ھەممە ئاللاھقا موھتاجدۇر)، ئاللاھ ھەر كۈنى بىر ھالەتتىدۇر (يەنى ئاللاھ ھەر ۋاقىت ۋۇجۇدقا چىقىرىدىغان ئىشلار بىلەن بولۇپ، ئۇلارنى يارىتىپ تۇرىدۇ، ئەھۋاللارنى يېڭىلاپ تۇرىدۇ، مەخلۇقاتلارنى پەيدا قىلىپ تۇرىدۇ)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 30,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(30)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 31,
+    "text_ar": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
+    "text_en": "We will attend to you, O prominent beings.",
+    "text_ug": "ئى ئىنسانلار ۋە جىنلار جامائەسى! سىلەردىن (يەنى سىلەرنىڭ ئەمەللىرىڭلاردىن) ھېساب ئېلىشقا يۈزلىنىمىز"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 32,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(32)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 33,
+    "text_ar": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنٖ",
+    "text_en": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allāh].",
+    "text_ug": "ئى جىنلار ۋە ئىنسانلار جامائەسى! ئەگەر سىلەر ئاسمانلارنىڭ ۋە زېمىننىڭ چېگرىلىرىدىن ئۆتۈپ كېتەلىسەڭلار، ئۆتۈپ كېتىڭلار، سىلەر پەقەت قۇۋۋەت بىلەن ئۆتۈپ كېتەلەيسىلەر"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 34,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(34)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 35,
+    "text_ar": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ",
+    "text_en": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves.",
+    "text_ug": "(قىيامەت كۈنى) سىلەرگە قىزىق ئوتنىڭ يالقۇنى ۋە تۈتۈنى ئەۋەتىلىدۇ، سىلەر ئۆزۈڭلارنى قوغدىيالمايسىلەر"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 36,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(36)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 37,
+    "text_ar": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ",
+    "text_en": "And when the heaven is split open and becomes rose-colored like oil -",
+    "text_ug": "(قىيامەت كۈنى پەرىشتىلەرنىڭ چۈشۈشى ئۈچۈن) ئاسمان يېرىلغان چاغدا، ئاسمان (دوزاخنىڭ قىزىقلىقىدىن) قىزىل گۈلدەك، قىزىل چەمدەك بولۇپ قالىدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 38,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny? -",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(38)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 39,
+    "text_ar": "فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ",
+    "text_en": "Then on that Day none will be asked about his sin among men or jinn.",
+    "text_ug": "بۇ كۈندە ھېچبىر ئىنسان ۋە جىن ئۆزىنىڭ گۇناھىدىن سورالمايدۇ (يەنى گۇناھلىرىنىڭ ئالاھىدە ئالامىتى بولغانلىقتىن مۇنداق سوراشقا ھاجەت بولمايدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 40,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(40)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 41,
+    "text_ar": "يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمَٰهُمۡ فَيُؤۡخَذُ بِٱلنَّوَٰصِي وَٱلۡأَقۡدَامِ",
+    "text_en": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
+    "text_ug": "گۇناھكارلار ئۆزلىرىنىڭ (يۈزلىرى قارا، كۆزلىرى كۆك بولۇشتىن ئىبارەت) بەلگىلىرىدىن تونۇلىدۇ، ئۇلار كوكۇلىلىرىدىن ۋە پۇتلىرىدىن تۇتۇلۇپ (دوزاخقا تاشلىنىدۇ)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 42,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(42)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 43,
+    "text_ar": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ",
+    "text_en": "This is Hell, which the criminals deny.",
+    "text_ug": "بۇ، گۇناھكارلار ئىنكار قىلىدىغان جەھەننەمدۇر"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 44,
+    "text_ar": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ",
+    "text_en": "They will circulate between it and scalding water, heated [to the utmost degree].",
+    "text_ug": "ئۇلار دوزاخ بىلەن قايناقسۇ ئارىسىدا بېرىپ ـ كېلىپ تۇرىدۇ (يەنى گاھىدا ئوت بىلەن، گاھىدا قايناقسۇ بىلەن ئازابلىنىدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 45,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(45)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 46,
+    "text_ar": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+    "text_en": "But for he who has feared the position of his Lord are two gardens -",
+    "text_ug": "پەرۋەردىگارىڭنىڭ ئالدىدا تۇرۇپ (ھېساب بېرىشتىن) قورققان ئادەمگە ئىككى جەننەت بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 47,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny? -",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(47)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 48,
+    "text_ar": "ذَوَاتَآ أَفۡنَانٖ",
+    "text_en": "Having [spreading] branches.",
+    "text_ug": "ئۇ ئىككى جەننەتتە تۈرلۈك مېۋىلىك دەرەخلەر بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 49,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(49)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 50,
+    "text_ar": "فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ",
+    "text_en": "In both of them are two springs, flowing.",
+    "text_ug": "ئۇ ئىككى جەننەتتە ئېقىپ تۇرغان ئىككى بۇلاق بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 51,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(51)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 52,
+    "text_ar": "فِيهِمَا مِن كُلِّ فَٰكِهَةٖ زَوۡجَانِ",
+    "text_en": "In both of them are of every fruit, two kinds.",
+    "text_ug": "ئۇ ئىككى جەننەتتە ھەر مېۋىدىن ئىككى خىلدىن بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 53,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(53)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 54,
+    "text_ar": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٖ",
+    "text_en": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+    "text_ug": "ئۇلار ئەستەرلىرى قېلىن تاۋاردىن بولغان تۆشەكلەرگە يۆلىنىدۇ، ئىككى جەننەتنىڭ مېۋىسى (تۇرغان، ئولتۇرغان، ياتقان ئادەممۇ ئۈزەلەيدىغان دەرىجىدە) يېقىندۇر"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 55,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(55)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 56,
+    "text_ar": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرۡفِ لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+    "text_en": "In them are women limiting [their] glances, untouched before them by man or jinnī -",
+    "text_ug": "ئۇ جەننەتلەردە ئەرلىرىدىن باشقىلارغا قارىمايدىغان، ئەرلىرىدىن بۇرۇن ئۇلار بىلەن ھېچ ئىنسان ۋە جىن يېقىنچىلىق قىلمىغان خوتۇنلار بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 57,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny? -",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(57)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 58,
+    "text_ar": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
+    "text_en": "As if they were rubies and coral.",
+    "text_ug": "گويا ئۇلار (سۈزۈكلۈكتە) ياقۇتتۇر، (ئاقلىقتا) مەرۋايىتتۇر"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 59,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(59)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 60,
+    "text_ar": "هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ",
+    "text_en": "Is the reward for good [anything] but good?",
+    "text_ug": "ياخشى ئىش قىلغۇچى پەقەت ياخشى مۇكاپاتقا ئېرىشىدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 61,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(61)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 62,
+    "text_ar": "وَمِن دُونِهِمَا جَنَّتَانِ",
+    "text_en": "And below them both [in excellence] are two [other] gardens -",
+    "text_ug": "ئۇ ئىككى جەننەتتىن تۆۋەنرەك ئىككى جەننەت بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 63,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny? -",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(63)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 64,
+    "text_ar": "مُدۡهَآمَّتَانِ",
+    "text_en": "Dark green [in color].",
+    "text_ug": "ئۇ ئىككى جەننەت ياپيېشىلدۇر"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 65,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(65)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 66,
+    "text_ar": "فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ",
+    "text_en": "In both of them are two springs, spouting.",
+    "text_ug": "ئۇ ئىككى جەننەتتە قايناپ چىقىپ تۇرغان ئىككى بۇلاق بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 67,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(67)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 68,
+    "text_ar": "فِيهِمَا فَٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ",
+    "text_en": "In both of them are fruit and palm trees and pomegranates.",
+    "text_ug": "ئۇ ئىككى جەننەتتە مېۋىلەر، خورمىلار ۋە ئانارلار بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 69,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(69)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 70,
+    "text_ar": "فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ",
+    "text_en": "In them are good and beautiful women -",
+    "text_ug": "ئۇ جەننەتلەردە چىرايلىق خوتۇنلار بار"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 71,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny? -",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(71)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 72,
+    "text_ar": "حُورٞ مَّقۡصُورَٰتٞ فِي ٱلۡخِيَامِ",
+    "text_en": "Fair ones reserved in pavilions -",
+    "text_ug": "ئۇلار (جەننەتنىڭ) چېدىرلىرىدا مەستۇرە ھۆرلەردۇر"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 73,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny? -",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(73)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 74,
+    "text_ar": "لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+    "text_en": "Untouched before them by man or jinnī -",
+    "text_ug": "ئەرلىرىدىن ئىلگىرى ئۇلارغا ھېچ ئىنسان يېقىنچىلىق قىلمىغان"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 75,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny? -",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(75)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 76,
+    "text_ar": "مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٖ وَعَبۡقَرِيٍّ حِسَانٖ",
+    "text_en": "Reclining on green cushions and beautiful fine carpets.",
+    "text_ug": "ئۇلار يېشىل ياستۇقلارغا، چىرايلىق بىساتلارغا يۆلەنگەن ھالدا ئىستىراھەت قىلىدۇ"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 77,
+    "text_ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "text_en": "So which of the favors of your Lord would you deny?",
+    "text_ug": "(ئى ئىنسانلار! جىنلار!) سىلەر پەرۋەردىگارىڭلارنىڭ قايسى نېمەتلىرىنى ئىنكار قىلىسىلەر؟(77)"
+  },
+  {
+    "surah": 55,
+    "surah_name_en": "Ar-Rahman",
+    "surah_name_ar": "الرحمن",
+    "surah_name_ug": "ئەررەھمان",
+    "ayah": 78,
+    "text_ar": "تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+    "text_en": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
+    "text_ug": "ئەزىمەتلىك ۋە كەرەملىك پەرۋەردىگارىڭنىڭ نامى مۇبارەكتۇر"
+  }
+]

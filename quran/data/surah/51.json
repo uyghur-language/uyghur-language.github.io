@@ -1,0 +1,602 @@
+[
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 1,
+    "text_ar": "وَٱلذَّٰرِيَٰتِ ذَرۡوٗا",
+    "text_en": "By the [winds] scattering [dust], dispersing [it]",
+    "text_ug": "(تۇپراقنى) سورىغۇچى شاماللار بىلەن قەسەمكى(1)،"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 2,
+    "text_ar": "فَٱلۡحَٰمِلَٰتِ وِقۡرٗا",
+    "text_en": "And the [clouds] carrying a load [of water]",
+    "text_ug": "(يامغۇرلارنىڭ) ئېغىرلىقىنى كۆتۈرگۈچى بۇلۇتلار بىلەن قەسەمكى(2)،"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 3,
+    "text_ar": "فَٱلۡجَٰرِيَٰتِ يُسۡرٗا",
+    "text_en": "And the ships sailing with ease",
+    "text_ug": "(سۇ ئۈستىدە) يىنىك ماڭغۇچى كېمىلەر بىلەن قەسەمكى(3)،"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 4,
+    "text_ar": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا",
+    "text_en": "And the [angels] apportioning [each] matter,",
+    "text_ug": "ئىشنى (يەنى بەندىلەر ئارىسىدا رىزىقلارنى، يۇرتلار ئارىسىدا يامغۇرنى) تەقسىم قىلغۇچى پەرىشتىلەر بىلەن قەسەمكى(4)،"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 5,
+    "text_ar": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
+    "text_en": "Indeed, what you are promised is true.",
+    "text_ug": "سىلەرگە ۋەدە قىلىنغان (ساۋاب، ئازاب، قىيامەت قاتارلىق) لار ئەلۋەتتە راستتۇر"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 6,
+    "text_ar": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ",
+    "text_en": "And indeed, the recompense is to occur.",
+    "text_ug": "(ياخشى ئەمەللەرنى) مۇكاپاتلاش، (يامان ئەمەللەرنى) جازالاش چوقۇم بولىدىغان ئىشتۇر"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 7,
+    "text_ar": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ",
+    "text_en": "By the heaven containing pathways,",
+    "text_ug": "يوللىرى بار ئاسمان بىلەن قەسەمكى، (7)"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 8,
+    "text_ar": "إِنَّكُمۡ لَفِي قَوۡلٖ مُّخۡتَلِفٖ",
+    "text_en": "Indeed, you are in differing speech.",
+    "text_ug": "(پەيغەمبەر ھەققىدە) سىلەرنىڭ سۆزۈڭلار ھەقىقەتەن خىلمۇخىلدۇر(ـ8)."
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 9,
+    "text_ar": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ",
+    "text_en": "Deluded away from it [i.e., the Qur’ān] is he who is deluded.",
+    "text_ug": "(ئاللاھتائالانىڭ ئىلمىي ئەزەلىسىدە ھىدايەتتىن) بۇرۇۋېتىلگەن ئادەم (قۇرئانغا ۋە مۇھەممەد ئەلەيھىسسالامغا ئىمان كەلتۈرۈشتىن) بۇرۇۋېتىلىدۇ"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 10,
+    "text_ar": "قُتِلَ ٱلۡخَرَّٰصُونَ",
+    "text_en": "Destroyed are the misinformers",
+    "text_ug": "كاززاپلارغا لەنەت بولسۇنكى، (10)"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 11,
+    "text_ar": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ",
+    "text_en": "Who are within a flood [of confusion] and heedless.",
+    "text_ug": "ئۇلار جاھالەتكە چۆمگەن بولۇپ (ئاخىرەت ئىشىدىن) غەپلەتتىدۇر(ـ11)."
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 12,
+    "text_ar": "يَسۡـَٔلُونَ أَيَّانَ يَوۡمُ ٱلدِّينِ",
+    "text_en": "They ask, \"When is the Day of Recompense?\"",
+    "text_ug": "ئۇلار رەسۇلۇللاھتىن: «قىيامەت قاچان بولىدۇ؟» دەپ سورايدۇ"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 13,
+    "text_ar": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ",
+    "text_en": "[It is] the Day they will be tormented over the Fire",
+    "text_ug": "ئۇ بولسا ئۇ كۈندە دوزاختا ئازابلىنىدىغان كۈندۇر"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 14,
+    "text_ar": "ذُوقُواْ فِتۡنَتَكُمۡ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَسۡتَعۡجِلُونَ",
+    "text_en": "[And will be told], \"Taste your torment. This is that for which you were impatient.\"",
+    "text_ug": "(دوزاخقا مۇئەككەل پەرىشتىلەر ئۇلارغا) «سىلەرگە قىلىنغان ئازابنى تېتىڭلار، مانا بۇ سىلەر (دۇنيادىكى چېغىڭلاردا) ئالدىراتقان نەرسىدۇر» (دەيدۇ)"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 15,
+    "text_ar": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّٰتٖ وَعُيُونٍ",
+    "text_en": "Indeed, the righteous will be among gardens and springs,",
+    "text_ug": "شۈبھىسىزكى، تەقۋادارلار جەننەتلەردە ۋە (ئېقىپ تۇرغان) بۇلاقلارنىڭ ئارىسىدا بولىدۇ"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 16,
+    "text_ar": "ءَاخِذِينَ مَآ ءَاتَىٰهُمۡ رَبُّهُمۡۚ إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُحۡسِنِينَ",
+    "text_en": "Accepting what their Lord has given them. Indeed, they were before that doers of good.",
+    "text_ug": "ئۇلار پەرۋەردىگارى ئاتا قىلغان نەرسىلەرنى قوبۇل قىلىدۇ، ئۇلار بۇنىڭدىن ئىلگىرى (يەنى دۇنيادىكى چاغدا) ياخشى ئىش قىلغۇچىلار ئىدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 17,
+    "text_ar": "كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
+    "text_en": "They used to sleep but little of the night,",
+    "text_ug": "ئۇلار كېچىسى ئاز ئۇخلايتتى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 18,
+    "text_ar": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ",
+    "text_en": "And in the hours before dawn they would ask forgiveness,",
+    "text_ug": "ئۇلار سەھەرلەردە (پەرۋەردىگارىدىن) مەغپىرەت تىلەيتتى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 19,
+    "text_ar": "وَفِيٓ أَمۡوَٰلِهِمۡ حَقّٞ لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+    "text_en": "And from their properties was [given] the right of the [needy] petitioner and the deprived.",
+    "text_ug": "ئۇلارنىڭ پۇل ـ ماللىرىدا سائىللار ۋە (ئىپپەتلىكلىكىدىن سائىللىق قىلمايدىغان) موھتاجلار ھوقۇققا ئىگە ئىدى (يەنى ئۇلار سائىللارغا ۋە موھتاجلارغا سەدىقە قىلاتتى)"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 20,
+    "text_ar": "وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ",
+    "text_en": "And on the earth are signs for the certain [in faith]",
+    "text_ug": "زېمىندا ۋە ئۆزۈڭلاردا ئاللاھقا چىن ئېتىقاد قىلىدىغانلار ئۈچۈن (ئاللاھنىڭ قۇدرىتىنى ۋە بىرلىكىنى كۆرسىتىدىغان) نۇرغۇن ئالامەتلەر بار، (بۇنى) كۆرمەمسىلەر"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 21,
+    "text_ar": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ",
+    "text_en": "And in yourselves. Then will you not see?",
+    "text_ug": "زېمىندا ۋە ئۆزۈڭلاردا ئاللاھقا چىن ئېتىقاد قىلىدىغانلار ئۈچۈن (ئاللاھنىڭ قۇدرىتىنى ۋە بىرلىكىنى كۆرسىتىدىغان) نۇرغۇن ئالامەتلەر بار، (بۇنى) كۆرمەمسىلەر"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 22,
+    "text_ar": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ",
+    "text_en": "And in the heaven is your provision and whatever you are promised.",
+    "text_ug": "ئاسماندا سىلەرنىڭ رىزقىڭلار بار، سىلەرگە ۋەدە قىلىنغان ساۋاب بار"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 23,
+    "text_ar": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ",
+    "text_en": "Then by the Lord of the heaven and earth, indeed, it is truth - just as [sure as] it is that you are speaking.",
+    "text_ug": "ئاسماننىڭ ۋە زېمىننىڭ پەرۋەردىگارى بىلەن قەسەمكى، سىلەرگە ۋەدە قىلىنغان نەرسە ئۆزۈڭلارنىڭ سۆزلەۋاتقىنىڭلاردەك (يەنى سۆزلىگىنىڭلارنىڭ ئۆزەڭلارغا ئېنىق بولغىنىدەك) ھەقتۇر"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 24,
+    "text_ar": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ",
+    "text_en": "Has there reached you the story of the honored guests of Abraham? -",
+    "text_ug": "(ئى مۇھەممەد!) ساڭا ئىبراھىمنىڭ ھۆرمەتلىك مېھمانلىرىنىڭ خەۋىرى يەتتىمۇ؟(24)"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 25,
+    "text_ar": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞ قَوۡمٞ مُّنكَرُونَ",
+    "text_en": "When they entered upon him and said, \"[We greet you with] peace.\" He answered, \"[And upon you] peace; [you are] a people unknown.\"",
+    "text_ug": "ئۆز ۋاقتىدا ئۇلار ئىبراھىمنىڭ يېنىغا كىرىپ سالام دېدى، ئىبراھىم سالامنى ئىلىك ئالدى. (ئىچىدە) «ناتونۇش ئادەملەرغۇ» دېدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 26,
+    "text_ar": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
+    "text_en": "Then he went to his family and came with a fat [roasted] calf.",
+    "text_ug": "شۇنىڭ بىلەن ئۇ ئاستا ئائىلىسىگە چىقىپ (پىشۇرۇلغان) بىر سېمىز موزاينى ئېلىپ كىرىپ ئۇلارنىڭ ئالدىغا قويۇپ: «يېمەمسىلەر» دېدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 27,
+    "text_ar": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ",
+    "text_en": "And placed it near them; he said, \"Will you not eat?\"",
+    "text_ug": "شۇنىڭ بىلەن ئۇ ئاستا ئائىلىسىگە چىقىپ (پىشۇرۇلغان) بىر سېمىز موزاينى ئېلىپ كىرىپ ئۇلارنىڭ ئالدىغا قويۇپ: «يېمەمسىلەر» دېدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 28,
+    "text_ar": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٖ",
+    "text_en": "And he felt from them apprehension. They said, \"Fear not,\" and gave him good tidings of a learned boy.",
+    "text_ug": "(ئۇلارنىڭ تاماق يېمىگەنلىكىنى كۆرۈپ) دىلىدا ئۇلاردىن قورقتى، ئۇلار «قورقمىغىن (بىز پەرۋەردىگارىڭنىڭ ئەلچىلىرىمىز)» دېدى، ئۇلار ئىبراھىمغا بىلىملىك بىر ئوغۇل بىلەن خۇشخەۋەر بەردى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 29,
+    "text_ar": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
+    "text_en": "And his wife approached with a cry [of alarm] and struck her face and said, \"[I am] a barren old woman!\"",
+    "text_ug": "ئىبراھىمنىڭ ئايالى سۈرەن سېلىپ كېلىپ (ئەجەبلەنگەنلىكىدىن ئۆزىنىڭ) يۈزىنى كاچاتلاپ: «مەن تۇغماس موماي تۇرسام (قانداق تۇغىمەن؟)» دېدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 30,
+    "text_ar": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+    "text_en": "They said, \"Thus has said your Lord; indeed, He is the Wise, the Knowing.\"",
+    "text_ug": "ئۇلار: «پەرۋەردىگارىڭ شۇنداق دېدى. ئۇ ھەقىقەتەن ھېكمەت بىلەن ئىش قىلغۇچىدۇر، ھەممىنى بىلگۈچىدۇر» دېدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 31,
+    "text_ar": "۞ قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
+    "text_en": "[Abraham] said, \"Then what is your business [here], O messengers?\"",
+    "text_ug": "ئىبراھىم: «ئى ئەلچىلەر! سىلەر نېمە ئىش بىلەن ئەۋەتىلدىڭلار» دېدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 32,
+    "text_ar": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ",
+    "text_en": "They said, \"Indeed, we have been sent to a people of criminals",
+    "text_ug": "ئۇلار: «بىز ھەقىقەتەن بىر گۇناھكار قەۋمنى (ھالاك قىلىش ئۈچۈن) ئەۋەتىلدۇق (يەنى لۇت قەۋمىنىڭ ئۈستىگە لايدىن پىشۇرۇلغان تاش ياغدۇرۇش ئۈچۈن ئەۋەتىلدۇق)"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 33,
+    "text_ar": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ",
+    "text_en": "To send down upon them stones of clay,",
+    "text_ug": "ئۇلارنىڭ ئۈستىگە پەرۋەردىگارىڭنىڭ دەرگاھىدا (گۇناھى) ھەددىدىن ئاشقۇچىلار ئۈچۈن بەلگە قويۇلغان (يەنى ھالاك قىلىنغۇچىنىڭ ئىسمى يېزىلغان)، لايدىن پىشۇرۇلغان تاش ياغدۇرىمىز»"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 34,
+    "text_ar": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ",
+    "text_en": "Marked in the presence of your Lord for the transgressors.\"",
+    "text_ug": "ئۇلارنىڭ ئۈستىگە پەرۋەردىگارىڭنىڭ دەرگاھىدا (گۇناھى) ھەددىدىن ئاشقۇچىلار ئۈچۈن بەلگە قويۇلغان (يەنى ھالاك قىلىنغۇچىنىڭ ئىسمى يېزىلغان)، لايدىن پىشۇرۇلغان تاش ياغدۇرىمىز»"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 35,
+    "text_ar": "فَأَخۡرَجۡنَا مَن كَانَ فِيهَا مِنَ ٱلۡمُؤۡمِنِينَ",
+    "text_en": "So We brought out whoever was in them [i.e., the cities] of the believers.",
+    "text_ug": "(ھالاك بولمىسۇن دەپ لۇتنىڭ) شەھىرىدىكى مۆمىنلەرنى (سىرتقا) چىقىرىۋەتتۇق"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 36,
+    "text_ar": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ",
+    "text_en": "And We found not within them other than a [single] house of Muslims.",
+    "text_ug": "بىز ئۇ شەھەردىن مۇسۇلمانلاردىن پەقەت بىر ئائىلىنىلا تاپتۇق"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 37,
+    "text_ar": "وَتَرَكۡنَا فِيهَآ ءَايَةٗ لِّلَّذِينَ يَخَافُونَ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+    "text_en": "And We left therein a sign for those who fear the painful punishment.",
+    "text_ug": "ئۇ شەھەردە قاتتىق ئازابتىن قورقىدىغانلار ئۈچۈن نىشان قالدۇردۇق"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 38,
+    "text_ar": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ",
+    "text_en": "And in Moses [was a sign], when We sent him to Pharaoh with clear authority.",
+    "text_ug": "مۇسانىڭ (قىسسەسىدىمۇ) بىر تۈرلۈك ئالامەت بار، ئۆز ۋاقتىدا ئۇنى بىز پىرئەۋنگە روشەن دەلىل بىلەن ئەۋەتتۇق"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 39,
+    "text_ar": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ",
+    "text_en": "But he turned away with his supporters and said, \"A magician or a madman.\"",
+    "text_ug": "پىرئەۋن ئۆز قوشۇنى بىلەن (ئىماندىن) يۈز ئۆرىدى، ئۇ: «(مۇسا) سېھىرگەردۇر ياكى مەجنۇندۇر» دېدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 40,
+    "text_ar": "فَأَخَذۡنَٰهُ وَجُنُودَهُۥ فَنَبَذۡنَٰهُمۡ فِي ٱلۡيَمِّ وَهُوَ مُلِيمٞ",
+    "text_en": "So We took him and his soldiers and cast them into the sea, and he was blameworthy.",
+    "text_ug": "پىرئەۋننى ۋە ئۇنىڭ قوشۇنىنى جازالىدۇق، ئۇلارنى دېڭىزغا تاشلىدۇق، پىرئەۋن ئەيىبلەنگۈچىدۇر"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 41,
+    "text_ar": "وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ ٱلرِّيحَ ٱلۡعَقِيمَ",
+    "text_en": "And in ʿAad [was a sign], when We sent against them the barren wind.",
+    "text_ug": "ئادنىڭ (قىسسەسىدىمۇ) بىر تۈرلۈك ئالامەت بار، ئۆز ۋاقتىدا ئۇلارغا يامان بوراننى ئەۋەتتۇق"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 42,
+    "text_ar": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ",
+    "text_en": "It left nothing of what it came upon but that it made it like disintegrated ruins.",
+    "text_ug": "ئۇ (يەنى بوران) ھەر قانداق نەرسىنىڭ يېنىدىن ئۆتسە، ئۇنى چىرىگەن سۆڭەكتەك (تىتما ـ تالان) قىلىۋېتەتتى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 43,
+    "text_ar": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ",
+    "text_en": "And in Thamūd, when it was said to them, \"Enjoy yourselves for a time.\"",
+    "text_ug": "سەمۇدنىڭ (قىسسەسىدىمۇ) بىر تۈرلۈك ئالامەت بار، ئۆز ۋاقتىدا ئۇلارغا: «سىلەر ۋاقىتلىق پايدىلىنىڭلار» دېدۇق"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 44,
+    "text_ar": "فَعَتَوۡاْ عَنۡ أَمۡرِ رَبِّهِمۡ فَأَخَذَتۡهُمُ ٱلصَّٰعِقَةُ وَهُمۡ يَنظُرُونَ",
+    "text_en": "But they were insolent toward the command of their Lord, so the thunderbolt seized them while they were looking on.",
+    "text_ug": "ئۇلار پەرۋەردىگارىنىڭ ئەمرىگە قارشى چىقتى، ئۇلارنى چاقماق ھالاك قىلدى، ھالبۇكى، ئۇلار (ئازابنىڭ چۈشۈۋاتقانلىقىنى) كۆزلىرى بىلەن كۆرۈپ تۇراتتى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 45,
+    "text_ar": "فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ",
+    "text_en": "And they were unable to arise, nor could they defend themselves.",
+    "text_ug": "ئۇلار (ئازاب چۈشكەن ۋاقىتتا) ئورۇنلىرىدىن تۇرۇشقىمۇ، ئۆزلىرىنى قوغداشقىمۇ قادىر بولالمىدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 46,
+    "text_ar": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ قَوۡمٗا فَٰسِقِينَ",
+    "text_en": "And [We destroyed] the people of Noah before; indeed, they were a people defiantly disobedient.",
+    "text_ug": "ئىلگىرى نۇھنىڭ قەۋمىنى ھالاك قىلدۇق، ئۇلار ھەقىقەتەن پاسىق قەۋم ئىدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 47,
+    "text_ar": "وَٱلسَّمَآءَ بَنَيۡنَٰهَا بِأَيۡيْدٖ وَإِنَّا لَمُوسِعُونَ",
+    "text_en": "And the heaven We constructed with strength, and indeed, We are [its] expander.",
+    "text_ug": "ئاسماننى قۇدرەت بىلەن بەرپا قىلدۇق، بىز ھەقىقەتەن ئۇنى داۋاملىق كېڭەيتكۈچىلەرمىز"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 48,
+    "text_ar": "وَٱلۡأَرۡضَ فَرَشۡنَٰهَا فَنِعۡمَ ٱلۡمَٰهِدُونَ",
+    "text_en": "And the earth We have spread out, and excellent is the preparer.",
+    "text_ug": "زېمىننى يايدۇق، بىز نېمىدېگەن ياخشى يايغۇچىمىز(48)"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 49,
+    "text_ar": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ",
+    "text_en": "And of all things We created two mates [i.e., counterparts]; perhaps you will remember.",
+    "text_ug": "سىلەر ئىبرەت ئېلىشىڭلار ئۈچۈن ھەر بىر نەرسىنى جۈپ ياراتتۇق"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 50,
+    "text_ar": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+    "text_en": "So flee to Allāh. Indeed, I am to you from Him a clear warner.",
+    "text_ug": "(ئى مۇھەممەد!) ئېيتقىنكى، «ئاللاھ تەرەپكە قېچىڭلار (يەنى ئاللاھقا ئىلتىجا قىلىڭلار)، مەن ھەقىقەتەن سىلەرگە ئاللاھ تەرىپىدىن (كەلگەن) ئوچۇق ئاگاھلاندۇرغۇچىمەن"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 51,
+    "text_ar": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+    "text_en": "And do not make [as equal] with Allāh another deity. Indeed, I am to you from Him a clear warner.",
+    "text_ug": "سىلەر باشقا مەبۇدنى ئاللاھقا شېرىك قىلماڭلار، مەن ھەقىقەتەن ئۇنىڭ تەرىپىدىن (كەلگەن) ئوچۇق ئاگاھلاندۇرغۇچىمەن»"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 52,
+    "text_ar": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُواْ سَاحِرٌ أَوۡ مَجۡنُونٌ",
+    "text_en": "Similarly, there came not to those before them any messenger except that they said, \"A magician or a madman.\"",
+    "text_ug": "ئۇلاردىن ئىلگىرىكى ئۈممەتلەرمۇ شۇنداق ئىدى، ئۇلارغا ھەر پەيغەمبەر كەلسىلا ئۇلار (ئۇنى): «بىر سېھرىگەر ياكى بىر مەجنۇن» دېدى"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 53,
+    "text_ar": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
+    "text_en": "Did they suggest it to them? Rather, they [themselves] are a transgressing people.",
+    "text_ug": "ئۇلار (پەيغەمبەرلەرنى ئىنكار قىلىشنى) بىر ـ بىرىگە تەۋسىيە قىلىشقانمۇ؟ ھەرگىز ئۇنداق ئەمەس (يەنى ئۇلار بىر ـ بىرىگە ئۇنداق تەۋسىيە قىلىشقان ئەمەس) ئۇلار ھەددىدىن ئاشقۇچى قەۋمدۇر(53)"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 54,
+    "text_ar": "فَتَوَلَّ عَنۡهُمۡ فَمَآ أَنتَ بِمَلُومٖ",
+    "text_en": "So leave them, [O Muḥammad], for you are not to be blamed.",
+    "text_ug": "ئۇلاردىن يۈز ئۆرۈگىن، سەن مالامەت قىلىنغۇچى ئەمەسسەن"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 55,
+    "text_ar": "وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِينَ",
+    "text_en": "And remind, for indeed, the reminder benefits the believers.",
+    "text_ug": "ـ نەسىھەت قىلغىن، ۋەز ـ نەسىھەت مۆمىنلەرگە پايدىلىق"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 56,
+    "text_ar": "وَمَا خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِيَعۡبُدُونِ",
+    "text_en": "And I did not create the jinn and mankind except to worship Me.",
+    "text_ug": "جىنلارنى، ئىنسانلارنى پەقەت ماڭا ئىبادەت قىلىش ئۈچۈنلا ياراتتىم"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 57,
+    "text_ar": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ",
+    "text_en": "I do not want from them any provision, nor do I want them to feed Me.",
+    "text_ug": "ئۇلاردىن مەن رىزىق تىلىمەيمەن ۋە ئۇلارنىڭ مېنى ئوزۇقلاندۇرۇشىنى تىلىمەيمەن"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 58,
+    "text_ar": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ",
+    "text_en": "Indeed, it is Allāh who is the [continual] Provider, the firm possessor of strength.",
+    "text_ug": "ئاللاھ ھەقىقەتەن ھەممىگە رىزىق بەرگۈچىدۇر، قۇدرەتلىكتۇر، (ئاللاھنىڭ) قۇۋۋىتى ئارتۇقتۇر"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 59,
+    "text_ar": "فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوبٗا مِّثۡلَ ذَنُوبِ أَصۡحَٰبِهِمۡ فَلَا يَسۡتَعۡجِلُونِ",
+    "text_en": "And indeed, for those who have wronged is a portion [of punishment] like the portion of their companions [i.e., predecessors], so let them not impatiently urge Me.",
+    "text_ug": "(ئۆزلىرىگە) زۇلۇم قىلغانلاردىن (ئازابتىن) ئۆتكەنكى (ھالاك بولغان) دوستلىرىنىڭ نېسىۋىسىدەك نېسىۋىسى بولىدۇ، بۇلار (ئازابىمغا) ئالدىراتمىسۇن"
+  },
+  {
+    "surah": 51,
+    "surah_name_en": "Adh-Dhariyat",
+    "surah_name_ar": "الذاريات",
+    "surah_name_ug": "ئەززارىيات",
+    "ayah": 60,
+    "text_ar": "فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ",
+    "text_en": "And woe to those who have disbelieved from their Day which they are promised.",
+    "text_ug": "كاپىرلارغا ۋەدە قىلىنغان كۈندىن كاپىرلارغا ۋاي!"
+  }
+]

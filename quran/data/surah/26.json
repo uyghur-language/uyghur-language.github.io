@@ -1,0 +1,2272 @@
+[
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 1,
+    "text_ar": "طسٓمٓ",
+    "text_en": "Ṭā, Seen, Meem.",
+    "text_ug": "تا، سىم، مىم"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 2,
+    "text_ar": "تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+    "text_en": "These are the verses of the clear Book.",
+    "text_ug": "بۇ، روشەن كىتاب (يەنى قۇرئان) ئايەتلىرىدۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 3,
+    "text_ar": "لَعَلَّكَ بَٰخِعٞ نَّفۡسَكَ أَلَّا يَكُونُواْ مُؤۡمِنِينَ",
+    "text_en": "Perhaps, [O Muḥammad], you would kill yourself with grief that they will not be believers.",
+    "text_ug": "(ئى مۇھەممەد!) ئۇلارنىڭ ئىمان ئېيتمىغانلىقىدىن ئۆزۈڭنى ھالاك قىلىۋېتىشىڭ مۇمكىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 4,
+    "text_ar": "إِن نَّشَأۡ نُنَزِّلۡ عَلَيۡهِم مِّنَ ٱلسَّمَآءِ ءَايَةٗ فَظَلَّتۡ أَعۡنَٰقُهُمۡ لَهَا خَٰضِعِينَ",
+    "text_en": "If We willed, We could send down to them from the sky a sign for which their necks would remain humbled.",
+    "text_ug": "ئەگەر بىز ئۇلارنىڭ (ئىمان ئېيتىشىنى) خالايدىغان بولساق، ئۇلارغا ئاسماندىن (ئۇلارنى ئىمانغا مەجبۇرلايدىغان) بىر ئايەتنى (ئالامەتنى) نازىل قىلاتتۇق - تە، ئۇنىڭغا ئۇلار باش ئەگكەن بولاتتى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 5,
+    "text_ar": "وَمَا يَأۡتِيهِم مِّن ذِكۡرٖ مِّنَ ٱلرَّحۡمَٰنِ مُحۡدَثٍ إِلَّا كَانُواْ عَنۡهُ مُعۡرِضِينَ",
+    "text_en": "And no mention [i.e., revelation] comes to them anew from the Most Merciful except that they turn away from it.",
+    "text_ug": "ئۇلارغا مەرھەمەتلىك ئاللاھ تەرىپىدىن قۇرئاندىن يېڭىدىن بىرنەرسە نازىل بولسىلا، ئۇلار ئۇنىڭدىن يۈز ئۆرۈيدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 6,
+    "text_ar": "فَقَدۡ كَذَّبُواْ فَسَيَأۡتِيهِمۡ أَنۢبَٰٓؤُاْ مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+    "text_en": "For they have already denied, but there will come to them the news of that which they used to ridicule.",
+    "text_ug": "ئۇلار راستلا (قۇرئاننى) ئىنكار قىلدى، مەسخىرە قىلغان نەرسىنىڭ خەۋەرلىرى (يەنى ئاقىۋىتى) ئۇلارغا كېلىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 7,
+    "text_ar": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلۡأَرۡضِ كَمۡ أَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجٖ كَرِيمٍ",
+    "text_en": "Did they not look at the earth - how much We have produced therein from every noble kind?",
+    "text_ug": "ئۇلار زېمىننى (يەنى زېمىننىڭ ئاجايىباتلىرىنى) كۈزەتمىدىمۇ؟ زېمىندا تۈرلۈك پايدىلىق ئۆسۈملۈكلەرنى ئۆستۈردۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 8,
+    "text_ar": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+    "text_en": "Indeed in that is a sign, but most of them were not to be believers.",
+    "text_ug": "بۇنىڭدا ئەلۋەتتە (ئاللاھنىڭ قۇدرىتىنى كۆرسىتىدىغان) ئالامەت بار، ئۇلارنىڭ تولىسى ئىمان ئېيتقۇچى بولمىدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 9,
+    "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+    "text_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+    "text_ug": "سېنىڭ پەرۋەردىگارىڭ ھەقىقەتەن غالىبتۇر، ناھايىتى مېھرىباندۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 10,
+    "text_ar": "وَإِذۡ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئۡتِ ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+    "text_en": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people -",
+    "text_ug": "ئۆز ۋاقتىدا پەرۋەردىگارىڭ مۇساغا نىدا قىلدى: «سەن زالىم قەۋمگە بارغىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 11,
+    "text_ar": "قَوۡمَ فِرۡعَوۡنَۚ أَلَا يَتَّقُونَ",
+    "text_en": "The people of Pharaoh. Will they not fear Allāh?\"",
+    "text_ug": "(ئۇلار) پىرئەۋننىڭ قەۋمىدۇر، ئۇلار (ئاللاھنىڭ جازالىشىدىن) قورقمامدۇ؟»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 12,
+    "text_ar": "قَالَ رَبِّ إِنِّيٓ أَخَافُ أَن يُكَذِّبُونِ",
+    "text_en": "He said, \"My Lord, indeed I fear that they will deny me",
+    "text_ug": "مۇسا ئېيتتى: «پەرۋەردىگارىم! مەن ھەقىقەتەن ئۇلارنىڭ مېنى ئىنكار قىلىشىدىن قورقىمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 13,
+    "text_ar": "وَيَضِيقُ صَدۡرِي وَلَا يَنطَلِقُ لِسَانِي فَأَرۡسِلۡ إِلَىٰ هَٰرُونَ",
+    "text_en": "And that my breast will tighten and my tongue will not be fluent, so send for Aaron.",
+    "text_ug": "(ئۇلارنىڭ مېنى ئىنكار قىلىشىدىن) يۈرىكىم سىقىلىدۇ، تىلىم كېكەچ، شۇڭا (ماڭا ياردەمدە بولۇش ئۈچۈن) ھارۇننى (پەيغەمبەر) قىلىپ ئەۋەتكىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 14,
+    "text_ar": "وَلَهُمۡ عَلَيَّ ذَنۢبٞ فَأَخَافُ أَن يَقۡتُلُونِ",
+    "text_en": "And they have upon me a [claim due to] sin, so I fear that they will kill me.\"",
+    "text_ug": "(ئۇلارنىڭ دەۋاسىچە) ئۇلارنىڭ ئالدىدا مېنىڭ گۇناھىم بار، ئۇلارنىڭ مېنى ئۆلتۈرۈشىدىن قورقىمەن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 15,
+    "text_ar": "قَالَ كَلَّاۖ فَٱذۡهَبَا بِـَٔايَٰتِنَآۖ إِنَّا مَعَكُم مُّسۡتَمِعُونَ",
+    "text_en": "[Allāh] said, \"No. Go both of you with Our signs; indeed, We are with you, listening.",
+    "text_ug": "ئاللاھ ئېيتتى: «ھەرگىز ئۇنداق ئەمەس (يەنى سېنى ئۇلار ھەرگىز ئۆلتۈرەلمەيدۇ)، سىلەر مېنىڭ مۆجىزىلىرىمنى ئېلىپ بېرىڭلار، بىز ھەقىقەتەن سىلەر بىلەن بىللە (مۇنازىرەڭلارنى) ئاڭلاپ تۇرىمىز"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 16,
+    "text_ar": "فَأۡتِيَا فِرۡعَوۡنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلۡعَٰلَمِينَ",
+    "text_en": "Go to Pharaoh and say, 'We are the messengers of the Lord of the worlds,",
+    "text_ug": "سىلەر پىرئەۋنگە بېرىپ: بىز ھەقىقەتەن ئالەملەرنىڭ پەرۋەردىگارىنىڭ ئەلچىسىمىز"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 17,
+    "text_ar": "أَنۡ أَرۡسِلۡ مَعَنَا بَنِيٓ إِسۡرَٰٓءِيلَ",
+    "text_en": "[Commanded to say], \"Send with us the Children of Israel.\"'\"",
+    "text_ug": "ئىسرائىل ئەۋلادىنى (قۇللۇقۇڭدىن) بوشاتقىن، ئۇلار بىز بىلەن (شامغا) كەتسۇن دەڭلار»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 18,
+    "text_ar": "قَالَ أَلَمۡ نُرَبِّكَ فِينَا وَلِيدٗا وَلَبِثۡتَ فِينَا مِنۡ عُمُرِكَ سِنِينَ",
+    "text_en": "[Pharaoh] said, \"Did we not raise you among us as a child, and you remained among us for years of your life?",
+    "text_ug": "(ئۇلار پىرئەۋنگە كېلىپ ئەلچىلىكنى يەتكۈزدى)، پىرئەۋن (مۇساغا) ئېيتتى: «سېنى بىز ئۆيىمىزدە كىچىكىڭدىن تەربىيەلەپ چوڭ قىلمىدۇقمۇ؟ ئارىمىزدا كۆپ يىللار تۇرمىدىڭمۇ؟"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 19,
+    "text_ar": "وَفَعَلۡتَ فَعۡلَتَكَ ٱلَّتِي فَعَلۡتَ وَأَنتَ مِنَ ٱلۡكَٰفِرِينَ",
+    "text_en": "And [then] you did your deed which you did, and you were of the ungrateful.\"",
+    "text_ug": "سەن ھېلىقى قىلغان ئىشىڭنى قىلمىدىڭمۇ؟ (يەنى قىبتىنى ئۆلتۈرمىدىڭمۇ؟) سەن تۇزكورلاردىنسەن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 20,
+    "text_ar": "قَالَ فَعَلۡتُهَآ إِذٗا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ",
+    "text_en": "[Moses] said, \"I did it, then, while I was of those astray [i.e., ignorant].",
+    "text_ug": "مۇسا ئېيتتى: «مەن ئۇ ئىشنى قىلغان چېغىمدا نادانلاردىن ئىدىم"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 21,
+    "text_ar": "فَفَرَرۡتُ مِنكُمۡ لَمَّا خِفۡتُكُمۡ فَوَهَبَ لِي رَبِّي حُكۡمٗا وَجَعَلَنِي مِنَ ٱلۡمُرۡسَلِينَ",
+    "text_en": "So I fled from you when I feared you. Then my Lord granted me judgement [i.e., wisdom and prophethood] and appointed me [as one] of the messengers.",
+    "text_ug": "سىلەردىن قورقۇپ، سىلەردىن قاچتىم، پەرۋەردىگارىم ماڭا ھېكمەت ئاتا قىلدى، مېنى پەيغەمبەر قىلدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 22,
+    "text_ar": "وَتِلۡكَ نِعۡمَةٞ تَمُنُّهَا عَلَيَّ أَنۡ عَبَّدتَّ بَنِيٓ إِسۡرَٰٓءِيلَ",
+    "text_en": "And is this a favor of which you remind me - that you have enslaved the Children of Israel?\"",
+    "text_ug": "سەن ئىسرائىل ئەۋلادىنى قۇل قىلدىڭ، سېنىڭ ماڭا مىننەت قىلغان نېمىتىڭ ئەنە شۇدۇر»(22)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 23,
+    "text_ar": "قَالَ فِرۡعَوۡنُ وَمَا رَبُّ ٱلۡعَٰلَمِينَ",
+    "text_en": "Said Pharaoh, \"And what is the Lord of the worlds?\"",
+    "text_ug": "پىرئەۋن ئېيتتى: «ئالەملەرنىڭ پەرۋەردىگارى دېگەن نېمە؟»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 24,
+    "text_ar": "قَالَ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم مُّوقِنِينَ",
+    "text_en": "[Moses] said, \"The Lord of the heavens and earth and that between them, if you should be convinced.\"",
+    "text_ug": "مۇسا ئېيتتى: «ئۇ ئاسمانلارنىڭ، زېمىننىڭ ۋە ئۇلارنىڭ ئارىسىدىكى پۈتۈن مەخلۇقاتلارنىڭ پەرۋەردىگارىدۇر. ئەگەر سىلەر ھەقىقىي ئىشىنىدىغان بولساڭلار»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 25,
+    "text_ar": "قَالَ لِمَنۡ حَوۡلَهُۥٓ أَلَا تَسۡتَمِعُونَ",
+    "text_en": "[Pharaoh] said to those around him, \"Do you not hear?\"",
+    "text_ug": "پىرئەۋن چۆرىسىدىكىلەرگە: «(ئۇنىڭ جاۋابىنى) ئاڭلاۋاتامسىلەر؟» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 26,
+    "text_ar": "قَالَ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ",
+    "text_en": "[Moses] said, \"Your Lord and the Lord of your first forefathers.\"",
+    "text_ug": "مۇسا ئېيتتى: «(ئۇ) سىلەرنىڭ پەرۋەردىگارىڭلاردۇر ۋە سىلەرنىڭ ئاتا ـ بوۋاڭلارنىڭ پەرۋەردىگارىدۇر»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 27,
+    "text_ar": "قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِيٓ أُرۡسِلَ إِلَيۡكُمۡ لَمَجۡنُونٞ",
+    "text_en": "[Pharaoh] said, \"Indeed, your 'messenger' who has been sent to you is mad.\"",
+    "text_ug": "پىرئەۋن ئېيتتى: «سىلەرگە ئەۋەتىلگەن (بۇ) ئەلچى ئەلۋەتتە مەجنۇندۇر»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 28,
+    "text_ar": "قَالَ رَبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُمۡ تَعۡقِلُونَ",
+    "text_en": "[Moses] said, \"Lord of the east and the west and that between them, if you were to reason.\"",
+    "text_ug": "مۇسا ئېيتتى: «(ئۇ) مەشرىقنىڭ، مەغرىبنىڭ ۋە ئۇلارنىڭ ئارىسىدىكى مەخلۇقاتنىڭ پەرۋەردىگارىدۇر. ئەگەر سىلەر چۈشىنىدىغان بولساڭلار»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 29,
+    "text_ar": "قَالَ لَئِنِ ٱتَّخَذۡتَ إِلَٰهًا غَيۡرِي لَأَجۡعَلَنَّكَ مِنَ ٱلۡمَسۡجُونِينَ",
+    "text_en": "[Pharaoh] said, \"If you take a god other than me, I will surely place you among those imprisoned.\"",
+    "text_ug": "پىرئەۋن ئېيتتى: «ئەگەر مەندىن غەيرىنى ئىلاھ قىلىۋالىدىغان بولساڭ، سېنى چوقۇم زىندانغا تاشلايمەن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 30,
+    "text_ar": "قَالَ أَوَلَوۡ جِئۡتُكَ بِشَيۡءٖ مُّبِينٖ",
+    "text_en": "[Moses] said, \"Even if I brought you something [i.e., proof] manifest?\"",
+    "text_ug": "مۇسا ئېيتتى: «(مېنىڭ راست پەيغەمبەر ئىكەنلىكىمنى ئىسپاتلايدىغان) روشەن دەلىل كەلتۈرسەممۇ (زىندانغا تاشلامسەن؟)»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 31,
+    "text_ar": "قَالَ فَأۡتِ بِهِۦٓ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+    "text_en": "[Pharaoh] said, \"Then bring it, if you should be of the truthful.\"",
+    "text_ug": "پىرئەۋن ئېيتتى: «ئەگەر سۆزۈڭ راست بولسا روشەن دەلىلىڭنى كەلتۈرگىن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 32,
+    "text_ar": "فَأَلۡقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعۡبَانٞ مُّبِينٞ",
+    "text_en": "So [Moses] threw his staff, and suddenly it was a serpent manifest.",
+    "text_ug": "مۇسا ھاسىسىنى تاشلىۋىدى، ناگاھان ئوپئوچۇق ئەجدىھاغا ئايلاندى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 33,
+    "text_ar": "وَنَزَعَ يَدَهُۥ فَإِذَا هِيَ بَيۡضَآءُ لِلنَّٰظِرِينَ",
+    "text_en": "And he drew out his hand; thereupon it was white for the observers.",
+    "text_ug": "مۇسا (قوينىدىن) قولىنى چىقىرىۋىدى، ناگاھان ئۇ قارىغۇچىلارغا (نۇر چاقناپ تۇرىدىغان) ئاپئاق بولۇپ كۆرۈندى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 34,
+    "text_ar": "قَالَ لِلۡمَلَإِ حَوۡلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٞ",
+    "text_en": "[Pharaoh] said to the eminent ones around him, \"Indeed, this is a learned magician.",
+    "text_ug": "پىرئەۋن چۆرىسىدىكى (قەۋمنىڭ) چوڭلىرىغا ئېيتتى: «بۇ ھەقىقەتەن ئۇستا سېھىرگەر ئىكەن، ئۇ سېھىر ئارقىلىق سىلەرنى زېمىنىڭلاردىن ھەيدەپ چىقارماقچى، (بۇ ھەقتە) نېمە مەسلىھەت بېرىسىلەر؟»(34ـ35)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 35,
+    "text_ar": "يُرِيدُ أَن يُخۡرِجَكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِۦ فَمَاذَا تَأۡمُرُونَ",
+    "text_en": "He wants to drive you out of your land by his magic, so what do you advise?\"",
+    "text_ug": "پىرئەۋن چۆرىسىدىكى (قەۋمنىڭ) چوڭلىرىغا ئېيتتى: «بۇ ھەقىقەتەن ئۇستا سېھىرگەر ئىكەن، ئۇ سېھىر ئارقىلىق سىلەرنى زېمىنىڭلاردىن ھەيدەپ چىقارماقچى، (بۇ ھەقتە) نېمە مەسلىھەت بېرىسىلەر؟»(34ـ35)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 36,
+    "text_ar": "قَالُوٓاْ أَرۡجِهۡ وَأَخَاهُ وَٱبۡعَثۡ فِي ٱلۡمَدَآئِنِ حَٰشِرِينَ",
+    "text_en": "They said, \"Postpone [the matter of] him and his brother and send among the cities gatherers",
+    "text_ug": "ئۇلار ئېيتتى: «(ئۇلارنىڭ ئىشىنى) تەخىر قىلغىن، شەھەرلەرگە (سېھىرگەرلەرنى) يىغقۇچى كىشىلەرنى ئەۋەتكىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 37,
+    "text_ar": "يَأۡتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٖ",
+    "text_en": "Who will bring you every learned, skilled magician.\"",
+    "text_ug": "ئۇلار سېنىڭ ھوزۇرۇڭغا ناھايىتى ئۇستا سېھىرگەرلەرنىڭ ھەممىسىنى ئېلىپ كەلسۇن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 38,
+    "text_ar": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ",
+    "text_en": "So the magicians were assembled for the appointment of a well-known day.",
+    "text_ug": "مۇئەييەن كۈندىكى بەلگىلەنگەن ۋاقىتتا سېھىرگەرلەر توپلاندى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 39,
+    "text_ar": "وَقِيلَ لِلنَّاسِ هَلۡ أَنتُم مُّجۡتَمِعُونَ",
+    "text_en": "And it was said to the people, \"Will you congregate",
+    "text_ug": "كىشىلەرگە: «سىلەر يىغىلىپ بولدۇڭلارمۇ؟ ئەگەر سېھىرگەرلەر غالىب چىقسا ئۇلارغا بويسۇنۇشىمىز مۇمكىن» دېيىلدى(39 ـ 40)."
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 40,
+    "text_ar": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُواْ هُمُ ٱلۡغَٰلِبِينَ",
+    "text_en": "That we might follow the magicians if they are the predominant?\"",
+    "text_ug": "كىشىلەرگە: «سىلەر يىغىلىپ بولدۇڭلارمۇ؟ ئەگەر سېھىرگەرلەر غالىب چىقسا ئۇلارغا بويسۇنۇشىمىز مۇمكىن» دېيىلدى(39 ـ 40)."
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 41,
+    "text_ar": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُواْ لِفِرۡعَوۡنَ أَئِنَّ لَنَا لَأَجۡرًا إِن كُنَّا نَحۡنُ ٱلۡغَٰلِبِينَ",
+    "text_en": "And when the magicians arrived, they said to Pharaoh, \"Is there indeed for us a reward if we are the predominant?\"",
+    "text_ug": "سېھىرگەرلەر پىرئەۋننىڭ قېشىغا يېتىپ كەلگەندە، ئۇلار پىرئەۋنگە: «ئەگەر غەلىبە قىلساق بىزگە چوقۇم مۇكاپات بېرىلەمدۇ؟» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 42,
+    "text_ar": "قَالَ نَعَمۡ وَإِنَّكُمۡ إِذٗا لَّمِنَ ٱلۡمُقَرَّبِينَ",
+    "text_en": "He said, \"Yes, and indeed, you will then be of those near [to me].\"",
+    "text_ug": "پىرئەۋن: « ھەئە، ئۇ چاغدا (سىلەرگە مۇكاپات بېرىلىدۇ، ئۇنىڭ ئۈستىگە) سىلەر چوقۇم مېنىڭ يېقىن ئادەملىرىمدىن بولۇپ قالىسىلەر» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 43,
+    "text_ar": "قَالَ لَهُم مُّوسَىٰٓ أَلۡقُواْ مَآ أَنتُم مُّلۡقُونَ",
+    "text_en": "Moses said to them, \"Throw whatever you will throw.\"",
+    "text_ug": "مۇسا ئۇلارغا: «تاشلايدىغان نەرسەڭلارنى تاشلاڭلار!» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 44,
+    "text_ar": "فَأَلۡقَوۡاْ حِبَالَهُمۡ وَعِصِيَّهُمۡ وَقَالُواْ بِعِزَّةِ فِرۡعَوۡنَ إِنَّا لَنَحۡنُ ٱلۡغَٰلِبُونَ",
+    "text_en": "So they threw their ropes and their staffs and said, \"By the might of Pharaoh, indeed it is we who are predominant.\"",
+    "text_ug": "ئۇلار ئارغامچىلىرىنى، ھاسىلىرىنى تاشلىدى. ئۇلار: «پىرئەۋننىڭ كاتتىلىقى بىلەن قەسەمكى، بىز شەك شۈبھىسىز غەلىبە قىلىمىز» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 45,
+    "text_ar": "فَأَلۡقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِيَ تَلۡقَفُ مَا يَأۡفِكُونَ",
+    "text_en": "Then Moses threw his staff, and at once it devoured what they falsified.",
+    "text_ug": "مۇسا ھاسىسىنى تاشلىدى، (ئۇ ئەجدىھاغا ئايلىنىپ) ئۇلارنىڭ ئويدۇرما نەرسىلىرىنى يۇتۇۋەتتى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 46,
+    "text_ar": "فَأُلۡقِيَ ٱلسَّحَرَةُ سَٰجِدِينَ",
+    "text_en": "So the magicians fell down in prostration [to Allāh].",
+    "text_ug": "سىھىرگەرلەر سەجدىگە باردى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 47,
+    "text_ar": "قَالُوٓاْ ءَامَنَّا بِرَبِّ ٱلۡعَٰلَمِينَ",
+    "text_en": "They said, \"We have believed in the Lord of the worlds,",
+    "text_ug": "ئۇلار: «ئالەملەرنىڭ پەرۋەردىگارىغا ـ مۇسا ۋە ھارۇننىڭ پەرۋەردىگارىغا ـ ئىمان ئېيتتۇق» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 48,
+    "text_ar": "رَبِّ مُوسَىٰ وَهَٰرُونَ",
+    "text_en": "The Lord of Moses and Aaron.\"",
+    "text_ug": "ئۇلار: «ئالەملەرنىڭ پەرۋەردىگارىغا ـ مۇسا ۋە ھارۇننىڭ پەرۋەردىگارىغا ـ ئىمان ئېيتتۇق» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 49,
+    "text_ar": "قَالَ ءَامَنتُمۡ لَهُۥ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِي عَلَّمَكُمُ ٱلسِّحۡرَ فَلَسَوۡفَ تَعۡلَمُونَۚ لَأُقَطِّعَنَّ أَيۡدِيَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَٰفٖ وَلَأُصَلِّبَنَّكُمۡ أَجۡمَعِينَ",
+    "text_en": "[Pharaoh] said, \"You believed him [i.e., Moses] before I gave you permission. Indeed, he is your leader who has taught you magic, but you are going to know. I will surely cut off your hands and your feet on opposite sides, and I will surely crucify you all.\"",
+    "text_ug": "پىرئەۋن: «مەن رۇخسەت قىلماي تۇرۇپ سىلەر مۇساغا ئىمان ئېيتتىڭلار، ئۇ چوقۇم سىلەرگە سېھىرنى ئۈگەتكەن باشلىقىڭلار ئىكەن، (سىلەرنى قانداق جازالايدىغانلىقىمنى) ئۇزۇنغا قالماي بىلىسىلەر، قولۇڭلارنى، پۇتۇڭلارنى چوقۇم ئوڭ ـ چەپ قىلىپ (يەنى ئوڭ قولۇڭلار بىلەن سول پۇتۇڭلارنى ياكى سول قولۇڭلار بىلەن ئوڭ پۇتۇڭلارنى) كېسىمەن، ھەممىڭلارنى چوقۇم دارغا ئاسىمەن» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 50,
+    "text_ar": "قَالُواْ لَا ضَيۡرَۖ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+    "text_en": "They said, \"No harm. Indeed, to our Lord we will return.",
+    "text_ug": "سېھىرگەرلەر: «(بۇنىڭدىمۇ بىزگە) ھېچ زىيان يوق، بىز ئەلۋەتتە پەرۋەردىگارىمىزنىڭ دەرگاھىغا قايتقۇچىلارمىز،(50)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 51,
+    "text_ar": "إِنَّا نَطۡمَعُ أَن يَغۡفِرَ لَنَا رَبُّنَا خَطَٰيَٰنَآ أَن كُنَّآ أَوَّلَ ٱلۡمُؤۡمِنِينَ",
+    "text_en": "Indeed, we aspire that our Lord will forgive us our sins because we were the first of the believers.\"",
+    "text_ug": "بىز مۇساغا ھەممىدىن بۇرۇن ئىمان ئېيتقۇچىلار بولغانلىقىمىز ئۈچۈن، پەرۋەردىگارىمىزنىڭ خاتالىقلىرىمىزنى مەغپىرەت قىلىشىنى ئەلۋەتتە ئۈمىد قىلىمىز» دېدى(ـ 51)."
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 52,
+    "text_ar": "۞ وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَسۡرِ بِعِبَادِيٓ إِنَّكُم مُّتَّبَعُونَ",
+    "text_en": "And We inspired to Moses, \"Travel by night with My servants; indeed, you will be pursued.\"",
+    "text_ug": "بىز مۇساغا: «كېچىدە بەندىلىرىمنى (يەنى بەنى ئىسرائىلنى) ئېلىپ ئاتلانغىن. سىلەر ئەلۋەتتە قوغلىنىسىلەر، (يەنى پىرئەۋن ئۆز قەۋمى بىلەن سىلەرنى قوغلاپ چىقىدۇ)» دەپ ۋەھىي قىلدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 53,
+    "text_ar": "فَأَرۡسَلَ فِرۡعَوۡنُ فِي ٱلۡمَدَآئِنِ حَٰشِرِينَ",
+    "text_en": "Then Pharaoh sent among the cities gatherers",
+    "text_ug": "پىرئەۋن شەھەرلەرگە (ئەسكەر) توپلىغۇچىلارنى ئەۋەتتى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 54,
+    "text_ar": "إِنَّ هَٰٓؤُلَآءِ لَشِرۡذِمَةٞ قَلِيلُونَ",
+    "text_en": "[And said], \"Indeed, those are but a small band,",
+    "text_ug": "(پىرئەۋن ئېيتتىكى:) «بۇ كىشىلەر ھەقىقەتەن بىر ئوچۇم ئادەملەردۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 55,
+    "text_ar": "وَإِنَّهُمۡ لَنَا لَغَآئِظُونَ",
+    "text_en": "And indeed, they are enraging us,",
+    "text_ug": "ئۇلار ھەقىقەتەن بىزنىڭ ئاچچىقىمىزنى كەلتۈرۈپ قويدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 56,
+    "text_ar": "وَإِنَّا لَجَمِيعٌ حَٰذِرُونَ",
+    "text_en": "And indeed, we are a cautious society...\"",
+    "text_ug": "بىز ھەقىقەتەن ئېھتىياتچان جامائەمىز»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 57,
+    "text_ar": "فَأَخۡرَجۡنَٰهُم مِّن جَنَّٰتٖ وَعُيُونٖ",
+    "text_en": "So We removed them from gardens and springs",
+    "text_ug": "بىز ئۇلارنى (يەنى پىرئەۋن بىلەن ئۇنىڭ قەۋمىنى) باغلاردىن، بۇلاقلاردىن، خەزىنىلەردىن ۋە ئېسىل تۇرالغۇدىن ئايرىۋەتتۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 58,
+    "text_ar": "وَكُنُوزٖ وَمَقَامٖ كَرِيمٖ",
+    "text_en": "And treasures and honorable station -",
+    "text_ug": "بىز ئۇلارنى (يەنى پىرئەۋن بىلەن ئۇنىڭ قەۋمىنى) باغلاردىن، بۇلاقلاردىن، خەزىنىلەردىن ۋە ئېسىل تۇرالغۇدىن ئايرىۋەتتۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 59,
+    "text_ar": "كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا بَنِيٓ إِسۡرَٰٓءِيلَ",
+    "text_en": "Thus. And We caused to inherit it the Children of Israel.",
+    "text_ug": "شۇنداق قىلىپ ئۇلارنى بەنى ئىسرائىلغا مىراس قىلىپ بەردۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 60,
+    "text_ar": "فَأَتۡبَعُوهُم مُّشۡرِقِينَ",
+    "text_en": "So they pursued them at sunrise.",
+    "text_ug": "ئۇلار (يەنى پىرئەۋن بىلەن ئۇنىڭ قوشۇنى) ئۇلارنى كۈن چىققان چاغدا قوغلاپ چىقتى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 61,
+    "text_ar": "فَلَمَّا تَرَٰٓءَا ٱلۡجَمۡعَانِ قَالَ أَصۡحَٰبُ مُوسَىٰٓ إِنَّا لَمُدۡرَكُونَ",
+    "text_en": "And when the two companies saw one another, the companions of Moses said, \"Indeed, we are to be overtaken!\"",
+    "text_ug": "ئىككى توپ (يەنى پىرئەۋن توپى بىلەن مۇسا ئەلەيھىسسالامنىڭ توپى) بىر ـ بىرىنى كۆرۈپ تۇرۇشقان چاغدا، مۇسانىڭ ئادەملىرى: «ئۇلار: (يەنى پىرئەۋن بىلەن قوشۇنى)بىزگە چوقۇم يېتىشىۋالىدىغان بولدى» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 62,
+    "text_ar": "قَالَ كَلَّآۖ إِنَّ مَعِيَ رَبِّي سَيَهۡدِينِ",
+    "text_en": "[Moses] said, \"No! Indeed, with me is my Lord; He will guide me.\"",
+    "text_ug": "مۇسا ئېيتتى: «ئۇنداق بولمايدۇ (يەنى ھەرگىز يېتىشەلمەيدۇ) پەرۋەردىگارىم ھەقىقەتەن مەن بىلەن بىللە، مېنى (قۇتۇلۇش يولىغا) باشلايدۇ»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 63,
+    "text_ar": "فَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضۡرِب بِّعَصَاكَ ٱلۡبَحۡرَۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرۡقٖ كَٱلطَّوۡدِ ٱلۡعَظِيمِ",
+    "text_en": "Then We inspired to Moses, \"Strike with your staff the sea,\" and it parted, and each portion was like a great towering mountain.",
+    "text_ug": "بىز مۇساغا: «ھاساڭ بىلەن دەرياغا ئۇرغىن» دەپ ۋەھىي قىلدۇق، (مۇسا ھاسىسى بىلەن ئۇرۇۋېدى) دەريا يېرىلدى، (ھەر بىر يېرىلغان) قىسمى چوڭ تاغدەك بولۇپ قالدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 64,
+    "text_ar": "وَأَزۡلَفۡنَا ثَمَّ ٱلۡأٓخَرِينَ",
+    "text_en": "And We advanced thereto the others [i.e., the pursuers].",
+    "text_ug": "ئىككىنچى بىر گۇرۇھنى بۇ يەرگە يېقىنلاشتۇردۇق (يەنى پىرئەۋن بىلەن قوشۇنىنى بەنى ئىسرائىلنىڭ ئارقىسىدىن دەرياغا كىرگۈزدۇق)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 65,
+    "text_ar": "وَأَنجَيۡنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجۡمَعِينَ",
+    "text_en": "And We saved Moses and those with him, all together.",
+    "text_ug": "مۇسا بىلەن ئۇنىڭ ھەمراھلىرىنى پۈتۈنلەي قۇتقۇزدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 66,
+    "text_ar": "ثُمَّ أَغۡرَقۡنَا ٱلۡأٓخَرِينَ",
+    "text_en": "Then We drowned the others.",
+    "text_ug": "ئاندىن ئىككىنچى گۇرۇھنى (يەنى پىرئەۋن بىلەن قەۋمىنى) غەرق قىلدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 67,
+    "text_ar": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+    "text_en": "Indeed in that is a sign, but most of them were not to be believers.",
+    "text_ug": "بۇنىڭدا (يەنى پىرئەۋن بىلەن ئۇنىڭ قەۋمىنىڭ غەرق بولۇشىدا) ئەلۋەتتە (چوڭ) ئىبرەت بار، ئۇلارنىڭ تولىسى ئىمان ئېيتقۇچى بولمىدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 68,
+    "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+    "text_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+    "text_ug": "سېنىڭ پەرۋەردىگارىڭ ھەقىقەتەن غالىبتۇر، ناھايىتى مېھرىباندۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 69,
+    "text_ar": "وَٱتۡلُ عَلَيۡهِمۡ نَبَأَ إِبۡرَٰهِيمَ",
+    "text_en": "And recite to them the news of Abraham,",
+    "text_ug": "ئۇلارغا ئىبراھىمنىڭ قىسسەسىنى ئوقۇپ بەرگىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 70,
+    "text_ar": "إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَا تَعۡبُدُونَ",
+    "text_en": "When he said to his father and his people, \"What do you worship?\"",
+    "text_ug": "ئۆز ۋاقتىدا ئۇ ئاتىسىغا ۋە قەۋمىگە: «نېمىگە ئىبادەت قىلىسىلەر؟» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 71,
+    "text_ar": "قَالُواْ نَعۡبُدُ أَصۡنَامٗا فَنَظَلُّ لَهَا عَٰكِفِينَ",
+    "text_en": "They said, \"We worship idols and remain to them devoted.\"",
+    "text_ug": "ئۇلار: «بۇتلارغا ئىبادەت قىلىمىز، بۇ ئىبادەتنى داۋالاشتۇرىمىز» دېيىشتى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 72,
+    "text_ar": "قَالَ هَلۡ يَسۡمَعُونَكُمۡ إِذۡ تَدۡعُونَ",
+    "text_en": "He said, \"Do they hear you when you supplicate?",
+    "text_ug": "ئىبراھىم ئېيتتى: «دۇئا قىلغان چېغىڭلاردا ئۇلار (دۇئايىڭلارنى) ئاڭلامدۇ؟"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 73,
+    "text_ar": "أَوۡ يَنفَعُونَكُمۡ أَوۡ يَضُرُّونَ",
+    "text_en": "Or do they benefit you, or do they harm?\"",
+    "text_ug": "يا سىلەرگە پايدا يەتكۈزەلەمدۇ؟ يا زىيان يەتكۈزەلەمدۇ؟»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 74,
+    "text_ar": "قَالُواْ بَلۡ وَجَدۡنَآ ءَابَآءَنَا كَذَٰلِكَ يَفۡعَلُونَ",
+    "text_en": "They said, \"But we found our fathers doing thus.\"",
+    "text_ug": "ئۇلار ئېيتتى: «ئۇنداق ئەمەس، ئاتا ـ بوۋىلىرىمىزنىڭ شۇنداق قىلغانلىقىنى بايقىدۇق»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 75,
+    "text_ar": "قَالَ أَفَرَءَيۡتُم مَّا كُنتُمۡ تَعۡبُدُونَ",
+    "text_en": "He said, \"Then do you see what you have been worshipping,",
+    "text_ug": "ئىبراھىم ئېيتتى: «ئېيتىپ بېقىڭلارچۇ! سىلەرنىڭ ئىبادەت قىلغىنىڭلار نېمە؟(75)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 76,
+    "text_ar": "أَنتُمۡ وَءَابَآؤُكُمُ ٱلۡأَقۡدَمُونَ",
+    "text_en": "You and your ancient forefathers?",
+    "text_ug": "سىلەرنىڭ ئەڭ قەدىمكى ئەجدادلىرىڭلارنىڭ ئىبادەت قىلغىنى نېمە؟(76)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 77,
+    "text_ar": "فَإِنَّهُمۡ عَدُوّٞ لِّيٓ إِلَّا رَبَّ ٱلۡعَٰلَمِينَ",
+    "text_en": "Indeed, they are enemies to me, except the Lord of the worlds,",
+    "text_ug": "ئۇلار (يەنى بۇتلار) مېنىڭ دۈشمىنىمدۇر، پەقەت ئالەملەرنىڭ پەرۋەردىگارى (مېنىڭ پەرۋەردىگارىمدۇر)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 78,
+    "text_ar": "ٱلَّذِي خَلَقَنِي فَهُوَ يَهۡدِينِ",
+    "text_en": "Who created me, and He [it is who] guides me.",
+    "text_ug": "ئۇ مېنى ياراتقان، ئۇ مېنى ھىدايەت قىلىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 79,
+    "text_ar": "وَٱلَّذِي هُوَ يُطۡعِمُنِي وَيَسۡقِينِ",
+    "text_en": "And it is He who feeds me and gives me drink.",
+    "text_ug": "ئۇ مېنى تاماق بىلەن تەمىنلەيدۇ، ئۇسسۇلۇق بىلەن تەمىنلەيدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 80,
+    "text_ar": "وَإِذَا مَرِضۡتُ فَهُوَ يَشۡفِينِ",
+    "text_en": "And when I am ill, it is He who cures me",
+    "text_ug": "ئاغرىپ قالسام ئۇ مېنى ساقايتىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 81,
+    "text_ar": "وَٱلَّذِي يُمِيتُنِي ثُمَّ يُحۡيِينِ",
+    "text_en": "And who will cause me to die and then bring me to life",
+    "text_ug": "ئۇ مېنى قەبزى روھ قىلىدۇ، كېيىن يەنە تىرىلدۈرىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 82,
+    "text_ar": "وَٱلَّذِيٓ أَطۡمَعُ أَن يَغۡفِرَ لِي خَطِيٓـَٔتِي يَوۡمَ ٱلدِّينِ",
+    "text_en": "And who I aspire that He will forgive me my sin on the Day of Recompense.\"",
+    "text_ug": "قىيامەت كۈنى ئۇنىڭ مېنىڭ خاتالىقلىرىمنى مەغپىرەت قىلىشىنى ئۈمىد قىلىمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 83,
+    "text_ar": "رَبِّ هَبۡ لِي حُكۡمٗا وَأَلۡحِقۡنِي بِٱلصَّٰلِحِينَ",
+    "text_en": "[And he said], \"My Lord, grant me authority and join me with the righteous.",
+    "text_ug": "پەرۋەردىگارىم! ماڭا ئىلىم ھېكمەت ئاتا قىلغىن، مېنى ياخشىلارغا قوشقىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 84,
+    "text_ar": "وَٱجۡعَل لِّي لِسَانَ صِدۡقٖ فِي ٱلۡأٓخِرِينَ",
+    "text_en": "And grant me a mention [i.e., reputation] of honor among later generations.",
+    "text_ug": "كېيىنكىلەر ئارىسىدا ياخشى نامىمنى قالدۇرغىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 85,
+    "text_ar": "وَٱجۡعَلۡنِي مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ",
+    "text_en": "And place me among the inheritors of the Garden of Pleasure.",
+    "text_ug": "مېنى نازۇ-نېمەتلىك جەننەتنىڭ ۋارىسلىرىدىن قىلغىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 86,
+    "text_ar": "وَٱغۡفِرۡ لِأَبِيٓ إِنَّهُۥ كَانَ مِنَ ٱلضَّآلِّينَ",
+    "text_en": "And forgive my father. Indeed, he has been of those astray.",
+    "text_ug": "ئاتامغا مەغپىرەت قىلغىن، ئۇ ھەقىقەتەن گۇمراھلاردىن بولدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 87,
+    "text_ar": "وَلَا تُخۡزِنِي يَوۡمَ يُبۡعَثُونَ",
+    "text_en": "And do not disgrace me on the Day they are [all] resurrected -",
+    "text_ug": "ئۇلار (يەنى خالايىقلار) (ھېساب بېرىش ئۈچۈن) تىرىلدۈرىلىدىغان كۈندە مېنى رەسۋا قىلمىغىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 88,
+    "text_ar": "يَوۡمَ لَا يَنفَعُ مَالٞ وَلَا بَنُونَ",
+    "text_en": "The Day when there will not benefit [anyone] wealth or children",
+    "text_ug": "ئۇ كۈنى (ھېچ كىشىگە) مال ۋە ئوغۇللار پايدا يەتكۈزەلمەيدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 89,
+    "text_ar": "إِلَّا مَنۡ أَتَى ٱللَّهَ بِقَلۡبٖ سَلِيمٖ",
+    "text_en": "But only one who comes to Allāh with a sound heart.\"",
+    "text_ug": "پەقەت (ئاللاھنىڭ دەرگاھى) غا پاك قەلب بىلەن كەلگەن ئادەمگىلا پايدا يەتكۈزۈلىدۇ»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 90,
+    "text_ar": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ",
+    "text_en": "And Paradise will be brought near [that Day] to the righteous.",
+    "text_ug": "جەننەت تەقۋادارلارغا يېقىنلاشتۇرۇلىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 91,
+    "text_ar": "وَبُرِّزَتِ ٱلۡجَحِيمُ لِلۡغَاوِينَ",
+    "text_en": "And Hellfire will be brought forth for the deviators,",
+    "text_ug": "دوزاخ گۇمراھلارغا ئوچۇق كۆرسىتىلىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 92,
+    "text_ar": "وَقِيلَ لَهُمۡ أَيۡنَ مَا كُنتُمۡ تَعۡبُدُونَ",
+    "text_en": "And it will be said to them, \"Where are those you used to worship",
+    "text_ug": "ئۇلارغا: «سىلەر ئىلگىرى ئاللاھنى قويۇپ چوقۇنغان نەرسەڭلار قەيەردە؟ ئۇلار سىلەرگە ياردەم بېرەلەمدۇ؟ يا ئۆزلىرىگە ياردەم بېرەلەمدۇ؟» دېيىلىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 93,
+    "text_ar": "مِن دُونِ ٱللَّهِ هَلۡ يَنصُرُونَكُمۡ أَوۡ يَنتَصِرُونَ",
+    "text_en": "Other than Allāh? Can they help you or help themselves?\"",
+    "text_ug": "ئۇلارغا: «سىلەر ئىلگىرى ئاللاھنى قويۇپ چوقۇنغان نەرسەڭلار قەيەردە؟ ئۇلار سىلەرگە ياردەم بېرەلەمدۇ؟ يا ئۆزلىرىگە ياردەم بېرەلەمدۇ؟» دېيىلىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 94,
+    "text_ar": "فَكُبۡكِبُواْ فِيهَا هُمۡ وَٱلۡغَاوُۥنَ",
+    "text_en": "So they will be overturned into it [i.e., Hellfire], they and the deviators",
+    "text_ug": "بۇتلار، گۇمراھلار ۋە ئىبلىسنىڭ قوشۇنلىرىنىڭ ھەممىسى دوزاخقا ئۈستى ـ ئۈستىلەپ تاشلىنىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 95,
+    "text_ar": "وَجُنُودُ إِبۡلِيسَ أَجۡمَعُونَ",
+    "text_en": "And the soldiers of Iblees, all together.",
+    "text_ug": "بۇتلار، گۇمراھلار ۋە ئىبلىسنىڭ قوشۇنلىرىنىڭ ھەممىسى دوزاخقا ئۈستى ـ ئۈستىلەپ تاشلىنىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 96,
+    "text_ar": "قَالُواْ وَهُمۡ فِيهَا يَخۡتَصِمُونَ",
+    "text_en": "They will say while they dispute therein,",
+    "text_ug": "ئۇلار دوزاختا جېدەللىشىپ ئېيتىدۇ: «ئاللاھ بىلەن قەسەمكى، بىز ئوپئوچۇق گۇمراھلىقتا ئىدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 97,
+    "text_ar": "تَٱللَّهِ إِن كُنَّا لَفِي ضَلَٰلٖ مُّبِينٍ",
+    "text_en": "\"By Allāh, we were indeed in manifest error",
+    "text_ug": "ئۇلار دوزاختا جېدەللىشىپ ئېيتىدۇ: «ئاللاھ بىلەن قەسەمكى، بىز ئوپئوچۇق گۇمراھلىقتا ئىدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 98,
+    "text_ar": "إِذۡ نُسَوِّيكُم بِرَبِّ ٱلۡعَٰلَمِينَ",
+    "text_en": "When we equated you with the Lord of the worlds.",
+    "text_ug": "ئۆز ۋاقتىدا بىز سىلەرنى (ئىبادەتتە) ئالەملەرنىڭ پەرۋەردىگارى بىلەن ئوخشاش ئورۇندا قوياتتۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 99,
+    "text_ar": "وَمَآ أَضَلَّنَآ إِلَّا ٱلۡمُجۡرِمُونَ",
+    "text_en": "And no one misguided us except the criminals.",
+    "text_ug": "بىزنى پەقەت گۇناھكارلارلا ئازدۇردى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 100,
+    "text_ar": "فَمَا لَنَا مِن شَٰفِعِينَ",
+    "text_en": "So now we have no intercessors",
+    "text_ug": "شۇنىڭ ئۈچۈن بىزگە شاپائەت قىلغۇچىلار يوق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 101,
+    "text_ar": "وَلَا صَدِيقٍ حَمِيمٖ",
+    "text_en": "And not a devoted friend.",
+    "text_ug": "ۋە يېقىن دوستمۇ يوق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 102,
+    "text_ar": "فَلَوۡ أَنَّ لَنَا كَرَّةٗ فَنَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
+    "text_en": "Then if we only had a return [to the world] and could be of the believers...\"",
+    "text_ug": "ئەگەر بىزگە (دۇنياغا) قايتىشقا بولسا ئىدى، بىز مۆمىنلەردىن بولاتتۇق»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 103,
+    "text_ar": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+    "text_en": "Indeed in that is a sign, but most of them were not to be believers.",
+    "text_ug": "شۈبھىسىزكى، بۇنىڭدا (يەنى ئىبراھىم ۋە ئۇنىڭ قەۋمىنىڭ قىسسەسىدە) (ئەقىل ئىگىلىرى ئۈچۈن) ئەلۋەتتە (چوڭ) ئىبرەت بار، ئۇلارنىڭ تولىسى ئىمان ئېيتقۇچى بولمىدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 104,
+    "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+    "text_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+    "text_ug": "سېنىڭ پەرۋەردىگارىڭ ھەقىقەتەن ناھايىتى غالىبتۇر، ناھايىتى مېھرىباندۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 105,
+    "text_ar": "كَذَّبَتۡ قَوۡمُ نُوحٍ ٱلۡمُرۡسَلِينَ",
+    "text_en": "The people of Noah denied the messengers",
+    "text_ug": "نۇھنىڭ قەۋمى پەيغەمبەرلەرنى ئىنكار قىلدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 106,
+    "text_ar": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ نُوحٌ أَلَا تَتَّقُونَ",
+    "text_en": "When their brother Noah said to them, \"Will you not fear Allāh?",
+    "text_ug": "ئۆز ۋاقتىدا ئۇلارغا قېرىندىشى نۇھ ئېيتتى: «سىلەر (ئاللاھتىن) قورقمامسىلەر؟"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 107,
+    "text_ar": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+    "text_en": "Indeed, I am to you a trustworthy messenger.",
+    "text_ug": "مەن ھەقىقەتەن سىلەرگە سادىق بىر پەيغەمبەرمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 108,
+    "text_ar": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+    "text_en": "So fear Allāh and obey me.",
+    "text_ug": "سىلەر ئاللاھتىن قورقۇڭلار، ماڭا ئىتائەت قىلىڭلار"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 109,
+    "text_ar": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+    "text_en": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
+    "text_ug": "تەبلىغ قىلغانلىقىمغا سىلەردىن ھېچقانداق ھەق تەلەپ قىلمايمەن، ئۇنى پەقەت ئالەملەرنىڭ پەرۋەردىگارىدىن تىلەيمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 110,
+    "text_ar": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+    "text_en": "So fear Allāh and obey me.\"",
+    "text_ug": "ئاللاھتىن قورقۇڭلار، ماڭا ئىتائەت قىلىڭلار»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 111,
+    "text_ar": "۞ قَالُوٓاْ أَنُؤۡمِنُ لَكَ وَٱتَّبَعَكَ ٱلۡأَرۡذَلُونَ",
+    "text_en": "They said, \"Should we believe you while you are followed by the lowest [class of people]?\"",
+    "text_ug": "ئۇلار: «(ئى نۇھ!) ساڭا تۆۋەن تەبىقىدىكى ئادەملەر ئەگەشكەن تۇرسا، ساڭا بىز ئىمان ئېيتامدۇق؟» دېدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 112,
+    "text_ar": "قَالَ وَمَا عِلۡمِي بِمَا كَانُواْ يَعۡمَلُونَ",
+    "text_en": "He said, \"And what is my knowledge of what they used to do?",
+    "text_ug": "نۇھ ئېيتتى: «مەن ئۇلارنىڭ نېمە قىلغانلىقىنى ئۇقمايمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 113,
+    "text_ar": "إِنۡ حِسَابُهُمۡ إِلَّا عَلَىٰ رَبِّيۖ لَوۡ تَشۡعُرُونَ",
+    "text_en": "Their account is only upon my Lord, if you [could] perceive.",
+    "text_ug": "ئەگەر بىلسەڭلار ئۇلاردىن ھېساب ئېلىشنى پەقەت پەرۋەردىگارىم ئۈستىگە ئالغان"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 114,
+    "text_ar": "وَمَآ أَنَا۠ بِطَارِدِ ٱلۡمُؤۡمِنِينَ",
+    "text_en": "And I am not one to drive away the believers.",
+    "text_ug": "مەن مۆمىنلەرنى قوغلىۋەتمەيمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 115,
+    "text_ar": "إِنۡ أَنَا۠ إِلَّا نَذِيرٞ مُّبِينٞ",
+    "text_en": "I am only a clear warner.\"",
+    "text_ug": "مەن پەقەت ئوچۇق ـ ئاشكارا ئاگاھلاندۇرغۇچىمەن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 116,
+    "text_ar": "قَالُواْ لَئِن لَّمۡ تَنتَهِ يَٰنُوحُ لَتَكُونَنَّ مِنَ ٱلۡمَرۡجُومِينَ",
+    "text_en": "They said, \"If you do not desist, O Noah, you will surely be of those who are stoned.\"",
+    "text_ug": "ئۇلار ئېيتتى: «ئى نۇھ! ئەگەر سەن (پەيغەمبەرلىك دەۋىتىڭدىن) يانمىساڭ، سەن چوقۇم تاش ـ كېسەك قىلىنىپ ئۆلتۈرۈلگۈچىلەردىن بولىسەن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 117,
+    "text_ar": "قَالَ رَبِّ إِنَّ قَوۡمِي كَذَّبُونِ",
+    "text_en": "He said, \"My Lord, indeed my people have denied me.",
+    "text_ug": "نۇھ ئېيتتى: «پەرۋەردىگارىم! قەۋمىم مېنى ھەقىقەتەن ئىنكار قىلدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 118,
+    "text_ar": "فَٱفۡتَحۡ بَيۡنِي وَبَيۡنَهُمۡ فَتۡحٗا وَنَجِّنِي وَمَن مَّعِيَ مِنَ ٱلۡمُؤۡمِنِينَ",
+    "text_en": "Then judge between me and them with decisive judgement and save me and those with me of the believers.\"",
+    "text_ug": "مەن بىلەن ئۇلارنىڭ ئارىسىدا ھۆكۈم چىقارغىن، مېنى ۋە مەن بىلەن بىللە بولغان مۆمىنلەرنى قۇتقۇزغىن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 119,
+    "text_ar": "فَأَنجَيۡنَٰهُ وَمَن مَّعَهُۥ فِي ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+    "text_en": "So We saved him and those with him in the laden ship.",
+    "text_ug": "بىز ئۇنى ۋە (ئادەملەر، ھايۋانلار بىلەن) لىق تولغان كېمىدە ئۇنىڭ بىلەن بىللە بولغانلارنى قۇتقۇزدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 120,
+    "text_ar": "ثُمَّ أَغۡرَقۡنَا بَعۡدُ ٱلۡبَاقِينَ",
+    "text_en": "Then We drowned thereafter the remaining ones.",
+    "text_ug": "(ئۇلارنى قۇتقۇزغاندىن) كېيىن ئاندىن قالغانلارنى غەرق قىلدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 121,
+    "text_ar": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+    "text_en": "Indeed in that is a sign, but most of them were not to be believers.",
+    "text_ug": "بۇنىڭدا (تەپەككۇر قىلغۇچىلار ئۈچۈن) ئەلۋەتتە (چوڭ) ئىبرەت بار، ئۇلار (يەنى كىشىلەر) نىڭ تولىسى ئىمان ئېيتقۇچى بولمىدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 122,
+    "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+    "text_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+    "text_ug": "سېنىڭ پەرۋەردىگارىڭ ھەقىقەتەن ناھايىتى غالىبتۇر، ناھايىتى مېھرىباندۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 123,
+    "text_ar": "كَذَّبَتۡ عَادٌ ٱلۡمُرۡسَلِينَ",
+    "text_en": "ʿAad denied the messengers",
+    "text_ug": "ئاد (خەلقى) پەيغەمبەرلەرنى ئىنكار قىلدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 124,
+    "text_ar": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ هُودٌ أَلَا تَتَّقُونَ",
+    "text_en": "When their brother Hūd said to them, \"Will you not fear Allāh?",
+    "text_ug": "ئۆز ۋاقتىدا ئۇلارغا قېرىندىشى ھۇد ئېيتتى: «سىلەر (ئاللاھتىن) قورقمامسىلەر؟"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 125,
+    "text_ar": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+    "text_en": "Indeed, I am to you a trustworthy messenger.",
+    "text_ug": "مەن ھەقىقەتەن سىلەرگە سادىق پەيغەمبەرمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 126,
+    "text_ar": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+    "text_en": "So fear Allāh and obey me.",
+    "text_ug": "سىلەر ئاللاھتىن قورقۇڭلار، ماڭا ئىتائەت قىلىڭلار"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 127,
+    "text_ar": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+    "text_en": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
+    "text_ug": "تەبلىغ قىلغانلىقىمغا سىلەردىن ھېچقانداق ھەق تەلەپ قىلمايمەن، ئۇنى پەقەت ئالەملەرنىڭ پەرۋەردىگارىدىن تىلەيمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 128,
+    "text_ar": "أَتَبۡنُونَ بِكُلِّ رِيعٍ ءَايَةٗ تَعۡبَثُونَ",
+    "text_en": "Do you construct on every elevation a sign, amusing yourselves,",
+    "text_ug": "سىلەر ھەر بىر ئېگىز جايغا ئويۇن ـ كۈلكە ئۈچۈن بىر ئالامەت (يەنى ئېگىز بىنا) سالامسىلەر؟(128)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 129,
+    "text_ar": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمۡ تَخۡلُدُونَ",
+    "text_en": "And take for yourselves constructions [i.e., palaces and fortresses] that you might abide eternally?",
+    "text_ug": "(گويا سىلەر ئۆلمەيدىغاندەك) دۇنيادا مەڭگۈ قېلىشنى ئۈمىد قىلىپ پۇختا سارايلارنى سالامسىلەر؟(129)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 130,
+    "text_ar": "وَإِذَا بَطَشۡتُم بَطَشۡتُمۡ جَبَّارِينَ",
+    "text_en": "And when you strike, you strike as tyrants.",
+    "text_ug": "ئەگەر (بىراۋنى) جازالىساڭلار، زالىملاردەك جازالايسىلەر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 131,
+    "text_ar": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+    "text_en": "So fear Allāh and obey me.",
+    "text_ug": "سىلەر ئاللاھتىن قورقۇڭلار، ماڭا ئىتائەت قىلىڭلار"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 132,
+    "text_ar": "وَٱتَّقُواْ ٱلَّذِيٓ أَمَدَّكُم بِمَا تَعۡلَمُونَ",
+    "text_en": "And fear He who provided you with that which you know,",
+    "text_ug": "سىلەرگە سىلەر بىلىدىغان نېمەتلەرنى ئاتا قىلغان ئاللاھتىن قورقۇڭلار"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 133,
+    "text_ar": "أَمَدَّكُم بِأَنۡعَٰمٖ وَبَنِينَ",
+    "text_en": "Provided you with grazing livestock and children",
+    "text_ug": "ئۇ سىلەرگە چارۋىلارنى، ئوغۇللارنى، باغلارنى، بۇلاقلارنى ئاتا قىلدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 134,
+    "text_ar": "وَجَنَّٰتٖ وَعُيُونٍ",
+    "text_en": "And gardens and springs.",
+    "text_ug": "ئۇ سىلەرگە چارۋىلارنى، ئوغۇللارنى، باغلارنى، بۇلاقلارنى ئاتا قىلدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 135,
+    "text_ar": "إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ",
+    "text_en": "Indeed, I fear for you the punishment of a terrible day.\"",
+    "text_ug": "مەن ھەقىقەتەن سىلەرنىڭ بۈيۈك كۈننىڭ ئازابىغا قېلىشىڭلاردىن قورقىمەن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 136,
+    "text_ar": "قَالُواْ سَوَآءٌ عَلَيۡنَآ أَوَعَظۡتَ أَمۡ لَمۡ تَكُن مِّنَ ٱلۡوَٰعِظِينَ",
+    "text_en": "They said, \"It is all the same to us whether you advise or are not of the advisors.",
+    "text_ug": "ئۇلار ئېيتتى: «نەسىھەت قىلامسەن، قىلمامسەن، بەرىبىر بىزگە ئوخشاش"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 137,
+    "text_ar": "إِنۡ هَٰذَآ إِلَّا خُلُقُ ٱلۡأَوَّلِينَ",
+    "text_en": "This is not but the custom of the former peoples,",
+    "text_ug": "بۇ پەقەت بۇرۇنقىلاردىن قالغان ئادەت"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 138,
+    "text_ar": "وَمَا نَحۡنُ بِمُعَذَّبِينَ",
+    "text_en": "And we are not to be punished.\"",
+    "text_ug": "بىز ھەرگىز جازالانمايمىز»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 139,
+    "text_ar": "فَكَذَّبُوهُ فَأَهۡلَكۡنَٰهُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+    "text_en": "And they denied him, so We destroyed them. Indeed in that is a sign, but most of them were not to be believers.",
+    "text_ug": "ئۇلار ئۇنى (يەنى ھۇدنى) ئىنكار قىلدى، ئۇلارنى بىز ھالاك قىلدۇق، بۇنىڭدا ئەلۋەتتە (چوڭ) ئىبرەت بار، ئۇلارنىڭ تولىسى ئىمان ئېيتقۇچى بولمىدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 140,
+    "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+    "text_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+    "text_ug": "سېنىڭ پەرۋەردىگارىڭ ھەقىقەتەن ناھايىتى غالىبتۇر، ناھايىتى مېھرىباندۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 141,
+    "text_ar": "كَذَّبَتۡ ثَمُودُ ٱلۡمُرۡسَلِينَ",
+    "text_en": "Thamūd denied the messengers",
+    "text_ug": "سەمۇد (خەلقى) پەيغەمبەرلەرنى ئىنكار قىلدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 142,
+    "text_ar": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ صَٰلِحٌ أَلَا تَتَّقُونَ",
+    "text_en": "When their brother Ṣāliḥ said to them, \"Will you not fear Allāh?",
+    "text_ug": "ئۆز ۋاقتىدا ئۇلارغا قېرىندىشى سالىھ ئېيتتى: «(ئاللاھتىن) قورقمامسىلەر؟"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 143,
+    "text_ar": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+    "text_en": "Indeed, I am to you a trustworthy messenger.",
+    "text_ug": "مەن ھەقىقەتەن سىلەرگە سادىق پەيغەمبەرمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 144,
+    "text_ar": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+    "text_en": "So fear Allāh and obey me.",
+    "text_ug": "سىلەر ئاللاھتىن قورقۇڭلار، ماڭا ئىتائەت قىلىڭلار"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 145,
+    "text_ar": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+    "text_en": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
+    "text_ug": "تەبلىغ قىلغانلىقىمغا سىلەردىن ھېچقانداق ھەق تەلەپ قىلمايمەن، ئۇنى پەقەت ئالەملەرنىڭ پەرۋەردىگارىدىن تىلەيمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 146,
+    "text_ar": "أَتُتۡرَكُونَ فِي مَا هَٰهُنَآ ءَامِنِينَ",
+    "text_en": "Will you be left in what is here, secure [from death],",
+    "text_ug": "سىلەر بۇ يەرلەردە، باغچىلاردىن، بۇلاقلاردىن، زىرائەتلەردىن، يۇمشاق پىشقان خورمىلاردىن بەھرىمەن بولۇپ خاتىرجەم ھالدا داۋاملىق قالىمىز (دەپ ئويلامسىلەر؟)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 147,
+    "text_ar": "فِي جَنَّٰتٖ وَعُيُونٖ",
+    "text_en": "Within gardens and springs",
+    "text_ug": "سىلەر بۇ يەرلەردە، باغچىلاردىن، بۇلاقلاردىن، زىرائەتلەردىن، يۇمشاق پىشقان خورمىلاردىن بەھرىمەن بولۇپ خاتىرجەم ھالدا داۋاملىق قالىمىز (دەپ ئويلامسىلەر؟)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 148,
+    "text_ar": "وَزُرُوعٖ وَنَخۡلٖ طَلۡعُهَا هَضِيمٞ",
+    "text_en": "And fields of crops and palm trees with softened fruit?",
+    "text_ug": "سىلەر بۇ يەرلەردە، باغچىلاردىن، بۇلاقلاردىن، زىرائەتلەردىن، يۇمشاق پىشقان خورمىلاردىن بەھرىمەن بولۇپ خاتىرجەم ھالدا داۋاملىق قالىمىز (دەپ ئويلامسىلەر؟)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 149,
+    "text_ar": "وَتَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتٗا فَٰرِهِينَ",
+    "text_en": "And you carve out of the mountains, homes, with skill.",
+    "text_ug": "ئۇستىلىق بىلەن تاغلارنى تېشىپ ئۆي ياسامسىلەر؟(149)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 150,
+    "text_ar": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+    "text_en": "So fear Allāh and obey me.",
+    "text_ug": "ئاللاھتىن قورقۇڭلار، ماڭا ئىتائەت قىلىڭلار"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 151,
+    "text_ar": "وَلَا تُطِيعُوٓاْ أَمۡرَ ٱلۡمُسۡرِفِينَ",
+    "text_en": "And do not obey the order of the transgressors,",
+    "text_ug": "زېمىندا بۇزغۇنچىلىق قىلىدىغان، ئىسلاھ قىلمايدىغان ھەددىدىن ئاشقۇچىلارنىڭ ئەمرىگە ئىتائەت قىلماڭلار»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 152,
+    "text_ar": "ٱلَّذِينَ يُفۡسِدُونَ فِي ٱلۡأَرۡضِ وَلَا يُصۡلِحُونَ",
+    "text_en": "Who cause corruption in the land and do not amend.\"",
+    "text_ug": "زېمىندا بۇزغۇنچىلىق قىلىدىغان، ئىسلاھ قىلمايدىغان ھەددىدىن ئاشقۇچىلارنىڭ ئەمرىگە ئىتائەت قىلماڭلار»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 153,
+    "text_ar": "قَالُوٓاْ إِنَّمَآ أَنتَ مِنَ ٱلۡمُسَحَّرِينَ",
+    "text_en": "They said, \"You are only of those affected by magic.",
+    "text_ug": "ئۇلار ئېيتتى: «سەن ھەقىقەتەن سېھىر قىلىنغانلاردىنسەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 154,
+    "text_ar": "مَآ أَنتَ إِلَّا بَشَرٞ مِّثۡلُنَا فَأۡتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+    "text_en": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\"",
+    "text_ug": "سەن پەقەت بىزگە ئوخشاش بىر ئىنسانسەن، ئەگەر سەن راستچىللاردىن بولساڭ، بىرەر مۆجىزە كەلتۈرۈپ باققىن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 155,
+    "text_ar": "قَالَ هَٰذِهِۦ نَاقَةٞ لَّهَا شِرۡبٞ وَلَكُمۡ شِرۡبُ يَوۡمٖ مَّعۡلُومٖ",
+    "text_en": "He said, \"This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day.",
+    "text_ug": "سالىھ ئېيتتى: «بۇ چىشى تۆگە (سۈيۈڭلاردىن بىر كۈن) ئىچىدۇ، سىلەرمۇ مۇئەييەن بىر كۈن ئىچىسىلەر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 156,
+    "text_ar": "وَلَا تَمَسُّوهَا بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابُ يَوۡمٍ عَظِيمٖ",
+    "text_en": "And do not touch her with harm, lest you be seized by the punishment of a terrible day.\"",
+    "text_ug": "ئۇنىڭغا يامانلىق قىلماڭلار، بولمىسا سىلەر بۈيۈك كۈننىڭ ئازابىغا دۇچار بولۇسىلەر»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 157,
+    "text_ar": "فَعَقَرُوهَا فَأَصۡبَحُواْ نَٰدِمِينَ",
+    "text_en": "But they hamstrung her and so became regretful.",
+    "text_ug": "ئۇلار چىشى تۆگىنى بوغۇزلىدى، شۇنىڭ بىلەن ئۇلار نادامەتكە قالدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 158,
+    "text_ar": "فَأَخَذَهُمُ ٱلۡعَذَابُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+    "text_en": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers.",
+    "text_ug": "ئۇلارغا ئازاب چۈشتى، بۇنىڭدا ئەلۋەتتە (چوڭ) ئىبرەت بار، ئۇلارنىڭ تولىسى ئىمان ئېيتقۇچى بولمىدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 159,
+    "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+    "text_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+    "text_ug": "سېنىڭ پەرۋەردىگارىڭ ھەقىقەتەن ناھايىتى غالىبتۇر، ناھايىتى مېھرىباندۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 160,
+    "text_ar": "كَذَّبَتۡ قَوۡمُ لُوطٍ ٱلۡمُرۡسَلِينَ",
+    "text_en": "The people of Lot denied the messengers",
+    "text_ug": "لۇتنىڭ قەۋمى پەيغەمبەرلەرنى ئىنكار قىلدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 161,
+    "text_ar": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ لُوطٌ أَلَا تَتَّقُونَ",
+    "text_en": "When their brother Lot said to them, \"Will you not fear Allāh?",
+    "text_ug": "ئۆز ۋاقتىدا ئۇلارغا قېرىندىشى لۇت ئېيتتى: «سىلەر (ئاللاھتىن) قورقمامسىلەر؟(161)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 162,
+    "text_ar": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+    "text_en": "Indeed, I am to you a trustworthy messenger.",
+    "text_ug": "مەن ھەقىقەتەن سىلەرگە سادىق پەيغەمبەرمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 163,
+    "text_ar": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+    "text_en": "So fear Allāh and obey me.",
+    "text_ug": "سىلەر ئاللاھتىن قورقۇڭلار، ماڭا ئىتائەت قىلىڭلار"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 164,
+    "text_ar": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+    "text_en": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
+    "text_ug": "تەبلىغ قىلغانلىقىمغا سىلەردىن ھېچقانداق ھەق تەلەپ قىلمايمەن، ئۇنى پەقەت ئالەملەرنىڭ پەرۋەردىگارىدىن تىلەيمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 165,
+    "text_ar": "أَتَأۡتُونَ ٱلذُّكۡرَانَ مِنَ ٱلۡعَٰلَمِينَ",
+    "text_en": "Do you approach males among the worlds",
+    "text_ug": "سىلەر ئەھلى جاھان ئىچىدىن لىۋاتە قىلىپ، پەرۋەردىگارىڭلار سىلەر ئۈچۈن ياراتقان ئاياللىرىڭلارنى تاشلاپ قويامسىلەر؟ سىلەر ھەقىقەتەن (بۇزۇقچىلىقتا) ھەددىدىن ئاشقۇچى قەۋمسىلەر»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 166,
+    "text_ar": "وَتَذَرُونَ مَا خَلَقَ لَكُمۡ رَبُّكُم مِّنۡ أَزۡوَٰجِكُمۚ بَلۡ أَنتُمۡ قَوۡمٌ عَادُونَ",
+    "text_en": "And leave what your Lord has created for you as mates? But you are a people transgressing.\"",
+    "text_ug": "سىلەر ئەھلى جاھان ئىچىدىن لىۋاتە قىلىپ، پەرۋەردىگارىڭلار سىلەر ئۈچۈن ياراتقان ئاياللىرىڭلارنى تاشلاپ قويامسىلەر؟ سىلەر ھەقىقەتەن (بۇزۇقچىلىقتا) ھەددىدىن ئاشقۇچى قەۋمسىلەر»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 167,
+    "text_ar": "قَالُواْ لَئِن لَّمۡ تَنتَهِ يَٰلُوطُ لَتَكُونَنَّ مِنَ ٱلۡمُخۡرَجِينَ",
+    "text_en": "They said, \"If you do not desist, O Lot, you will surely be of those evicted.\"",
+    "text_ug": "ئۇلار ئېيتتى: «ئى لۇت! ئەگەر (دەۋىتىڭدىن) قايتمىساڭ، چوقۇم سۈرگۈن قىلىنىسەن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 168,
+    "text_ar": "قَالَ إِنِّي لِعَمَلِكُم مِّنَ ٱلۡقَالِينَ",
+    "text_en": "He said, \"Indeed, I am, toward your deed, of those who detest [it].",
+    "text_ug": "لۇت ئېيتتى: «مەن سىلەرنىڭ قىلىقىڭلاردىن قاتتىق يىرگىنىمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 169,
+    "text_ar": "رَبِّ نَجِّنِي وَأَهۡلِي مِمَّا يَعۡمَلُونَ",
+    "text_en": "My Lord, save me and my family from [the consequence of] what they do.\"",
+    "text_ug": "پەرۋەردىگارىم! قىلمىشلىرى تۈپەيلىدىن (ئۇلارغا كېلىدىغان ئازابتىن) مېنى ۋە تەۋەلىرىمنى قۇتقۇزغىن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 170,
+    "text_ar": "فَنَجَّيۡنَٰهُ وَأَهۡلَهُۥٓ أَجۡمَعِينَ",
+    "text_en": "So We saved him and his family, all,",
+    "text_ug": "ئۇنى ۋە ئۇنىڭ تەۋەلىرىنىڭ ھەممىسىنى قۇتقۇزدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 171,
+    "text_ar": "إِلَّا عَجُوزٗا فِي ٱلۡغَٰبِرِينَ",
+    "text_en": "Except an old woman among those who remained behind.",
+    "text_ug": "پەقەت موماينى (يەنى لۇتنىڭ ئايالىنى قالدۇرۇپ قويۇپ) ھالاك قىلدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 172,
+    "text_ar": "ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ",
+    "text_en": "Then We destroyed the others.",
+    "text_ug": "ئاندىن قالغانلارنى ھالاك قىلدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 173,
+    "text_ar": "وَأَمۡطَرۡنَا عَلَيۡهِم مَّطَرٗاۖ فَسَآءَ مَطَرُ ٱلۡمُنذَرِينَ",
+    "text_en": "And We rained upon them a rain [of stones], and evil was the rain of those who were warned.",
+    "text_ug": "ئۇلارنىڭ ئۈستىگە بىز يامغۇر (يەنى تاش) ياغدۇردۇق، ئاگاھلاندۇرۇلغۇچىلارغا ياغدۇرۇلغان يامغۇر نېمىدېگەن يامان!"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 174,
+    "text_ar": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+    "text_en": "Indeed in that is a sign, but most of them were not to be believers.",
+    "text_ug": "بۇنىڭدا ئەلۋەتتە (چوڭ) بىر ئىبرەت بار، ئۇلارنىڭ تولىسى ئىمان ئېيتقۇچى بولمىدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 175,
+    "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+    "text_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+    "text_ug": "سېنىڭ پەرۋەردىگارىڭ ھەقىقەتەن ناھايىتى غالىبتۇر، ناھايىتى مېھرىباندۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 176,
+    "text_ar": "كَذَّبَ أَصۡحَٰبُ لۡـَٔيۡكَةِ ٱلۡمُرۡسَلِينَ",
+    "text_en": "The companions of the thicket [i.e., the people of Madyan] denied the messengers",
+    "text_ug": "ئەيكىلىقلار پەيغەمبەرلىرىنى ئىنكار قىلدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 177,
+    "text_ar": "إِذۡ قَالَ لَهُمۡ شُعَيۡبٌ أَلَا تَتَّقُونَ",
+    "text_en": "When Shuʿayb said to them, \"Will you not fear Allāh?",
+    "text_ug": "ئۆز ۋاقتىدا شۇئەيب ئۇلارغا ئېيتتى: «سىلەر (ئاللاھتىن) قورقمامسىلەر؟(177)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 178,
+    "text_ar": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+    "text_en": "Indeed, I am to you a trustworthy messenger.",
+    "text_ug": "مەن ھەقىقەتەن سىلەرگە سادىق پەيغەمبەرمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 179,
+    "text_ar": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+    "text_en": "So fear Allāh and obey me.",
+    "text_ug": "ئاللاھتىن قورقۇڭلار، ماڭا ئىتائەت قىلىڭلار"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 180,
+    "text_ar": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+    "text_en": "And I do not ask you for it any payment. My payment is only from the Lord of the worlds.",
+    "text_ug": "تەبلىغ قىلغانلىقىمغا سىلەردىن ھېچقانداق ھەق تەلەپ قىلمايمەن، ئۇنى پەقەت ئالەملەرنىڭ پەرۋەردىگارىدىن تىلەيمەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 181,
+    "text_ar": "۞ أَوۡفُواْ ٱلۡكَيۡلَ وَلَا تَكُونُواْ مِنَ ٱلۡمُخۡسِرِينَ",
+    "text_en": "Give full measure and do not be of those who cause loss.",
+    "text_ug": "ئۆلچەمنى تولدۇرۇپ بېرىڭلار، كەم بەرگۈچىلەردىن بولماڭلار"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 182,
+    "text_ar": "وَزِنُواْ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِيمِ",
+    "text_en": "And weigh with an even [i.e., honest] balance.",
+    "text_ug": "(نەرسىلەرنى) توغرا تارازىدا تارتىڭلار(182)،"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 183,
+    "text_ar": "وَلَا تَبۡخَسُواْ ٱلنَّاسَ أَشۡيَآءَهُمۡ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
+    "text_en": "And do not deprive people of their due and do not commit abuse on earth, spreading corruption.",
+    "text_ug": "كىشىلەرگە نەرسىلىرىنى (يەنى قايسى يول بىلەن بولمىسۇن، كىشىلەرنىڭ ھەقلىرىنى) كەم بەرمەڭلار، يەر يۈزىدە بۇزغۇنچىلىق قىلىپ پىتنە ـ پاسات تېرىماڭلار"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 184,
+    "text_ar": "وَٱتَّقُواْ ٱلَّذِي خَلَقَكُمۡ وَٱلۡجِبِلَّةَ ٱلۡأَوَّلِينَ",
+    "text_en": "And fear He who created you and the former creation.\"",
+    "text_ug": "سىلەرنى ۋە ئىلگىرىكى ئۈممەتلەرنى ياراتقان ئاللاھتىن قورقۇڭلار»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 185,
+    "text_ar": "قَالُوٓاْ إِنَّمَآ أَنتَ مِنَ ٱلۡمُسَحَّرِينَ",
+    "text_en": "They said, \"You are only of those affected by magic.",
+    "text_ug": "ئۇلار ئېيتتى: «سەن سېھىر قىلىنغۇچىلاردىنسەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 186,
+    "text_ar": "وَمَآ أَنتَ إِلَّا بَشَرٞ مِّثۡلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلۡكَٰذِبِينَ",
+    "text_en": "You are but a man like ourselves, and indeed, we think you are among the liars.",
+    "text_ug": "سەن پەقەت بىزگە ئوخشاش (ئاددى) ئادەمسەن، سېنى بىز ھەقىقەتەن يالغانچى دەپ گۇمان قىلىمىز"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 187,
+    "text_ar": "فَأَسۡقِطۡ عَلَيۡنَا كِسَفٗا مِّنَ ٱلسَّمَآءِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+    "text_en": "So cause to fall upon us fragments of the sky, if you should be of the truthful.\"",
+    "text_ug": "ئەگەر (سۆزۈڭدە) راستچىللاردىن بولساڭ، بىزگە ئاسماندىن ئازاب چۈشۈرگىن»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 188,
+    "text_ar": "قَالَ رَبِّيٓ أَعۡلَمُ بِمَا تَعۡمَلُونَ",
+    "text_en": "He said, \"My Lord is most knowing of what you do.\"",
+    "text_ug": "شۇئەيب ئېيتتى: «پەرۋەردىگارىم سىلەرنىڭ قىلمىشىڭلارنى ئوبدان بىلىدۇ»"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 189,
+    "text_ar": "فَكَذَّبُوهُ فَأَخَذَهُمۡ عَذَابُ يَوۡمِ ٱلظُّلَّةِۚ إِنَّهُۥ كَانَ عَذَابَ يَوۡمٍ عَظِيمٍ",
+    "text_en": "And they denied him, so the punishment of the day of the black cloud seized them. Indeed, it was the punishment of a terrible day.",
+    "text_ug": "ئۇلار شۇئەيبنى ئىنكار قىلدى، ئۇلارنى سايە كۈنىنىڭ ئازابى ھالاك قىلدى. ئۇ ھەقىقەتەن بۈيۈك كۈننىڭ ئازابى ئىدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 190,
+    "text_ar": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+    "text_en": "Indeed in that is a sign, but most of them were not to be believers.",
+    "text_ug": "بۇنىڭدا ئەلۋەتتە (چوڭ) ئىبرەت بار، ئۇلارنىڭ تولىسى ئىمان ئېيتقۇچىلاردىن بولمىدى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 191,
+    "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+    "text_en": "And indeed, your Lord - He is the Exalted in Might, the Merciful.",
+    "text_ug": "سېنىڭ پەرۋەردىگارىڭ ھەقىقەتەن ناھايىتى غالىبتۇر، ناھايىتى مېھرىباندۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 192,
+    "text_ar": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلۡعَٰلَمِينَ",
+    "text_en": "And indeed, it [i.e., the Qur’ān] is the revelation of the Lord of the worlds.",
+    "text_ug": "شۈبھىسىزكى، قۇرئان ئالەملەرنىڭ پەرۋەردىگارى تەرىپىدىن نازىل قىلىنغاندۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 193,
+    "text_ar": "نَزَلَ بِهِ ٱلرُّوحُ ٱلۡأَمِينُ",
+    "text_en": "The Trustworthy Spirit [i.e., Gabriel] has brought it down",
+    "text_ug": "ئاگاھلاندۇرغۇچىلاردىن بولۇشۇڭ ئۈچۈن، ئىشەنچلىك جىبرىئىل ئۇنى سېنىڭ قەلبىڭگە ئېلىپ چۈشتى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 194,
+    "text_ar": "عَلَىٰ قَلۡبِكَ لِتَكُونَ مِنَ ٱلۡمُنذِرِينَ",
+    "text_en": "Upon your heart, [O Muḥammad] - that you may be of the warners",
+    "text_ug": "ئاگاھلاندۇرغۇچىلاردىن بولۇشۇڭ ئۈچۈن، ئىشەنچلىك جىبرىئىل ئۇنى سېنىڭ قەلبىڭگە ئېلىپ چۈشتى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 195,
+    "text_ar": "بِلِسَانٍ عَرَبِيّٖ مُّبِينٖ",
+    "text_en": "In a clear Arabic language.",
+    "text_ug": "(قۇرئان) ئوچۇق ئەرەبى تىلدا (نازىل بولدى)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 196,
+    "text_ar": "وَإِنَّهُۥ لَفِي زُبُرِ ٱلۡأَوَّلِينَ",
+    "text_en": "And indeed, it is [mentioned] in the scriptures of former peoples.",
+    "text_ug": "ھەقىقەتەن قۇرئان ئىلگىرىكى (پەيغەمبەرلەرنىڭ) كىتابلىرىدا تىلغا ئېلىنغان"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 197,
+    "text_ar": "أَوَلَمۡ يَكُن لَّهُمۡ ءَايَةً أَن يَعۡلَمَهُۥ عُلَمَٰٓؤُاْ بَنِيٓ إِسۡرَٰٓءِيلَ",
+    "text_en": "And has it not been a sign to them that it is recognized by the scholars of the Children of Israel?",
+    "text_ug": "(ئابدۇللا ئىبنى سالام ۋە ئۇنىڭ ئىمان ئېيتقان ھەمراھلىرىغا ئوخشاش) بەنى ئىسرائىل ئۆلىمالىرىنىڭ قۇرئاننى بىلىشى مۇشرىكلارغا (قۇرئاننىڭ توغرىلىقىنى كۆرسىتىدىغان) دەلىل بولمامدۇ؟(197)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 198,
+    "text_ar": "وَلَوۡ نَزَّلۡنَٰهُ عَلَىٰ بَعۡضِ ٱلۡأَعۡجَمِينَ",
+    "text_en": "And even if We had revealed it to one among the foreigners",
+    "text_ug": "ئەگەر بىز قۇرئاننى ئەرەب بولمىغان بىر ئادەمگە نازىل قىلغان بولساق، ئۇ قۇرئاننى ئۇلارغا ئوقۇپ بەرسە، ئۇلار ئۇنىڭغا ئىشەنمەيتتى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 199,
+    "text_ar": "فَقَرَأَهُۥ عَلَيۡهِم مَّا كَانُواْ بِهِۦ مُؤۡمِنِينَ",
+    "text_en": "And he had recited it to them [perfectly], they would [still] not have been believers in it.",
+    "text_ug": "ئەگەر بىز قۇرئاننى ئەرەب بولمىغان بىر ئادەمگە نازىل قىلغان بولساق، ئۇ قۇرئاننى ئۇلارغا ئوقۇپ بەرسە، ئۇلار ئۇنىڭغا ئىشەنمەيتتى"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 200,
+    "text_ar": "كَذَٰلِكَ سَلَكۡنَٰهُ فِي قُلُوبِ ٱلۡمُجۡرِمِينَ",
+    "text_en": "Thus have We inserted it [i.e., disbelief] into the hearts of the criminals.",
+    "text_ug": "شۇنىڭدەك گۇناھكارلارنىڭ دىللىرىغا ئىشەنمەسلىكنى سالدۇق (ئۇلار قۇرئاننى چۈشىنىپ، ئۇنىڭ پاساھەت ـ بالاغىتىنى ۋە مۆجىزە ئىكەنلىكىنى بىلىپ تۇرۇپ ئىمان ئېيتمىدى)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 201,
+    "text_ar": "لَا يُؤۡمِنُونَ بِهِۦ حَتَّىٰ يَرَوُاْ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+    "text_en": "They will not believe in it until they see the painful punishment.",
+    "text_ug": "ئۇلار (ئاللاھنىڭ) قاتتىق ئازابىنى كۆرمىگۈچە قۇرئانغا ئىشەنمەيدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 202,
+    "text_ar": "فَيَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ",
+    "text_en": "And it will come to them suddenly while they perceive [it] not.",
+    "text_ug": "ئۇ ئازاب ئۇلارغا ئۇشتۇمتۇت كېلىدۇ، ئۇلار ئۇنىڭ (كەلگەنلىكىنى) تۇيماي قالىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 203,
+    "text_ar": "فَيَقُولُواْ هَلۡ نَحۡنُ مُنظَرُونَ",
+    "text_en": "And they will say, \"May we be reprieved?\"",
+    "text_ug": "(ئۇلارغا تۇيۇقسىز ئازاب كەلگەندە) ئۇلار: «بىزگە (ئىمان ئېيتىۋېلىش ئۈچۈن) مۆھلەت بېرىلەمدۇ؟» دەيدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 204,
+    "text_ar": "أَفَبِعَذَابِنَا يَسۡتَعۡجِلُونَ",
+    "text_en": "So for Our punishment are they impatient?",
+    "text_ug": "ئۇلار بىزنىڭ ئازابىمىزنىڭ بۇرۇنراق كېلىشىنى تىلەمدۇ؟(204)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 205,
+    "text_ar": "أَفَرَءَيۡتَ إِن مَّتَّعۡنَٰهُمۡ سِنِينَ",
+    "text_en": "Then have you considered if We gave them enjoyment for years",
+    "text_ug": "ئېيتىپ باققىنا! ئەگەر ئۇلارنى (نۇرغۇن) يىللار (نېمەتلىرىمىزدىن) بەھرىمەن قىلساق، ئاندىن ئۇلارغا ئاگاھلاندۇرۇلغان ئازاب كەلسە، ئۇلارنىڭ بەھرىمەن بولغان نېمەتلىرى (ئۇلاردىن ئازابنى دەپئى قىلىشتا) ھېچ نەرسىگە ئەسقاتمايدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 206,
+    "text_ar": "ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ",
+    "text_en": "And then there came to them that which they were promised?",
+    "text_ug": "ئېيتىپ باققىنا! ئەگەر ئۇلارنى (نۇرغۇن) يىللار (نېمەتلىرىمىزدىن) بەھرىمەن قىلساق، ئاندىن ئۇلارغا ئاگاھلاندۇرۇلغان ئازاب كەلسە، ئۇلارنىڭ بەھرىمەن بولغان نېمەتلىرى (ئۇلاردىن ئازابنى دەپئى قىلىشتا) ھېچ نەرسىگە ئەسقاتمايدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 207,
+    "text_ar": "مَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يُمَتَّعُونَ",
+    "text_en": "They would not be availed by the enjoyment with which they were provided.",
+    "text_ug": "ئېيتىپ باققىنا! ئەگەر ئۇلارنى (نۇرغۇن) يىللار (نېمەتلىرىمىزدىن) بەھرىمەن قىلساق، ئاندىن ئۇلارغا ئاگاھلاندۇرۇلغان ئازاب كەلسە، ئۇلارنىڭ بەھرىمەن بولغان نېمەتلىرى (ئۇلاردىن ئازابنى دەپئى قىلىشتا) ھېچ نەرسىگە ئەسقاتمايدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 208,
+    "text_ar": "وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+    "text_en": "And We did not destroy any city except that it had warners",
+    "text_ug": "قانداقلىكى شەھەر بولمىسۇن، ۋەز ـ نەسىھەت قىلىش ئۈچۈن پەيغەمبەرلەرنى ئەۋەتمىگۈچە، ئۇنى ھالاك قىلمىدۇق، (208ـ)."
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 209,
+    "text_ar": "ذِكۡرَىٰ وَمَا كُنَّا ظَٰلِمِينَ",
+    "text_en": "As a reminder; and never have We been unjust.",
+    "text_ug": "(ئۇلارنى جازالاشتا) بىز زالىم بولمىدۇق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 210,
+    "text_ar": "وَمَا تَنَزَّلَتۡ بِهِ ٱلشَّيَٰطِينُ",
+    "text_en": "And the devils have not brought it [i.e., the revelation] down.",
+    "text_ug": "قۇرئاننى شەيتانلار ئېلىپ چۈشكىنى يوق"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 211,
+    "text_ar": "وَمَا يَنۢبَغِي لَهُمۡ وَمَا يَسۡتَطِيعُونَ",
+    "text_en": "It is not allowable for them, nor would they be able.",
+    "text_ug": "بۇ ئۇلارغا لايىق ئەمەس. ئۇلارمۇ (ئۇنىڭغا) قادىر بولالمايدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 212,
+    "text_ar": "إِنَّهُمۡ عَنِ ٱلسَّمۡعِ لَمَعۡزُولُونَ",
+    "text_en": "Indeed they, from [its] hearing, are removed.",
+    "text_ug": "شۈبھىسىزكى، ئۇلار (يەنى شەيتانلار) (ئوغرىلىقچە) تىڭشاشتىن مەنئى قىلىنغاندۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 213,
+    "text_ar": "فَلَا تَدۡعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلۡمُعَذَّبِينَ",
+    "text_en": "So do not invoke with Allāh another deity and [thus] be among the punished.",
+    "text_ug": "ئاللاھتىن باشقا ھېچ ئىلاھقا ئىبادەت قىلمىغىن، ئۇنداق قىلساڭ، ئازاب قىلىنغۇچىلاردىن بولۇپ قالىسەن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 214,
+    "text_ar": "وَأَنذِرۡ عَشِيرَتَكَ ٱلۡأَقۡرَبِينَ",
+    "text_en": "And warn, [O Muḥammad], your closest kindred.",
+    "text_ug": "يېقىن خىش - ئەقرىبالىرىڭنى ئاگاھلاندۇرغىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 215,
+    "text_ar": "وَٱخۡفِضۡ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِينَ",
+    "text_en": "And lower your wing [i.e., show kindness] to those who follow you of the believers.",
+    "text_ug": "ساڭا ئەگەشكەن مۆمىنلەرگە مۇلايىم بولغىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 216,
+    "text_ar": "فَإِنۡ عَصَوۡكَ فَقُلۡ إِنِّي بَرِيٓءٞ مِّمَّا تَعۡمَلُونَ",
+    "text_en": "And if they disobey you, then say, \"Indeed, I am disassociated from what you are doing.\"",
+    "text_ug": "ئەگەر ئۇلار ساڭا ئاسىيلىق قىلسا: «مەن سىلەرنىڭ قىلمىشلىرىڭلاردىن ھەقىقەتەن ئادا ـ جۇدا مەن» دېگىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 217,
+    "text_ar": "وَتَوَكَّلۡ عَلَى ٱلۡعَزِيزِ ٱلرَّحِيمِ",
+    "text_en": "And rely upon the Exalted in Might, the Merciful,",
+    "text_ug": "ناھايىتى غالىب، مېھرىبان ئاللاھقا يۆلەنگىن"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 218,
+    "text_ar": "ٱلَّذِي يَرَىٰكَ حِينَ تَقُومُ",
+    "text_en": "Who sees you when you arise",
+    "text_ug": "ئاللاھ سېنى (نامازغا) قوپقىنىڭدا كۆرۈپ تۇرىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 219,
+    "text_ar": "وَتَقَلُّبَكَ فِي ٱلسَّٰجِدِينَ",
+    "text_en": "And your movement among those who prostrate.",
+    "text_ug": "ناماز ئوقۇغۇچىلار ئارىسىدىكى (سەجدىگە بارغانلىق، رۇكۇغا تۇرغانلىق ۋە قىيامدا تۇرغانلىق) ھەرىكىتىڭنى كۆرۈپ تۇرىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 220,
+    "text_ar": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+    "text_en": "Indeed, He is the Hearing, the Knowing.",
+    "text_ug": "شۈبھىسىزكى، ئاللاھ ھەممىنى ئاڭلاپ تۇرغۇچىدۇر، ھەممىنى بىلىپ تۇرغۇچىدۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 221,
+    "text_ar": "هَلۡ أُنَبِّئُكُمۡ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَٰطِينُ",
+    "text_en": "Shall I inform you upon whom the devils descend?",
+    "text_ug": "(ئى مۇھەممەد! مەككە كۇففارلىرىغا ئېيتقىنكى) سىلەرگە مەن شەيتانلارنىڭ كىمگە چۈشىدىغانلىقىنى ئېيتىپ بېرەيمۇ؟(221)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 222,
+    "text_ar": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٖ",
+    "text_en": "They descend upon every sinful liar.",
+    "text_ug": "ئۇلار ھەربىر ئىغۋا توقۇغۇچى، گۇناھكارغا چۈشىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 223,
+    "text_ar": "يُلۡقُونَ ٱلسَّمۡعَ وَأَكۡثَرُهُمۡ كَٰذِبُونَ",
+    "text_en": "They pass on what is heard, and most of them are liars.",
+    "text_ug": "ئۇلار (پەرىشتىلەرنىڭ سۆزلىرىنى ئوغرىلىقچە) ئاڭلايدۇ، ئۇلار (يەنى شەيتانلار) نىڭ تولىسى يالغانچىلاردۇر"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 224,
+    "text_ar": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلۡغَاوُۥنَ",
+    "text_en": "And the poets - [only] the deviators follow them.",
+    "text_ug": "شائىرلارغا گۇمراھلار ئەگىشىدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 225,
+    "text_ar": "أَلَمۡ تَرَ أَنَّهُمۡ فِي كُلِّ وَادٖ يَهِيمُونَ",
+    "text_en": "Do you not see that in every valley they roam",
+    "text_ug": "ئۇلارنىڭ (سۆز) ۋادىلىرىدا تېڭىرقاپ يۈرگەنلىكىنى كۆرمەمسەن؟(225)"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 226,
+    "text_ar": "وَأَنَّهُمۡ يَقُولُونَ مَا لَا يَفۡعَلُونَ",
+    "text_en": "And that they say what they do not do? -",
+    "text_ug": "ئۇلار قىلمايدىغان نەرسىلىرىنى قىلدۇق دەپ سۆزلەيدۇ"
+  },
+  {
+    "surah": 26,
+    "surah_name_en": "Ash-Shu'ara",
+    "surah_name_ar": "الشعراء",
+    "surah_name_ug": "ئەششۇئەرا",
+    "ayah": 227,
+    "text_ar": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَذَكَرُواْ ٱللَّهَ كَثِيرٗا وَٱنتَصَرُواْ مِنۢ بَعۡدِ مَا ظُلِمُواْۗ وَسَيَعۡلَمُ ٱلَّذِينَ ظَلَمُوٓاْ أَيَّ مُنقَلَبٖ يَنقَلِبُونَ",
+    "text_en": "Except those [poets] who believe and do righteous deeds and remember Allāh often and defend [the Muslims] after they were wronged. And those who have wronged are going to know to what [kind of] return they will be returned.",
+    "text_ug": "پەقەت ئىمان ئېيتقان ۋە ياخشى ئەمەللەرنى قىلغان، ئاللاھنى كۆپ زىكرى قىلغان، زۇلۇمغا ئۇچرىغاندىن كېيىن ئۆزىنى قوغدىغان شائىرلار بۇنىڭدىن مۇستەسنا، زۇلۇم قىلغۇچىلار ئۇزاققا قالماي قايسى جايغا قايتىدىغانلىقىنى بىلىدۇ"
+  }
+]

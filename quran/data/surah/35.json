@@ -1,0 +1,452 @@
+[
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 1,
+    "text_ar": "ٱلۡحَمۡدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ جَاعِلِ ٱلۡمَلَٰٓئِكَةِ رُسُلًا أُوْلِيٓ أَجۡنِحَةٖ مَّثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۚ يَزِيدُ فِي ٱلۡخَلۡقِ مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+    "text_en": "[All] praise is [due] to Allāh, Creator of the heavens and the earth, [who] made the angels messengers having wings, two or three or four. He increases in creation what He wills. Indeed, Allāh is over all things competent.",
+    "text_ug": "جىمى ھەمدۇسانا ئاسمانلارنى ۋە زېمىننى ئۆرنەكسىز ياراتقۇچى، پەرىشتىلەرنى ئىككى قاناتلىق، ئۈچ قاناتلىق، تۆت قاناتلىق ئەلچىلەر قىلغۇچى ئاللاھقا خاستۇر! ئاللاھ يارىتىشتا خالىغىنىنى زىيادە قىلىدۇ، ئاللاھ ھەقىقەتەن ھەر نەرسىگە قادىردۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 2,
+    "text_ar": "مَّا يَفۡتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحۡمَةٖ فَلَا مُمۡسِكَ لَهَاۖ وَمَا يُمۡسِكۡ فَلَا مُرۡسِلَ لَهُۥ مِنۢ بَعۡدِهِۦۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+    "text_en": "Whatever Allāh grants to people of mercy - none can withhold it; and whatever He withholds - none can release it thereafter. And He is the Exalted in Might, the Wise.",
+    "text_ug": "ئاللاھ رەھمىتىدىن كىشىلەرگە ئاچقان نەرسىنى ھەرگىزمۇ توسۇپ قالالىغۇچى بولمايدۇ، ئاللاھ رەھمىتىدىن توسقان نەرسىنى، ئاللاھ توسقاندىن كېيىن، ئۇنى ھېچ قويۇپ بەرگۈچى بولمايدۇ، ئاللاھ غالىبتۇر، ھېكمەت بىلەن ئىش قىلغۇچىدۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 3,
+    "text_ar": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡۚ هَلۡ مِنۡ خَٰلِقٍ غَيۡرُ ٱللَّهِ يَرۡزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ لَآ إِلَٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُؤۡفَكُونَ",
+    "text_en": "O mankind, remember the favor of Allāh upon you. Is there any creator other than Allāh who provides for you from the heaven and earth? There is no deity except Him, so how are you deluded?",
+    "text_ug": "ئى ئىنسانلار! ئاللاھنىڭ سىلەرگە بەرگەن نېمىتىنى ياد ئېتىڭلار، ئاللاھتىن باشقا سىلەرگە ئاسماندىن ۋە زېمىندىن رىزىق بېرىپ تۇرىدىغان ياراتقۇچى بارمۇ؟ ئاللاھتىن باشقا ھېچ مەبۇد (بەرھەق) يوقتۇر، (ئاللاھنىڭ ئىبادىتىدىن) قانداقمۇ باش تارتىسىلەر؟"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 4,
+    "text_ar": "وَإِن يُكَذِّبُوكَ فَقَدۡ كُذِّبَتۡ رُسُلٞ مِّن قَبۡلِكَۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+    "text_en": "And if they deny you, [O Muḥammad] - already were messengers denied before you. And to Allāh are returned [all] matters.",
+    "text_ug": "(ئى مۇھەممەد!) ئەگەر ئۇلار سېنى ئىنكار قىلسا (قايغۇرۇپ كەتمە)، ھەقىقەتەن سەندىن ئىلگىرىكى پەيغەمبەرلەرمۇ ئىنكار قىلىنغان، ھەممە ئىش ئاللاھنىڭ دەرگاھىغا قايتۇرۇلىدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 5,
+    "text_ar": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ فَلَا تَغُرَّنَّكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلۡغَرُورُ",
+    "text_en": "O mankind, indeed the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan].",
+    "text_ug": "ئى ئىنسانلار! ئاللاھنىڭ ۋەدىسى ھەقىقەتەن ھەقتۇر، سىلەرنى ھەرگىز دۇنيا تىرىكچىلىكى ئالداپ قويمىسۇن، شەيتاننىڭ سىلەرنى ئاللاھنىڭ ئەپۇسىنىڭ كەڭلىكى بىلەن ئالدىشىغا يول قويماڭلار"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 6,
+    "text_ar": "إِنَّ ٱلشَّيۡطَٰنَ لَكُمۡ عَدُوّٞ فَٱتَّخِذُوهُ عَدُوًّاۚ إِنَّمَا يَدۡعُواْ حِزۡبَهُۥ لِيَكُونُواْ مِنۡ أَصۡحَٰبِ ٱلسَّعِيرِ",
+    "text_en": "Indeed, Satan is an enemy to you; so take him as an enemy. He only invites his party to be among the companions of the Blaze.",
+    "text_ug": "شەيتان ھەقىقەتەن سىلەرگە دۈشمەندۇر، ئۇنى دۈشمەن تۇتۇڭلار، شەيتان ئۆزىنىڭ تەۋەلىرىنى ئەھلى دوزاختىن بولۇشقا چاقىرىدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 7,
+    "text_ar": "ٱلَّذِينَ كَفَرُواْ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٌ",
+    "text_en": "Those who disbelieve will have a severe punishment, and those who believe and do righteous deeds will have forgiveness and great reward.",
+    "text_ug": "كاپىرلار قاتتىق ئازابقا دۇچار بولىدۇ، ئىمان ئېيتقان ۋە ياخشى ئەمەللەرنى قىلغانلار مەغپىرەتكە ۋە كاتتا ساۋابقا ئېرىشىدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 8,
+    "text_ar": "أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنٗاۖ فَإِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۖ فَلَا تَذۡهَبۡ نَفۡسُكَ عَلَيۡهِمۡ حَسَرَٰتٍۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا يَصۡنَعُونَ",
+    "text_en": "Then is one to whom the evil of his deed has been made attractive so he considers it good [like one rightly guided]? For indeed, Allāh sends astray whom He wills and guides whom He wills. So do not let yourself perish over them in regret. Indeed, Allāh is Knowing of what they do.",
+    "text_ug": "ئۆزىنىڭ يامان ئەمەلى چىرايلىق كۆرسىتىلگەن، شۇنىڭ بىلەن ئۇنى چىرايلىق ھېسابلىغان كىشى (ھىدايەت تاپقان كىشى بىلەن ئوخشاشمۇ؟) ئاللاھ ھەقىقەتەن خالىغان كىشىنى گۇمراھ قىلىدۇ (خالىغان كىشىنى ھىدايەت قىلىدۇ). شۇڭا سەن ئۇلار ئۈچۈن (يەنى ئىمان ئېيتمىغانلىقلىرى ئۈچۈن) قايغۇرۇپ ئۆزۈڭنى ھالاك قىلىۋالمىغىن، ئاللاھ ھەقىقەتەن ئۇلارنىڭ قىلمىشلىرىنى بىلىپ تۇرغۇچىدۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 9,
+    "text_ar": "وَٱللَّهُ ٱلَّذِيٓ أَرۡسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابٗا فَسُقۡنَٰهُ إِلَىٰ بَلَدٖ مَّيِّتٖ فَأَحۡيَيۡنَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَاۚ كَذَٰلِكَ ٱلنُّشُورُ",
+    "text_en": "And it is Allāh who sends the winds, and they stir the clouds, and We drive them to a dead land and give life thereby to the earth after its lifelessness. Thus is the resurrection.",
+    "text_ug": "ئاللاھ شاماللارنى ئەۋەتىپ (ئۇنىڭ بىلەن) بۇلۇتنى قوزغايدۇ، بىز بۇلۇتلارنى ئۆلۈك (يەنى قاغجىراق) بىر يەرگە ھەيدەيمىز (بۇلۇتتىن يامغۇر ياغدۇرىمىز)، شۇ يامغۇر بىلەن ئۆلگەن زېمىننى تىرىلدۈرىمىز. ئۆلۈكلەرنىڭ تىرىلدۈرۈلۈشى ئەنە شۇنداقتۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 10,
+    "text_ar": "مَن كَانَ يُرِيدُ ٱلۡعِزَّةَ فَلِلَّهِ ٱلۡعِزَّةُ جَمِيعًاۚ إِلَيۡهِ يَصۡعَدُ ٱلۡكَلِمُ ٱلطَّيِّبُ وَٱلۡعَمَلُ ٱلصَّٰلِحُ يَرۡفَعُهُۥۚ وَٱلَّذِينَ يَمۡكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَمَكۡرُ أُوْلَٰٓئِكَ هُوَ يَبُورُ",
+    "text_en": "Whoever desires honor [through power] - then to Allāh belongs all honor. To Him ascends good speech, and righteous work raises it. But they who plot evil deeds will have a severe punishment, and the plotting of those - it will perish.",
+    "text_ug": "كىمكى (دۇنيادا) شەرەپ ئىزدەيدىكەن، شەرەپنىڭ ھەممىسى ئاللاھقا مەنسۇپ (ئۇنى ئاللاھتىن تىلىسۇن). ياخشى سۆز ئاللاھنىڭ دەرگاھىغا ئۆرلەيدۇ، ياخشى ئەمەل ئۇنى كۆتۈرىدۇ، (پەيغەمبەرگە قارشى) ھىيلە ـ مىكىرلەرنى تۈزىدىغانلار قاتتىق ئازابقا دۇچار بولىدۇ، ئۇلارنىڭ ھىيلە ـ مىكرى ئىشقا ئاشمايدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 11,
+    "text_ar": "وَٱللَّهُ خَلَقَكُم مِّن تُرَابٖ ثُمَّ مِن نُّطۡفَةٖ ثُمَّ جَعَلَكُمۡ أَزۡوَٰجٗاۚ وَمَا تَحۡمِلُ مِنۡ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلۡمِهِۦۚ وَمَا يُعَمَّرُ مِن مُّعَمَّرٖ وَلَا يُنقَصُ مِنۡ عُمُرِهِۦٓ إِلَّا فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
+    "text_en": "And Allāh created you from dust, then from a sperm-drop; then He made you mates. And no female conceives nor does she give birth except with His knowledge. And no aged person is granted [additional] life nor is his lifespan lessened but that it is in a register. Indeed, that for Allāh is easy.",
+    "text_ug": "ئاللاھ سىلەرنى (يەنى ئەسلىڭلار ئادەم ئەلەيھىسسالامنى) تۇپراقتىن ياراتتى. ئاندىن ئابىمەنىيدىن پەيدا قىلدى. ئاندىن سىلەرنى (ئەر ـ ئايالدىن ئىبارەت) بىر جۈپ قىلدى، ھەر قانداق ئايالنىڭ ھامىلدار بولۇشى ۋە تۇغۇشى ئاللاھنىڭ ئىلمىنىڭ سىرتىدا ئەمەس، ھەرقانداق ئادەمنىڭ ئۆمرىنىڭ ئۇزۇن ياكى قىسقا بولۇشى لەۋھۇلمەھپۇزدا يېزىلغان، بۇ ھەقىقەتەن ئاللاھقا ئاسان"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 12,
+    "text_ar": "وَمَا يَسۡتَوِي ٱلۡبَحۡرَانِ هَٰذَا عَذۡبٞ فُرَاتٞ سَآئِغٞ شَرَابُهُۥ وَهَٰذَا مِلۡحٌ أُجَاجٞۖ وَمِن كُلّٖ تَأۡكُلُونَ لَحۡمٗا طَرِيّٗا وَتَسۡتَخۡرِجُونَ حِلۡيَةٗ تَلۡبَسُونَهَاۖ وَتَرَى ٱلۡفُلۡكَ فِيهِ مَوَاخِرَ لِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+    "text_en": "And not alike are the two seas [i.e., bodies of water]. One is fresh and sweet, palatable for drinking, and one is salty and bitter. And from each you eat tender meat and extract ornaments which you wear, and you see the ships plowing through [them] that you might seek of His bounty; and perhaps you will be grateful.",
+    "text_ug": "ئىككى دېڭىز ئوخشاش ئەمەس. بۇنىڭ سۈيى تاتلىق، تەملىك بولۇپ (گالدىن) سىلىق ئۆتىدۇ، بۇ ناھايىتى ئاچچىق، تۇزلۇق، ئۇلارنىڭ ھەر ئىككىسىدىن يېڭى گۆشلەرنى (يەنى بېلىقلارنى) يەيسىلەر، سىلەر تاقايدىغان زىننەت بۇيۇملىرى (يەنى ئۈنچە ـ مارجانلار) نى چىقىرىسىلەر. (ئاللاھنىڭ ئەمرى بىلەن يۈك ـ تاق، يېمەك ـ ئىچمەكلەر قاچىلانغان) كېمىلەرنىڭ دېڭىزدا دولقۇن يېرىپ كېتىۋاتقانلىقىنى كۆرىسەن. بۇ ئاللاھنىڭ نېمىتىنى تەلەپ قىلىپ شۈكۈر قىلىشىڭلار ئۈچۈندۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 13,
+    "text_ar": "يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ يَجۡرِي لِأَجَلٖ مُّسَمّٗىۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ لَهُ ٱلۡمُلۡكُۚ وَٱلَّذِينَ تَدۡعُونَ مِن دُونِهِۦ مَا يَمۡلِكُونَ مِن قِطۡمِيرٍ",
+    "text_en": "He causes the night to enter the day, and He causes the day to enter the night and has subjected the sun and the moon - each running [its course] for a specified term. That is Allāh, your Lord; to Him belongs sovereignty. And those whom you invoke other than Him do not possess [as much as] the membrane of a date seed.",
+    "text_ug": "ئاللاھ كېچىنى كۈندۈزگە كىرگۈزىدۇ، كۈندۈزنى كېچىگە كىرگۈزىدۇ (شۇنىڭ بىلەن كېچە ـ كۈندۈزنىڭ ئۇزۇن ـ قىسقا بولۇشى جايلار، پەسىللەر بويىچە نۆۋەتلىشىپ تۇرىدۇ)، ئاللاھ كۈن بىلەن ئاينى (بەندىلىرىنىڭ مەنپەئىتىگە) بويسۇندۇرۇپ بەردى. ھەر ئىككىلىسى مۇئەييەن مۇددەتكىچە (يەنى قىيامەتكىچە ئۆز ئوقىدا) سەير قىلىدۇ، ئەنە شۇ ئاللاھ سىلەرنىڭ پەرۋەردىگارىڭلاردۇر، پادىشاھلىق ئۇنىڭغا خاستۇر، ئاللاھنى قويۇپ چوقۇنۇۋاتقان مەبۇدلىرىڭلار قىلچىلىك نەرسىگە ئىگە ئەمەس"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 14,
+    "text_ar": "إِن تَدۡعُوهُمۡ لَا يَسۡمَعُواْ دُعَآءَكُمۡ وَلَوۡ سَمِعُواْ مَا ٱسۡتَجَابُواْ لَكُمۡۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكۡفُرُونَ بِشِرۡكِكُمۡۚ وَلَا يُنَبِّئُكَ مِثۡلُ خَبِيرٖ",
+    "text_en": "If you invoke them, they do not hear your supplication; and if they heard, they would not respond to you. And on the Day of Resurrection they will deny your association. And none can inform you like [one] Aware [of all matters].",
+    "text_ug": "ئەگەر ئۇلارنى چاقىرساڭلار، سىلەرنىڭ چاقىرغىنىڭلارنى ئاڭلىمايدۇ، ئاڭلىغان تەقدىردىمۇ سىلەرگە جاۋاپ قايتۇرالمايدۇ، قىيامەت كۈنى ئۇلار (ئاللاھقا ئۇلارنى) شېرىك قىلغانلىقىڭلارنى ئىنكار قىلىدۇ، (مۇشرىكلارنىڭ ۋە ئۇلارنىڭ مەبۇدلىرىنىڭ قىيامەت كۈنىدىكى ئەھۋالىنى ھېچ ئەھەدى) ساڭا ھەممىدىن خەۋەردار زاتتەك (يەنى ئاللاھتەك) ئېيتىپ بېرەلمەيدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 15,
+    "text_ar": "۞ يَٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ ٱلۡفُقَرَآءُ إِلَى ٱللَّهِۖ وَٱللَّهُ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ",
+    "text_en": "O mankind, you are those in need of Allāh, while Allāh is the Free of need, the Praiseworthy.",
+    "text_ug": "ئى ئىنسانلار! سىلەر ئاللاھقا موھتاجسىلەر، ئاللاھ (ھەممىدىن) بىھاجەتتۇر، مەدھىيەگە لايىقتۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 16,
+    "text_ar": "إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ",
+    "text_en": "If He wills, He can do away with you and bring forth a new creation.",
+    "text_ug": "ئەگەر ئاللاھ خالىسا، سىلەرنى ھالاك قىلىپ (ئورنۇڭلارغا) يېڭى بىر خەلقنى پەيدا قىلىدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 17,
+    "text_ar": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ",
+    "text_en": "And that is for Allāh not difficult.",
+    "text_ug": "بۇ ئاللاھقا قىيىن ئەمەس(17)"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 18,
+    "text_ar": "وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ وَإِن تَدۡعُ مُثۡقَلَةٌ إِلَىٰ حِمۡلِهَا لَا يُحۡمَلۡ مِنۡهُ شَيۡءٞ وَلَوۡ كَانَ ذَا قُرۡبَىٰٓۗ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَأَقَامُواْ ٱلصَّلَوٰةَۚ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفۡسِهِۦۚ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ",
+    "text_en": "And no bearer of burdens will bear the burden of another. And if a heavily laden soul calls [another] to [carry some of] its load, nothing of it will be carried, even if he should be a close relative. You can only warn those who fear their Lord unseen and have established prayer. And whoever purifies himself only purifies himself for [the benefit of] his soul. And to Allāh is the [final] destination.",
+    "text_ug": "ھېچبىر گۇناھكار ئادەم بىراۋنىڭ گۇناھىنى ئۈستىگە ئالالمايدۇ، گۇناھى ئېغىر بىر ئادەم باشقا بىراۋنى ئۆز گۇناھىنى ئۈستىگە ئېلىۋېلىشقا چاقىرسا، ئۇ يېقىن تۇغقىنى بولغان تەقدىردىمۇ، ئۇنىڭ گۇناھىدىن ئازراق نەرسىنى ئۈستىگە ئېلىۋالالمايدۇ، سەن پەقەت پەرۋەردىگارىنى كۆرمەي تۇرۇپ ئۇنىڭدىن قورقىدىغانلارنى، نامازنى ئادا قىلىدىغانلارنى ئاگاھلاندۇرىسەن، كىمكى (گۇناھلاردىن) پاكلىنىدىكەن، ئۇ ئۆزى ئۈچۈن پاكلانغان بولىدۇ. ئاخىر قايتىدىغان جاي ئاللاھنىڭ دەرگاھىدۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 19,
+    "text_ar": "وَمَا يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُ",
+    "text_en": "Not equal are the blind and the seeing,",
+    "text_ug": "كور ئادەم بىلەن كۆزى ساق ئادەم (يەنى كاپىر بىلەن مۆمىن) باراۋەر بولمايدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 20,
+    "text_ar": "وَلَا ٱلظُّلُمَٰتُ وَلَا ٱلنُّورُ",
+    "text_en": "Nor are the darknesses and the light,",
+    "text_ug": "زۇلمەت بىلەن نۇر (يەنى باتىل بىلەن ھەق) باراۋەر بولمايدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 21,
+    "text_ar": "وَلَا ٱلظِّلُّ وَلَا ٱلۡحَرُورُ",
+    "text_en": "Nor are the shade and the heat,",
+    "text_ug": "سايە بىلەن ئىسسىق (يەنى جەننەت بىلەن دوزاخ) باراۋەر بولمايدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 22,
+    "text_ar": "وَمَا يَسۡتَوِي ٱلۡأَحۡيَآءُ وَلَا ٱلۡأَمۡوَٰتُۚ إِنَّ ٱللَّهَ يُسۡمِعُ مَن يَشَآءُۖ وَمَآ أَنتَ بِمُسۡمِعٖ مَّن فِي ٱلۡقُبُورِ",
+    "text_en": "And not equal are the living and the dead. Indeed, Allāh causes to hear whom He wills, but you cannot make hear those in the graves.",
+    "text_ug": "تىرىكلەر بىلەن ئۆلۈكلەر (يەنى مۆمىنلەر بىلەن كاپىرلار) باراۋەر بولمايدۇ، شۈبھىسىزكى، ئاللاھ (ھەق دەۋەتنى) خالىغان كىشىلەرگە ئاڭلىتىدۇ. سەن قەبرىلەردىكىلەرگە ئاڭلىتالمايسەن"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 23,
+    "text_ar": "إِنۡ أَنتَ إِلَّا نَذِيرٌ",
+    "text_en": "You, [O Muḥammad], are not but a warner.",
+    "text_ug": "سەن پەقەت بىر ئاگاھلاندۇرغۇچىسەن"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 24,
+    "text_ar": "إِنَّآ أَرۡسَلۡنَٰكَ بِٱلۡحَقِّ بَشِيرٗا وَنَذِيرٗاۚ وَإِن مِّنۡ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٞ",
+    "text_en": "Indeed, We have sent you with the truth as a bringer of good tidings and a warner. And there was no nation but that there had passed within it a warner.",
+    "text_ug": "ھەقىقەتەن بىز سېنى ھەق (دىن) بىلەن (مۆمىنلەرگە) خۇشخەۋەر بەرگۈچى، (كاپىرلارغا) ئاگاھلاندۇرغۇچى قىلىپ ئەۋەتتۇق، قانداقلا بىر ئۈممەت بولمىسۇن، ئۇنىڭغا پەيغەمبەر كەلگەن"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 25,
+    "text_ar": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَبِٱلزُّبُرِ وَبِٱلۡكِتَٰبِ ٱلۡمُنِيرِ",
+    "text_en": "And if they deny you - then already have those before them denied. Their messengers came to them with clear proofs and written ordinances and with the enlightening Scripture.",
+    "text_ug": "ئۇلار سېنى ئىنكار قىلسا، ئۇلاردىن بۇرۇن ئۆتكەن ئۈممەتلەرمۇ (ئۆزلىرىنىڭ پەيغەمبەرلىرىنى) ئىنكار قىلغان، پەيغەمبەرلىرى ئۇلارغا روشەن مۆجىزىلەرنى، (ئىبراھىم ئەلەيھىسسالامغا نازىل قىلىنغان سەھىپىلەرگە ئوخشاش) سەھىپىلەرنى، (تەۋرات، ئىنجىلدەك) نۇرلۇق كىتابلارنى ئېلىپ كەلدى"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 26,
+    "text_ar": "ثُمَّ أَخَذۡتُ ٱلَّذِينَ كَفَرُواْۖ فَكَيۡفَ كَانَ نَكِيرِ",
+    "text_en": "Then I seized the ones who disbelieved, and how [terrible] was My reproach.",
+    "text_ug": "ئاندىن كاپىرلارنى جازالىدىم، (ئۇلارغا بەرگەن) ئازابىم قانداق ئىكەن؟ (يەنى ئۇلارغا قانداق قاتتىق ئازاب قىلدىم؟)(26)"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 27,
+    "text_ar": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجۡنَا بِهِۦ ثَمَرَٰتٖ مُّخۡتَلِفًا أَلۡوَٰنُهَاۚ وَمِنَ ٱلۡجِبَالِ جُدَدُۢ بِيضٞ وَحُمۡرٞ مُّخۡتَلِفٌ أَلۡوَٰنُهَا وَغَرَابِيبُ سُودٞ",
+    "text_en": "Do you not see that Allāh sends down rain from the sky, and We produce thereby fruits of varying colors? And in the mountains are tracts, white and red of varying shades and [some] extremely black.",
+    "text_ug": "كۆرمەمسەنكى، ئاللاھ بۇلۇتتىن يامغۇر ياغدۇردى. ئۇنىڭ بىلەن تۈرلۈك، رەڭگارەڭ مېۋىلەرنى چىقاردى، (شۇنىڭدەك ئاللاھ تاغلارنى ياراتتى) تاغلارنىڭ ئاق، قىزىللىرى، ھەر خىل رەڭدىكى چىپارلىرى ۋە قاپقارىلىرىمۇ بار"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 28,
+    "text_ar": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلۡأَنۡعَٰمِ مُخۡتَلِفٌ أَلۡوَٰنُهُۥ كَذَٰلِكَۗ إِنَّمَا يَخۡشَى ٱللَّهَ مِنۡ عِبَادِهِ ٱلۡعُلَمَٰٓؤُاْۗ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ",
+    "text_en": "And among people and moving creatures and grazing livestock are various colors similarly. Only those fear Allāh, from among His servants, who have knowledge. Indeed, Allāh is Exalted in Might and Forgiving.",
+    "text_ug": "شۇنىڭدەك ئىنسانلارنى، ھايۋانلارنى، چاھارپايلارنىمۇ خىلمۇ خىل رەڭلىك قىلىپ ياراتتى، ئاللاھنىڭ بەندىلىرى ئىچىدە ئاللاھدىن پەقەت ئالىملارلا قورقىدۇ،ئاللاھ ھەقىقەتەن غالىپتۇر، (بەندىلەر ئىچىدە تەۋبە قىلغانلارنى)مەغپىرەت قىلغۇچىدۇر. (28)"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 29,
+    "text_ar": "إِنَّ ٱلَّذِينَ يَتۡلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَنفَقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ يَرۡجُونَ تِجَٰرَةٗ لَّن تَبُورَ",
+    "text_en": "Indeed, those who recite the Book of Allāh and establish prayer and spend [in His cause] out of what We have provided them, secretly and publicly, [can] expect a transaction [i.e., profit] that will never perish -",
+    "text_ug": "شۈبھىسىزكى، ئاللاھنىڭ كىتابىنى تىلاۋەت قىلىپ تۇرىدىغانلار، نامازنى ئادا قىلىدىغانلار ۋە بىز رىزىق قىلىپ بەرگەن نەرسىلەردىن (ئاللاھنىڭ رازىلىقى ئۈچۈن) يوشۇرۇن ۋە ئاشكارا سەرپ قىلىدىغانلار كاسات بولمايدىغان تىجارەتنى ئۈمىد قىلىدۇ(29)"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 30,
+    "text_ar": "لِيُوَفِّيَهُمۡ أُجُورَهُمۡ وَيَزِيدَهُم مِّن فَضۡلِهِۦٓۚ إِنَّهُۥ غَفُورٞ شَكُورٞ",
+    "text_en": "That He may give them in full their rewards and increase for them of His bounty. Indeed, He is Forgiving and Appreciative.",
+    "text_ug": "ئاللاھ ئۇلارغا ئەجىرلىرىنى تولۇق بېرىدۇ ۋە مەرھەمىتىدىن ئۇلارغا ئاشۇرۇپ بېرىدۇ، ئاللاھ ھەقىقەتەن ناھايىتى مەغپىرەت قىلغۇچىدۇر، ئاز ياخشىلىققا كۆپ ساۋاب بەرگۈچىدۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 31,
+    "text_ar": "وَٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ هُوَ ٱلۡحَقُّ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِۗ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرُۢ بَصِيرٞ",
+    "text_en": "And that which We have revealed to you, [O Muḥammad], of the Book is the truth, confirming what was before it. Indeed Allāh, of His servants, is Aware and Seeing.",
+    "text_ug": "ساڭا بىز ۋەھىي قىلغان كىتاب (يەنى قۇرئان) ھەقتۇر. ئىلگىرىكى كىتابلارنىڭ (راستلىقىنى) ئىسپاتلىغۇچىدۇر، ئاللاھ ھەقىقەتەن بەندىلىرىنى تولۇق بىلگۈچىدۇر، كۆرۈپ تۇرغۇچىدۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 32,
+    "text_ar": "ثُمَّ أَوۡرَثۡنَا ٱلۡكِتَٰبَ ٱلَّذِينَ ٱصۡطَفَيۡنَا مِنۡ عِبَادِنَاۖ فَمِنۡهُمۡ ظَالِمٞ لِّنَفۡسِهِۦ وَمِنۡهُم مُّقۡتَصِدٞ وَمِنۡهُمۡ سَابِقُۢ بِٱلۡخَيۡرَٰتِ بِإِذۡنِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ",
+    "text_en": "Then We caused to inherit the Book those We have chosen of Our servants; and among them is he who wrongs himself [i.e., sins], and among them is he who is moderate, and among them is he who is foremost in good deeds by permission of Allāh. That [inheritance] is what is the great bounty.",
+    "text_ug": "ئاندىن بىز كىتاب (يەنى قۇرئان) نى بەندىلىرىمىزدىن بىز تاللىغان كىشىلەرگە مىراس قىلىپ بەردۇق. ئۇلارنىڭ بەزىسى ئۆزىگە زۇلۇم قىلغۇچىدۇر (يەنى قۇرئاننى تىلاۋەت قىلغان بىلەن بەك ئەمەل قىلىپ كەتمەيدۇ)، بەزىسى ئوتتۇراھالدۇر (يەنى كۆپ چاغلاردا قۇرئانغا ئەمەل قىلىپ، قىسمەن چاغلاردا ئەمەل قىلمايدۇ) ۋە بەزىسى ئاللاھنىڭ ئىزنى بويىچە ياخشى ئىشلارنى قىلىشقا ئالدىرىغۇچىدۇر. ئەنە شۇ كاتتا مەرھەمەتتۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 33,
+    "text_ar": "جَنَّٰتُ عَدۡنٖ يَدۡخُلُونَهَا يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبٖ وَلُؤۡلُؤٗاۖ وَلِبَاسُهُمۡ فِيهَا حَرِيرٞ",
+    "text_en": "[For them are] gardens of perpetual residence which they will enter. They will be adorned therein with bracelets of gold and pearls, and their garments therein will be silk.",
+    "text_ug": "ئۇلار ھەمىشە تۇرىدىغان جەننەتلەرگە كىرىدۇ. ئۇلار جەننەتلەردە ئالتۇن بىلەيزۈكلەرنى، مەرۋايىتلارنى تاقايدۇ، ئۇلارنىڭ كىيىمى يىپەكتىن بولىدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 34,
+    "text_ar": "وَقَالُواْ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِيٓ أَذۡهَبَ عَنَّا ٱلۡحَزَنَۖ إِنَّ رَبَّنَا لَغَفُورٞ شَكُورٌ",
+    "text_en": "And they will say, \"Praise to Allāh, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -",
+    "text_ug": "ئۇلار ئېيتتى: «جىمى ھەمدۇسانا بىزدىن غەم ـ قايغۇنى كەتكۈزۈۋەتكەن ئاللاھقا مەنسۇپتۇر! بىزنىڭ پەرۋەردىگارىمىز ھەقىقەتەن ناھايىتى مەغپىرەت قىلغۇچىدۇر، ئاز ياخشىلىققا كۆپ ساۋاب بەرگۈچىدۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 35,
+    "text_ar": "ٱلَّذِيٓ أَحَلَّنَا دَارَ ٱلۡمُقَامَةِ مِن فَضۡلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٞ وَلَا يَمَسُّنَا فِيهَا لُغُوبٞ",
+    "text_en": "He who has settled us in the home of duration [i.e., Paradise] out of His bounty. There touches us not in it any fatigue, and there touches us not in it weariness [of mind].\"",
+    "text_ug": "ئاللاھ مەرھەمىتىدىن بىزنى جەننەتتە تۇرغۇزدى. جەننەتتە بىز ھەرگىز جاپا تارتمايمىز، ھەرگىز چارچىمايمىز»"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 36,
+    "text_ar": "وَٱلَّذِينَ كَفَرُواْ لَهُمۡ نَارُ جَهَنَّمَ لَا يُقۡضَىٰ عَلَيۡهِمۡ فَيَمُوتُواْ وَلَا يُخَفَّفُ عَنۡهُم مِّنۡ عَذَابِهَاۚ كَذَٰلِكَ نَجۡزِي كُلَّ كَفُورٖ",
+    "text_en": "And for those who disbelieve will be the fire of Hell. [Death] is not decreed for them so they may die, nor will its torment be lightened for them. Thus do We recompense every ungrateful one.",
+    "text_ug": "كاپىرلار دوزاخ ئازابىغا دۇچار بولىدۇ، ئۇلارنىڭ ئۆلۈپ (ئارام تېپىپ قالماسلىقى ئۈچۈن) جانلىرى ئېلىنمايدۇ، ئۇلاردىن ئازابمۇ يېنىكلىتىلمەيدۇ، كۇفرىدا ھەددىدىن ئاشقان ھەر ئىنساننى ئەنە شۇنداق جازالايمىز"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 37,
+    "text_ar": "وَهُمۡ يَصۡطَرِخُونَ فِيهَا رَبَّنَآ أَخۡرِجۡنَا نَعۡمَلۡ صَٰلِحًا غَيۡرَ ٱلَّذِي كُنَّا نَعۡمَلُۚ أَوَلَمۡ نُعَمِّرۡكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُۖ فَذُوقُواْ فَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ",
+    "text_en": "And they will cry out therein, \"Our Lord, remove us; we will do righteousness - other than what we were doing!\" But did We not grant you life enough for whoever would remember therein to remember, and the warner had come to you? So taste [the punishment], for there is not for the wrongdoers any helper.",
+    "text_ug": "ئۇلار دوزاختا: «پەرۋەردىگارىمىز! بىزنى چىقىرىۋەتسەڭ (دۇنيادىكى ۋاقىتتا) قىلغان ئەمەللىرىمىزدىن باشقا ئەمەللەرنى قىلساق» دەپ يالۋۇرۇپ توۋلايدۇ. (ئاللاھ ئېيتىدۇ:) «سىلەرگە ئۆمرۈڭلارنى ئۇزۇن قىلىپ، ۋەز ـ نەسىھەت ئالىدىغان ئادەم ۋەز ـ نەسىھەت ئالالىغۇدەك ۋاقىت بەرمىدىممۇ؟ سىلەرگە ئاگاھلاندۇرغۇچى (يەنى پەيغەمبەر) كەلدىغۇ، ئەمدى ئازابنى تېتىڭلار، زالىملارغا ھېچقانداق ياردەم بەرگۈچى يوق»"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 38,
+    "text_ar": "إِنَّ ٱللَّهَ عَٰلِمُ غَيۡبِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+    "text_en": "Indeed, Allāh is Knower of the unseen [aspects] of the heavens and earth. Indeed, He is Knowing of that within the breasts.",
+    "text_ug": "ئاللاھ ھەقىقەتەن ئاسمانلاردىكى ۋە زېمىندىكى غەيبنى بىلگۈچىدۇر. ئاللاھ ھەقىقەتەن دىللاردىكى سىرلارنى بىلگۈچىدۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 39,
+    "text_ar": "هُوَ ٱلَّذِي جَعَلَكُمۡ خَلَٰٓئِفَ فِي ٱلۡأَرۡضِۚ فَمَن كَفَرَ فَعَلَيۡهِ كُفۡرُهُۥۖ وَلَا يَزِيدُ ٱلۡكَٰفِرِينَ كُفۡرُهُمۡ عِندَ رَبِّهِمۡ إِلَّا مَقۡتٗاۖ وَلَا يَزِيدُ ٱلۡكَٰفِرِينَ كُفۡرُهُمۡ إِلَّا خَسَارٗا",
+    "text_en": "It is He who has made you successors upon the earth. And whoever disbelieves - upon him will be [the consequence of] his disbelief. And the disbelief of the disbelievers does not increase them in the sight of their Lord except in hatred; and the disbelief of the disbelievers does not increase them except in loss.",
+    "text_ug": "ئاللاھ سىلەرنى زېمىندا ئورۇنباسارلار قىلدى، كىمكى كاپىر بولىدىكەن، ئۇنىڭ كۇفرىنىڭ زىيىنى ئۆزىگە بولىدۇ، كاپىرلارنىڭ كۇفرى پەرۋەردىگارىنىڭ دەرگاھىدا پەقەت غەزەپنىلا زىيادە قىلىدۇ (يەنى ئۇلارنىڭ كۇفرى ئۇلارنى ئاللاھنىڭ رەھمىتىدىن تېخىمۇ يىراقلاشتۇرىدۇ)، كاپىرلارنىڭ كۇفرى ئۇلارغا پەقەت ھالاكەتنىلا زىيادە قىلىدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 40,
+    "text_ar": "قُلۡ أَرَءَيۡتُمۡ شُرَكَآءَكُمُ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ أَرُونِي مَاذَا خَلَقُواْ مِنَ ٱلۡأَرۡضِ أَمۡ لَهُمۡ شِرۡكٞ فِي ٱلسَّمَٰوَٰتِ أَمۡ ءَاتَيۡنَٰهُمۡ كِتَٰبٗا فَهُمۡ عَلَىٰ بَيِّنَتٖ مِّنۡهُۚ بَلۡ إِن يَعِدُ ٱلظَّٰلِمُونَ بَعۡضُهُم بَعۡضًا إِلَّا غُرُورًا",
+    "text_en": "Say, \"Have you considered your 'partners' whom you invoke besides Allāh? Show me what they have created from the earth, or have they partnership [with Him] in the heavens? Or have We given them a book so they are [standing] on evidence therefrom? [No], rather, the wrongdoers do not promise each other except delusion.\"",
+    "text_ug": "ئېيتقىنكى، «ئېيتىپ بېقىڭلارچۇ؟ سىلەر ئاللاھنى قويۇپ چوقۇنۇۋاتقان مەبۇدلىرىڭلار (نېمە سەۋەبتىن چوقۇنۇشقا لايىق بولدى؟) ماڭا ئېيتىپ بېرىڭلاركى، ئۇلار زېمىندىن نېمىلەرنى ياراتتى؟ يا ئۇلار ئاسمانلارنى ئاللاھ بىلەن بىرلىكتە ياراتتىمۇ؟ يا ئۇلارغا بىز بىر كىتاب بەرگەن بولۇپ، ئۇلار شۇ كىتابتىكى روشەن دەلىللەرگە ئاساسلىنامدۇ؟» ھەرگىز ئۇنداق ئەمەس، زالىملار بىر ـ بىرىگە پەقەت يالغاننىلا ۋەدە قىلىشىدۇ"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 41,
+    "text_ar": "۞ إِنَّ ٱللَّهَ يُمۡسِكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ أَن تَزُولَاۚ وَلَئِن زَالَتَآ إِنۡ أَمۡسَكَهُمَا مِنۡ أَحَدٖ مِّنۢ بَعۡدِهِۦٓۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورٗا",
+    "text_en": "Indeed, Allāh holds the heavens and the earth, lest they cease. And if they should cease, no one could hold them [in place] after Him. Indeed, He is Forbearing and Forgiving.",
+    "text_ug": "ئاللاھ ھەقىقەتەن ئاسمانلارنى ۋە زېمىننى (قۇدرىتى ۋە گۈزەل ھېكمىتى بىلەن) چۈشۈپ كېتىشتىن توختىتىپ تۇرىدۇ. ئەگەر ئۇلار چۈشۈپ كەتسە، ئۇلارنى ئاللاھتىن باشقا ھېچ ئەھەدى توختىتىپ تۇرالمايدۇ. ئاللاھ ھەقىقەتەن ھەلىمدۇر (يەنى كۇففارلار ئازابقا تېگىشلىك بولسىمۇ، ئۇلارنى جازالاشقا ئالدىراپ كەتمەيدۇ)، ناھايىتى مەغپىرەت قىلغۇچىدۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 42,
+    "text_ar": "وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَئِن جَآءَهُمۡ نَذِيرٞ لَّيَكُونُنَّ أَهۡدَىٰ مِنۡ إِحۡدَى ٱلۡأُمَمِۖ فَلَمَّا جَآءَهُمۡ نَذِيرٞ مَّا زَادَهُمۡ إِلَّا نُفُورًا",
+    "text_en": "And they swore by Allāh their strongest oaths that if a warner came to them, they would be more guided than [any] one of the [previous] nations. But when a warner came to them, it did not increase them except in aversion",
+    "text_ug": "ئۇلار ئۆزلىرىگە ئاگاھلاندۇرغۇچى (يەنى پەيغەمبەر) كەلسە، ھەر قانداق ئۈممەتكە قارىغاندا ئەڭ ھىدايەت تاپقۇچى بولىدىغانلىقلىرى بىلەن قاتتىق قەسەم ئىچىشتى. ئۇلارغا ئاگاھلاندۇرغۇچى كەلگەن چاغدا (ھىدايەتتىن) تېخىمۇ يىراق بولۇشتى"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 43,
+    "text_ar": "ٱسۡتِكۡبَارٗا فِي ٱلۡأَرۡضِ وَمَكۡرَ ٱلسَّيِّيِٕۚ وَلَا يَحِيقُ ٱلۡمَكۡرُ ٱلسَّيِّئُ إِلَّا بِأَهۡلِهِۦۚ فَهَلۡ يَنظُرُونَ إِلَّا سُنَّتَ ٱلۡأَوَّلِينَۚ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبۡدِيلٗاۖ وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحۡوِيلًا",
+    "text_en": "[Due to] arrogance in the land and plotting of evil; but the evil plot does not encompass except its own people. Then do they await except the way [i.e., fate] of the former peoples? But you will never find in the way [i.e., established method] of Allāh any change, and you will never find in the way of Allāh any alteration.",
+    "text_ug": "(بۇنداق بولۇشى) ئۇلارنىڭ زېمىندا تەكەببۇرلۇق قىلغانلىقلىرى ۋە ھىيلە ـ مىكىر ئىشلەتكەنلىكلىرىدىندۇر. ھىيلە ـ مىكىرنىڭ ۋابالى پەقەت ھىيلە ـ مىكىر ئىشلەتكەن ئادەمنىڭ ئۆزىگە بولىدۇ، ئۇلار پەقەت ئىلگىرىكى ئۈممەتلەرگە قوللىنىلغان (ئاللاھنىڭ ئۇلارنى ھالاك قىلىش ۋە جازالاشتىن ئىبارەت) يولىنىلا كۈتىدۇ، ئاللاھنىڭ (مەخلۇقاتلار ئۈستىدە قوللانغان) يولىدا ھەرگىزمۇ ھېچقانداق ئۆزگىرىشنى كۆرمەيسەن، ئاللاھ يولىدا ھەرگىز يۆتكىلىشنىمۇ (يەنى ئازابنىڭ ئازابقا تېگىشلىك بولغانلار ئۈستىدىن باشقىلارنىڭ ئۈستىگە يۆتكىلىشىنى) كۆرمەيسەن"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 44,
+    "text_ar": "أَوَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبۡلِهِمۡ وَكَانُوٓاْ أَشَدَّ مِنۡهُمۡ قُوَّةٗۚ وَمَا كَانَ ٱللَّهُ لِيُعۡجِزَهُۥ مِن شَيۡءٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِۚ إِنَّهُۥ كَانَ عَلِيمٗا قَدِيرٗا",
+    "text_en": "Have they not traveled through the land and observed how was the end of those before them? And they were greater than them in power. But Allāh is not to be caused failure [i.e., prevented] by anything in the heavens or on the earth. Indeed, He is ever Knowing and Competent.",
+    "text_ug": "ئۇلار زېمىندا سەير قىلىپ، ئۇلاردىن ئىلگىرىكىلەر (يەنى ھالاك بولغان ئۈممەتلەر) نىڭ ئاقىۋىتىنىڭ قانداق بولغانلىقىنى كۆرمىدىمۇ؟ ئۇلار (يەنى ئۆتكەنكى ئۈممەتلەر) بۇلاردىن تېخىمۇ كۈچلۈك ئىدى. ئاسمانلاردىكى ۋە زېمىندىكى ھېچ نەرسە ئاللاھنى ئىلاجىسىز قالدۇرالمايدۇ. ئاللاھ ھەقىقەتەن ھەممىنى بىلگۈچىدۇر، ھەممىگە قادىردۇر"
+  },
+  {
+    "surah": 35,
+    "surah_name_en": "Fatir",
+    "surah_name_ar": "فاطر",
+    "surah_name_ug": "فاتىر",
+    "ayah": 45,
+    "text_ar": "وَلَوۡ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُواْ مَا تَرَكَ عَلَىٰ ظَهۡرِهَا مِن دَآبَّةٖ وَلَٰكِن يُؤَخِّرُهُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۖ فَإِذَا جَآءَ أَجَلُهُمۡ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرَۢا",
+    "text_en": "And if Allāh were to impose blame on the people for what they have earned, He would not leave upon it [i.e., the earth] any creature. But He defers them for a specified term. And when their time comes, then indeed Allāh has ever been, of His servants, Seeing.",
+    "text_ug": "ئەگەر ئاللاھ ئىنسانلارنى ئۇلارنىڭ قىلمىشلىرى تۈپەيلىدىن جازالايدىغان بولسا، يەر يۈزىدە ھېچبىر جان ئىگىسىنى قويمىغان بولاتتى ۋەلېكىن ئاللاھ ئۇلار (دىن ھېساب ئېلىش) نى مۇئەييەن ۋاقىتقىچە تەخىر قىلىدۇ، ئۇلار (دىن ھېساب ئېلىش) نىڭ ۋاقتى يېتىپ كەلگەندە (ئۇلارنىڭ ئەمەللىرىگە قاراپ جازا بېرىدۇ)، ئاللاھ ھەقىقەتەن بەندىلىرىنى كۆرۈپ تۇرغۇچىدۇر"
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 1,
+    "text_ar": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمۡۚ إِنَّ زَلۡزَلَةَ ٱلسَّاعَةِ شَيۡءٌ عَظِيمٞ",
+    "text_en": "O mankind, fear your Lord. Indeed, the convulsion of the [final] Hour is a terrible thing.",
+    "text_ug": "ئى ئىنسانلار! پەرۋەردىگارىڭلاردىن (يەنى ئازابىدىن) قورقۇڭلار، قىيامەتنىڭ زىلزىلىسى ھەقىقەتەن چوڭ ئىشتۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 2,
+    "text_ar": "يَوۡمَ تَرَوۡنَهَا تَذۡهَلُ كُلُّ مُرۡضِعَةٍ عَمَّآ أَرۡضَعَتۡ وَتَضَعُ كُلُّ ذَاتِ حَمۡلٍ حَمۡلَهَا وَتَرَى ٱلنَّاسَ سُكَٰرَىٰ وَمَا هُم بِسُكَٰرَىٰ وَلَٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٞ",
+    "text_en": "On the Day you see it every nursing mother will be distracted from that [child] she was nursing, and every pregnant woman will abort her pregnancy, and you will see the people [appearing] intoxicated while they are not intoxicated; but the punishment of Allāh is severe.",
+    "text_ug": "ئۇ كۈندە ھەر بىر سۈت ئېمىتىۋاتقان ئايال (قاتتىق قورقۇنچتىن تېڭىرقاپ قېلىش بىلەن) ئېمىتىۋاتقان بوۋىقىنى ئۇنتۇيدۇ، ھەر بىر ھامىلىدار ئايالنىڭ بويىدىن ئاجراپ كېتىدۇ، ئىنسانلارنى مەست كۆرۈسەن، ھالبۇكى، ئۇلار (ھەقىقەتتە) مەست ئەمەس (دېمەك، قىيامەتنىڭ دەھشىتى ئۇلارنى ئەس ـ ھوشىدىن كەتكۈزۈۋەتكەن)، لېكىن ئاللاھنىڭ ئازابى قاتتىقتۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 3,
+    "text_ar": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَيَتَّبِعُ كُلَّ شَيۡطَٰنٖ مَّرِيدٖ",
+    "text_en": "And of the people is he who disputes about Allāh without knowledge and follows every rebellious devil.",
+    "text_ug": "بەزى كىشىلەر ئاللاھ (نىڭ قۇدرىتى ۋە سۈپەتلىرى) ئۈستىدە ھېچقانداق دەلىلسىز مۇنازىرىلىشىدۇ، ھەر بىر سەركەش شەيتانغا (يەنى ھەقتىن توسقۇچى كۇففارلارنىڭ كاتتىباشلىرىغا) ئەگىشىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 4,
+    "text_ar": "كُتِبَ عَلَيۡهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ يُضِلُّهُۥ وَيَهۡدِيهِ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+    "text_en": "It has been decreed for him [i.e., every devil] that whoever turns to him - he will misguide him and will lead him to the punishment of the Blaze.",
+    "text_ug": "ئاللاھ ھۆكۈم قىلىدۇكى، كىمكى شەيتانغا ئەگىشىدىكەن، شەيتان ئۇنى ئازدۇرىدۇ ۋە جەھەننەمنىڭ ئازابىغا سۆرەيدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 5,
+    "text_ar": "يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِي رَيۡبٖ مِّنَ ٱلۡبَعۡثِ فَإِنَّا خَلَقۡنَٰكُم مِّن تُرَابٖ ثُمَّ مِن نُّطۡفَةٖ ثُمَّ مِنۡ عَلَقَةٖ ثُمَّ مِن مُّضۡغَةٖ مُّخَلَّقَةٖ وَغَيۡرِ مُخَلَّقَةٖ لِّنُبَيِّنَ لَكُمۡۚ وَنُقِرُّ فِي ٱلۡأَرۡحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٖ مُّسَمّٗى ثُمَّ نُخۡرِجُكُمۡ طِفۡلٗا ثُمَّ لِتَبۡلُغُوٓاْ أَشُدَّكُمۡۖ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرۡذَلِ ٱلۡعُمُرِ لِكَيۡلَا يَعۡلَمَ مِنۢ بَعۡدِ عِلۡمٖ شَيۡـٔٗاۚ وَتَرَى ٱلۡأَرۡضَ هَامِدَةٗ فَإِذَآ أَنزَلۡنَا عَلَيۡهَا ٱلۡمَآءَ ٱهۡتَزَّتۡ وَرَبَتۡ وَأَنۢبَتَتۡ مِن كُلِّ زَوۡجِۭ بَهِيجٖ",
+    "text_en": "O people, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.",
+    "text_ug": "ئى ئىنسانلار! ئەگەر سىلەر قايتا تىرىلىشتىن شەكلەنسەڭلار (گۇمانىڭلارنىڭ تۈگىشى ئۈچۈن ئەسلىدىكى يارىتىلىشىڭلارغا قاراڭلار)، بىز سىلەرگە (ئاللاھنىڭ قۇدرىتىنى بايان قىلىش ئۈچۈن ئاتاڭلار ئادەم ئەلەيھىسسالامنى) تۇپراقتىن، ئۇنىڭ ئەۋلادىنى (ئالدى بىلەن) ئابىمەنىيدىن، ئاندىن لەختە قاندىن، ئاندىن شەكىلگە كىرگۈزۈلگەن ۋە كىرگۈزۈلمىگەن پارچە گۆشتىن ياراتتۇق. بىز خالىغان ئادەمنى بەچچىداندا مۇئەييەن مۇددەتكىچە قالدۇرىمىز، ئاندىن سىلەرنى (ئاناڭلارنىڭ قارنىدىن) بوۋاقلىق ھالىتىڭلاردا چىقىرىمىز (ئاندىن سىلەرنى ئاستا ـ ئاستا كۈچ ـ قۇۋۋەتكە تولدۇرىمىز)، سىلەر (كامالەت يېشى) قىران ۋاقتىڭلارغا يېتىسىلەر، بەزىڭلار ياشلىقىڭلاردا ۋاپات بولۇپ كېتىسىلەر، بەزىڭلار، (ئىلگىرى) بىلگەندىن كېيىن ھېچ نەرسىنى بىلمەس ھالىتىڭلارغا قايتۇرۇلۇشىڭلار ئۈچۈن، ناھايىتى قېرىپ كەتكۈچە (ھايات) قالدۇرۇلىسىلەر، (ئاللاھ تائالانىڭ ئۆلگەنلەرنىڭ قايتا تىرىلدۈرۈشكە قادىر ئىكەنلىكىنى كۆرسىتىدىغان يەنە بىر دەلىل شۇكى) سەن زېمىننى قاقاس كۆرۈسەن، ئۇنىڭغا بىز يامغۇر ياغدۇرساق، ئۇ جانلىنىدۇ ۋە كۆپۈشىدۇ، تۈرلۈك چىرايلىق ئۆسۈملۈكلەرنى ئۈندۈرۈپ بېرىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 6,
+    "text_ar": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّهُۥ يُحۡيِ ٱلۡمَوۡتَىٰ وَأَنَّهُۥ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+    "text_en": "That is because Allāh is the True Reality and because He gives life to the dead and because He is over all things competent",
+    "text_ug": "بۇ (يەنى ئاللاھ تائالانىڭ ئىنساننى ۋە ئۆسۈملۈكلەرنى يۇقىرىقىدەك يارىتىشى)، ئاللاھنىڭ ھەق ئىكەنلىكىنى، ئۆلۈكلەرنى تىرىلدۈرەلەيدىغانلىقىنى ۋە ھەر نەرسىگە قادىر ئىكەنلىكىنى سىلەرگە بىلدۈرۈش ئۈچۈندۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 7,
+    "text_ar": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٞ لَّا رَيۡبَ فِيهَا وَأَنَّ ٱللَّهَ يَبۡعَثُ مَن فِي ٱلۡقُبُورِ",
+    "text_en": "And [that they may know] that the Hour is coming - no doubt about it - and that Allāh will resurrect those in the graves.",
+    "text_ug": "شۇنداقلا قىيامەتنىڭ شەكسىز بولىدىغانلىقىنى، قەبرىلەردىكى ئۆلۈكلەرنى (ئۆلۈك زېمىننى ئۆسۈملۈكلەرنى ئۈندۈرۈش بىلەن تىرىلدۈرگەندەك) ئاللاھنىڭ تىرىلدۈرىدىغانلىقىنى بىلدۈرۈش ئۈچۈندۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 8,
+    "text_ar": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَلَا هُدٗى وَلَا كِتَٰبٖ مُّنِيرٖ",
+    "text_en": "And of the people is he who disputes about Allāh without knowledge or guidance or an enlightening book [from Him],",
+    "text_ug": "بەزىلەر (توغرا تونۇشقا ئېلىپ بارىدىغان) ھېچقانداق ھەقىقىي ئىلىمسىز، ھىدايەتسىز ۋە نۇرلۇق كىتابسىز ھالدا ئاللاھ توغرىسىدا مۇنازىرىلىشىدۇ، (ئۇنىڭ مۇنازىرىلىشىشى نوقۇل نەپسى - خاھىشى ۋە تەرسالىقىدىندۇر)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 9,
+    "text_ar": "ثَانِيَ عِطۡفِهِۦ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِۖ لَهُۥ فِي ٱلدُّنۡيَا خِزۡيٞۖ وَنُذِيقُهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ عَذَابَ ٱلۡحَرِيقِ",
+    "text_en": "Twisting his neck [in arrogance] to mislead [people] from the way of Allāh. For him in the world is disgrace, and We will make him taste on the Day of Resurrection the punishment of the Burning Fire [while it is said],",
+    "text_ug": "ئۇ (كىشىلەرنى) ئاللاھنىڭ يولىدىن ئازدۇرۇش ئۈچۈن مەغرۇرانە يۈرىدۇ، ئۇ دۇنيادا خارلىققا دۇچار بولىدۇ، ئاخىرەتتە ئۇنىڭغا كۆيدۈرگۈچى ئوتنىڭ ئازابىنى تېتىتىمىز"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 10,
+    "text_ar": "ذَٰلِكَ بِمَا قَدَّمَتۡ يَدَاكَ وَأَنَّ ٱللَّهَ لَيۡسَ بِظَلَّٰمٖ لِّلۡعَبِيدِ",
+    "text_en": "\"That is for what your hands have put forth and because Allāh is not ever unjust to [His] servants.\"",
+    "text_ug": "(ئۇنىڭغا): «(خارلىق بىلەن ئازاب) سېنىڭ قىلمىشلىرىڭ يەنى كۇفرىڭ بىلەن گۇمراھلىقىڭ) تۈپەيلىدىندۇر، ئاللاھ بەندىلىرىگە ھەرگىز زۇلۇم قىلغۇچى ئەمەستۇر» (دېيىلىدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 11,
+    "text_ar": "وَمِنَ ٱلنَّاسِ مَن يَعۡبُدُ ٱللَّهَ عَلَىٰ حَرۡفٖۖ فَإِنۡ أَصَابَهُۥ خَيۡرٌ ٱطۡمَأَنَّ بِهِۦۖ وَإِنۡ أَصَابَتۡهُ فِتۡنَةٌ ٱنقَلَبَ عَلَىٰ وَجۡهِهِۦ خَسِرَ ٱلدُّنۡيَا وَٱلۡأٓخِرَةَۚ ذَٰلِكَ هُوَ ٱلۡخُسۡرَانُ ٱلۡمُبِينُ",
+    "text_en": "And of the people is he who worships Allāh on an edge. If he is touched by good, he is reassured by it; but if he is struck by trial, he turns on his face [to unbelief]. He has lost [this] world and the Hereafter. That is what is the manifest loss.",
+    "text_ug": "بەزىلەر ئاللاھقا شەك ـ شۈبھە بىلەن (يەنى تۇراقسىز ھالدا) ئىبادەت قىلىدۇ، ئەگەر ئۇنىڭغا ياخشىلىق يەتسە دىنىدا تۇرىدۇ (بۇنداق ئادەم ئاللاھقا دىلى بىلەن ئەمەس، پەقەت تىلى بىلەن ئىبادەت قىلىدۇ)، ئەگەر ئۇنىڭغا بەختسىزلىك يەتسە دىنىدىن يېنىۋالىدۇ، ئۇ دۇنيا ۋە ئاخىرەتتە زىيان تارتىدۇ، بۇ روشەن زىياندۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 12,
+    "text_ar": "يَدۡعُواْ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ",
+    "text_en": "He invokes instead of Allāh that which neither harms him nor benefits him. That is what is the extreme error.",
+    "text_ug": "ئۇ ئاللاھنى قويۇپ پايدا ـ زىيان يەتكۈزەلمەيدىغان نەرسىلەرگە چوقۇنىدۇ، بۇ چوڭقۇر گۇمراھلىقتۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 13,
+    "text_ar": "يَدۡعُواْ لَمَن ضَرُّهُۥٓ أَقۡرَبُ مِن نَّفۡعِهِۦۚ لَبِئۡسَ ٱلۡمَوۡلَىٰ وَلَبِئۡسَ ٱلۡعَشِيرُ",
+    "text_en": "He invokes one whose harm is closer than his benefit - how wretched the protector and how wretched the associate.",
+    "text_ug": "ئۇ ئەلۋەتتە زىيىنى پايدىسىدىن يېقىن بولغان نەرسىگە چوقۇنىدۇ، (ئۇ مەبۇد) راستتىنلا يامان مەدەتكاردۇر، راستتىنلا يامان ھەمراھتۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 14,
+    "text_ar": "إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ إِنَّ ٱللَّهَ يَفۡعَلُ مَا يُرِيدُ",
+    "text_en": "Indeed, Allāh will admit those who believe and do righteous deeds to gardens beneath which rivers flow. Indeed, Allāh does what He intends.",
+    "text_ug": "شۈبھىسىزكى، ئاللاھ ئىمان ئېيتقان ۋە ياخشى ئەمەللەرنى قىلغانلارنى ئاستىدىن ئۆستەڭلار ئېقىپ تۇرىدىغان جەننەتلەرگە كىرگۈزىدۇ، ئاللاھ ھەقىقەتەن خالىغىنىنى قىلىدۇ (يەنى خالىغان ئادەمگە ساۋاب بېرىدۇ، خالىغان ئادەمگە ئازاب قىلىدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 15,
+    "text_ar": "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ فَلۡيَمۡدُدۡ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لۡيَقۡطَعۡ فَلۡيَنظُرۡ هَلۡ يُذۡهِبَنَّ كَيۡدُهُۥ مَا يَغِيظُ",
+    "text_en": "Whoever should think that Allāh will not support him [i.e., Prophet Muḥammad (ﷺ)] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath], and let him see: will his effort remove that which enrages [him]?",
+    "text_ug": "كىمكى ئاللاھ پەيغەمبەرگە دۇنيا ۋە ئاخىرەتتە ھەرگىز ياردەم بەرمەيدۇ دەپ گۇمان قىلىدىكەن، ئۇ تورۇسقا ئارغامچا سېلىپ بوغۇلۇپ ئالسۇن، قارىسۇنكى، ئۇنىڭ (بۇ) تەدبىرى غەزىپىنى باسالامدۇ؟ (يەنى ئاللاھ پەيغەمبىرى مۇھەممەد ئەلەيھىسسالامغا ياردەم بەرمەيدۇ، دەپ ئويلايدىكەن، ئۇ ئېسىلىپ ئۆلۈۋالسۇن، ئەگەر بۇ ئۇنىڭ خاپىلىقىنى باسالايدىغان بولسا. چۈنكى ئاللاھ پەيغەمبەرگە چوقۇم ياردەم بېرىدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 16,
+    "text_ar": "وَكَذَٰلِكَ أَنزَلۡنَٰهُ ءَايَٰتِۭ بَيِّنَٰتٖ وَأَنَّ ٱللَّهَ يَهۡدِي مَن يُرِيدُ",
+    "text_en": "And thus have We sent it [i.e., the Qur’ān] down as verses of clear evidence and because Allāh guides whom He intends.",
+    "text_ug": "شۇنىڭغا ئوخشاش (يەنى ئىلگىرىكى كىتابلارنى نازىل قىلغىنىمىزغا ئوخشاش)، قۇرئاننى (مۇھەممەد ئەلەيھىسسالامغا) روشەن ئايەتلەر قىلىپ نازىل قىلدۇق، ئاللاھ خالىغان ئادەمنى ھىدايەت قىلىدۇ (يەنى ئاللاھتىن باشقا ھېچ ھىدايەت قىلغۇچى يوق، ئاللاھ خالىغان ئادەمنى توغرا يولغا باشلايدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 17,
+    "text_ar": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلصَّٰبِـِٔينَ وَٱلنَّصَٰرَىٰ وَٱلۡمَجُوسَ وَٱلَّذِينَ أَشۡرَكُوٓاْ إِنَّ ٱللَّهَ يَفۡصِلُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+    "text_en": "Indeed, those who have believed and those who were Jews and the Sabeans and the Christians and the Magians and those who associated with Allāh - Allāh will judge between them on the Day of Resurrection. Indeed Allāh is, over all things, Witness.",
+    "text_ug": "مۆمىنلەر، يەھۇدىيلار، يۇلتۇزلارغا چوقۇنغۇچىلار، ناسارالار، مەجۇسىيلەر (يەنى ئاتەشپەرەسلەر) ۋە مۇشرىكلار ئۈچۈن قىيامەت كۈنى ئاللاھ ھەقىقەتەن ھۆكۈم چىقىرىدۇ، (يەنى ئاللاھ تائالا مۆمىنلەر بىلەن مەزكۇر بەش پىرقە ئارىسىدا توغرا ھۆكۈم چىقىرىپ، مۆمىنلەرنى جەننەتكە، كۇففارلارنى دوزاخقا كىرگۈزىدۇ)، ئاللاھ ھەقىقەتەن ھەممە نەرسىنى كۆرۈپ تۇرغۇچىدۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 18,
+    "text_ar": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يَسۡجُدُۤ لَهُۥۤ مَن فِي ٱلسَّمَٰوَٰتِ وَمَن فِي ٱلۡأَرۡضِ وَٱلشَّمۡسُ وَٱلۡقَمَرُ وَٱلنُّجُومُ وَٱلۡجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٞ مِّنَ ٱلنَّاسِۖ وَكَثِيرٌ حَقَّ عَلَيۡهِ ٱلۡعَذَابُۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكۡرِمٍۚ إِنَّ ٱللَّهَ يَفۡعَلُ مَا يَشَآءُ۩",
+    "text_en": "Do you not see [i.e., know] that to Allāh prostrates whoever is in the heavens and whoever is on the earth and the sun, the moon, the stars, the mountains, the trees, the moving creatures and many of the people? But upon many the punishment has been justified. And he whom Allāh humiliates - for him there is no bestower of honor. Indeed, Allāh does what He wills.",
+    "text_ug": "بىلمەمسەنكى، ئاسماندىكىلەر (يەنى پەرىشتىلەر)، زېمىندىكىلەر (يەنى ئىنسانلار، جىنلار ۋە زېمىندا ياشايدىغان بارلىق مەخلۇقاتلار)، كۈن، ئاي، يۇلتۇزلار، تاغلار، دەرەخلەر، ھايۋاناتلار ئاللاھقا بويسۇنۇپ، ئاللاھنىڭ تەسەررۇپ قىلىشى بويىچە ھەرىكەت قىلىدۇ) ۋە نۇرغۇن كىشىلەر ئاللاھقا سەجدە قىلىدۇ، نۇرغۇن كىشىلەر (كۇفرى سەۋەبلىك) ئازابقا دۇچار بولدى، ئاللاھنىڭ خارلىشىغا ئۇچرىغان ئادەمگە ھۆرمەتلىگۈچى چىقمايدۇ، ئاللاھ ھەقىقەتەن خالىغىنىنى قىلىدۇ (يەنى ئازاب قىلىش، رەھىم قىلىش، ئەزىز قىلىش، خار قىلىش، باي قىلىش، كەمبەغەل قىلىش ئاللاھنىڭ خاھىشىدىكى ۋە ھېكمىتىدىكى ئىش بولۇپ، ئاللاھقا ھېچ كىشى تەئەررۇز قىلالمايدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 19,
+    "text_ar": "۞ هَٰذَانِ خَصۡمَانِ ٱخۡتَصَمُواْ فِي رَبِّهِمۡۖ فَٱلَّذِينَ كَفَرُواْ قُطِّعَتۡ لَهُمۡ ثِيَابٞ مِّن نَّارٖ يُصَبُّ مِن فَوۡقِ رُءُوسِهِمُ ٱلۡحَمِيمُ",
+    "text_en": "These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water",
+    "text_ug": "(مۆمىنلەر ۋە كۇففارلاردىن ئىبارەت) بۇ ئىككى (پىرقە) پەرۋەردىگارى توغرىسىدا مۇنازىرىلەشتى (يەنى مۆمىنلەر بىلەن كۇففارلار ئاللاھنىڭ دىنى ئۈستىدە بەس ـ مۇنازىرە قىلىشىپ، مۆمىنلەر ئاللاھنىڭ دىنىغا ياردەم بەرمەكچى بولدى، كۇففارلار ئاللاھنىڭ نۇرىنى ئۆچۈرمەكچى بولدى)، كاپىرلارغا ئوتتىن كىيىملەر پىچىلىدۇ، ئۇلارنىڭ باشلىرى ئۈستىدىن يۇقىرى ھارارەتلىك قايناقسۇ قۇيۇلىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 20,
+    "text_ar": "يُصۡهَرُ بِهِۦ مَا فِي بُطُونِهِمۡ وَٱلۡجُلُودُ",
+    "text_en": "By which is melted that within their bellies and [their] skins.",
+    "text_ug": "ئۇنىڭ بىلەن ئۇلارنىڭ ئىچ -باغرى ۋە تېرىلىرى ئېرىتىلىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 21,
+    "text_ar": "وَلَهُم مَّقَٰمِعُ مِنۡ حَدِيدٖ",
+    "text_en": "And for [striking] them are maces of iron.",
+    "text_ug": "ئۇلار تۆمۈر توقماقلار بىلەن ئۇرۇلىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 22,
+    "text_ar": "كُلَّمَآ أَرَادُوٓاْ أَن يَخۡرُجُواْ مِنۡهَا مِنۡ غَمٍّ أُعِيدُواْ فِيهَا وَذُوقُواْ عَذَابَ ٱلۡحَرِيقِ",
+    "text_en": "Every time they want to get out of it [i.e., Hellfire] from anguish, they will be returned to it, and [it will be said], \"Taste the punishment of the Burning Fire!\"",
+    "text_ug": "ھەر قاچان ئۇلار (يېتىۋاتقان) غەم ـ قايغۇنىڭ قاتتىقلىقىدىن دوزاختىن چىقماقچى بولسا، ئۇلار دوزاخقا قايتۇرۇلىدۇ، (ئۇلارغا) كۆيدۈرگۈچى (دوزاخ) ئازابىنى تېتىڭلار (دېيىلىدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 23,
+    "text_ar": "إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبٖ وَلُؤۡلُؤٗاۖ وَلِبَاسُهُمۡ فِيهَا حَرِيرٞ",
+    "text_en": "Indeed, Allāh will admit those who believe and do righteous deeds to gardens beneath which rivers flow. They will be adorned therein with bracelets of gold and pearl, and their garments therein will be silk.",
+    "text_ug": "ئاللاھ ھەقىقەتەن مۆمىنلەرنى ۋە ياخشى ئەمەللەرنى قىلغانلارنى ئاستىدىن ئۆستەڭلار ئېقىپ تۇرىدىغان جەننەتلەرگە كىرگۈزىدۇ، ئۇلار جەننەتلەردە ئالتۇن بىلەيزۈكلەرنى ۋە مەرۋايىتلارنى زىننەت بۇيۇملىرى قىلىدۇ، ئۇلارنىڭ كىيىمى يىپەكتىن بولىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 24,
+    "text_ar": "وَهُدُوٓاْ إِلَى ٱلطَّيِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوٓاْ إِلَىٰ صِرَٰطِ ٱلۡحَمِيدِ",
+    "text_en": "And they had been guided [in worldly life] to good speech, and they were guided to the path of the Praiseworthy.",
+    "text_ug": "ئۇلار ياخشى سۆزگە (يەنى كەلىمە تەۋھىدكە) ھىدايەت قىلىندى. ئاللاھنىڭ يولىغا ھىدايەت قىلىندى"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 25,
+    "text_ar": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلۡمَسۡجِدِ ٱلۡحَرَامِ ٱلَّذِي جَعَلۡنَٰهُ لِلنَّاسِ سَوَآءً ٱلۡعَٰكِفُ فِيهِ وَٱلۡبَادِۚ وَمَن يُرِدۡ فِيهِ بِإِلۡحَادِۭ بِظُلۡمٖ نُّذِقۡهُ مِنۡ عَذَابٍ أَلِيمٖ",
+    "text_en": "Indeed, those who have disbelieved and avert [people] from the way of Allāh and [from] al-Masjid al-Ḥarām, which We made for the people - equal are the resident therein and one from outside - and [also] whoever intends [a deed] therein of deviation [in religion] by wrongdoing - We will make him taste of a painful punishment.",
+    "text_ug": "كاپىرلارغا، (كىشىلەرنى) ئاللاھنىڭ يولىدىن توسقۇچىلارغا _ ئۇ ئولتۇرۇشلۇق بولسۇن ياكى سىرتتىن كەلگەن بولسۇن _ بىز كىشىلەرگە ئىبادەتگاھ قىلغان مەسجىدى ھەرەمدىن توسقۇچىلارغا (يەنى ھەج پەرزنى ئادا قىلىش ئۈچۈن مەسجىدى ھەرەمگە كەلگەن مۆمىنلەرنى توسقۇچىلارغا) (قاتتىق ئازابنى تېتىتىمىز)، كىمكى مەسجىدى ھەرەمدە زۇلۇم بىلەن گۇناھ قىلماقچى بولىدىكەن، ئۇنىڭغا قاتتىق ئازابنى تېتىتىمىز"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 26,
+    "text_ar": "وَإِذۡ بَوَّأۡنَا لِإِبۡرَٰهِيمَ مَكَانَ ٱلۡبَيۡتِ أَن لَّا تُشۡرِكۡ بِي شَيۡـٔٗا وَطَهِّرۡ بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+    "text_en": "And [mention, O Muḥammad], when We designated for Abraham the site of the House, [saying], \"Do not associate anything with Me and purify My House for those who perform ṭawāf and those who stand [in prayer] and those who bow and prostrate.",
+    "text_ug": "ئۆز ۋاقتىدا ئىبراھىمغا بەيتۇللاھنىڭ ئورنىنى تەيىنلەپ بەردۇق، (ئۇنىڭغا ئېيتتۇقكى) «ماڭا ھېچ نەرسىنى شېرىك كەلتۈرمىگىن، تاۋاپ قىلغۇچىلارغا، قىيامدا تۇرغۇچىلارغا، رۇكۇ قىلغۇچىلارغا، سەجدە قىلغۇچىلارغا مېنىڭ ئۆيۈمنى پاك قىلغىن"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 27,
+    "text_ar": "وَأَذِّن فِي ٱلنَّاسِ بِٱلۡحَجِّ يَأۡتُوكَ رِجَالٗا وَعَلَىٰ كُلِّ ضَامِرٖ يَأۡتِينَ مِن كُلِّ فَجٍّ عَمِيقٖ",
+    "text_en": "And proclaim to the people the ḥajj [pilgrimage]; they will come to you on foot and on every lean camel; they will come from every distant pass -",
+    "text_ug": "كىشىلەرنىڭ ئارىسىدا (ئۇلارنى) ھەجگە چاقىرىپ نىدا قىلغىن، ئۇلار پىيادە ۋە ئورۇق تۆگىلەرگە مىنىپ كېلىدۇ، ئورۇق تۆگىلەر يىراق يوللارنى بېسىپ كېلىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 28,
+    "text_ar": "لِّيَشۡهَدُواْ مَنَٰفِعَ لَهُمۡ وَيَذۡكُرُواْ ٱسۡمَ ٱللَّهِ فِيٓ أَيَّامٖ مَّعۡلُومَٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلۡأَنۡعَٰمِۖ فَكُلُواْ مِنۡهَا وَأَطۡعِمُواْ ٱلۡبَآئِسَ ٱلۡفَقِيرَ",
+    "text_en": "That they may witness [i.e., attend] benefits for themselves and mention the name of Allāh on known [i.e., specific] days over what He has provided for them of [sacrificial] animals. So eat of them and feed the miserable and poor.",
+    "text_ug": "كىشىلەر ئۆزلىرىگە تېگىشلىك بولغان (دىنىي ۋە دۇنياۋى) مەنپەئەتلەرنى كۆرسۇن، بەلگىلەنگەن كۈنلەردە (يەنى قۇربانلىق كۈنلىرىدە) ئاللاھ ئۇلارغا رىزىق قىلىپ بەرگەن چارۋا ماللارنى (يەنى تۆگە، قوي، ئۆچكىلەرنى ئاللاھنىڭ نېمەتلىرىگە شۈكۈر قىلىش يۈزىسىدىن) ئاللاھنىڭ ئىسمىنى ئېيتىپ قۇربانلىق قىلسۇن». سىلەر قۇربانلىقىڭلارنىڭ گۆشىدىن يەڭلار، موھتاجقا، پېقىرغا بېرىڭلار"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 29,
+    "text_ar": "ثُمَّ لۡيَقۡضُواْ تَفَثَهُمۡ وَلۡيُوفُواْ نُذُورَهُمۡ وَلۡيَطَّوَّفُواْ بِٱلۡبَيۡتِ ٱلۡعَتِيقِ",
+    "text_en": "Then let them end their untidiness and fulfill their vows and perform ṭawāf around the ancient House.\"",
+    "text_ug": "ئاندىن ئۇلار كىرلىرىنى تازىلىسۇن (يەنى ئېھرامدىن چىققاندىن كېيىن چاچلىرىنى، تىرناقلىرىنى ئالسۇن)، ئۆز ئۈستىگە ئالغان ئىبادەتلىرىنى ئادا قىلسۇن، قەدىمىي بەيت (يەنى بەيتۇللاھنى) تاۋاپ قىلسۇن"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 30,
+    "text_ar": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرٞ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ",
+    "text_en": "That [has been commanded], and whoever honors the sacred ordinances of Allāh - it is best for him in the sight of his Lord. And permitted to you are the grazing livestock, except what is recited to you. So avoid the uncleanliness of idols and avoid false statement,",
+    "text_ug": "(ھەج ئىبادىتى) ئەنە شۇدۇر، كىمكى ئاللاھنىڭ دىنىنىڭ ئەھكاملىرىنى ئۇلۇغلىسا (يەنى ھەج جەريانىدا ئاللاھنىڭ بۇيرۇغانلىرىنى بەجا كەلتۈرۈپ، مەنئى قىلغان ئىشلىرىدىن چەكلەنسە)، بۇ، پەرۋەردىگارنىڭ دەرگاھىدا ئۇنىڭ (دۇنيا ۋە ئاخىرەتلىكى) ئۈچۈن ياخشىدۇر، سىلەرگە چاھارپايلاردىن قۇرئاندا (ھاراملىقى) بايان قىلىنغانلىرىدىن باشقىلىرى ھالال قىلىندى. سىلەر بۇتلاردىن ئىبارەت نىجىستىن ساقلىنىڭلار، يالغان گۇۋاھلىق بېرىشتىن ساقلىنىڭلار"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 31,
+    "text_ar": "حُنَفَآءَ لِلَّهِ غَيۡرَ مُشۡرِكِينَ بِهِۦۚ وَمَن يُشۡرِكۡ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخۡطَفُهُ ٱلطَّيۡرُ أَوۡ تَهۡوِي بِهِ ٱلرِّيحُ فِي مَكَانٖ سَحِيقٖ",
+    "text_en": "Inclining [only] to Allāh, not associating [anything] with Him. And he who associates with Allāh - it is as though he had fallen from the sky and was snatched by the birds or the wind carried him down into a remote place.",
+    "text_ug": "ئاللاھقا خالىس ئىبادەت قىلىڭلار، ئۇنىڭغا شېرىك كەلتۈرمەڭلار، كىمكى ئاللاھقا شېرىك كەلتۈرىدىكەن، ئۇ گويا ئاسماندىن تاشلىنىپ، قۇشلار ئۇنى ئېلىپ قاچقاندەك ياكى بوران ئۇنى ئېلىپ بېرىپ يىراق جايغا تاشلىۋەتكەندەك بولۇپ قالىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 32,
+    "text_ar": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ شَعَٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقۡوَى ٱلۡقُلُوبِ",
+    "text_en": "That [is so]. And whoever honors the symbols [i.e., rites] of Allāh - indeed, it is from the piety of hearts.",
+    "text_ug": "ئىش مانا شۇنداق، كىمكى دىنىي ئىشلارنى (جۈملىدىن ھەجنىڭ ئەمەللىرىنى، قۇربانلىقلارنى) ئۇلۇغلايدىكەن، بۇ، دىللارنىڭ تەقۋادارلىقىدىندۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 33,
+    "text_ar": "لَكُمۡ فِيهَا مَنَٰفِعُ إِلَىٰٓ أَجَلٖ مُّسَمّٗى ثُمَّ مَحِلُّهَآ إِلَى ٱلۡبَيۡتِ ٱلۡعَتِيقِ",
+    "text_en": "For you therein [i.e., the animals marked for sacrifice] are benefits for a specified term; then their place of sacrifice is at the ancient House.",
+    "text_ug": "مۇئەييەن مۇددەتكىچە (يەنى بوغۇزلايدىغان ۋاقىتقىچە قۇربانلىق ماللىرىدىن (سېغىپ، نەسىللەندۈرۈپ، مىنىپ) پايدىلىنىسىلەر، ئاندىن ئۇنى بوغۇزلاشقا تېگىشلىك جاي بەيتۇللاھنىڭ يېنىدۇر (يەنى ھەرەمدۇر)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 34,
+    "text_ar": "وَلِكُلِّ أُمَّةٖ جَعَلۡنَا مَنسَكٗا لِّيَذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلۡأَنۡعَٰمِۗ فَإِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞ فَلَهُۥٓ أَسۡلِمُواْۗ وَبَشِّرِ ٱلۡمُخۡبِتِينَ",
+    "text_en": "And for every [religious] community We have appointed a rite [of sacrifice] that they may mention the name of Allāh over what He has provided for them of [sacrificial] animals. For your god is one God, so to Him submit. And, [O Muḥammad], give good tidings to the humble [before their Lord]",
+    "text_ug": "ھەر ئۈممەت ئاللاھ ئۇلارغا رىزىق قىلىپ بەرگەن چارۋىلارنى (شۈكۈر قىلىش يۈزىسىدىن قۇربانلىق قىلغانلىرىدا) ئاللاھنىڭ ئىسمىنى ئېيتسۇن دەپ، ئۇلارغا قۇربانلىقنى بەلگىلىدۇق، سىلەرنىڭ ئىلاھىڭلار بىر ئىلاھتۇر، ئۇنىڭغا بويسۇنۇڭلار، ئىتائەتمەنلەرگە خۇشخەۋەر بەرگىن"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 35,
+    "text_ar": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَٱلصَّٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمۡ وَٱلۡمُقِيمِي ٱلصَّلَوٰةِ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+    "text_en": "Who, when Allāh is mentioned, their hearts are fearful, and [to] the patient over what has afflicted them, and the establishers of prayer and those who spend from what We have provided them.",
+    "text_ug": "ئۇلار شۇنداق كىشىلەركى ئاللاھ ياد ئېتىلسە، ئۇلارنىڭ دىللىرى قورقۇپ (تىترەيدۇ)، ئۆزلىرىگە يەتكەن ئەزىيەتلەرگە سەۋر قىلىدۇ، ناماز ئۆتەيدۇ، ئۇلارغا بىز رىزىق قىلىپ بەرگەن نەرسىلەردىن (ياخشىلىق يوللىرىغا) بېرىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 36,
+    "text_ar": "وَٱلۡبُدۡنَ جَعَلۡنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمۡ فِيهَا خَيۡرٞۖ فَٱذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَيۡهَا صَوَآفَّۖ فَإِذَا وَجَبَتۡ جُنُوبُهَا فَكُلُواْ مِنۡهَا وَأَطۡعِمُواْ ٱلۡقَانِعَ وَٱلۡمُعۡتَرَّۚ كَذَٰلِكَ سَخَّرۡنَٰهَا لَكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ",
+    "text_en": "And the camels and cattle We have appointed for you as among the symbols [i.e., rites] of Allāh; for you therein is good. So mention the name of Allāh upon them when lined up [for sacrifice]; and when they are [lifeless] on their sides, then eat from them and feed the needy [who does not seek aid] and the beggar. Thus have We subjected them to you that you may be grateful.",
+    "text_ug": "(كەبىگە ئېلىپ بېرىلىدىغان) تۆگىنى ئاللاھنىڭ (دىننىڭ) ئالامەتلىرىدىن (يەنى ھەجنىڭ ئەھكاملىرىدىن) قىلدۇق، ئۇلاردا سىلەرگە نۇرغۇن پايدا بار، ئۇلارنى قاتار قىلىپ تۇرغۇزۇپ (يەنى ئۇلارنىڭ ئالدى سول پۇتىنى باغلاپ، ئۈچ پۇت بىلەن تۇرغۇزۇپ بوغۇزلىغىنىڭلاردا) ئاللاھنىڭ ئىسمىنى تىلغا ئېلىڭلار (يەنى بىسمىللاھ دەڭلار)، ئۇلار بوغۇزلىنىپ جېنى چىققاندا، ئۇلارنى يەڭلار، قانائەتچان موھتاجلارغا ۋە سائىللارغا بېرىڭلار، سىلەرنى شۈكۈر قىلسۇن دەپ ئۇ تۆگىلەرنى سىلەرگە بويسۇندۇرۇپ بەردۇق"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 37,
+    "text_ar": "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقۡوَىٰ مِنكُمۡۚ كَذَٰلِكَ سَخَّرَهَا لَكُمۡ لِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡۗ وَبَشِّرِ ٱلۡمُحۡسِنِينَ",
+    "text_en": "Their meat will not reach Allāh, nor will their blood, but what reaches Him is piety from you. Thus have We subjected them to you that you may glorify Allāh for that [to] which He has guided you; and give good tidings to the doers of good.",
+    "text_ug": "ئاللاھقا ئۇلارنىڭ گۆشلىرى ۋە قانلىرى يېتىپ بارمايدۇ، ئاللاھقا يېتىدىغىنى پەقەت سىلەرنىڭ تەقۋادارلىقىڭلاردۇر، ئاللاھنىڭ سىلەرنىڭ ئۆزىنىڭ ئەھكاملىرىغا يېتەكلىگەنلىكىنى ئۇلۇغلىشىڭلار ئۈچۈن، ئاللاھ ئۇلارنى سىلەرگە ئاشۇنداق بويسۇندۇرۇپ بەردى. ياخشى ئىش قىلغۇچىلارغا (ئاخىرەتتە بەختكە ئېرىشىدىغانلىقى بىلەن) خۇشخەۋەر بەرگىن"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 38,
+    "text_ar": "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓاْۗ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٖ كَفُورٍ",
+    "text_en": "Indeed, Allāh defends those who have believed. Indeed, Allāh does not like everyone treacherous and ungrateful.",
+    "text_ug": "ئاللاھ مۆمىنلەرنى چوقۇم قوغدايدۇ، ئاللاھ ھەر قانداق خىيانەتچى، ناشۈكۈر بەندىنى دوست تۇتمايدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 39,
+    "text_ar": "أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمۡ ظُلِمُواْۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصۡرِهِمۡ لَقَدِيرٌ",
+    "text_en": "Permission [to fight] has been given to those who are being fought, because they were wronged. And indeed, Allāh is competent to give them victory.",
+    "text_ug": "ھۇجۇم قىلىنغۇچىلارغا، زۇلۇمغا ئۇچرىغانلىقلىرى ئۈچۈن، (قارشىلىق كۆرسىتىشكە) رۇخسەت قىلىندى، ئاللاھ ئۇلارغا ياردەم بېرىشكە ئەلۋەتتە قادىر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 40,
+    "text_ar": "ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِم بِغَيۡرِ حَقٍّ إِلَّآ أَن يَقُولُواْ رَبُّنَا ٱللَّهُۗ وَلَوۡلَا دَفۡعُ ٱللَّهِ ٱلنَّاسَ بَعۡضَهُم بِبَعۡضٖ لَّهُدِّمَتۡ صَوَٰمِعُ وَبِيَعٞ وَصَلَوَٰتٞ وَمَسَٰجِدُ يُذۡكَرُ فِيهَا ٱسۡمُ ٱللَّهِ كَثِيرٗاۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ",
+    "text_en": "[They are] those who have been evicted from their homes without right - only because they say, \"Our Lord is Allāh.\" And were it not that Allāh checks the people, some by means of others, there would have been demolished monasteries, churches, synagogues, and mosques in which the name of Allāh is much mentioned [i.e., praised]. And Allāh will surely support those who support Him [i.e., His cause]. Indeed, Allāh is Powerful and Exalted in Might.",
+    "text_ug": "(ئۇلار) پەقەت پەرۋەردىگارىمىز ئاللاھ دېگەنلىكلىرى ئۈچۈنلا ئۆز يۇرتلىرىدىن ناھەق ھەيدەپ چىقىرىلدى. ئەگەر ئاللاھ ئىنسانلارنى بىر ـ بىرىگە قارشىلىق كۆرسەتكۈزمىگەن بولسا، راھىبلارنىڭ ئىبادەتخانىلىرى، چېركاۋلار، يەھۇدىيلارنىڭ ئىبادەتخانىلىرى ۋە ئاللاھنىڭ نامى كۆپ يادلىنىدىغان مەسجىدلەر ئەلۋەتتە ۋەيران قىلىناتتى. كىمكى ئاللاھنىڭ دىنىغا ياردەم بېرىدىكەن، ئەلۋەتتە ئاللاھ ئۇنىڭغا ياردەم بېرىدۇ، ئاللاھ ئەلۋەتتە كۈچلۈكتۇر، غالىبتۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 41,
+    "text_ar": "ٱلَّذِينَ إِن مَّكَّنَّٰهُمۡ فِي ٱلۡأَرۡضِ أَقَامُواْ ٱلصَّلَوٰةَ وَءَاتَوُاْ ٱلزَّكَوٰةَ وَأَمَرُواْ بِٱلۡمَعۡرُوفِ وَنَهَوۡاْ عَنِ ٱلۡمُنكَرِۗ وَلِلَّهِ عَٰقِبَةُ ٱلۡأُمُورِ",
+    "text_en": "[And they are] those who, if We give them authority in the land, establish prayer and give zakāh and enjoin what is right and forbid what is wrong. And to Allāh belongs the outcome of [all] matters.",
+    "text_ug": "(ئاللاھنىڭ ياردىمىگە ئېرىشىشكە ھەقلىق بولغانلار) شۇنداق كىشىلەردۇركى، ئەگەر ئۇلارنى يەر يۈزىدە ئۈستۈنلۈككە ئىگە قىلساق، نامازنى ئادا قىلىدۇ، زاكات بېرىدۇ، ياخشى ئىشلارغا بۇيرۇيدۇ، يامان ئىشلاردىن توسىدۇ. ئىشلارنىڭ ئاقىۋىتى ئاللاھقا مەنسۇپتۇر (يەنى ھەممە ئىشلار ئاخىرەتتە ئاللاھقا قايتىدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 42,
+    "text_ar": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَعَادٞ وَثَمُودُ",
+    "text_en": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets],",
+    "text_ug": "ئەگەر (مەككە مۇشرىكلىرى) سېنى ئىنكار قىلسا (سەن تۇنجى ئىنكار قىلىنغۇچى پەيغەمبەر ئەمەسسەن، سەندىن بۇرۇنقى پەيغەمبەرلەر ئىنكار قىلىنىپ سەۋر قىلىشقان)، ئۇلاردىن بۇرۇن نۇھنىڭ قەۋمى ئاد (خەلقى)، سەمۇد (خەلقى)، ئىبراھىمنىڭ قەۋمى، لۇتنىڭ قەۋمى، مەديەن ئاھالىسى (پەيغەمبەرلىرىنى) ئىنكار قىلغان، مۇسامۇ ئىنكار قىلىنغان، كاپىرلارغا مۆھلەت بەردىم، ئاندىن ئۇلارنى جازالىدىم، مېنىڭ (ئۇلارغا بەرگەن) جازايىم قانداق ئىكەن؟(42 ـ 44)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 43,
+    "text_ar": "وَقَوۡمُ إِبۡرَٰهِيمَ وَقَوۡمُ لُوطٖ",
+    "text_en": "And the people of Abraham and the people of Lot",
+    "text_ug": "ئەگەر (مەككە مۇشرىكلىرى) سېنى ئىنكار قىلسا (سەن تۇنجى ئىنكار قىلىنغۇچى پەيغەمبەر ئەمەسسەن، سەندىن بۇرۇنقى پەيغەمبەرلەر ئىنكار قىلىنىپ سەۋر قىلىشقان)، ئۇلاردىن بۇرۇن نۇھنىڭ قەۋمى ئاد (خەلقى)، سەمۇد (خەلقى)، ئىبراھىمنىڭ قەۋمى، لۇتنىڭ قەۋمى، مەديەن ئاھالىسى (پەيغەمبەرلىرىنى) ئىنكار قىلغان، مۇسامۇ ئىنكار قىلىنغان، كاپىرلارغا مۆھلەت بەردىم، ئاندىن ئۇلارنى جازالىدىم، مېنىڭ (ئۇلارغا بەرگەن) جازايىم قانداق ئىكەن؟(42 ـ 44)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 44,
+    "text_ar": "وَأَصۡحَٰبُ مَدۡيَنَۖ وَكُذِّبَ مُوسَىٰۖ فَأَمۡلَيۡتُ لِلۡكَٰفِرِينَ ثُمَّ أَخَذۡتُهُمۡۖ فَكَيۡفَ كَانَ نَكِيرِ",
+    "text_en": "And the inhabitants of Madyan. And Moses was denied, so I prolonged enjoyment for the disbelievers; then I seized them, and how [terrible] was My reproach.",
+    "text_ug": "ئەگەر (مەككە مۇشرىكلىرى) سېنى ئىنكار قىلسا (سەن تۇنجى ئىنكار قىلىنغۇچى پەيغەمبەر ئەمەسسەن، سەندىن بۇرۇنقى پەيغەمبەرلەر ئىنكار قىلىنىپ سەۋر قىلىشقان)، ئۇلاردىن بۇرۇن نۇھنىڭ قەۋمى ئاد (خەلقى)، سەمۇد (خەلقى)، ئىبراھىمنىڭ قەۋمى، لۇتنىڭ قەۋمى، مەديەن ئاھالىسى (پەيغەمبەرلىرىنى) ئىنكار قىلغان، مۇسامۇ ئىنكار قىلىنغان، كاپىرلارغا مۆھلەت بەردىم، ئاندىن ئۇلارنى جازالىدىم، مېنىڭ (ئۇلارغا بەرگەن) جازايىم قانداق ئىكەن؟(42 ـ 44)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 45,
+    "text_ar": "فَكَأَيِّن مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَا وَهِيَ ظَالِمَةٞ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئۡرٖ مُّعَطَّلَةٖ وَقَصۡرٖ مَّشِيدٍ",
+    "text_en": "And how many a city did We destroy while it was committing wrong - so it is [now] fallen into ruin - and [how many] an abandoned well and [how many] a lofty palace.",
+    "text_ug": "نۇرغۇن شەھەر ئاھالىلىرىنى زالىم بولغانلىقلىرى ئۈچۈن ھالاك قىلدۇق. شۇنىڭ بىلەن (شەھەرنىڭ ئۆيلىرىنىڭ) ئۆگزىلىرى ئۆرۈلۈپ، ئۈستىگە تاملىرى يىقىلغان، نۇرغۇن تاشلاندۇق قۇدۇقلار ۋە ئېگىز ئىمارەتلەر (ئاھالىسىز) قالغان"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 46,
+    "text_ar": "أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَتَكُونَ لَهُمۡ قُلُوبٞ يَعۡقِلُونَ بِهَآ أَوۡ ءَاذَانٞ يَسۡمَعُونَ بِهَاۖ فَإِنَّهَا لَا تَعۡمَى ٱلۡأَبۡصَٰرُ وَلَٰكِن تَعۡمَى ٱلۡقُلُوبُ ٱلَّتِي فِي ٱلصُّدُورِ",
+    "text_en": "So have they not traveled through the earth and have hearts by which to reason and ears by which to hear? For indeed, it is not eyes that are blinded, but blinded are the hearts which are within the breasts.",
+    "text_ug": "ئۇلار زېمىندا سەير قىلمىدىمۇ؟ شۇنىڭ بىلەن ئۇلار (يەنى سەير قىلىپ) چۈشىنىدىغان دىللارغا ياكى ئاڭلايدىغان قۇلاقلارغا ئىگە بولمىدىمۇ؟ ھەقىقەتەن كۆزلەرلا كور بولمايدۇ، لېكىن كۆكرەكلەردىكى قەلبلەر كور بولىدۇ (يەنى ھەقىقىي كورلۇق كۆزنىڭ كورلۇقى ئەمەس، دىلنىڭ كورلۇقىدۇر، قەلبى كور ئادەم ئىبرەت ئالمايدۇ ۋە چۈشەنمەيدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 47,
+    "text_ar": "وَيَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَن يُخۡلِفَ ٱللَّهُ وَعۡدَهُۥۚ وَإِنَّ يَوۡمًا عِندَ رَبِّكَ كَأَلۡفِ سَنَةٖ مِّمَّا تَعُدُّونَ",
+    "text_en": "And they urge you to hasten the punishment. But Allāh will never fail in His promise. And indeed, a day with your Lord is like a thousand years of those which you count.",
+    "text_ug": "(ئى مۇھەممەد!) ئۇلار (يەنى مۇشرىكلار) (مەسخىرە قىلىش يۈزىسىدىن سەندىن ئازابنىڭ تېز نازىل بولۇشىنى تەلەپ قىلىدۇ (ئازاب چوقۇم نازىل بولىدۇ، لېكىن ئۇنىڭ نازىل بولۇشىنىڭ مۇئەييەن ۋاقتى ـ سائىتى بولىدۇ)، ئاللاھ ۋەدىسىگە ھەرگىز خىلاپلىق قىلمايدۇ (ئاللاھ بەندىلىرىنى جازالاشقا ئالدىراپ كەتمەيدۇ)، ھەقىقەتەن پەرۋەردىگارىڭنىڭ دەرگاھىدىكى بىر كۈن سىلەر سانايدىغان مىڭ يىلچىلىكتۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 48,
+    "text_ar": "وَكَأَيِّن مِّن قَرۡيَةٍ أَمۡلَيۡتُ لَهَا وَهِيَ ظَالِمَةٞ ثُمَّ أَخَذۡتُهَا وَإِلَيَّ ٱلۡمَصِيرُ",
+    "text_en": "And for how many a city did I prolong enjoyment while it was committing wrong. Then I seized it, and to Me is the [final] destination.",
+    "text_ug": "نۇرغۇن شەھەر ئاھالىلىرى زالىم تۇرۇقلۇق، ئۇلارغا مەن مۆھلەت بەردىم (ئۇلار بۇ مۆھلەتكە مەغرۇر بولۇپ كەتتى)، ئاندىن (يەنى ئۇلارغا ئۇزاق مۇددەت مۆھلەت بەرگىنىمدىن كېيىن) ئۇلارنى جازالىدىم، ئاخىر قايتىدىغان جاي مېنىڭ دەرگاھىمدۇر (يەنى ئاخىر ھەممىسى ماڭا كېلىدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 49,
+    "text_ar": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمۡ نَذِيرٞ مُّبِينٞ",
+    "text_en": "Say, \"O people, I am only to you a clear warner.\"",
+    "text_ug": "(ئى مۇھەممەد! ئاللاھنىڭ ئازابىنىڭ تېز نازىل بولۇشىنى تەلەپ قىلغۇچىلارغا) ئېيتقىنكى، «ئى ئىنسانلار! سىلەرگە مەن ھەقىقەتەن ئاشكارا ئاگاھلاندۇرغۇچىمەن»"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 50,
+    "text_ar": "فَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ",
+    "text_en": "And those who have believed and done righteous deeds - for them is forgiveness and noble provision.",
+    "text_ug": "ئىمان ئېيتقانلار ۋە ياخشى ئەمەللەرنى قىلغانلار مەغپىرەتكە ۋە ئېسىل رىزىققا (يەنى جەننەتكە) ئېرىشىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 51,
+    "text_ar": "وَٱلَّذِينَ سَعَوۡاْ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ",
+    "text_en": "But the ones who strove against Our verses, [seeking] to cause failure - those are the companions of Hellfire.",
+    "text_ug": "بىزنى ئاجىز بىلىپ ئايەتلىرىمىزنى يوققا چىقىرىش ئۈچۈن تىرىشقۇچىلار ـ ئەنە شۇلار ئەھلى دوزاختۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 52,
+    "text_ar": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولٖ وَلَا نَبِيٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلۡقَى ٱلشَّيۡطَٰنُ فِيٓ أُمۡنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلۡقِي ٱلشَّيۡطَٰنُ ثُمَّ يُحۡكِمُ ٱللَّهُ ءَايَٰتِهِۦۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
+    "text_en": "And We did not send before you any messenger or prophet except that when he spoke [or recited], Satan threw into it [some misunderstanding]. But Allāh abolishes that which Satan throws in; then Allāh makes precise His verses. And Allāh is Knowing and Wise.",
+    "text_ug": "بىز سەندىن ئىلگىرى ئەۋەتكەن قايسىبىر رەسۇل، قايسىبىر پەيغەمبەر بولمىسۇن، ئۇ (ئاللاھ نازىل قىلغان ئايەتلەرنى يەتكۈزۈپ قەۋمىنىڭ ھىدايەت تېپىشىنى ئۈمىد قىلىۋاتقاندا)، شەيتان ھامان ئۇنىڭ ئۈمىدىگە (شۈبھە) سالىدۇ. ئاللاھ شەيتاننىڭ سالغان شۈبھىسىنى بەربات قىلغاندىن كېيىن ئۆزىنىڭ ئايەتلىرىنى مۇستەھكەم قىلىدۇ. ئاللاھ ھەممىنى بىلگۈچىدۇر، ھېكمەت بىلەن ئىش قىلغۇچىدۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 53,
+    "text_ar": "لِّيَجۡعَلَ مَا يُلۡقِي ٱلشَّيۡطَٰنُ فِتۡنَةٗ لِّلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡقَاسِيَةِ قُلُوبُهُمۡۗ وَإِنَّ ٱلظَّٰلِمِينَ لَفِي شِقَاقِۭ بَعِيدٖ",
+    "text_en": "[That is] so He may make what Satan throws in [i.e., asserts] a trial for those within whose hearts is disease and those hard of heart. And indeed, the wrongdoers are in extreme dissension.",
+    "text_ug": "(ئاللاھتائالانىڭ مۇنداق قىلىشى) دىللىرىدا كېسەل بارلارنى، دىللىرى قەساۋەتلىشىپ كەتكەنلەرنى (يەنى ئاللاھنىڭ زىكرىگە دىلى ئېرىمەسلەرنى) شەيتاننىڭ سالغان شۈبھىسى بىلەن سىناش ئۈچۈندۇر. زالىملار (يەنى يۇقىرىدىكى مۇناپىقلار، مۇشرىكلار) ھەقىقەتەن (ئاللاھقا ۋە ئۇنىڭ پەيغەمبىرىگە) قاتتىق ئاداۋەتتىدۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 54,
+    "text_ar": "وَلِيَعۡلَمَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ فَيُؤۡمِنُواْ بِهِۦ فَتُخۡبِتَ لَهُۥ قُلُوبُهُمۡۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ ءَامَنُوٓاْ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+    "text_en": "And so those who were given knowledge may know that it is the truth from your Lord and [therefore] believe in it, and their hearts humbly submit to it. And indeed is Allāh the Guide of those who have believed to a straight path.",
+    "text_ug": "(ئاللاھتائالانىڭ مۇنداق قىلىشى) ئىلىم ئەھلىلىرىنىڭ قۇرئاننىڭ پەرۋەردىگارىڭ تەرىپىدىن كەلگەن ھەقىقەت ئىكەنلىكىنى بىلىشلىرى، شۇنىڭ بىلەن ئۇنىڭغا ئىمان ئېيتىشلىرى، دىللىرىنىڭ قۇرئانغا بوي سۇنۇشى ئۈچۈندۇر. ئاللاھ مۆمىنلەرنى ھەقىقەتەن توغرا يولغا باشلىغۇچىدۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 55,
+    "text_ar": "وَلَا يَزَالُ ٱلَّذِينَ كَفَرُواْ فِي مِرۡيَةٖ مِّنۡهُ حَتَّىٰ تَأۡتِيَهُمُ ٱلسَّاعَةُ بَغۡتَةً أَوۡ يَأۡتِيَهُمۡ عَذَابُ يَوۡمٍ عَقِيمٍ",
+    "text_en": "But those who disbelieve will not cease to be in doubt of it until the Hour comes upon them unexpectedly or there comes to them the punishment of a barren Day.",
+    "text_ug": "كاپىرلار تاكى ئۇلارغا قىيامەت ئۇشتۇمتۇت كەلگۈچە ياكى ئۇلارغا قىيامەت كۈنىنىڭ ئازابى يەتكۈچە قۇرئاندىن ھامان شەكلىنىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 56,
+    "text_ar": "ٱلۡمُلۡكُ يَوۡمَئِذٖ لِّلَّهِ يَحۡكُمُ بَيۡنَهُمۡۚ فَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فِي جَنَّٰتِ ٱلنَّعِيمِ",
+    "text_en": "[All] sovereignty that Day is for Allāh; He will judge between them. So they who believed and did righteous deeds will be in the Gardens of Pleasure.",
+    "text_ug": "بۇ كۈندە پادىشاھلىق (يالغۇز) ئاللاھقا خاستۇر، ئاللاھ بەندىلەر ئارىسىدا (ئادىل) ھۆكۈم چىقىرىدۇ، ئىمان ئېيتقان ۋە ياخشى ئەمەللەرنى قىلغانلار (تۈرلۈك) نازۇ- نېمەتلەر بار جەننەتلەردە بولىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 57,
+    "text_ar": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَا فَأُوْلَٰٓئِكَ لَهُمۡ عَذَابٞ مُّهِينٞ",
+    "text_en": "And they who disbelieved and denied Our signs - for those there will be a humiliating punishment.",
+    "text_ug": "كاپىرلار ۋە بىزنىڭ ئايەتلىرىمىزنى ئىنكار قىلغانلار (دوزاختا) خار قىلغۇچى ئازابقا دۇچار بولىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 58,
+    "text_ar": "وَٱلَّذِينَ هَاجَرُواْ فِي سَبِيلِ ٱللَّهِ ثُمَّ قُتِلُوٓاْ أَوۡ مَاتُواْ لَيَرۡزُقَنَّهُمُ ٱللَّهُ رِزۡقًا حَسَنٗاۚ وَإِنَّ ٱللَّهَ لَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ",
+    "text_en": "And those who emigrated for the cause of Allāh and then were killed or died - Allāh will surely provide for them a good provision. And indeed, it is Allāh who is the best of providers.",
+    "text_ug": "ئاللاھنىڭ يولىدا ھىجرەت قىلغانلارغا، ئاندىن (جىھاد قىلىپ) ئۆلتۈرۈلگەنلەرگە ياكى (كېسەل بىلەن) ئۆلگەنلەرگە ئاللاھ چوقۇم ياخشى رىزىق (يەنى جەننەتنىڭ مەڭگۈلۈك نېمەتلىرىنى) ئاتا قىلىدۇ. رىزىق بەرگۈچىلەرنىڭ ئەڭ ياخشىسى ھەقىقەتەن يالغۇز ئاللاھتۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 59,
+    "text_ar": "لَيُدۡخِلَنَّهُم مُّدۡخَلٗا يَرۡضَوۡنَهُۥۚ وَإِنَّ ٱللَّهَ لَعَلِيمٌ حَلِيمٞ",
+    "text_en": "He will surely cause them to enter an entrance with which they will be pleased, and indeed, Allāh is Knowing and Forbearing.",
+    "text_ug": "ئاللاھ ئۇلارنى ئەلۋەتتە ئۇلار مەمنۇن بولىدىغان جايغا (يەنى جەننەتكە) كىرگۈزىدۇ، ئاللاھ ھەقىقەتەن (ئۇلارنى مەمنۇن قىلىدىغان نەرسىلەرنى) بىلگۈچىدۇر، ھەلىمدۇر (يەنى ئۇلارنىڭ دۈشمەنلىرىنى جازالاشقا ئالدىراپ كەتمەيدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 60,
+    "text_ar": "۞ ذَٰلِكَۖ وَمَنۡ عَاقَبَ بِمِثۡلِ مَا عُوقِبَ بِهِۦ ثُمَّ بُغِيَ عَلَيۡهِ لَيَنصُرَنَّهُ ٱللَّهُۚ إِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٞ",
+    "text_en": "That [is so]. And whoever responds [to injustice] with the equivalent of that with which he was harmed and then is tyrannized - Allāh will surely aid him. Indeed, Allāh is Pardoning and Forgiving.",
+    "text_ug": "ئىش مانا شۇنداق، كىمكى قانچىلىك زۇلۇمغا ئۇچراپ شۇنچىلىك ئىنتىقامىنى ئالغان بولسا، ئاندىن يەنە زۇلۇمغا ئۇچرىسا، ئاللاھ ئۇنىڭغا چوقۇم ياردەم بېرىدۇ، ئاللاھ ھەقىقەتەن ناھايىتى ئەپۇ قىلغۇچىدۇر، ناھايىتى مەغپىرەت قىلغۇچىدۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 61,
+    "text_ar": "ذَٰلِكَ بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِ وَأَنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٞ",
+    "text_en": "That is because Allāh causes the night to enter the day and causes the day to enter the night and because Allāh is Hearing and Seeing.",
+    "text_ug": "(شۇ نەرسە ئاللاھنىڭ قۇدرىتىنىڭ ئالامەتلىرىدىندۇركى) ئاللاھ كېچىنى كۈندۈزگە، كۈندۈزنى كېچىگە كىرگۈزىدۇ (شۇنىڭ بىلەن كېچە ـ كۈندۈزنىڭ ئۇزۇن ـ قىسقا بولۇشى پەسىللەر بويىچە نۆۋەتلىشىپ تۇرىدۇ)، ئاللاھ (بەندىلىرىنىڭ سۆزلىرىنى) ئاڭلاپ تۇرغۇچىدۇر، (ئەھۋالىنى) كۆرۈپ تۇرغۇچىدۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 62,
+    "text_ar": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِۦ هُوَ ٱلۡبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
+    "text_en": "That is because Allāh is the True Reality, and that which they call upon other than Him is falsehood, and because Allāh is the Most High, the Grand.",
+    "text_ug": "(بۇ قۇدرەت) شۇنىڭ ئۈچۈندۇركى، ئاللاھ ھەقتۇر، (مۇشرىكلارنىڭ) ئاللاھنى قويۇپ ئىبادەت قىلىدىغان نەرسىلىرى (يەنى بۇتلىرى) باتىلدۇر، ئاللاھ (ھەممە نەرسىدىن) ئۈستۈندۇر، بۈيۈكتۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 63,
+    "text_ar": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَتُصۡبِحُ ٱلۡأَرۡضُ مُخۡضَرَّةًۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٞ",
+    "text_en": "Do you not see that Allāh has sent down rain from the sky and the earth becomes green? Indeed, Allāh is Subtle and Aware.",
+    "text_ug": "ئاللاھنىڭ بۇلۇتتىن يامغۇر ياغدۇرۇپ بېرىدىغانلىقىنى، شۇنىڭ بىلەن زېمىننى يېشىلزارلىققا ئايلاندۇرىدىغانلىقىنى كۆرمىدىڭمۇ؟ ئاللاھ ھەقىقەتەن ناھايىتى مېھرىباندۇر، ھەممىدىن خەۋەرداردۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 64,
+    "text_ar": "لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ",
+    "text_en": "To Him belongs what is in the heavens and what is on the earth. And indeed, Allāh is the Free of need, the Praiseworthy.",
+    "text_ug": "ئاسمانلاردىكى ۋە زېمىندىكى شەيئىلەرنىڭ ھەممىسى ئاللاھنىڭدۇر (يەنى ئاللاھنىڭ مۈلكىدۇر، ئاللاھنىڭ مەخلۇقاتىدۇر، ئاللاھنىڭ تەسەررۇپى ئاستىدىدۇر)، ئاللاھ ھەقىقەتەن ھەممىدىن بىھاجەتتۇر، ھەمدۇساناغا لايىقتۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 65,
+    "text_ar": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِي ٱلۡأَرۡضِ وَٱلۡفُلۡكَ تَجۡرِي فِي ٱلۡبَحۡرِ بِأَمۡرِهِۦ وَيُمۡسِكُ ٱلسَّمَآءَ أَن تَقَعَ عَلَى ٱلۡأَرۡضِ إِلَّا بِإِذۡنِهِۦٓۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ",
+    "text_en": "Do you not see that Allāh has subjected to you whatever is on the earth and the ships which run through the sea by His command? And He restrains the sky from falling upon the earth, unless by His permission. Indeed Allāh, to the people, is Kind and Merciful.",
+    "text_ug": "ئاللاھنىڭ يەر يۈزىدىكى نەرسىلەرنى، ئۆزىنىڭ ئەمرى بويىچە دېڭىزدا يۈرۈۋاتقان كېمىلەرنى سىلەرگە بويسۇندۇرۇپ بەرگەنلىكىنى كۆرمىدىڭمۇ؟ (ئاسماننىڭ زېمىنغا چۈشۈپ كەتمەسلىكى ئۈچۈن، ئاللاھ ئاسماننى توختىتىپ تۇرىدۇ، پەقەت ئاللاھنىڭ ئىزنى بىلەن (ئاسماننىڭ قىيامەت بولغان چاغدا) چۈشۈپ كېتىشى بۇنىڭدىن مۇستەسنا. ئاللاھ ئىنسانلارغا ھەقىقەتەن ناھايىتى شەپقەتلىكتۇر، ناھايىتى مېھرىباندۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 66,
+    "text_ar": "وَهُوَ ٱلَّذِيٓ أَحۡيَاكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡۗ إِنَّ ٱلۡإِنسَٰنَ لَكَفُورٞ",
+    "text_en": "And He is the one who gave you life; then He causes you to die and then will [again] give you life. Indeed, mankind is ungrateful.",
+    "text_ug": "ئاللاھ سىلەرگە ھاياتلىق بېرىدۇ، ئاندىن سىلەرنىڭ جېنىڭلارنى ئالىدۇ، ئاندىن سىلەرنى تىرىلدۈرىدۇ، ئىنسان ھەقىقەتەن (ئاللاھنىڭ نېمەتلىرىگە) ناشۈكۈرلۈك قىلغۇچىدۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 67,
+    "text_ar": "لِّكُلِّ أُمَّةٖ جَعَلۡنَا مَنسَكًا هُمۡ نَاسِكُوهُۖ فَلَا يُنَٰزِعُنَّكَ فِي ٱلۡأَمۡرِۚ وَٱدۡعُ إِلَىٰ رَبِّكَۖ إِنَّكَ لَعَلَىٰ هُدٗى مُّسۡتَقِيمٖ",
+    "text_en": "For every [religious] community We have appointed rites which they perform. So, [O Muḥammad], let them [i.e., the disbelievers] not contend with you over the matter but invite [them] to your Lord. Indeed, you are upon straight guidance.",
+    "text_ug": "ھەر ئۈممەت ئۈچۈن بىر شەرىئەت بېكىتتۇق، ئۇلار شۇ شەرىئەتكە ئەمەل قىلىدۇ، (مۇشرىكلار) شەرىئەت ئىشىدا سەن بىلەن جېدەللەشمىسۇن، كىشىلەرنى پەرۋەردىگارىڭنىڭ (ئىبادىتىگە) دەۋەت قىلغىن، سەن ھەقىقەتەن شەكسىز توغرا يولدىدۇرسەن"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 68,
+    "text_ar": "وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعۡلَمُ بِمَا تَعۡمَلُونَ",
+    "text_en": "And if they dispute with you, then say, \"Allāh is most knowing of what you do.",
+    "text_ug": "ئەگەر ئۇلار سەن بىلەن جېدەللەشسە، ئېيتقىنكى، «ئاللاھ سىلەرنىڭ قىلمىشىڭلارنى ئوبدان بىلىدۇ"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 69,
+    "text_ar": "ٱللَّهُ يَحۡكُمُ بَيۡنَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+    "text_en": "Allāh will judge between you on the Day of Resurrection concerning that over which you used to differ.\"",
+    "text_ug": "ئاللاھ قىيامەت كۈنى سىلەر ئىختىلاپ قىلىشقان نەرسىلەر ئۈستىدە ھۆكۈم چىقىرىدۇ»"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 70,
+    "text_ar": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ إِنَّ ذَٰلِكَ فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
+    "text_en": "Do you not know that Allāh knows what is in the heaven and earth? Indeed, that is in a Record. Indeed that, for Allāh, is easy.",
+    "text_ug": "بىلمەمسەنكى، ئاللاھ ئاسمان، زېمىندىكى شەيئىلەرنى بىلىپ تۇرىدۇ، بۇ ھەقىقەتەن لەۋھۇلمەھپۇزدا (يېزىلغان)، بۇ (يەنى بىلىش) ھەقىقەتەن ئاللاھقا ئاسان"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 71,
+    "text_ar": "وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗا وَمَا لَيۡسَ لَهُم بِهِۦ عِلۡمٞۗ وَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٖ",
+    "text_en": "And they worship besides Allāh that for which He has not sent down authority and that of which they have no knowledge. And there will not be for the wrongdoers any helper.",
+    "text_ug": "ئۇلار ئاللاھنى قويۇپ، (ئىبادەت قىلىشنىڭ دۇرۇسلۇقىغا) ئاللاھ ھېچقانداق دەلىل چۈشۈرمىگەن نەرسىلەرگە ۋە ئۆزلىرى بىلمەيدىغان نەرسىلەرگە چوقۇنىدۇ، زالىملارغا ھېچقانداق مەدەتكار يوق"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 72,
+    "text_ar": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ تَعۡرِفُ فِي وُجُوهِ ٱلَّذِينَ كَفَرُواْ ٱلۡمُنكَرَۖ يَكَادُونَ يَسۡطُونَ بِٱلَّذِينَ يَتۡلُونَ عَلَيۡهِمۡ ءَايَٰتِنَاۗ قُلۡ أَفَأُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكُمُۚ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُواْۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+    "text_en": "And when Our verses are recited to them as clear evidences, you recognize in the faces of those who disbelieve disapproval. They are almost on the verge of assaulting those who recite to them Our verses. Say, \"Then shall I inform you of [what is] worse than that? [It is] the Fire which Allāh has promised those who disbelieve, and wretched is the destination.\"",
+    "text_ug": "كاپىرلارغا بىزنىڭ روشەن ئايەتلىرىمىز ئوقۇپ بېرىلسە، ئۇلارنىڭ چېھرىلىرىدە (قوشۇمىسى تۈرۈلگەنلىكتىن) ئىنكار قىلغانلىقنى كۆرۈسەن، ئۇلارنىڭ بىزنىڭ ئايەتلىرىمىزنى ئوقۇپ بەرگۈچىلەرگە ھۇجۇم قىلغىلى تاس قىلغانلىقىنى كۆرۈسەن. ئېيتقىنكى، «سىلەرگە مەن بۇنىڭدىنمۇ يامانراقىنى ئېيتىپ بېرەيمۇ؟ ئۇ دوزاختۇر. ئاللاھ ئۇنى كاپىرلارغا ۋەدە قىلدى، ئۇلار قايتىپ بارىدىغان جاي نېمىدېگەن يامان!»"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 73,
+    "text_ar": "يَٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٞ فَٱسۡتَمِعُواْ لَهُۥٓۚ إِنَّ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ لَن يَخۡلُقُواْ ذُبَابٗا وَلَوِ ٱجۡتَمَعُواْ لَهُۥۖ وَإِن يَسۡلُبۡهُمُ ٱلذُّبَابُ شَيۡـٔٗا لَّا يَسۡتَنقِذُوهُ مِنۡهُۚ ضَعُفَ ٱلطَّالِبُ وَٱلۡمَطۡلُوبُ",
+    "text_en": "O people, an example is presented, so listen to it. Indeed, those you invoke besides Allāh will never create [as much as] a fly, even if they gathered together for it [i.e., that purpose]. And if the fly should steal from them a [tiny] thing, they could not recover it from him. Weak are the pursuer and pursued.",
+    "text_ug": "ئى ئىنسانلار! بىر مىسال كەلتۈرۈلىدۇ، ئۇنىڭغا قۇلاق سېلىڭلار، شۈبھىسىزكى، سىلەر ئاللاھنى قويۇپ چوقۇنۇۋاتقان بۇتلارنىڭ ھەممىسى يىغىلغان تەقدىردىمۇ بىر چىۋىننى يارىتالمايدۇ (ئەقلى بار ئادەم قانداقمۇ مۇشۇنداق بۇتلارنى مەبۇد قىلىۋېلىپ ئۇلارغا چوقۇنىدۇ!)، چىۋىن ئۇلارنىڭ بەدىنىدىن بىر نەرسىنى (يەنى بۇتقا سۈركەپ قويۇلغان خۇش پۇراق بىر نەرسىنى) ئېلىپ قاچسا، ئۇنى چىۋىندىن تارتىپ ئالالمايدۇ، بۇتمۇ ۋە (ئۇنىڭغا) چوقۇنغۇچىمۇ ئاجىزدۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 74,
+    "text_ar": "مَا قَدَرُواْ ٱللَّهَ حَقَّ قَدۡرِهِۦٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ",
+    "text_en": "They have not appraised Allāh with true appraisal. Indeed, Allāh is Powerful and Exalted in Might.",
+    "text_ug": "ئۇلار (ئەرزىمەس بۇتلارنى ئاللاھقا شېرىك قىلىۋېلىپ) ئاللاھنى تېگىشلىك رەۋىشتە ئۇلۇغلاشمىدى، شۈبھىسىزكى، ئاللاھ ھەقىقەتەن كۈچلۈكتۇر، غالىبتۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 75,
+    "text_ar": "ٱللَّهُ يَصۡطَفِي مِنَ ٱلۡمَلَٰٓئِكَةِ رُسُلٗا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٞ",
+    "text_en": "Allāh chooses from the angels messengers and from the people. Indeed, Allāh is Hearing and Seeing.",
+    "text_ug": "ئاللاھ پەرىشتىلەردىنمۇ (پەيغەمبەرلىرىگە ۋەھىي يەتكۈزۈش ئۈچۈن)، ئىنسانلاردىنمۇ (شەرىئەتنى بەندىلىرىگە يەتكۈزۈش ئۈچۈن) ئەلچىلەرنى تاللايدۇ، ئاللاھ ھەقىقەتەن (بەندىلىرىنىڭ سۆزلىرىنى) ئاڭلاپ تۇرغۇچىدۇر، (قىلمىشلىرىنى) كۆرۈپ تۇرغۇچىدۇر"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 76,
+    "text_ar": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+    "text_en": "He knows what is [presently] before them and what will be after them. And to Allāh will be returned [all] matters.",
+    "text_ug": "ئاللاھ ئۇلارنىڭ ئالدىدىكى نەرسىلەرنى (يەنى ئۇلارنىڭ ھازىرقى ئەھۋالىنى ۋە ھازىرقى ئىشلىرىنى) ۋە ئارقىسىدىكى نەرسىلەرنى (يەنى كەلگۈسىدىكى ئەھۋالىنى ۋە كەلگۈسىدىكى ئىشلىرىنى) بىلىدۇ، (بەندىلەرنىڭ) ئىشلىرىنىڭ ھەممىسى ئاللاھقا قايتۇرۇلىدۇ (ئاللاھ ئۇلارغا يا مۇكاپات، يا جازا بېرىدۇ)"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 77,
+    "text_ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱرۡكَعُواْ وَٱسۡجُدُواْۤ وَٱعۡبُدُواْ رَبَّكُمۡ وَٱفۡعَلُواْ ٱلۡخَيۡرَ لَعَلَّكُمۡ تُفۡلِحُونَ۩",
+    "text_en": "O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed.",
+    "text_ug": "ئى مۆمىنلەر! بەختكە ئېرىشىشىڭلار ئۈچۈن رۇكۇ قىلىڭلار، سەجدە قىلىڭلار (يەنى تەزەررۇ بىلەن ناماز ئوقۇڭلار)، (يالغۇز) پەرۋەردىگارىڭلارغا ئىبادەت قىلىڭلار، ياخشى ئىشلارنى (يەنى خىش ـ ئەقرىبالارغا سىلە ـ رەھىم قىلىش، يېتىم ـ يېسىرلەرنىڭ بېشىنى سىلاش، كېچىسى تەھەججۇد نامىزى ئۆتەش قاتارلىق ئىشلارنى) قىلىڭلار"
+  },
+  {
+    "surah": 22,
+    "surah_name_en": "Al-Hajj",
+    "surah_name_ar": "الحج",
+    "surah_name_ug": "ئەلھەج",
+    "ayah": 78,
+    "text_ar": "وَجَٰهِدُواْ فِي ٱللَّهِ حَقَّ جِهَادِهِۦۚ هُوَ ٱجۡتَبَىٰكُمۡ وَمَا جَعَلَ عَلَيۡكُمۡ فِي ٱلدِّينِ مِنۡ حَرَجٖۚ مِّلَّةَ أَبِيكُمۡ إِبۡرَٰهِيمَۚ هُوَ سَمَّىٰكُمُ ٱلۡمُسۡلِمِينَ مِن قَبۡلُ وَفِي هَٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيۡكُمۡ وَتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِۚ فَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱعۡتَصِمُواْ بِٱللَّهِ هُوَ مَوۡلَىٰكُمۡۖ فَنِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِيرُ",
+    "text_en": "And strive for Allāh with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. He [i.e., Allāh] named you \"Muslims\" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakāh and hold fast to Allāh. He is your protector; and excellent is the protector, and excellent is the helper.",
+    "text_ug": "ئاللاھنىڭ يولىدا (پۇل ـ مېلىڭلار بىلەن، جېنىڭلار بىلەن) تاقىتىڭلارنىڭ يېتىشىچە جىھاد قىلىڭلار، ئاللاھ (دىنغا ياردەم بېرىشكە ئۈممەتلەر ئارىسىدىن) سىلەرنى تاللىدى. (ئەڭ مۇكەممەل شەرىئەت ۋە ئۇلۇغ پەيغەمبەرنى سىلەرگە خاس قىلدى). سىلەرگە دىندا ھېچقانداق مۈشكۈللۈكنى قىلمىدى (سىلەرنى سىلەر تاقەت قىلالمايدىغان ئىشلارنى قىلىشقا تەكلىپ قىلمىدى). (بۇ) ئاتاڭلار ئىبراھىمنىڭ دىنىدۇر (بۇ توغرا دىن بولغانلىقى ئۈچۈن، ئۇنى مەھكەم ئۇچلاڭلار)، ئاللاھ سىلەرنى ئىلگىرى (يەنى قۇرئاندىن ئىلگىرىكى كىتابلاردا) مۇسۇلمان دەپ ئاتىغان ئىدى. قۇرئاندىمۇ شۇنداق ئاتىدى. (ئاللاھ) پەيغەمبەرنى سىلەرگە گۇۋاھ بولۇشقا ۋە سىلەرنى كىشىلەرگە گۇۋاھ بولۇشقا (تاللىدى)، ناماز ئوقۇڭلار، زاكات بېرىڭلار، ئاللاھقا يېپىشىڭلار، ئاللاھ سىلەرنىڭ ئىگەڭلاردۇر، ئاللاھ نېمىدېگەن ياخشى ئىگە! نېمىدېگەن ياخشى مەدەتكار!"
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 1,
+    "text_ar": "كٓهيعٓصٓ",
+    "text_en": "Kāf, Hā, Yā, ʿAyn, Ṣād.",
+    "text_ug": "كاف، ھا، يا، ئەين، ساد"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 2,
+    "text_ar": "ذِكۡرُ رَحۡمَتِ رَبِّكَ عَبۡدَهُۥ زَكَرِيَّآ",
+    "text_en": "[This is] a mention of the mercy of your Lord to His servant Zechariah",
+    "text_ug": "بۇ، پەرۋەردىگارىڭنىڭ بەندىسى زەكەرىياغا قىلغان مەرھەمىتىنىڭ بايانىدۇر"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 3,
+    "text_ar": "إِذۡ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيّٗا",
+    "text_en": "When he called to his Lord a private call [i.e., supplication].",
+    "text_ug": "ئۇ ئۆز ۋاقتىدا پەرۋەردىگارىغا پەس ئاۋازدا مۇناجات قىلدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 4,
+    "text_ar": "قَالَ رَبِّ إِنِّي وَهَنَ ٱلۡعَظۡمُ مِنِّي وَٱشۡتَعَلَ ٱلرَّأۡسُ شَيۡبٗا وَلَمۡ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيّٗا",
+    "text_en": "He said, \"My Lord, indeed my bones have weakened, and my head has filled with white, and never have I been in my supplication to You, my Lord, unhappy [i.e., disappointed].",
+    "text_ug": "ئۇ ئېيتتى: «پەرۋەردىگارىم! مەن ھەقىقەتەن كۈچ ـ قۇۋۋىتىمدىن كەتتىم، چېچىم ئاقاردى. پەرۋەردىگارىم! ساڭا دۇئا قىلىپ ئۈمىدسىز بولۇپ قالغىنىم يوق"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 5,
+    "text_ar": "وَإِنِّي خِفۡتُ ٱلۡمَوَٰلِيَ مِن وَرَآءِي وَكَانَتِ ٱمۡرَأَتِي عَاقِرٗا فَهَبۡ لِي مِن لَّدُنكَ وَلِيّٗا",
+    "text_en": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir",
+    "text_ug": "مەن تاغىلىرىمنىڭ بالىلىرىنىڭ ئورنۇمنى باسالماسلىقلىرىدىن (يەنى دىننى قولدىن بېرىپ قويۇشلىرىدىن) ھەقىقەتەن ئەنسىرەيمەن، مېنىڭ ئايالىم تۇغماستۇر، (پەزلىڭدىن) ماڭا بىر (ياخشى) پەرزەنت ئاتا قىلغىن"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 6,
+    "text_ar": "يَرِثُنِي وَيَرِثُ مِنۡ ءَالِ يَعۡقُوبَۖ وَٱجۡعَلۡهُ رَبِّ رَضِيّٗا",
+    "text_en": "Who will inherit me and inherit from the family of Jacob. And make him, my Lord, pleasing [to You].\"",
+    "text_ug": "ئۇ ماڭا ۋارىس بولغاي ۋە يەئقۇب ئەۋلادىغا ۋارىس بولغاي، پەرۋەردىگارىم! ئۇنى سېنىڭ رازىلىقىڭغا ئېرىشىدىغان قىلغىن»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 7,
+    "text_ar": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسۡمُهُۥ يَحۡيَىٰ لَمۡ نَجۡعَل لَّهُۥ مِن قَبۡلُ سَمِيّٗا",
+    "text_en": "[He was told], \"O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name.\"",
+    "text_ug": "(ئاللاھ ئېيتتىكى) «ئى زەكەرىيا! بىز ھەقىقەتەن ساڭا (پەرىشتىلەر ئارقىلىق) يەھيا ئىسىملىك بىر ئوغۇل بىلەن خۇشخەۋەر بېرىمىز، ئىلگىرى ھېچ ئادەمنى ئۇنىڭغا ئىسىمداش قىلمىدۇق»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 8,
+    "text_ar": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَكَانَتِ ٱمۡرَأَتِي عَاقِرٗا وَقَدۡ بَلَغۡتُ مِنَ ٱلۡكِبَرِ عِتِيّٗا",
+    "text_en": "He said, \"My Lord, how will I have a boy when my wife has been barren and I have reached extreme old age?\"",
+    "text_ug": "زەكەرىيا ئېيتتى: «ئايالىم تۇغماس تۇرسا، مەن قېرىپ مۈكچىيىپ كەتكەن تۇرسام، مېنىڭ قانداقمۇ ئوغلۇم بولسۇن؟»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 9,
+    "text_ar": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٞ وَقَدۡ خَلَقۡتُكَ مِن قَبۡلُ وَلَمۡ تَكُ شَيۡـٔٗا",
+    "text_en": "[An angel] said, \"Thus [it will be]; your Lord says, 'It is easy for Me, for I created you before, while you were nothing.'\"",
+    "text_ug": "(نىدا قىلغان پەرىشتە) ئېيتتى: «ئىش ئەنە شۇنداقتۇر، پەرۋەردىگارىڭ ئېيتتى: بۇ مەن ئۈچۈن ئاساندۇر، سېنى مەن ياراتتىم، ھالبۇكى سەن بۇرۇن يوق ئىدىڭ (يەنى سېنى يوقتىن بار قىلغاندەك، يەھيانى ئىككىڭلاردىن تۆرەلدۈرۈشكە قادىرمەن)»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 10,
+    "text_ar": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٖ سَوِيّٗا",
+    "text_en": "[Zechariah] said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you will not speak to the people for three nights, [being] sound.\"",
+    "text_ug": "زەكەرىيا ئېيتتى: «پەرۋەردىگارىم! (ئايالىمنىڭ ھامىلدار بولغانلىقىغا) ماڭا بىر ئالامەت قىلىپ بەرسەڭ». ئاللاھ ئېيتتى: «سېنىڭ ئالامىتىڭ (شۇكى)، ساق تۇرۇپ ئۈچ كېچە ـ كۈندۈز كىشىلەرگە سۆز قىلالمايسەن»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 11,
+    "text_ar": "فَخَرَجَ عَلَىٰ قَوۡمِهِۦ مِنَ ٱلۡمِحۡرَابِ فَأَوۡحَىٰٓ إِلَيۡهِمۡ أَن سَبِّحُواْ بُكۡرَةٗ وَعَشِيّٗا",
+    "text_en": "So he came out to his people from the prayer chamber and signaled to them to exalt [Allāh] in the morning and afternoon.",
+    "text_ug": "زەكەرىيا نامازگاھىدىن قەۋمىنىڭ ئالدىغا چىقىپ، ئۇلارنى ئەتىگەن ـ ئاخشامدا تەسبىھ ئېيتىشقا ئىشارەت قىلدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 12,
+    "text_ar": "يَٰيَحۡيَىٰ خُذِ ٱلۡكِتَٰبَ بِقُوَّةٖۖ وَءَاتَيۡنَٰهُ ٱلۡحُكۡمَ صَبِيّٗا",
+    "text_en": "[Allāh said], \"O John, take the Scripture [i.e., adhere to it] with determination.\" And We gave him judgement [while yet] a boy",
+    "text_ug": "(يەھيا تۇغۇلۇپ چوڭ بولغاندا ئۇنىڭغا) «ئى يەھيا! كىتابنى (يەنى تەۋراتنى) تىرىشىپ ئوقۇغىن» (دېدۇق). ئۇنىڭغا بالىلىق چېغىدىلا ئەقىل ـ پاراسەت ئاتا قىلدۇق"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 13,
+    "text_ar": "وَحَنَانٗا مِّن لَّدُنَّا وَزَكَوٰةٗۖ وَكَانَ تَقِيّٗا",
+    "text_en": "And affection from Us and purity, and he was fearing of Allāh",
+    "text_ug": "بىز ئۇنىڭغا مەرھەمەت قىلىش ۋە ئۇنى (ناچار خىسلەتلەردىن) پاك قىلىش يۈزىسىدىن (شۇنداق قىلدۇق)، يەھيا تەقۋادار ئىدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 14,
+    "text_ar": "وَبَرَّۢا بِوَٰلِدَيۡهِ وَلَمۡ يَكُن جَبَّارًا عَصِيّٗا",
+    "text_en": "And dutiful to his parents, and he was not a disobedient tyrant.",
+    "text_ug": "ئۇنى ئاتا ـ ئانىسىغا كۆيۈمچان (قىلدۇق)، ئۇ مۇتەكەببىر (يەنى ئاتا ـ ئانىسىنى قاخشاتقۇچى)، (پەرۋەردىگارىغا) ئاسىيلىق قىلغۇچى بولمىدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 15,
+    "text_ar": "وَسَلَٰمٌ عَلَيۡهِ يَوۡمَ وُلِدَ وَيَوۡمَ يَمُوتُ وَيَوۡمَ يُبۡعَثُ حَيّٗا",
+    "text_en": "And peace be upon him the day he was born and the day he dies and the day he is raised alive.",
+    "text_ug": "ئۇ تۇغۇلغان كۈنىدە، ۋاپات بولغان كۈنىدە، تىرىلىپ (قەبرىدىن) تۇرغۇزۇلغان كۈنىدە (ئاللاھتائالا تەرىپىدىن بولغان) ئامانلىققا ئېرىشىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 16,
+    "text_ar": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مَرۡيَمَ إِذِ ٱنتَبَذَتۡ مِنۡ أَهۡلِهَا مَكَانٗا شَرۡقِيّٗا",
+    "text_en": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east.",
+    "text_ug": "(ئۇلارغا) قۇرئاندا مەريەم (قىسسەسى) نى بايان قىلغىن، ئەينى زاماندا ئۇ ئائىلىسىدىن ئايرىلىپ شەرق تەرەپتىكى بىر جايغا باردى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 17,
+    "text_ar": "فَٱتَّخَذَتۡ مِن دُونِهِمۡ حِجَابٗا فَأَرۡسَلۡنَآ إِلَيۡهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرٗا سَوِيّٗا",
+    "text_en": "And she took, in seclusion from them, a screen. Then We sent to her Our Angel [i.e., Gabriel], and he represented himself to her as a well-proportioned man.",
+    "text_ug": "ئۇ پەردە تارتىپ كىشىلەردىن يوشۇرۇندى، ئۇنىڭغا بىزنىڭ روھىمىزنى (يەنى جىبرىئىل ئەلەيھىسسالامنى) ئەۋەتتۇق، ئۇ مەريەمگە بېجىرىم ئادەم سۈرىتىدە كۆرۈندى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 18,
+    "text_ar": "قَالَتۡ إِنِّيٓ أَعُوذُ بِٱلرَّحۡمَٰنِ مِنكَ إِن كُنتَ تَقِيّٗا",
+    "text_en": "She said, \"Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allāh.\"",
+    "text_ug": "مەريەم ئېيتتى: «مەن ھەقىقەتەن مەرھەمەتلىك ئاللاھقا سىغىنىپ سېنىڭ چېقىلىشىڭدىن پاناھ تىلەيمەن، ئەگەر سەن تەقۋادار بولساڭ (ماڭا چېقىلمىغىن)»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 19,
+    "text_ar": "قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمٗا زَكِيّٗا",
+    "text_en": "He said, \"I am only the messenger of your Lord to give you [news of] a pure boy [i.e., son].\"",
+    "text_ug": "جىبرىئىل ئېيتتى: «مەن ساڭا بىر پاك ئوغۇل بېرىش ئۈچۈن ئەۋەتىلگەن پەرۋەردىگارىڭنىڭ ئەلچىسىمەن»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 20,
+    "text_ar": "قَالَتۡ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَلَمۡ يَمۡسَسۡنِي بَشَرٞ وَلَمۡ أَكُ بَغِيّٗا",
+    "text_en": "She said, \"How can I have a boy while no man has touched me and I have not been unchaste?\"",
+    "text_ug": "مەريەم ئېيتتى: «ماڭا كىشى يېقىنلاشمىغان تۇرسا، مەن پاھىشە قىلمىغان تۇرسام، قانداقمۇ مېنىڭ ئوغۇل بالام بولسۇن؟»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 21,
+    "text_ar": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيِّنٞۖ وَلِنَجۡعَلَهُۥٓ ءَايَةٗ لِّلنَّاسِ وَرَحۡمَةٗ مِّنَّاۚ وَكَانَ أَمۡرٗا مَّقۡضِيّٗا",
+    "text_en": "He said, \"Thus [it will be]; your Lord says, 'It is easy for Me, and We will make him a sign to the people and a mercy from Us. And it is a matter [already] decreed.'\"",
+    "text_ug": "جىبرىئىل ئېيتتى: «ئەمەلىيەت سەن دېگەندەكتۇر، (لېكىن پەرۋەردىگارىڭ ئېيتتى: ئۇ ماڭا ئاساندۇر. ئۇنى كىشىلەرگە قۇدرىتىمىزنى كۆرسىتىدىغان) دەلىل ۋە بىز تەرەپتىن بولغان مەرھەمەت قىلدۇق، بۇ تەقدىر قىلىنىپ بولغان ئىشتۇر»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 22,
+    "text_ar": "۞ فَحَمَلَتۡهُ فَٱنتَبَذَتۡ بِهِۦ مَكَانٗا قَصِيّٗا",
+    "text_en": "So she conceived him, and she withdrew with him to a remote place.",
+    "text_ug": "مەريەم ھامىلدار بولدى، (ئائىلىسىدىن) يىراق بىر جايغا كەتتى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 23,
+    "text_ar": "فَأَجَآءَهَا ٱلۡمَخَاضُ إِلَىٰ جِذۡعِ ٱلنَّخۡلَةِ قَالَتۡ يَٰلَيۡتَنِي مِتُّ قَبۡلَ هَٰذَا وَكُنتُ نَسۡيٗا مَّنسِيّٗا",
+    "text_en": "And the pains of childbirth drove her to the trunk of a palm tree. She said, \"Oh, I wish I had died before this and was in oblivion, forgotten.\"",
+    "text_ug": "تولغاقنىڭ قاتتىقلىقى ئۇنى (يۆلىنىۋېلىش ئۈچۈن) بىر خورما دەرىخىنىڭ يېنىغا كېلىۋېلىشقا مەجبۇر قىلدى. مەريەم ئېيتتى: «كاشكى مەن بۇنىڭدىن ئىلگىرى ئۆلۈپ كەتكەن بولسامچۇ! كىشىلەر تەرىپىدىن ئۇنتۇلۇپ كەتكەن (ئەرزىمەس) نەرسىگە ئايلىنىپ كەتسەمچۇ!»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 24,
+    "text_ar": "فَنَادَىٰهَا مِن تَحۡتِهَآ أَلَّا تَحۡزَنِي قَدۡ جَعَلَ رَبُّكِ تَحۡتَكِ سَرِيّٗا",
+    "text_en": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream.",
+    "text_ug": "جىبرىئىل ئۇنىڭغا خورما دەرىخىنىڭ ئاستىدىن نىدا قىلدى: «غەم قىلمىغىن، پەرۋەردىگارىڭ سېنىڭ ئاستىڭدىن (ئېقىپ تۇرىدىغان) بىر ئېرىقنى پەيدا قىلدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 25,
+    "text_ar": "وَهُزِّيٓ إِلَيۡكِ بِجِذۡعِ ٱلنَّخۡلَةِ تُسَٰقِطۡ عَلَيۡكِ رُطَبٗا جَنِيّٗا",
+    "text_en": "And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.",
+    "text_ug": "خورما دەرىخىنى ئۆز تەرىپىڭگە ئىرغىتقىن، ئالدىڭغا پىشقان يېڭى خورمىلار تۆكۈلىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 26,
+    "text_ar": "فَكُلِي وَٱشۡرَبِي وَقَرِّي عَيۡنٗاۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلۡبَشَرِ أَحَدٗا فَقُولِيٓ إِنِّي نَذَرۡتُ لِلرَّحۡمَٰنِ صَوۡمٗا فَلَنۡ أُكَلِّمَ ٱلۡيَوۡمَ إِنسِيّٗا",
+    "text_en": "So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.'\"",
+    "text_ug": "(بۇ شېرىن خورمىدىن) يېگىن، (بۇ تاتلىق سۇدىن) ئىچكىن ۋە خۇرسەن بولغىن، بىرەر ئادەمنى كۆرسەڭ (ئۇ بالا توغرۇلۇق سورىسا): مەن ھەقىقەتەن مەرھەمەتلىك ئاللاھقا ۋەدە بەردىم، بۈگۈن ھېچ ئادەمگە سۆز قىلمايمەن دېگىن»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 27,
+    "text_ar": "فَأَتَتۡ بِهِۦ قَوۡمَهَا تَحۡمِلُهُۥۖ قَالُواْ يَٰمَرۡيَمُ لَقَدۡ جِئۡتِ شَيۡـٔٗا فَرِيّٗا",
+    "text_en": "Then she brought him to her people, carrying him. They said, \"O Mary, you have certainly done a thing unprecedented.",
+    "text_ug": "مەريەم بوۋاقنى (يەنى ئىيسا ئەلەيھىسسالامنى) كۆتۈرۈپ قەۋمىنىڭ ئالدىغا كەلدى، ئۇلار ئېيتتى: «ئى مەريەم! سەن ھەقىقەتەن غەلىتە ئىش قىلدىڭ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 28,
+    "text_ar": "يَٰٓأُخۡتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمۡرَأَ سَوۡءٖ وَمَا كَانَتۡ أُمُّكِ بَغِيّٗا",
+    "text_en": "O sister [i.e., descendant] of Aaron, your father was not a man of evil, nor was your mother unchaste.\"",
+    "text_ug": "ئى ھارۇننىڭ ھەمشىرىسى! سېنىڭ ئاتاڭ يامان ئادەم ئەمەس ئىدى، ئاناڭمۇ يولدىن چىققان خوتۇن ئەمەس ئىدى»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 29,
+    "text_ar": "فَأَشَارَتۡ إِلَيۡهِۖ قَالُواْ كَيۡفَ نُكَلِّمُ مَن كَانَ فِي ٱلۡمَهۡدِ صَبِيّٗا",
+    "text_en": "So she pointed to him. They said, \"How can we speak to one who is in the cradle a child?\"",
+    "text_ug": "مەريەم بوۋاقنى كۆرسەتتى، ئۇلار: «بۆشۈكتىكى بوۋاققا قانداق سۆزلەيمىز» دېدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 30,
+    "text_ar": "قَالَ إِنِّي عَبۡدُ ٱللَّهِ ءَاتَىٰنِيَ ٱلۡكِتَٰبَ وَجَعَلَنِي نَبِيّٗا",
+    "text_en": "[Jesus] said, \"Indeed, I am the servant of Allāh. He has given me the Scripture and made me a prophet.",
+    "text_ug": "بوۋاق ئېيتتى: «مەن ھەقىقەتەن ئاللاھنىڭ بەندىسىمەن، ماڭا كىتابنى بەردى (يەنى ئىنجىلنى بېرىدۇ) ۋە مېنى پەيغەمبەر قىلدى (يەنى قىلىدۇ)"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 31,
+    "text_ar": "وَجَعَلَنِي مُبَارَكًا أَيۡنَ مَا كُنتُ وَأَوۡصَٰنِي بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمۡتُ حَيّٗا",
+    "text_en": "And He has made me blessed wherever I am and has enjoined upon me prayer and zakāh as long as I remain alive",
+    "text_ug": "قەيەردە بولاي مېنى بەرىكەتلىك قىلدى، ھاياتلا بولىدىكەنمەن، ماڭا نامازنى، زاكاتنى ئادا قىلىشنى تەۋسىيە قىلدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 32,
+    "text_ar": "وَبَرَّۢا بِوَٰلِدَتِي وَلَمۡ يَجۡعَلۡنِي جَبَّارٗا شَقِيّٗا",
+    "text_en": "And [made me] dutiful to my mother, and He has not made me a wretched tyrant.",
+    "text_ug": "مېنى ئانامغا كۆيۈمچان قىلدى، مېنى مۇتەكەببىر، شەقى قىلمىدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 33,
+    "text_ar": "وَٱلسَّلَٰمُ عَلَيَّ يَوۡمَ وُلِدتُّ وَيَوۡمَ أَمُوتُ وَيَوۡمَ أُبۡعَثُ حَيّٗا",
+    "text_en": "And peace is on me the day I was born and the day I will die and the day I am raised alive.\"",
+    "text_ug": "مەن تۇغۇلغان كۈنۈمدە، ۋاپات بولغان كۈنۈمدە، تىرىلىپ قەبرەمدىن تۇرغۇزۇلغان كۈنۈمدە (ئاللاھتائالا تەرىپىدىن بولغان) ئامانلىققا ئېرىشىمەن»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 34,
+    "text_ar": "ذَٰلِكَ عِيسَى ٱبۡنُ مَرۡيَمَۖ قَوۡلَ ٱلۡحَقِّ ٱلَّذِي فِيهِ يَمۡتَرُونَ",
+    "text_en": "That is Jesus, the son of Mary - the word of truth about which they are in dispute.",
+    "text_ug": "ئەنە شۇ ئىيسا ئىبىن مەريەمنىڭ (قىسسەسىدۇر). ئىيسا ئۇلار دەتالاش قىلىۋاتقان ئۆزىنڭ ئىشىنىڭ (ھەقىقىتى) ئۈستىدە ھەق گەپنى قىلدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 35,
+    "text_ar": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٖۖ سُبۡحَٰنَهُۥٓۚ إِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+    "text_en": "It is not [befitting] for Allāh to take a son; exalted is He! When He decrees an affair, He only says to it, \"Be,\" and it is.",
+    "text_ug": "«ئاللاھنىڭ شەنىگە بالىسى بولۇش لايىق ئەمەس، ئاللاھ (بالىدىن، شېرىكتىن) پاكتۇر، ئاللاھ بىرەر ئىش قىلىشنى ئىرادە قىلسا، ئۇنىڭغا ۋۇجۇتقا كەل دەيدۇ ـ دە، ئۇ ۋۇجۇتقا كېلىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 36,
+    "text_ar": "وَإِنَّ ٱللَّهَ رَبِّي وَرَبُّكُمۡ فَٱعۡبُدُوهُۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
+    "text_en": "[Jesus said], \"And indeed, Allāh is my Lord and your Lord, so worship Him. That is a straight path.\"",
+    "text_ug": "ئاللاھ ھەقىقەتەن مېنىڭ پەرۋەردىگارىمدۇر، سىلەرنىڭمۇ پەرۋەردىگارىڭلاردۇر، شۇنىڭ ئۈچۈن ئۇنىڭغا ئىبادەت قىلىڭلار، بۇ توغرا يولدۇر»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 37,
+    "text_ar": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن مَّشۡهَدِ يَوۡمٍ عَظِيمٍ",
+    "text_en": "Then the factions differed [concerning Jesus] from among them, so woe to those who disbelieved - from the scene of a tremendous Day.",
+    "text_ug": "ئىيسانىڭ ئىشى توغرىسىدا ئۇلار (يەنى ئەھلى كىتاب) ئارىسىدىكى پىرقىلەر ئىختىلاپ قىلىشتى، بۈيۈك كۈن (يەنى قىيامەت كۈنى) كەلگەن چاغدا، كاپىرلارغا ۋاي!(37)"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 38,
+    "text_ar": "أَسۡمِعۡ بِهِمۡ وَأَبۡصِرۡ يَوۡمَ يَأۡتُونَنَا لَٰكِنِ ٱلظَّٰلِمُونَ ٱلۡيَوۡمَ فِي ضَلَٰلٖ مُّبِينٖ",
+    "text_en": "How [clearly] they will hear and see the Day they come to Us, but the wrongdoers today are in clear error.",
+    "text_ug": "ئۇلار بىزنىڭ دەرگاھىمىزغا كەلگەن كۈندە (يەنى قىيامەت كۈنىدە) قۇلاقلىرى تازا ئاڭلايدىغان، كۆزلىرى تازا كۆرىدىغان بولىدۇ، لېكىن زالىملار بۈگۈن (يەنى بۇ دۇنيادا) روشەن گۇمراھلىقتىدۇر"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 39,
+    "text_ar": "وَأَنذِرۡهُمۡ يَوۡمَ ٱلۡحَسۡرَةِ إِذۡ قُضِيَ ٱلۡأَمۡرُ وَهُمۡ فِي غَفۡلَةٖ وَهُمۡ لَا يُؤۡمِنُونَ",
+    "text_en": "And warn them, [O Muḥammad], of the Day of Regret, when the matter will be concluded; and [yet], they are in [a state of] heedlessness, and they do not believe.",
+    "text_ug": "ئۇلارنى (يەنى خالايىقنى) ھەسرەت كۈنى (يەنى قىيامەت كۈنى)دىن ئاگاھلاندۇرغىن، ئۇ چاغدا ھەممە ئىش بىر تەرەپ قىلىنغان بولىدۇ. ھالبۇكى، ئۇلار غەپلەتتىدۇر، (قىيامەتنى) ئىنكار قىلماقتىدۇر"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 40,
+    "text_ar": "إِنَّا نَحۡنُ نَرِثُ ٱلۡأَرۡضَ وَمَنۡ عَلَيۡهَا وَإِلَيۡنَا يُرۡجَعُونَ",
+    "text_en": "Indeed, it is We who will inherit the earth and whoever is on it, and to Us they will be returned.",
+    "text_ug": "زېمىنغا ۋە زېمىن ئۈستىدىكى بارچىگە چوقۇم بىز ۋارىسلىق قىلىمىز. ئۇلار (ھېساب بېرىش ئۈچۈن) بىزنىڭ دەرگاھىمىزغا قايتۇرۇلىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 41,
+    "text_ar": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ إِبۡرَٰهِيمَۚ إِنَّهُۥ كَانَ صِدِّيقٗا نَّبِيًّا",
+    "text_en": "And mention in the Book [the story of] Abraham. Indeed, he was a man of truth and a prophet.",
+    "text_ug": "(ئى مۇھەممەد!) كىتابتا (يەنى قۇرئاندا) ئىبراھىم (قىسسەسى) نى بايان قىلغىن، ئۇ ھەقىقەتەن تولىمۇ راستچىل پەيغەمبەر ئىدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 42,
+    "text_ar": "إِذۡ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعۡبُدُ مَا لَا يَسۡمَعُ وَلَا يُبۡصِرُ وَلَا يُغۡنِي عَنكَ شَيۡـٔٗا",
+    "text_en": "[Mention] when he said to his father, \"O my father, why do you worship that which does not hear and does not see and will not benefit you at all?",
+    "text_ug": "ئۆز ۋاقتىدا ئىبراھىم ئاتىسىغا ئېيتتى: «ئى ئاتا! نېمىشقا ئاڭلىمايدىغان، كۆرمەيدىغان ۋە ساڭا ھېچ نەرسىگە ئەسقاتمايدىغان نەرسىلەرگە چوقۇنىسەن"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 43,
+    "text_ar": "يَٰٓأَبَتِ إِنِّي قَدۡ جَآءَنِي مِنَ ٱلۡعِلۡمِ مَا لَمۡ يَأۡتِكَ فَٱتَّبِعۡنِيٓ أَهۡدِكَ صِرَٰطٗا سَوِيّٗا",
+    "text_en": "O my father, indeed there has come to me of knowledge that which has not come to you, so follow me; I will guide you to an even path.",
+    "text_ug": "ئى ئاتا! ماڭا سەن بىلمەيدىغان ئىلىملەر نازىل بولدى، ماڭا ئەگەشكىن، سېنى توغرا يولغا باشلايمەن"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 44,
+    "text_ar": "يَٰٓأَبَتِ لَا تَعۡبُدِ ٱلشَّيۡطَٰنَۖ إِنَّ ٱلشَّيۡطَٰنَ كَانَ لِلرَّحۡمَٰنِ عَصِيّٗا",
+    "text_en": "O my father, do not worship [i.e., obey] Satan. Indeed Satan has ever been, to the Most Merciful, disobedient.",
+    "text_ug": "ئى ئاتا! شەيتانغا چوقۇنمىغىن، شەيتان مەرھەمەتلىك ئاللاھقا ھەقىقەتەن ئاسىيلىق قىلدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 45,
+    "text_ar": "يَٰٓأَبَتِ إِنِّيٓ أَخَافُ أَن يَمَسَّكَ عَذَابٞ مِّنَ ٱلرَّحۡمَٰنِ فَتَكُونَ لِلشَّيۡطَٰنِ وَلِيّٗا",
+    "text_en": "O my father, indeed I fear that there will touch you a punishment from the Most Merciful so you would be to Satan a companion [in Hellfire].\"",
+    "text_ug": "ئى ئاتا! سېنىڭ مەرھەمەتلىك ئاللاھنىڭ ئازابىغا قېلىشىڭدىن، شەيتاننىڭ ھەمراھىغا ئايلىنىپ قېلىشىڭدىن قورقىمەن»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 46,
+    "text_ar": "قَالَ أَرَاغِبٌ أَنتَ عَنۡ ءَالِهَتِي يَٰٓإِبۡرَٰهِيمُۖ لَئِن لَّمۡ تَنتَهِ لَأَرۡجُمَنَّكَۖ وَٱهۡجُرۡنِي مَلِيّٗا",
+    "text_en": "[His father] said, \"Have you no desire for my gods, O Abraham? If you do not desist, I will surely stone you, so avoid me a prolonged time.\"",
+    "text_ug": "ئۇ (يەنى ئازەر) ئېيتتى: «ئى ئىبراھىم! سەن مېنىڭ ئىلاھلىرىمدىن يۈز ئۆرۈمەكچىمۇسەن، ئەگەر سەن (مۇنداق قىلىشتىن) يانمىساڭ، چوقۇم سېنى تاش ـ كېسەك قىلىپ ئۆلتۈرىمەن، ئۇزاق زامان مەندىن يىراق تۇرغىن»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 47,
+    "text_ar": "قَالَ سَلَٰمٌ عَلَيۡكَۖ سَأَسۡتَغۡفِرُ لَكَ رَبِّيٓۖ إِنَّهُۥ كَانَ بِي حَفِيّٗا",
+    "text_en": "[Abraham] said, \"Peace [i.e., safety] will be upon you. I will ask forgiveness for you of my Lord. Indeed, He is ever gracious to me.",
+    "text_ug": "ئىبراھىم ئېيتتى: «ساڭا ئامانلىق بولسۇن، پەرۋەردىگارىمدىن ساڭا مەغپىرەت تىلەيمەن، ئاللاھ ماڭا ھەقىقەتەن مېھرىباندۇر"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 48,
+    "text_ar": "وَأَعۡتَزِلُكُمۡ وَمَا تَدۡعُونَ مِن دُونِ ٱللَّهِ وَأَدۡعُواْ رَبِّي عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّي شَقِيّٗا",
+    "text_en": "And I will leave you and those you invoke other than Allāh and will invoke my Lord. I expect that I will not be in invocation to my Lord unhappy [i.e., disappointed].\"",
+    "text_ug": "سىلەردىن ۋە سىلەر ئاللاھنى قويۇپ چوقۇنۇۋاتقان نەرسىلەردىن يىراق بولىمەن، پەرۋەردىگارىمغا ئىبادەت قىلىمەن، پەرۋەردىگارىمنىڭ ئىبادىتىدىن مەھرۇم بولۇپ قالماسلىقنى ئۈمىد قىلىمەن»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 49,
+    "text_ar": "فَلَمَّا ٱعۡتَزَلَهُمۡ وَمَا يَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَۖ وَكُلّٗا جَعَلۡنَا نَبِيّٗا",
+    "text_en": "So when he had left them and those they worshipped other than Allāh, We gave him Isaac and Jacob, and each [of them] We made a prophet.",
+    "text_ug": "ئۇ ئۇلاردىن ۋە ئۇلارنىڭ ئاللاھنى قويۇپ چوقۇنۇۋاتقان نەرسىلىرىدىن يىراقلاشتى، ئۇنىڭغا بىز ئىسھاق ۋە يەئقۇبنى ئاتا قىلدۇق، ئۇ ئىككىسىنىڭ ھەر بىرسىنى پەيغەمبەر قىلدۇق"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 50,
+    "text_ar": "وَوَهَبۡنَا لَهُم مِّن رَّحۡمَتِنَا وَجَعَلۡنَا لَهُمۡ لِسَانَ صِدۡقٍ عَلِيّٗا",
+    "text_en": "And We gave them of Our mercy, and We made for them a mention [i.e., reputation] of high honor.",
+    "text_ug": "ئۇلارغا بىزنىڭ رەھمىتىمىزنى ئاتا قىلدۇق، ئۇلارنىڭ نامىنى بەلەن ۋە يۇقىرى قىلدۇق"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 51,
+    "text_ar": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مُوسَىٰٓۚ إِنَّهُۥ كَانَ مُخۡلَصٗا وَكَانَ رَسُولٗا نَّبِيّٗا",
+    "text_en": "And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet.",
+    "text_ug": "كىتابتا (يەنى قۇرئاندا) مۇسا (قىسسەسى) نى بايان قىلغىن. شۈبھىسىزكى، ئۇ ئاللاھ ئىبادىتىگە خاس قىلغان ھەم رەسۇل (يەنى ئەلچى)، ھەم پەيغەمبەر ئىدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 52,
+    "text_ar": "وَنَٰدَيۡنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلۡأَيۡمَنِ وَقَرَّبۡنَٰهُ نَجِيّٗا",
+    "text_en": "And We called him from the side of the mount at [his] right and brought him near, confiding [to him].",
+    "text_ug": "ئۇنىڭغا بىز تۇر تېغىنىڭ ئوڭ تەرىپىدىن نىدا قىلدۇق، ئۇنى بىز مۇناجات ئۈچۈن (دەرگاھىمىزغا) يېقىنلاشتۇردۇق"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 53,
+    "text_ar": "وَوَهَبۡنَا لَهُۥ مِن رَّحۡمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيّٗا",
+    "text_en": "And We gave him out of Our mercy his brother Aaron as a prophet.",
+    "text_ug": "ئۇنىڭغا بىز مەرھەمەت قىلىپ قېرىندىشى ھارۇننى پەيغەمبەر قىلىپ بەردۇق"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 54,
+    "text_ar": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ إِسۡمَٰعِيلَۚ إِنَّهُۥ كَانَ صَادِقَ ٱلۡوَعۡدِ وَكَانَ رَسُولٗا نَّبِيّٗا",
+    "text_en": "And mention in the Book, Ishmael. Indeed, he was true to his promise, and he was a messenger and a prophet.",
+    "text_ug": "(ئى مۇھەممەد!) كىتابتا (يەنى قۇرئاندا) ئىسمائىل (نىڭ قىسسەسى) نى بايان قىلغىن، ئۇ ھەقىقەتەن ۋەدىسىدە راستچىل، ھەم رەسۇل، ھەم پەيغەمبەر ئىدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 55,
+    "text_ar": "وَكَانَ يَأۡمُرُ أَهۡلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرۡضِيّٗا",
+    "text_en": "And he used to enjoin on his people prayer and zakāh and was to his Lord pleasing [i.e., accepted by Him].",
+    "text_ug": "ئۇ ئائىلىسىدىكىلەرنى ناماز ئوقۇشقا، زاكات بېرىشكە بۇيرۇيتتى، پەرۋەردىگارىنىڭ دەرگاھىدا ئۇنىڭ رازىلىقىغا ئېرىشكەن ئىدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 56,
+    "text_ar": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ إِدۡرِيسَۚ إِنَّهُۥ كَانَ صِدِّيقٗا نَّبِيّٗا",
+    "text_en": "And mention in the Book, Idrees. Indeed, he was a man of truth and a prophet.",
+    "text_ug": "كىتابتا (يەنى قۇرئاندا) ئىدرىس (قىسسەسى) نى بايان قىلغىن، ئۇ ھەقىقەتەن راستچىل پەيغەمبەر ئىدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 57,
+    "text_ar": "وَرَفَعۡنَٰهُ مَكَانًا عَلِيًّا",
+    "text_en": "And We raised him to a high station.",
+    "text_ug": "ئۇنى بىز يۇقىرى ئورۇنغا كۆتۈردۇق"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 58,
+    "text_ar": "أُوْلَٰٓئِكَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوحٖ وَمِن ذُرِّيَّةِ إِبۡرَٰهِيمَ وَإِسۡرَٰٓءِيلَ وَمِمَّنۡ هَدَيۡنَا وَٱجۡتَبَيۡنَآۚ إِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُ ٱلرَّحۡمَٰنِ خَرُّواْۤ سُجَّدٗاۤ وَبُكِيّٗا۩",
+    "text_en": "Those were the ones upon whom Allāh bestowed favor from among the prophets of the descendants of Adam and of those We carried [in the ship] with Noah, and of the descendants of Abraham and Israel [i.e., Jacob], and of those whom We guided and chose. When the verses of the Most Merciful were recited to them, they fell in prostration and weeping.",
+    "text_ug": "ئاللاھنىڭ نېمىتىگە ئېرىشكەن ئەنە شۇ پەيغەمبەرلەر ئادەم (ئەلەيھىسسالام) نىڭ نەسلىدىندۇر، بىز نۇھ بىلەن بىللە كېمىگە سالغانلارنىڭ نەسلىدىندۇر، ئىبراھىمنىڭ نەسلىدىندۇر، ئىسرائىل (يەنى يەئقۇب ئەلەيھىسسالام) نىڭ نەسلىدىندۇر، بىز (ئىمانغا) ھىدايەت قىلغان، (پەيغەمبەرلىككە) تاللىغانلاردىندۇر، ئۇلارغا مەرھەمەتلىك ئاللاھنىڭ ئايەتلىرى تىلاۋەت قىلىنغان چاغدا سەجدە قىلغان ۋە يىغلىغان ھالدا (زېمىنغا) يىقىلىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 59,
+    "text_ar": "۞ فَخَلَفَ مِنۢ بَعۡدِهِمۡ خَلۡفٌ أَضَاعُواْ ٱلصَّلَوٰةَ وَٱتَّبَعُواْ ٱلشَّهَوَٰتِۖ فَسَوۡفَ يَلۡقَوۡنَ غَيًّا",
+    "text_en": "But there came after them successors [i.e., later generations] who neglected prayer and pursued desires; so they are going to meet evil -",
+    "text_ug": "ئۇلار كەتكەندىن كېيىن (ئۇلارنىڭ) ئورنىنى باسقان ئورۇنباسارلار نامازنى تەلەپكە لايىق ئادا قىلمىدى، نەپسى - خاھىشلىرىغا ئەگەشتى، ئۇلار (قىيامەتتە) گۇمراھلىقنىڭ جازاسىنى تارتىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 60,
+    "text_ar": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحٗا فَأُوْلَٰٓئِكَ يَدۡخُلُونَ ٱلۡجَنَّةَ وَلَا يُظۡلَمُونَ شَيۡـٔٗا",
+    "text_en": "Except those who repent, believe and do righteousness; for those will enter Paradise and will not be wronged at all.",
+    "text_ug": "تەۋبە قىلغان، ئىمان ئېيتقان ۋە ياخشى ئەمەللەرنى قىلغانلار بۇنىڭدىن مۇستەسنا، ئەنە شۇلارلا جەننەتكە كىرىدۇ، ئۇلارنىڭ (ئەمەللىرىنىڭ ساۋابىدىن) ھېچ نەرسە كېمەيتىلمەيدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 61,
+    "text_ar": "جَنَّٰتِ عَدۡنٍ ٱلَّتِي وَعَدَ ٱلرَّحۡمَٰنُ عِبَادَهُۥ بِٱلۡغَيۡبِۚ إِنَّهُۥ كَانَ وَعۡدُهُۥ مَأۡتِيّٗا",
+    "text_en": "[Therein are] gardens of perpetual residence which the Most Merciful has promised His servants in the unseen. Indeed, His promise has ever been eminent.",
+    "text_ug": "ئۇ دائىمىي تۇرالغۇ بولغان، مەرھەمەتلىك ئاللاھ بەندىلىرىگە ۋەدە قىلغان، ئۇلار كۆرمەي تۇرۇپ (ئىشەنگەن) جەننەتلەردۇر، ئاللاھنىڭ (جەننەت بىلەن قىلغان) ۋەدىسى چوقۇم ئىشقا ئاشىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 62,
+    "text_ar": "لَّا يَسۡمَعُونَ فِيهَا لَغۡوًا إِلَّا سَلَٰمٗاۖ وَلَهُمۡ رِزۡقُهُمۡ فِيهَا بُكۡرَةٗ وَعَشِيّٗا",
+    "text_en": "They will not hear therein any ill speech - only [greetings of] peace - and they will have their provision therein, morning and afternoon.",
+    "text_ug": "ئۇلار جەننەتتە بىھۇدە سۆز ئاڭلىمايدۇ، پەقەت (پەرىشتىلەرنىڭ ئۇلارغا بەرگەن) سالامىنىلا ئاڭلايدۇ، ئۇلار جەننەتتە ئەتىگەن ـ ئاخشامدا (كۆڭلى تارتقان يىمەك ـ ئىچمەكلەردىن) رىزىققا ئىگە بولۇپ تۇرىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 63,
+    "text_ar": "تِلۡكَ ٱلۡجَنَّةُ ٱلَّتِي نُورِثُ مِنۡ عِبَادِنَا مَن كَانَ تَقِيّٗا",
+    "text_en": "That is Paradise, which We give as inheritance to those of Our servants who were fearing of Allāh.",
+    "text_ug": "بەندىلىرىمىز ئىچىدىكى تەقۋادارلارغا بىز مىراس قىلىپ بېرىدىغان جەننەت ئەنە شۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 64,
+    "text_ar": "وَمَا نَتَنَزَّلُ إِلَّا بِأَمۡرِ رَبِّكَۖ لَهُۥ مَا بَيۡنَ أَيۡدِينَا وَمَا خَلۡفَنَا وَمَا بَيۡنَ ذَٰلِكَۚ وَمَا كَانَ رَبُّكَ نَسِيّٗا",
+    "text_en": "[Gabriel said], \"And we [angels] descend not except by the order of your Lord. To Him belongs that before us and that behind us and what is in between. And never is your Lord forgetful -",
+    "text_ug": "بىز (يەنى پەرىشتىلەر دۇنياغا) پەرۋەردىگارىڭنىڭ ئەمرى بىلەن چۈشىمىز، بىزنىڭ ئالدىمىزدىكى، ئارقىمىزدىكى ۋە ئالدى ـ كەينىمىز ئارىسىدىكى ئىشلارنىڭ ھەممىسى ئاللاھنىڭ ئىلكىدىدۇر، پەرۋەردىگارىڭ (بەندىلىرىنىڭ ئەمەللىرىدىن ھېچ نەرسىنى) ئۇنتۇمايدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 65,
+    "text_ar": "رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا فَٱعۡبُدۡهُ وَٱصۡطَبِرۡ لِعِبَٰدَتِهِۦۚ هَلۡ تَعۡلَمُ لَهُۥ سَمِيّٗا",
+    "text_en": "Lord of the heavens and the earth and whatever is between them - so worship Him and have patience for His worship. Do you know of any similarity to Him?\"",
+    "text_ug": "ئۇ ئاسمانلارنىڭ، زېمىن ۋە ئۇلارنىڭ ئارىسىدىكى شەيئىلەرنىڭ پەرۋەردىگارىدۇر، ئۇنىڭغا ئىبادەت قىلغىن، ئاللاھنىڭ ئىبادىتىگە چىداملىق بولغىن، سەن ئۇنىڭ شېرىكى بارلىقىنى بىلەمسەن؟"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 66,
+    "text_ar": "وَيَقُولُ ٱلۡإِنسَٰنُ أَءِذَا مَا مِتُّ لَسَوۡفَ أُخۡرَجُ حَيًّا",
+    "text_en": "And man [i.e., the disbeliever] says, \"When I have died, am I going to be brought forth alive?\"",
+    "text_ug": "ئىنسان (يەنى ئۆلگەندىن كېيىن تىرىلىشىگە ئېتىقاد قىلمايدىغان كاپىر): «مەن ئۆلگەندىن كېيىن چوقۇم تىرىلەمدىم؟» دەيدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 67,
+    "text_ar": "أَوَلَا يَذۡكُرُ ٱلۡإِنسَٰنُ أَنَّا خَلَقۡنَٰهُ مِن قَبۡلُ وَلَمۡ يَكُ شَيۡـٔٗا",
+    "text_en": "Does man not remember that We created him before, while he was nothing?",
+    "text_ug": "ئىنسان بىز ئۇنى ئىلگىرى يوقتىن بار قىلغانلىقىمىزنى ئەسلىمەمدۇ؟"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 68,
+    "text_ar": "فَوَرَبِّكَ لَنَحۡشُرَنَّهُمۡ وَٱلشَّيَٰطِينَ ثُمَّ لَنُحۡضِرَنَّهُمۡ حَوۡلَ جَهَنَّمَ جِثِيّٗا",
+    "text_en": "So by your Lord, We will surely gather them and the devils; then We will bring them to be present around Hell upon their knees.",
+    "text_ug": "پەرۋەردىگارىڭ بىلەن قەسەمكى، ئۇلارنى ئەلۋەتتە (ئۇلارنى ئازدۇرغان) شەيتانلار بىلەن قوشۇپ يىغىمىز، ئاندىن ئۇلارنى جەھەننەمنىڭ چۆرىسىدە تىزلاندۇرۇپ ئولتۇرغۇزغان ھالدا ئەلۋەتتە ھازىر قىلىمىز"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 69,
+    "text_ar": "ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِيعَةٍ أَيُّهُمۡ أَشَدُّ عَلَى ٱلرَّحۡمَٰنِ عِتِيّٗا",
+    "text_en": "Then We will surely extract from every sect those of them who were worst against the Most Merciful in insolence.",
+    "text_ug": "ئاندىن ھەربىر گۇرۇھنىڭ ئىچىدىن مەرھەمەتلىك ئاللاھقا ئەڭ ئاسىي بولغانلىرىنى تارتىپ چىقىرىمىز"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 70,
+    "text_ar": "ثُمَّ لَنَحۡنُ أَعۡلَمُ بِٱلَّذِينَ هُمۡ أَوۡلَىٰ بِهَا صِلِيّٗا",
+    "text_en": "Then, surely it is We who are most knowing of those most worthy of burning therein.",
+    "text_ug": "ئاندىن بىز دوزاخ ئازابىغا ئەڭ لايىق بولغانلارنى ئەلۋەتتە ئوبدان بىلىمىز"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 71,
+    "text_ar": "وَإِن مِّنكُمۡ إِلَّا وَارِدُهَاۚ كَانَ عَلَىٰ رَبِّكَ حَتۡمٗا مَّقۡضِيّٗا",
+    "text_en": "And there is none of you except he will come to it. This is upon your Lord an inevitability decreed.",
+    "text_ug": "سىلەرنىڭ ئىچىڭلاردىن دوزاخقا بارمايدىغان بىرەر كىشىمۇ قالمايدۇ، بۇ پەرۋەردىگارىڭنىڭ ئۆزگەرمەس ھۆكمىدۇر"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 72,
+    "text_ar": "ثُمَّ نُنَجِّي ٱلَّذِينَ ٱتَّقَواْ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيّٗا",
+    "text_en": "Then We will save those who feared Allāh and leave the wrongdoers within it, on their knees.",
+    "text_ug": "ئاندىن تەقۋادارلارنى (جەھەننەمدىن) قۇتقۇزىمىز، زالىملارنى جەھەننەمدە تىزلىنىپ ئولتۇرغان ھالدا قويىمىز"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 73,
+    "text_ar": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ قَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُوٓاْ أَيُّ ٱلۡفَرِيقَيۡنِ خَيۡرٞ مَّقَامٗا وَأَحۡسَنُ نَدِيّٗا",
+    "text_en": "And when Our verses are recited to them as clear evidences, those who disbelieve say to those who believe, \"Which of [our] two parties is best in position and best in association?\"",
+    "text_ug": "ئۇلارغا بىزنىڭ روشەن ئايەتلىرىمىز تىلاۋەت قىلىنغان چاغدا، كاپىرلار مۆمىنلەرگە: «ئىككى گۇرۇھتىن قايسىسىنىڭ ئورنى ياخشى، سورۇنى گۈزەل؟» دېدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 74,
+    "text_ar": "وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَحۡسَنُ أَثَٰثٗا وَرِءۡيٗا",
+    "text_en": "And how many a generation have We destroyed before them who were better in possessions and [outward] appearance?",
+    "text_ug": "بۇلاردىن بۇرۇن (بىزنىڭ ئايەتلىرىمىزنى ئىنكار قىلغان) نۇرغۇن ئۈممەتلەرنى ھالاك قىلدۇق، ئۇلار مەيلى مال ـ مۈلۈك جەھەتتىن بولسۇن، مەيلى تاشقى كۆرۈنۈش جەھەتتىن بولسۇن، بۇلاردىن ئارتۇق ئىدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 75,
+    "text_ar": "قُلۡ مَن كَانَ فِي ٱلضَّلَٰلَةِ فَلۡيَمۡدُدۡ لَهُ ٱلرَّحۡمَٰنُ مَدًّاۚ حَتَّىٰٓ إِذَا رَأَوۡاْ مَا يُوعَدُونَ إِمَّا ٱلۡعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعۡلَمُونَ مَنۡ هُوَ شَرّٞ مَّكَانٗا وَأَضۡعَفُ جُندٗا",
+    "text_en": "Say, \"Whoever is in error - let the Most Merciful extend for him an extension [in wealth and time] until, when they see that which they were promised - either punishment [in this world] or the Hour [of resurrection] - they will come to know who is worst in position and weaker in soldiers.\"",
+    "text_ug": "(ئى مۇھەممەد!) ئېيتقىنكى، «كىمكى گۇمراھلىقتا بولىدىكەن، مەرھەمەتلىك ئاللاھ ئۇنىڭغا مۆھلەت بېرىدۇ، تاكى ئۇلار ئازاب ۋە قىيامەتتىن ئىبارەت ئاللاھ ئۇلارغا ۋەدە قىلغان نەرسىلەرنى كۆرگەندە ئاندىن كىمنىڭ ئورنى يامان ۋە كىمنىڭ لەشكىرى ئاجىز ئىكەنلىكىنى بىلىدۇ»"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 76,
+    "text_ar": "وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهۡتَدَوۡاْ هُدٗىۗ وَٱلۡبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيۡرٌ عِندَ رَبِّكَ ثَوَابٗا وَخَيۡرٞ مَّرَدًّا",
+    "text_en": "And Allāh increases those who were guided, in guidance, and the enduring good deeds are better to your Lord for reward and better for recourse.",
+    "text_ug": "ئاللاھ ھىدايەت تاپقۇچىلارنىڭ ھىدايىتىنى زىيادە قىلىدۇ، باقى قالىدىغان ياخشى ئەمەللەر ساۋاب جەھەتتىن ۋە ئاقىۋەت جەھەتتىن پەرۋەردىگارىڭنىڭ دەرگاھىدا ئارتۇقتۇر"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 77,
+    "text_ar": "أَفَرَءَيۡتَ ٱلَّذِي كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالٗا وَوَلَدًا",
+    "text_en": "Then, have you seen he who disbelieved in Our verses and said, \"I will surely be given wealth and children [in the next life]\"?",
+    "text_ug": "بىزنىڭ ئايەتلىرىمىزنى ئىنكار قىلغان ۋە ماڭا (ئاخىرەتتە) ئەلۋەتتە مال ـ مۈلۈك، ئەۋلاد بېرىلىدۇ دېگەن ئادەمنى كۆردۈڭمۇ؟(77)"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 78,
+    "text_ar": "أَطَّلَعَ ٱلۡغَيۡبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحۡمَٰنِ عَهۡدٗا",
+    "text_en": "Has he looked into the unseen, or has he taken from the Most Merciful a promise?",
+    "text_ug": "ئۇ غەيبنى بىلگەنمۇ ياكى مەرھەمەتلىك ئاللاھنىڭ ئەھدىسىگە ئېرىشكەنمۇ؟(78)"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 79,
+    "text_ar": "كَلَّاۚ سَنَكۡتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلۡعَذَابِ مَدّٗا",
+    "text_en": "No! We will record what he says and extend [i.e., increase] for him from the punishment extensively.",
+    "text_ug": "ھەرگىز ئۇنداق بولغان ئەمەس، ئۇنىڭ دېگەنلىرىنى خاتىرىلەپ قويىمىز، ئۇنىڭغا بېرىدىغان ئازابنى كۈچەيتىمىز"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 80,
+    "text_ar": "وَنَرِثُهُۥ مَا يَقُولُ وَيَأۡتِينَا فَرۡدٗا",
+    "text_en": "And We will inherit him [in] what he mentions, and he will come to Us alone.",
+    "text_ug": "ئۇنىڭ دېگەنلىرىنى (يەنى مېلىنى ۋە ئەۋلادىنى) باشقىلارغا مىراس قىلىپ قالدۇرىمىز، ئۇ ئالدىمىزغا تەنھا كېلىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 81,
+    "text_ar": "وَٱتَّخَذُواْ مِن دُونِ ٱللَّهِ ءَالِهَةٗ لِّيَكُونُواْ لَهُمۡ عِزّٗا",
+    "text_en": "And they have taken besides Allāh [false] deities that they would be for them [a source of] honor.",
+    "text_ug": "ئۇلار (يەنى مۇشرىكلار) ئىززەتكە ئېرىشىش ئۈچۈن (يەنى ئىلاھلىرىنىڭ شاپائىتى بىلەن ئاللاھنىڭ ئالدىدا ئىززەتلىك بولۇش ئۈچۈن)، ئاللاھنى قويۇپ ئىلاھلارغا چوقۇندى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 82,
+    "text_ar": "كَلَّاۚ سَيَكۡفُرُونَ بِعِبَادَتِهِمۡ وَيَكُونُونَ عَلَيۡهِمۡ ضِدًّا",
+    "text_en": "No! They [i.e., those \"gods\"] will deny their worship of them and will be against them opponents [on the Day of Judgement].",
+    "text_ug": "ئىش ئۇلارنىڭ گۇمان قىلغىنىدەك ئەمەس (يەنى ئىلاھلىرى ئۇلارنىڭ ئاللاھ ئالدىدا ئىززەت تېپىشلىرىنىڭ سەۋەبى بولالمايدۇ)، (ئىلاھلار) ئۇلارنىڭ (يەنى مۇشرىكلارنىڭ) چوقۇنۇشىنى ئىنكار قىلىدۇ، ئۇلار (يەنى مۇشرىكلار) نىڭ دۈشمىنىگە ئايلىنىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 83,
+    "text_ar": "أَلَمۡ تَرَ أَنَّآ أَرۡسَلۡنَا ٱلشَّيَٰطِينَ عَلَى ٱلۡكَٰفِرِينَ تَؤُزُّهُمۡ أَزّٗا",
+    "text_en": "Do you not see that We have sent the devils upon the disbelievers, inciting them [to evil] with [constant] incitement?",
+    "text_ug": "بىزنىڭ شەيتانلارنى كاپىرلارغا ئەۋەتكەنلىكىمىزنى بىلمەمسەن؟ شەيتانلار ئۇلارنى (گۇناھلارغا) قىزىقتۇرىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 84,
+    "text_ar": "فَلَا تَعۡجَلۡ عَلَيۡهِمۡۖ إِنَّمَا نَعُدُّ لَهُمۡ عَدّٗا",
+    "text_en": "So be not impatient over them. We only count out [i.e., allow] to them a [limited] number.",
+    "text_ug": "ئۇلارنىڭ ھالاك بولۇشىغا ئالدىراپ كەتمىگىن، (ئۇلارنىڭ كۈنى ئاز قالغان بولۇپ) ئۇنى بىز ساناپ تۇرىمىز"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 85,
+    "text_ar": "يَوۡمَ نَحۡشُرُ ٱلۡمُتَّقِينَ إِلَى ٱلرَّحۡمَٰنِ وَفۡدٗا",
+    "text_en": "On the Day We will gather the righteous to the Most Merciful as a delegation",
+    "text_ug": "شۇ كۈندە (يەنى قىيامەت كۈنىدە) تەقۋادارلارنى مەرھەمەتلىك پەرۋەردىگارنىڭ دەرگاھىغا ئىززەت ـ ئىكرام بىلەن يىغىمىز"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 86,
+    "text_ar": "وَنَسُوقُ ٱلۡمُجۡرِمِينَ إِلَىٰ جَهَنَّمَ وِرۡدٗا",
+    "text_en": "And will drive the criminals to Hell in thirst",
+    "text_ug": "گۇناھكارلارنى ئۇلار چاڭقىغان ھالدا جەھەننەمگە ھەيدەيمىز"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 87,
+    "text_ar": "لَّا يَمۡلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحۡمَٰنِ عَهۡدٗا",
+    "text_en": "None will have [power of] intercession except he who had taken from the Most Merciful a covenant.",
+    "text_ug": "مەرھەمەتلىك ئاللاھنىڭ ئەھدىگە ئېرىشكەنلەردىن باشقىلار شاپائەت قىلىشقا قادىر بولالمايدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 88,
+    "text_ar": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗا",
+    "text_en": "And they say, \"The Most Merciful has taken [for Himself] a son.\"",
+    "text_ug": "ئۇلار: «ئاللاھنىڭ بالىسى بار» دېيىشتى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 89,
+    "text_ar": "لَّقَدۡ جِئۡتُمۡ شَيۡـًٔا إِدّٗا",
+    "text_en": "You have done an atrocious thing.",
+    "text_ug": "سىلەر شەك ـ شۈبھىسىز قەبىھ بىر سۆزنى قىلدىڭلار"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 90,
+    "text_ar": "تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرۡنَ مِنۡهُ وَتَنشَقُّ ٱلۡأَرۡضُ وَتَخِرُّ ٱلۡجِبَالُ هَدًّا",
+    "text_en": "The heavens almost rupture therefrom and the earth splits open and the mountains collapse in devastation",
+    "text_ug": "بۇ سۆزنىڭ (يامانلىقىدىن) ئاسمانلار پارچىلىنىپ كەتكىلى، يەر يېرىلىپ كەتكىلى، تاغلار گۇمران بولۇپ كەتكىلى تاس قالدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 91,
+    "text_ar": "أَن دَعَوۡاْ لِلرَّحۡمَٰنِ وَلَدٗا",
+    "text_en": "That they attribute to the Most Merciful a son.",
+    "text_ug": "بۇ شۇنىڭ ئۈچۈنكى، ئۇلار ئاللاھنىڭ بالىسى بار دەپ دەۋا قىلدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 92,
+    "text_ar": "وَمَا يَنۢبَغِي لِلرَّحۡمَٰنِ أَن يَتَّخِذَ وَلَدًا",
+    "text_en": "And it is not appropriate for the Most Merciful that He should take a son.",
+    "text_ug": "بالىسى بولۇش ئاللاھقا لايىق ئەمەستۇر"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 93,
+    "text_ar": "إِن كُلُّ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ إِلَّآ ءَاتِي ٱلرَّحۡمَٰنِ عَبۡدٗا",
+    "text_en": "There is no one in the heavens and earth but that he comes to the Most Merciful as a servant.",
+    "text_ug": "ئاسمانلاردا ۋە زېمىندا ئاللاھقا بەندە بولۇپ بويسۇنمايدىغان ھېچ مەخلۇق يوقتۇر"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 94,
+    "text_ar": "لَّقَدۡ أَحۡصَىٰهُمۡ وَعَدَّهُمۡ عَدّٗا",
+    "text_en": "He has enumerated them and counted them a [full] counting.",
+    "text_ug": "شەك ـ شۈبھىسىزكى، ئاللاھ ئۇلارنى تولۇق ئىگەللىدى ۋە سانىنى مۇكەممەل بىلدى"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 95,
+    "text_ar": "وَكُلُّهُمۡ ءَاتِيهِ يَوۡمَ ٱلۡقِيَٰمَةِ فَرۡدًا",
+    "text_en": "And all of them are coming to Him on the Day of Resurrection alone.",
+    "text_ug": "قىيامەت كۈنى ئۇلارنىڭ ھەممىسى ئاللاھنىڭ دەرگاھىغا تەنھا كېلىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 96,
+    "text_ar": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ سَيَجۡعَلُ لَهُمُ ٱلرَّحۡمَٰنُ وُدّٗا",
+    "text_en": "Indeed, those who have believed and done righteous deeds - the Most Merciful will appoint for them affection.",
+    "text_ug": "ئىمان ئېيتقان ۋە ياخشى ئەمەللەرنى قىلغانلار ئۈچۈن ئاللاھ ھەقىقەتەن (ئۇلارنىڭ دىللىرىدا) مۇھەببەت پەيدا قىلىدۇ"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 97,
+    "text_ar": "فَإِنَّمَا يَسَّرۡنَٰهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ ٱلۡمُتَّقِينَ وَتُنذِرَ بِهِۦ قَوۡمٗا لُّدّٗا",
+    "text_en": "So, [O Muḥammad], We have only made it [i.e., the Qur’ān] easy in your tongue [i.e., the Arabic language] that you may give good tidings thereby to the righteous and warn thereby a hostile people.",
+    "text_ug": "(ئى مۇھەممەد!) تەقۋادارلارغا خۇشخەۋەر بېرىشىڭ ۋە سەركەش قەۋمنى ئاگاھلاندۇرۇشۇڭ ئۈچۈن، بىز قۇرئاننى سېنىڭ تىلىڭ بىلەن چۈشىنىشلىك قىلىپ نازىل قىلدۇق"
+  },
+  {
+    "surah": 19,
+    "surah_name_en": "Maryam",
+    "surah_name_ar": "مريم",
+    "surah_name_ug": "مەريەم",
+    "ayah": 98,
+    "text_ar": "وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هَلۡ تُحِسُّ مِنۡهُم مِّنۡ أَحَدٍ أَوۡ تَسۡمَعُ لَهُمۡ رِكۡزَۢا",
+    "text_en": "And how many have We destroyed before them of generations? Do you perceive of them anyone or hear from them a sound?",
+    "text_ug": "ئۇلاردىن ئىلگىرى نۇرغۇن ئۈممەتلەرنى ھالاك قىلدۇق، ئۇلاردىن بىرەر ئەھەدىنى كۆرەلەمسەن ياكى ئۇلاردىن بىرەر پەس ئاۋاز ئاڭلىيالامسەن؟ (يەنى ئۇلار شۇنداق تەلتۆكۈس ھالاك قىلىندىكى، ئۇلاردىن كۆرگىلى ۋە ئاۋازىنى ئاڭلىغىلى ھېچ ئەھەدى قالمىدى)"
+  }
+]

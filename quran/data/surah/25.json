@@ -1,0 +1,772 @@
+[
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 1,
+    "text_ar": "تَبَارَكَ ٱلَّذِي نَزَّلَ ٱلۡفُرۡقَانَ عَلَىٰ عَبۡدِهِۦ لِيَكُونَ لِلۡعَٰلَمِينَ نَذِيرًا",
+    "text_en": "Blessed is He who sent down the Criterion upon His Servant that he may be to the worlds a warner -",
+    "text_ug": "پۈتۈن جاھان ئەھلىنى (ئاللاھنىڭ ئازابىدىن) ئاگاھلاندۇرغۇچى بولۇشى ئۈچۈن، بەندىسىگە (يەنى مۇھەممەد ئەلەيھىسسالامغا) ھەق بىلەن باتىلنى ئايرىغۇچى قۇرئاننى نازىل قىلغان ئاللاھنىڭ بەرىكىتى بۈيۈكتۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 2,
+    "text_ar": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَمۡ يَتَّخِذۡ وَلَدٗا وَلَمۡ يَكُن لَّهُۥ شَرِيكٞ فِي ٱلۡمُلۡكِ وَخَلَقَ كُلَّ شَيۡءٖ فَقَدَّرَهُۥ تَقۡدِيرٗا",
+    "text_en": "He to whom belongs the dominion of the heavens and the earth and who has not taken a son and has not had a partner in dominion and has created each thing and determined it with [precise] determination.",
+    "text_ug": "ئاسمانلارنىڭ ۋە زېمىننىڭ پادىشاھلىقى ئاللاھقا خاستۇر، ئاللاھنىڭ بالىسى يوقتۇر، پادىشاھلىقتا شېرىكىمۇ يوقتۇر، ئاللاھ ھەممە نەرسىنى ياراتتى، ئاندىن (ئۆزىنىڭ خاھىشى بويىچە) ئۇنىڭغا مۇناسىپ ئۆلچەمنى بەلگىلىدى"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 3,
+    "text_ar": "وَٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗ لَّا يَخۡلُقُونَ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ وَلَا يَمۡلِكُونَ لِأَنفُسِهِمۡ ضَرّٗا وَلَا نَفۡعٗا وَلَا يَمۡلِكُونَ مَوۡتٗا وَلَا حَيَوٰةٗ وَلَا نُشُورٗا",
+    "text_en": "But they have taken besides Him gods which create nothing, while they are created, and possess not for themselves any harm or benefit and possess not [power to cause] death or life or resurrection.",
+    "text_ug": "مۇشرىكلار ئاللاھنى قويۇپ، ھېچ نەرسىنى يارىتالمايدىغان ۋە ئۆزلىرى يارىتىلغان ئىلاھلار (يەنى بۇتلار) غا ئىبادەت قىلدى. ئۇلار (يەنى بۇتلار) ئۆزلىرىدىن بىرەر زىياننى دەپئى قىلالمايدۇ. ئۆزلىرىگە بىرەر پايدىنى كەلتۈرەلمەيدۇ، (باشقىلارنىڭ) جېنىنى ئېلىشقا، (باشقىلارغا) ھايات بېغىشلاشقا ياكى (ئۆلۈكلەرنى) تىرىلدۈرۈشكە قادىر بولالمايدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 4,
+    "text_ar": "وَقَالَ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ هَٰذَآ إِلَّآ إِفۡكٌ ٱفۡتَرَىٰهُ وَأَعَانَهُۥ عَلَيۡهِ قَوۡمٌ ءَاخَرُونَۖ فَقَدۡ جَآءُو ظُلۡمٗا وَزُورٗا",
+    "text_en": "And those who disbelieve say, \"This [Qur’ān] is not except a falsehood he invented, and another people assisted him in it.\" But they have committed an injustice and a lie.",
+    "text_ug": "كاپىرلار: «بۇ (يەنى قۇرئان) پەقەت ئۇ (يەنى مۇھەممەد) ئۆزى توقۇغان يالغاندۇر، ئۇنىڭغا ئۇنى توقۇشقا باشقا بىر قەۋم (يەنى ئەھلى كىتاب) ياردەم بەرگەن» دەيدۇ، ئۇلار (پەيغەمبەر ئەلەيھىسسالامغا بوھتان چاپلاش بىلەن ئۇنىڭغا) زۇلۇم قىلدى ۋە يالغاننى چاپلىدى"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 5,
+    "text_ar": "وَقَالُوٓاْ أَسَٰطِيرُ ٱلۡأَوَّلِينَ ٱكۡتَتَبَهَا فَهِيَ تُمۡلَىٰ عَلَيۡهِ بُكۡرَةٗ وَأَصِيلٗا",
+    "text_en": "And they say, \"Legends of the former peoples which he has written down, and they are dictated to him morning and afternoon.\"",
+    "text_ug": "ئۇلار ئېيتتى: «(بۇ) بۇرۇنقىلارنىڭ ئەپسانىلىرىدۇركى، ئۇلارنى ئۇ يازدۇرۇۋالغان، (ھىفزى قىلىۋېلىشى ئۈچۈن) ئۇنىڭغا ئەتىگەن - ئاخشامدا ئوقۇپ بېرىلىۋاتىدۇ»"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 6,
+    "text_ar": "قُلۡ أَنزَلَهُ ٱلَّذِي يَعۡلَمُ ٱلسِّرَّ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّهُۥ كَانَ غَفُورٗا رَّحِيمٗا",
+    "text_en": "Say, [O Muḥammad], \"It has been revealed by He who knows [every] secret within the heavens and the earth. Indeed, He is ever Forgiving and Merciful.\"",
+    "text_ug": "ئېيتقىنكى، «ئۇنى ئاسمانلاردىكى ۋە زېمىندىكى سىرنى بىلىپ تۇرىدىغان ئاللاھ نازىل قىلدى، ئاللاھ ھەقىقەتەن ناھايىتى مەغپىرەت قىلغۇچىدۇر، (بەندىلەرگە) ناھايىتى مېھرىباندۇر»"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 7,
+    "text_ar": "وَقَالُواْ مَالِ هَٰذَا ٱلرَّسُولِ يَأۡكُلُ ٱلطَّعَامَ وَيَمۡشِي فِي ٱلۡأَسۡوَاقِ لَوۡلَآ أُنزِلَ إِلَيۡهِ مَلَكٞ فَيَكُونَ مَعَهُۥ نَذِيرًا",
+    "text_en": "And they say, \"What is this messenger that eats food and walks in the markets? Why was there not sent down to him an angel so he would be with him a warner?",
+    "text_ug": "مۇشرىكلار (مۇھەممەد ئەلەيھىسسالامنى مەسخىرە قىلىپ) ئېيتتى: «بازارلاردا (بىز تاماق يېگەندەك) تاماق يەيدىغان، (بىز ماڭغاندەك) مېڭىپ يۈرىدىغان بۇ قانداق پەيغەمبەر؟ ئۇنىڭ بىلەن بىللە ئاگاھلاندۇرغۇچى بولۇش ئۈچۈن ئاللاھ ئۇنىڭغا نېمىشقا بىر پەرىشتە ئەۋەتمىدى"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 8,
+    "text_ar": "أَوۡ يُلۡقَىٰٓ إِلَيۡهِ كَنزٌ أَوۡ تَكُونُ لَهُۥ جَنَّةٞ يَأۡكُلُ مِنۡهَاۚ وَقَالَ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلٗا مَّسۡحُورًا",
+    "text_en": "Or [why is not] a treasure presented to him [from heaven], or does he [not] have a garden from which he eats?\" And the wrongdoers say, \"You follow not but a man affected by magic.\"",
+    "text_ug": "يا ئۇنىڭغا بىر خەزىنە بېرىلمىدى، يا ئۇنىڭغا مېۋىلىرىنى يەيدىغان بىر باغ بېرىلمىدى؟» زالىملار (يەنى كاپىرلار): «سىلەر پەقەت سېھىرلەنگەن بىر ئادەمگە ئەگىشىۋاتىسىلەر» دېدى"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 9,
+    "text_ar": "ٱنظُرۡ كَيۡفَ ضَرَبُواْ لَكَ ٱلۡأَمۡثَٰلَ فَضَلُّواْ فَلَا يَسۡتَطِيعُونَ سَبِيلٗا",
+    "text_en": "Look how they strike for you comparisons; but they have strayed, so they cannot [find] a way.",
+    "text_ug": "مۇشرىكلارنىڭ سېنىڭ ئۈچۈن نۇرغۇن مىساللارنى كەلتۈرگەنلىكىگە قارىغىن، ئۇلار ئازدى، توغرا يول تاپالمايدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 10,
+    "text_ar": "تَبَارَكَ ٱلَّذِيٓ إِن شَآءَ جَعَلَ لَكَ خَيۡرٗا مِّن ذَٰلِكَ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ وَيَجۡعَل لَّكَ قُصُورَۢا",
+    "text_en": "Blessed is He who, if He willed, could have made for you [something] better than that - gardens beneath which rivers flow - and could make for you palaces.",
+    "text_ug": "ئاللاھنىڭ بەرىكىتى بۈيۈكتۇركى، ئەگەر ئۇ خالىسا ساڭا ئۇلارنىڭ ئېيتقانلىرىدىنمۇ ياخشى، ئاستىدىن ئۆستەڭلار ئېقىپ تۇرىدىغان باغلارنى ۋە چوڭ سارايلارنى ئاتا قىلاتتى"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 11,
+    "text_ar": "بَلۡ كَذَّبُواْ بِٱلسَّاعَةِۖ وَأَعۡتَدۡنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ سَعِيرًا",
+    "text_en": "But they have denied the Hour, and We have prepared for those who deny the Hour a Blaze.",
+    "text_ug": "ياق، ئۇلار قىيامەتنى ئىنكار قىلدى، قىيامەتنى ئىنكار قىلغانلارغا بىز دوزاخنى تەييارلىدۇق"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 12,
+    "text_ar": "إِذَا رَأَتۡهُم مِّن مَّكَانِۭ بَعِيدٖ سَمِعُواْ لَهَا تَغَيُّظٗا وَزَفِيرٗا",
+    "text_en": "When it [i.e., the Hellfire] sees them from a distant place, they will hear its fury and roaring.",
+    "text_ug": "دوزاخ ئۇلارنى يىراقتىن كۆرگەن چاغدا، ئۇلار دوزاخنىڭ غەزەپتىن قاينىغان ۋە (ئېشەكتەك) ھاڭرىغان ئاۋازنى ئاڭلايدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 13,
+    "text_ar": "وَإِذَآ أُلۡقُواْ مِنۡهَا مَكَانٗا ضَيِّقٗا مُّقَرَّنِينَ دَعَوۡاْ هُنَالِكَ ثُبُورٗا",
+    "text_en": "And when they are thrown into a narrow place therein bound in chains, they will cry out thereupon for destruction.",
+    "text_ug": "ئۇلار زەنجىر بىلەن باغلانغان ھالدا دوزاخنىڭ تار يېرىگە تاشلانغان چاغدا، بۇ يەردە ئۇلار (ئۆزلىرىنىڭ) ئۆلۈمىنى تىلەيدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 14,
+    "text_ar": "لَّا تَدۡعُواْ ٱلۡيَوۡمَ ثُبُورٗا وَٰحِدٗا وَٱدۡعُواْ ثُبُورٗا كَثِيرٗا",
+    "text_en": "[They will be told], \"Do not cry this Day for one destruction but cry for much destruction.\"",
+    "text_ug": "(ئۇلارغا) بۈگۈن سىلەر بىر ئۆلۈمنى ئەمەس، تالاي ئۆلۈملەرنى تىلەڭلار (دېيىلىدۇ)"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 15,
+    "text_ar": "قُلۡ أَذَٰلِكَ خَيۡرٌ أَمۡ جَنَّةُ ٱلۡخُلۡدِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۚ كَانَتۡ لَهُمۡ جَزَآءٗ وَمَصِيرٗا",
+    "text_en": "Say, \"Is that better or the Garden of Eternity which is promised to the righteous? It will be for them a reward and destination.",
+    "text_ug": "ئۇلارغا ئېيتقىنكى، «شۇ (دوزاخ) ياخشىمۇ يا تەقۋادارلارغا ۋەدە قىلىنغان، (كىرگەن كىشى) مەڭگۈ قالىدىغان جەننەت ياخشىمۇ؟» جەننەت تەقۋادارلارغا بېرىلگەن مۇكاپاتتۇر ۋە ئۇلارنىڭ ئاخىرى بارىدىغان جايىدۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 16,
+    "text_ar": "لَّهُمۡ فِيهَا مَا يَشَآءُونَ خَٰلِدِينَۚ كَانَ عَلَىٰ رَبِّكَ وَعۡدٗا مَّسۡـُٔولٗا",
+    "text_en": "For them therein is whatever they wish, [while] abiding eternally. It is ever upon your Lord a promise [worthy to be] requested.",
+    "text_ug": "ئۇلار جەننەتتە خالىغان نېمەتلەردىن بەھرىمەن بولىدۇ، جەننەتتە مەڭگۈ قالىدۇ، بۇ پەرۋەردىگارىڭدىن ئىشقا ئاشۇرۇش تىلىنىدىغان ۋەدىدۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 17,
+    "text_ar": "وَيَوۡمَ يَحۡشُرُهُمۡ وَمَا يَعۡبُدُونَ مِن دُونِ ٱللَّهِ فَيَقُولُ ءَأَنتُمۡ أَضۡلَلۡتُمۡ عِبَادِي هَٰٓؤُلَآءِ أَمۡ هُمۡ ضَلُّواْ ٱلسَّبِيلَ",
+    "text_en": "And [mention] the Day He will gather them and that which they worship besides Allāh and will say, \"Did you mislead these, My servants, or did they [themselves] stray from the way?\"",
+    "text_ug": "شۇ كۈندە ئاللاھ ئۇلارغا قوشۇپ، ئۇلار ئاللاھنى قويۇپ چوقۇنغان نەرسىلىرىنى يىغىدۇ. ئاندىن ئاللاھ (ئۇلارغا): «مېنىڭ بۇ بەندىلىرىمنى سىلەر ئازدۇردۇڭلارمۇ؟ ياكى (توغرا) يولدىن ئۇلار ئۆزلىرى ئازدىمۇ؟» دەيدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 18,
+    "text_ar": "قَالُواْ سُبۡحَٰنَكَ مَا كَانَ يَنۢبَغِي لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنۡ أَوۡلِيَآءَ وَلَٰكِن مَّتَّعۡتَهُمۡ وَءَابَآءَهُمۡ حَتَّىٰ نَسُواْ ٱلذِّكۡرَ وَكَانُواْ قَوۡمَۢا بُورٗا",
+    "text_en": "They will say, \"Exalted are You! It was not for us to take besides You any allies [i.e., protectors]. But You provided comforts for them and their fathers until they forgot the message and became a people ruined.\"",
+    "text_ug": "(ئىبادەت قىلىنغۇچىلار) ئېيتىدۇ: «ئى ئاللاھ! سەن پاكتۇرسەن، سېنى قويۇپ باشقىلارنى دوست تۇتۇش (يەنى سەندىن باشقىغا چوقۇنۇش) بىزگە (ۋە سېنىڭ مەخلۇقاتىڭدىن ھېچ ئەھەدىگە) لايىق ئەمەس، لېكىن سەن ئۇلارنى ۋە ئۇلارنىڭ ئاتا -بوۋىلىرىنى شۇ قەدەر نېمەتكە چۆمدۈردۇڭكى، ئۇلار سېنى ياد ئېتىشنى ئۇنتۇدى. ئۇلار ھالاك بولغۇچى قەۋم بولدى»"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 19,
+    "text_ar": "فَقَدۡ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسۡتَطِيعُونَ صَرۡفٗا وَلَا نَصۡرٗاۚ وَمَن يَظۡلِم مِّنكُمۡ نُذِقۡهُ عَذَابٗا كَبِيرٗا",
+    "text_en": "So they will deny you, [disbelievers], in what you say, and you cannot avert [punishment] or [find] help. And whoever commits injustice among you - We will make him taste a great punishment.",
+    "text_ug": "شۈبھىسىزكى، ئىبادەت قىلىنغۇچىلار سىلەرنىڭ (ئۇلارنى مەبۇد دېگەن) سۆزۈڭلارنى ئىنكار قىلدى، (ئى كۇففارلار!) سىلەر (ئۆزۈڭلاردىن ئازابنى) دەپئى قىلىشقىمۇ ۋە (بۇ بالادىن ئۆزۈڭلارنى قۇتۇلدۇرۇشقا) ياردەم بېرىشكىمۇ قادىر بولالمايسىلەر، سىلەردىن كىمكى (ئاللاھقا شېرىك كەلتۈرۈش بىلەن ئۆزىگە) زۇلۇم قىلىدىكەن، ئۇنىڭغا بىز (ئاخىرەتتە) قاتتىق ئازابنى تېتىتىمىز"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 20,
+    "text_ar": "وَمَآ أَرۡسَلۡنَا قَبۡلَكَ مِنَ ٱلۡمُرۡسَلِينَ إِلَّآ إِنَّهُمۡ لَيَأۡكُلُونَ ٱلطَّعَامَ وَيَمۡشُونَ فِي ٱلۡأَسۡوَاقِۗ وَجَعَلۡنَا بَعۡضَكُمۡ لِبَعۡضٖ فِتۡنَةً أَتَصۡبِرُونَۗ وَكَانَ رَبُّكَ بَصِيرٗا",
+    "text_en": "And We did not send before you, [O Muḥammad], any of the messengers except that they ate food and walked in the markets. And We have made some of you [people] as trial for others - will you have patience? And ever is your Lord, Seeing.",
+    "text_ug": "بىز سەندىن ئىلگىرى ئەۋەتكەن پەيغەمبەرلەرنىڭ ھەممىسىلا ئەلۋەتتە تاماق يەيتتى، بازارلاردا مېڭىپ يۈرەتتى، بەزىڭلارنى بەزىڭلار بىلەن سىنىدۇق، سەۋر قىلامسىلەر؟ (يەنى سەۋر قىلىڭلار) پەرۋەردىگارىڭ (سەۋر قىلغۇچىلار بىلەن سەۋر قىلمىغۇچىلارنى) كۆرۈپ تۇرغۇچىدۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 21,
+    "text_ar": "۞ وَقَالَ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا لَوۡلَآ أُنزِلَ عَلَيۡنَا ٱلۡمَلَٰٓئِكَةُ أَوۡ نَرَىٰ رَبَّنَاۗ لَقَدِ ٱسۡتَكۡبَرُواْ فِيٓ أَنفُسِهِمۡ وَعَتَوۡ عُتُوّٗا كَبِيرٗا",
+    "text_en": "And those who do not expect the meeting with Us say, \"Why were not angels sent down to us, or [why] do we [not] see our Lord?\" They have certainly become arrogant within themselves and [become] insolent with great insolence.",
+    "text_ug": "بىزگە مۇلاقات بولۇشنى ئۈمىد قىلمايدىغانلار (يەنى مۇشرىكلار): «نېمىشقا بىزگە پەرىشتىلەر چۈشۈرۈلمەيدۇ، ياكى (بىز نېمىشقا) پەرۋەردىگارىمىزنى كۆرمەيمىز؟» دېيىشتى. شۈبھىسىزكى، ئۇلار ئۆزلىرىنى چوڭ تۇتتى ۋە تولىمۇ ھەددىدىن ئاشتى"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 22,
+    "text_ar": "يَوۡمَ يَرَوۡنَ ٱلۡمَلَٰٓئِكَةَ لَا بُشۡرَىٰ يَوۡمَئِذٖ لِّلۡمُجۡرِمِينَ وَيَقُولُونَ حِجۡرٗا مَّحۡجُورٗا",
+    "text_en": "The day they see the angels - no good tidings will there be that day for the criminals, and [the angels] will say, \"Prevented and inaccessible.\"",
+    "text_ug": "ئۇلار (يەنى مۇشرىكلار) (ئۆزلىرىنىڭ جېنىنى ئېلىش ئۈچۈن چۈشكەن) پەرىشتىلەرنى كۆرگەن كۈنى گۇناھكارلارغا خۇشخەۋەر بولمايدۇ، پەرىشتىلەر ئۇلارغا: «(سىلەرگە جەننەت) ھارامدۇر» دەيدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 23,
+    "text_ar": "وَقَدِمۡنَآ إِلَىٰ مَا عَمِلُواْ مِنۡ عَمَلٖ فَجَعَلۡنَٰهُ هَبَآءٗ مَّنثُورًا",
+    "text_en": "And We will approach [i.e., regard] what they have done of deeds and make them as dust dispersed.",
+    "text_ug": "بىز ئۇلارنىڭ قىلغان ياخشى ئەمەللىرىنى بىر تەرەپ قىلىپ، ئۇنى ئۇچۇپ يۈرگەن توزاندەك قىلىۋېتىمىز، (يەنى ئۇلار ئىمانسىز بولغانلىقتىن، قىلغان ياخشى ئەمەللىرىنى يوققا چىقىرىمىز)"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 24,
+    "text_ar": "أَصۡحَٰبُ ٱلۡجَنَّةِ يَوۡمَئِذٍ خَيۡرٞ مُّسۡتَقَرّٗا وَأَحۡسَنُ مَقِيلٗا",
+    "text_en": "The companions of Paradise, that Day, are [in] a better settlement and better resting place.",
+    "text_ug": "ئەھلى جەننەت بۇ كۈندە ئەڭ ياخشى جايدا ۋە ئەڭ ياخشى ئارامگاھتا بولىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 25,
+    "text_ar": "وَيَوۡمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلۡغَمَٰمِ وَنُزِّلَ ٱلۡمَلَٰٓئِكَةُ تَنزِيلًا",
+    "text_en": "And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent.",
+    "text_ug": "شۇ كۈندە ئاسمان بۇلۇت بىلەن بىرلىكتە يېرىلىدۇ، پەرىشتىلەر (بەندىلەرنىڭ نامە ـ ئەمالىنى ئېلىپ) ئارقىمۇئارقا چۈشىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 26,
+    "text_ar": "ٱلۡمُلۡكُ يَوۡمَئِذٍ ٱلۡحَقُّ لِلرَّحۡمَٰنِۚ وَكَانَ يَوۡمًا عَلَى ٱلۡكَٰفِرِينَ عَسِيرٗا",
+    "text_en": "True sovereignty, that Day, is for the Most Merciful. And it will be upon the disbelievers a difficult Day.",
+    "text_ug": "پادىشاھلىق بۇ كۈندە مەرھەمەتلىك ئاللاھقا خاستۇر، بۇ كۈن كاپىرلارغا قېيىندۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 27,
+    "text_ar": "وَيَوۡمَ يَعَضُّ ٱلظَّالِمُ عَلَىٰ يَدَيۡهِ يَقُولُ يَٰلَيۡتَنِي ٱتَّخَذۡتُ مَعَ ٱلرَّسُولِ سَبِيلٗا",
+    "text_en": "And the Day the wrongdoer will bite on his hands [in regret] he will say, \"Oh, I wish I had taken with the Messenger a way.",
+    "text_ug": "شۇ كۈنى زالىم (يەنى كاپىر) ئىككى قولىنى چىشلەپ: «ئىسىت! پەيغەمبەر بىلەن (نىجاتلىق) يولىنى تۇتسامچۇ، ئىسىت! پالانىنى دوست تۇتمىغان بولسامچۇ؟ قۇرئان ماڭا يەتكەندىن كېيىن، ئۇ (يەنى پالانى) مېنى قۇرئاندىن، شەك ـ شۈبھىسىزكى، ئازدۇردى» دەيدۇ، شەيتان ئىنساننى (ئازدۇرۇپ بولۇپ) تاشلىۋېتىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 28,
+    "text_ar": "يَٰوَيۡلَتَىٰ لَيۡتَنِي لَمۡ أَتَّخِذۡ فُلَانًا خَلِيلٗا",
+    "text_en": "Oh, woe to me! I wish I had not taken that one as a friend.",
+    "text_ug": "شۇ كۈنى زالىم (يەنى كاپىر) ئىككى قولىنى چىشلەپ: «ئىسىت! پەيغەمبەر بىلەن (نىجاتلىق) يولىنى تۇتسامچۇ، ئىسىت! پالانىنى دوست تۇتمىغان بولسامچۇ؟ قۇرئان ماڭا يەتكەندىن كېيىن، ئۇ (يەنى پالانى) مېنى قۇرئاندىن، شەك ـ شۈبھىسىزكى، ئازدۇردى» دەيدۇ، شەيتان ئىنساننى (ئازدۇرۇپ بولۇپ) تاشلىۋېتىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 29,
+    "text_ar": "لَّقَدۡ أَضَلَّنِي عَنِ ٱلذِّكۡرِ بَعۡدَ إِذۡ جَآءَنِيۗ وَكَانَ ٱلشَّيۡطَٰنُ لِلۡإِنسَٰنِ خَذُولٗا",
+    "text_en": "He led me away from the remembrance after it had come to me. And ever is Satan, to man, a deserter.\"",
+    "text_ug": "شۇ كۈنى زالىم (يەنى كاپىر) ئىككى قولىنى چىشلەپ: «ئىسىت! پەيغەمبەر بىلەن (نىجاتلىق) يولىنى تۇتسامچۇ، ئىسىت! پالانىنى دوست تۇتمىغان بولسامچۇ؟ قۇرئان ماڭا يەتكەندىن كېيىن، ئۇ (يەنى پالانى) مېنى قۇرئاندىن، شەك ـ شۈبھىسىزكى، ئازدۇردى» دەيدۇ، شەيتان ئىنساننى (ئازدۇرۇپ بولۇپ) تاشلىۋېتىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 30,
+    "text_ar": "وَقَالَ ٱلرَّسُولُ يَٰرَبِّ إِنَّ قَوۡمِي ٱتَّخَذُواْ هَٰذَا ٱلۡقُرۡءَانَ مَهۡجُورٗا",
+    "text_en": "And the Messenger has said, \"O my Lord, indeed my people have taken this Qur’ān as [a thing] abandoned.\"",
+    "text_ug": "پەيغەمبەر ئېيتتى: «ئى پەرۋەردىگارىم! شۈبھىسىزكى، مېنىڭ قەۋمىم بۇ قۇرئاننى تاشلاندۇق قىلىپ قويدى»"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 31,
+    "text_ar": "وَكَذَٰلِكَ جَعَلۡنَا لِكُلِّ نَبِيٍّ عَدُوّٗا مِّنَ ٱلۡمُجۡرِمِينَۗ وَكَفَىٰ بِرَبِّكَ هَادِيٗا وَنَصِيرٗا",
+    "text_en": "And thus have We made for every prophet an enemy from among the criminals. But sufficient is your Lord as a guide and a helper.",
+    "text_ug": "شۇنىڭدەك (يەنى ساڭا قەۋمىڭنىڭ مۇشرىكلىرىدىن دۈشمەنلەرنى قىلغاندەك) ھەربىر پەيغەمبەرگە بىر قىسىم گۇناھكارلارنى ئۇنىڭ دۈشمىنى قىلدۇق، پەرۋەردىگارىڭ يول كۆرسەتكۈچى ۋە ياردەمچى بولۇشقا ساڭا يېتەرلىكتۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 32,
+    "text_ar": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَوۡلَا نُزِّلَ عَلَيۡهِ ٱلۡقُرۡءَانُ جُمۡلَةٗ وَٰحِدَةٗۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَۖ وَرَتَّلۡنَٰهُ تَرۡتِيلٗا",
+    "text_en": "And those who disbelieve say, \"Why was the Qur’ān not revealed to him all at once?\" Thus [it is] that We may strengthen thereby your heart. And We have spaced it distinctly.",
+    "text_ug": "كاپىرلار: «قۇرئان نېمىشقا ئۇنىڭغا (يەنى مۇھەممەد ئەلەيھىسسالامغا) بىر قېتىمدىلا نازىل قىلىنمىدى؟» دېدى. سېنىڭ دىلىڭنى مۇستەھكەم قىلىش ئۈچۈن، ئۇنى پارچە ـ پارچە نازىل قىلدۇق"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 33,
+    "text_ar": "وَلَا يَأۡتُونَكَ بِمَثَلٍ إِلَّا جِئۡنَٰكَ بِٱلۡحَقِّ وَأَحۡسَنَ تَفۡسِيرًا",
+    "text_en": "And they do not come to you with an example [i.e., argument] except that We bring you the truth and the best explanation.",
+    "text_ug": "ئۇلار (يەنى مۇشرىكلار) قانداق بىر سوئالنى تاشلىمىسۇن، (ئۇنىڭغا قارىتا) بىز ساڭا ھەق جاۋابنى ۋە ھەممىدىن گۈزەل چۈشەندۈرۈشنى نازىل قىلدۇق"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 34,
+    "text_ar": "ٱلَّذِينَ يُحۡشَرُونَ عَلَىٰ وُجُوهِهِمۡ إِلَىٰ جَهَنَّمَ أُوْلَٰٓئِكَ شَرّٞ مَّكَانٗا وَأَضَلُّ سَبِيلٗا",
+    "text_en": "The ones who are gathered on their faces to Hell - those are the worst in position and farthest astray in [their] way.",
+    "text_ug": "ئۇلار جەھەننەمگە يۈزلىرى بىلەن سۈرۈلىدۇ، ئۇلارنىڭ جايى ئەڭ يامان، يولى ئەڭ ئازغۇندۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 35,
+    "text_ar": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَجَعَلۡنَا مَعَهُۥٓ أَخَاهُ هَٰرُونَ وَزِيرٗا",
+    "text_en": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant.",
+    "text_ug": "شۈبھىسىزكى، بىز مۇساغا كىتاب (يەنى تەۋراتنى) ئاتا قىلدۇق ھەمدە ئۇنىڭ قېرىندىشى ھارۇننى ئۇنىڭغا ياردەمچى قىلدۇق"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 36,
+    "text_ar": "فَقُلۡنَا ٱذۡهَبَآ إِلَى ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا فَدَمَّرۡنَٰهُمۡ تَدۡمِيرٗا",
+    "text_en": "And We said, \"Go both of you to the people who have denied Our signs.\" Then We destroyed them with [complete] destruction.",
+    "text_ug": "ئۇلارغا: «بىزنىڭ ئايەتلىرىمىزنى ئىنكار قىلغان قەۋمگە بېرىڭلار» دېدۇق، (ئۇ قەۋم كۇفرىدا چىڭ تۇرغانلىقتىن) ئۇلارنى دەھشەتلىك تۈردە ھالاك قىلدۇق"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 37,
+    "text_ar": "وَقَوۡمَ نُوحٖ لَّمَّا كَذَّبُواْ ٱلرُّسُلَ أَغۡرَقۡنَٰهُمۡ وَجَعَلۡنَٰهُمۡ لِلنَّاسِ ءَايَةٗۖ وَأَعۡتَدۡنَا لِلظَّٰلِمِينَ عَذَابًا أَلِيمٗا",
+    "text_en": "And the people of Noah - when they denied the messengers, We drowned them, and We made them for mankind a sign. And We have prepared for the wrongdoers a painful punishment.",
+    "text_ug": "نۇھنىڭ قەۋمى پەيغەمبەرلەرنى ئىنكار قىلغان چاغدا ئۇلارنى غەرق قىلدۇق ھەمدە ئۇلارنى كىشىلەرگە ئىبرەت قىلدۇق، زالىملارغا (ئاخىرەتتە) قاتتىق ئازاب تەييارلىدۇق"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 38,
+    "text_ar": "وَعَادٗا وَثَمُودَاْ وَأَصۡحَٰبَ ٱلرَّسِّ وَقُرُونَۢا بَيۡنَ ذَٰلِكَ كَثِيرٗا",
+    "text_en": "And [We destroyed] ʿAad and Thamūd and the companions of the well and many generations between them.",
+    "text_ug": "ئاد قەۋمىنى، سەمۇد قەۋمىنى، رەس ئاھالىسىنى ۋە ئۇلارنىڭ ئارىسىدىكى نۇرغۇن ئۈممەتلەرنى ھەم (ھالاك قىلدۇق)"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 39,
+    "text_ar": "وَكُلّٗا ضَرَبۡنَا لَهُ ٱلۡأَمۡثَٰلَۖ وَكُلّٗا تَبَّرۡنَا تَتۡبِيرٗا",
+    "text_en": "And for each We presented examples [as warnings], and each We destroyed with [total] destruction.",
+    "text_ug": "ھەربىر قەۋمگە نۇرغۇن مىساللارنى بايان قىلدۇق، (ۋەز ـ نەسىھەت ئۈنۈم بەرمىگەنلىكتىن) ھەربىر قەۋمنى ھالاك قىلدۇق"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 40,
+    "text_ar": "وَلَقَدۡ أَتَوۡاْ عَلَى ٱلۡقَرۡيَةِ ٱلَّتِيٓ أُمۡطِرَتۡ مَطَرَ ٱلسَّوۡءِۚ أَفَلَمۡ يَكُونُواْ يَرَوۡنَهَاۚ بَلۡ كَانُواْ لَا يَرۡجُونَ نُشُورٗا",
+    "text_en": "And they have already come upon the town which was showered with a rain of evil [i.e., stones]. So have they not seen it? But they are not expecting resurrection.",
+    "text_ug": "ئۇلار ھەقىقەتەن (شامغا بېرىپ كېلىشتە) يامان يامغۇر (يەنى تاش) ياغدۇرۇلغان شەھەردىن ئۆتىدۇ، ئەجەبا ئۇلار ئۇنى كۆرۈپ (ئىبرەت ئالمامدۇ؟) ياق (يەنى ئىبرەت ئالمايدۇ)، ئۇلار (قىيامەت كۈنى) قايتا تىرىلىشنى ئۈمىد قىلمايدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 41,
+    "text_ar": "وَإِذَا رَأَوۡكَ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِي بَعَثَ ٱللَّهُ رَسُولًا",
+    "text_en": "And when they see you, [O Muḥammad], they take you not except in ridicule, [saying], \"Is this the one whom Allāh has sent as a messenger?",
+    "text_ug": "ئۇلار سېنى كۆرسە پەقەت مەسخىرە قىلىۋېلىپ: «ئاللاھ پەيغەمبەرقىلىپ ئەۋەتكەن مۇشۇمۇ؟ ئەگەر دىنىمىزدا چىڭ تۇرمىساق (مۇھەممەد) بىزنى ئىلاھلىرىمىزدىن ئازدۇرۇۋەتكىلى تاس قالاتتى» (دېدى). كىمنىڭ يولىنىڭ ئەڭ خاتا ئىكەنلىكىنى ئۇلار (ئاخىرەتتە) ئازابنى كۆرگەن چاغدا بىلىدۇ(41 ـ 42)."
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 42,
+    "text_ar": "إِن كَادَ لَيُضِلُّنَا عَنۡ ءَالِهَتِنَا لَوۡلَآ أَن صَبَرۡنَا عَلَيۡهَاۚ وَسَوۡفَ يَعۡلَمُونَ حِينَ يَرَوۡنَ ٱلۡعَذَابَ مَنۡ أَضَلُّ سَبِيلًا",
+    "text_en": "He almost would have misled us from our gods had we not been steadfast in [worship of] them.\" But they are going to know, when they see the punishment, who is farthest astray in [his] way.",
+    "text_ug": "ئۇلار سېنى كۆرسە پەقەت مەسخىرە قىلىۋېلىپ: «ئاللاھ پەيغەمبەرقىلىپ ئەۋەتكەن مۇشۇمۇ؟ ئەگەر دىنىمىزدا چىڭ تۇرمىساق (مۇھەممەد) بىزنى ئىلاھلىرىمىزدىن ئازدۇرۇۋەتكىلى تاس قالاتتى» (دېدى). كىمنىڭ يولىنىڭ ئەڭ خاتا ئىكەنلىكىنى ئۇلار (ئاخىرەتتە) ئازابنى كۆرگەن چاغدا بىلىدۇ(41 ـ 42)."
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 43,
+    "text_ar": "أَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيۡهِ وَكِيلًا",
+    "text_en": "Have you seen the one who takes as his god his own desire? Then would you be responsible for him?",
+    "text_ug": "ئېيتىپ باقساڭچۇ؟ نەپسى خاھىشىنى ئىلاھ قىلىۋالغان ئادەمگە (نەپسى خاھىشىغا ئەگىشىشتىن ئۇنى ساقلاش ئۈچۈن) ھامىي بولالامسەن؟(43)"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 44,
+    "text_ar": "أَمۡ تَحۡسَبُ أَنَّ أَكۡثَرَهُمۡ يَسۡمَعُونَ أَوۡ يَعۡقِلُونَۚ إِنۡ هُمۡ إِلَّا كَٱلۡأَنۡعَٰمِ بَلۡ هُمۡ أَضَلُّ سَبِيلًا",
+    "text_en": "Or do you think that most of them hear or reason? They are not except like livestock. Rather, they are [even] more astray in [their] way.",
+    "text_ug": "ئۇلارنىڭ تولىسىنى (گېپىڭنى) ئاڭلايدىغان ياكى چۈشىنىدىغان ئادەملەر دەپ گۇمان قىلامسەن؟ ئۇلار (چۈشەنمەسلىكتە) پەقەت چاھارپايلارغا ئوخشاشتۇر، بەلكى ئۇلاردىنمۇ بەتتەر گۇمراھتۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 45,
+    "text_ar": "أَلَمۡ تَرَ إِلَىٰ رَبِّكَ كَيۡفَ مَدَّ ٱلظِّلَّ وَلَوۡ شَآءَ لَجَعَلَهُۥ سَاكِنٗا ثُمَّ جَعَلۡنَا ٱلشَّمۡسَ عَلَيۡهِ دَلِيلٗا",
+    "text_en": "Have you not considered your Lord - how He extends the shadow, and if He willed, He could have made it stationary? Then We made the sun for it an indication.",
+    "text_ug": "پەرۋەردىگارىڭنىڭ سايىنى قانداق سوزغانلىقىنى كۆرمىدىڭمۇ؟ ئەگەر خالىسا ئۇنى ئەلۋەتتە مۇقىم قىلاتتى، ئاندىن قۇياشنى سايىگە دەلىل قىلدۇق (يەنى كۈننىڭ چىققانلىقىنى سايىنىڭ بارلىقىغا دەلىل قىلدۇق)"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 46,
+    "text_ar": "ثُمَّ قَبَضۡنَٰهُ إِلَيۡنَا قَبۡضٗا يَسِيرٗا",
+    "text_en": "Then We [retract and] hold it with Us for a brief grasp.",
+    "text_ug": "ئاندىن ئۇنى ئاستا – ئاستا يوقاتتۇق"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 47,
+    "text_ar": "وَهُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلَّيۡلَ لِبَاسٗا وَٱلنَّوۡمَ سُبَاتٗا وَجَعَلَ ٱلنَّهَارَ نُشُورٗا",
+    "text_en": "And it is He who has made the night for you as clothing and sleep [a means for] rest and has made the day a resurrection.",
+    "text_ug": "ئاللاھ سىلەرگە كېچىنى لىباس، ئۇيقۇنى (بەدىنىڭلار ئۈچۈن) راھەت قىلدى، كۈندۈزنى (تىرىكچىلىك ئۈچۈن زېمىندا) يېيىلىدىغان ۋاقىت قىلدى"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 48,
+    "text_ar": "وَهُوَ ٱلَّذِيٓ أَرۡسَلَ ٱلرِّيَٰحَ بُشۡرَۢا بَيۡنَ يَدَيۡ رَحۡمَتِهِۦۚ وَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ طَهُورٗا",
+    "text_en": "And it is He who sends the winds as good tidings before His mercy [i.e., rainfall], and We send down from the sky pure water",
+    "text_ug": "ئاللاھ رەھمىتىنى (يەنى يامغۇرنى) ياغدۇرۇش ئالدىدا شامالنى خۇشخەۋەر قىلىپ ئەۋەتتى، يامغۇر بىلەن ئۆلۈك زېمىننى تىرىلدۈرۈش ۋە بىز ياراتقان ھايۋانلارنى، نۇرغۇن ئىنسانلارنى سۇ بىلەن تەمىنلەش ئۈچۈن، بۇلۇتتىن پاك سۇنى چۈشۈرۈپ بەردۇق(48 ـ 49)."
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 49,
+    "text_ar": "لِّنُحۡـِۧيَ بِهِۦ بَلۡدَةٗ مَّيۡتٗا وَنُسۡقِيَهُۥ مِمَّا خَلَقۡنَآ أَنۡعَٰمٗا وَأَنَاسِيَّ كَثِيرٗا",
+    "text_en": "That We may bring to life thereby a dead land and give it as drink to those We created of numerous livestock and men.",
+    "text_ug": "ئاللاھ رەھمىتىنى (يەنى يامغۇرنى) ياغدۇرۇش ئالدىدا شامالنى خۇشخەۋەر قىلىپ ئەۋەتتى، يامغۇر بىلەن ئۆلۈك زېمىننى تىرىلدۈرۈش ۋە بىز ياراتقان ھايۋانلارنى، نۇرغۇن ئىنسانلارنى سۇ بىلەن تەمىنلەش ئۈچۈن، بۇلۇتتىن پاك سۇنى چۈشۈرۈپ بەردۇق(48 ـ 49)."
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 50,
+    "text_ar": "وَلَقَدۡ صَرَّفۡنَٰهُ بَيۡنَهُمۡ لِيَذَّكَّرُواْ فَأَبَىٰٓ أَكۡثَرُ ٱلنَّاسِ إِلَّا كُفُورٗا",
+    "text_en": "And We have certainly distributed it among them that they might be reminded, but most of the people refuse except disbelief.",
+    "text_ug": "ئۇلارنى ۋەز ـ نەسىھەت ئالسۇن دەپ، يامغۇرنى ئۇلارنىڭ ئارىسىدا تەقسىم قىلدۇق (يەنى گاھ ئۇ يەرگە، گاھ بۇ يەرگە ياغدۇردۇق)، ئىنسانلارنىڭ تولىسى (ئاللاھقا) كۇفرىلىق قىلىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 51,
+    "text_ar": "وَلَوۡ شِئۡنَا لَبَعَثۡنَا فِي كُلِّ قَرۡيَةٖ نَّذِيرٗا",
+    "text_en": "And if We had willed, We could have sent into every city a warner.",
+    "text_ug": "ئەگەر خالىساق ئەلۋەتتە ھەر شەھەرگە بىر ئاگاھلاندۇرغۇچى (يەنى پەيغەمبەر) ئەۋەتەتتۇق"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 52,
+    "text_ar": "فَلَا تُطِعِ ٱلۡكَٰفِرِينَ وَجَٰهِدۡهُم بِهِۦ جِهَادٗا كَبِيرٗا",
+    "text_en": "So do not obey the disbelievers, and strive against them with it [i.e., the Qur’ān] a great striving.",
+    "text_ug": "شۇنىڭ ئۈچۈن كاپىرلارغا ئىتائەت قىلمىغىن، قۇرئان ئارقىلىق ئۇلارغا قارشى (پاكىتلارنى ئوتتۇرىغا قويۇپ) بارلىق كۈچۈڭ بىلەن كۈرەش قىلغىن"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 53,
+    "text_ar": "۞ وَهُوَ ٱلَّذِي مَرَجَ ٱلۡبَحۡرَيۡنِ هَٰذَا عَذۡبٞ فُرَاتٞ وَهَٰذَا مِلۡحٌ أُجَاجٞ وَجَعَلَ بَيۡنَهُمَا بَرۡزَخٗا وَحِجۡرٗا مَّحۡجُورٗا",
+    "text_en": "And it is He who has released [simultaneously] the two seas [i.e., bodies of water], one fresh and sweet and one salty and bitter, and He placed between them a barrier and prohibiting partition.",
+    "text_ug": "ئاللاھ (قۇدرىتى بىلەن) بىرى تاتلىق بولغان، بىرى تۇزلۇق بولغان دېڭىزنى (ئۇلار بىر ـ بىرىگە تۇتىشاڭغۇ بولغان ھالدا) (قويۇۋەتتى، ئارىلىشىپ كەتمەسلىكى ئۈچۈن) ئۇلارنىڭ ئارىسىدا پەردە، توسما بەرپا قىلدى"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 54,
+    "text_ar": "وَهُوَ ٱلَّذِي خَلَقَ مِنَ ٱلۡمَآءِ بَشَرٗا فَجَعَلَهُۥ نَسَبٗا وَصِهۡرٗاۗ وَكَانَ رَبُّكَ قَدِيرٗا",
+    "text_en": "And it is He who has created from water [i.e., semen] a human being and made him [a relative by] lineage and marriage. And ever is your Lord competent [concerning creation].",
+    "text_ug": "ئاللاھ ئىنساننى ئابىمەنىيدىن ياراتتى، ئۇنى بالىلار نىسبەت بېرىلىدىغان ئەر ۋە قۇدا ـ باجىلىق پەيدا قىلىدىغان ئايال (دىن ئىبارەت ئىككى خىل قىلىپ) ياراتتى، پەرۋەردىگارىڭ ھەممىگە قادىردۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 55,
+    "text_ar": "وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمۡ وَلَا يَضُرُّهُمۡۗ وَكَانَ ٱلۡكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرٗا",
+    "text_en": "But they worship rather than Allāh that which does not benefit them or harm them, and the disbeliever is ever, against his Lord, an assistant [to Satan].",
+    "text_ug": "ئۇلار (يەنى مۇشرىكلار) ئاللاھنى قويۇپ ئۇلارغا پايدىمۇ يەتكۈزەلمەيدىغان، زىيانمۇ يەتكۈزەلمەيدىغان نەرسىلەرگە چوقۇنىدۇ، كاپىر پەرۋەردىگارىغا ئاسىيلىق قىلىش بىلەن (شەيتانغا) ياردەم بەرگۈچىدۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 56,
+    "text_ar": "وَمَآ أَرۡسَلۡنَٰكَ إِلَّا مُبَشِّرٗا وَنَذِيرٗا",
+    "text_en": "And We have not sent you, [O Muḥammad], except as a bringer of good tidings and a warner.",
+    "text_ug": "سېنى پەقەت (جەننەت بىلەن) خۇشخەۋەر بەرگۈچى، (دوزاختىن) ئاگاھلاندۇرغۇچى قىلىپ ئەۋەتتۇق"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 57,
+    "text_ar": "قُلۡ مَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلٗا",
+    "text_en": "Say, \"I do not ask of you for it any payment - only that whoever wills might take to his Lord a way.\"",
+    "text_ug": "ئېيتقىنكى، «مەن (ئاللاھنىڭ ئەمرىنى) تەبلىغ قىلغانلىقىمغا سىلەردىن ھېچ ھەق تەلەپ قىلمايمەن، پەقەت (مېنىڭ تىلەيدىغىنىم شۇكى، مېنىڭ دىنىمغا ئەگىشىش بىلەن) پەرۋەردىگارى تەرەپكە يول ئېلىشنى خالايدىغانلار (يول ئالسۇن)»"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 58,
+    "text_ar": "وَتَوَكَّلۡ عَلَى ٱلۡحَيِّ ٱلَّذِي لَا يَمُوتُ وَسَبِّحۡ بِحَمۡدِهِۦۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا",
+    "text_en": "And rely upon the Ever-Living who does not die, and exalt [Allāh] with His praise. And sufficient is He to be, with the sins of His servants, [fully] Aware -",
+    "text_ug": "(ھەممە ئىشىڭدا) ئۆلمەيدىغان مەڭگۈ ھايات ئاللاھقا يۆلەنگىن، ئۇنىڭغا ھەمد ئېيتىش بىلەن ئاللاھنى پاك دەپ ئېتىقاد قىلغىن، ئۇ بەندىلەرنىڭ گۇناھلىرىنى تولۇق بىلىشتە يېتەرلىكتۇر( 58)."
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 59,
+    "text_ar": "ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا فِي سِتَّةِ أَيَّامٖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ ٱلرَّحۡمَٰنُ فَسۡـَٔلۡ بِهِۦ خَبِيرٗا",
+    "text_en": "He who created the heavens and the earth and what is between them in six days and then established Himself above the Throne - the Most Merciful, so ask about Him one well informed [i.e., the Prophet (ﷺ)].",
+    "text_ug": "ئاللاھ ئاسمانلارنى، زېمىننى ۋە ئۇلارنىڭ ئارىسىدىكى نەرسىلەرنى ئالتە كۈندە ياراتتى، ئاندىن ئەرش ئۈستىدە (ئۆزىگە لايىق رەۋىشتە) قارار ئالدى، ئاللاھ ناھايىتى مەرھەمەتلىكتۇر، بۇنى (يەنى ئاللاھنىڭ بۈيۈكلۈكىنى) بىلىدىغان ئادەمدىن سورىغىن (ساڭا ئاللاھنىڭ سۈپەتلىرىنى ئېيتىپ بېرىدۇ)"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 60,
+    "text_ar": "وَإِذَا قِيلَ لَهُمُ ٱسۡجُدُواْۤ لِلرَّحۡمَٰنِ قَالُواْ وَمَا ٱلرَّحۡمَٰنُ أَنَسۡجُدُ لِمَا تَأۡمُرُنَا وَزَادَهُمۡ نُفُورٗا۩",
+    "text_en": "And when it is said to them, \"Prostrate to the Most Merciful,\" they say, \"And what is the Most Merciful? Should we prostrate to that which you order us?\" And it increases them in aversion.",
+    "text_ug": "ئۇلارغا (يەنى مۇشرىكلارغا): «رەھمانغا (يەنى مەرھەمەتلىك ئاللاھقا) سەجدە قىلىڭلار!» دېيىلسە، ئۇلار: «رەھمان دېگەن نېمە؟ سەن بىزنى بۇيرۇغان نەرسىگە سەجدە قىلامدۇق؟» دەيدۇ. بۇ سۆز ئۇلارنى (ئىماندىن) تېخىمۇ يىراقلاشتۇرىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 61,
+    "text_ar": "تَبَارَكَ ٱلَّذِي جَعَلَ فِي ٱلسَّمَآءِ بُرُوجٗا وَجَعَلَ فِيهَا سِرَٰجٗا وَقَمَرٗا مُّنِيرٗا",
+    "text_en": "Blessed is He who has placed in the sky great stars and placed therein a [burning] lamp and luminous moon.",
+    "text_ug": "ئاسماندا بۇرۇجلارنى، يېنىپ تۇرىدىغان چىراقنى (يەنى كۈننى) ۋە نۇرلۇق ئاينى ياراتقان ئاللاھنىڭ بەرىكىتى بۈيۈكتۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 62,
+    "text_ar": "وَهُوَ ٱلَّذِي جَعَلَ ٱلَّيۡلَ وَٱلنَّهَارَ خِلۡفَةٗ لِّمَنۡ أَرَادَ أَن يَذَّكَّرَ أَوۡ أَرَادَ شُكُورٗا",
+    "text_en": "And it is He who has made the night and the day in succession for whoever desires to remember or desires gratitude.",
+    "text_ug": "ئاللاھ (ئۆزىنىڭ قۇدرىتىنى) ئەسلىمەكچى بولغانلار ياكى (ئۆزىنىڭ نېمىتىگە) شۈكۈر قىلماقچى بولغانلار ئۈچۈن كېچە بىلەن كۈندۈزنى ئالمىشىپ تۇرىدىغان قىلىپ بەردى"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 63,
+    "text_ar": "وَعِبَادُ ٱلرَّحۡمَٰنِ ٱلَّذِينَ يَمۡشُونَ عَلَى ٱلۡأَرۡضِ هَوۡنٗا وَإِذَا خَاطَبَهُمُ ٱلۡجَٰهِلُونَ قَالُواْ سَلَٰمٗا",
+    "text_en": "And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace,",
+    "text_ug": "مەرھەمەتلىك ئاللاھنىڭ (ياخشى كۆرىدىغان) بەندىلىرى زېمىندا ئۆزلىرىنى تۆۋەن تۇتۇپ تەمكىنلىك بىلەن ماڭىدۇ، نادانلار ئۇلارغا (ياقتۇرمايدىغان) سۆز قىلسا، ئۇلار: «سىلەرگە ئامانلىق تىلەيمىز» دەيدۇ (يەنى گۇناھ بولمايدىغان سۆزلەرنى قىلىدۇ)"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 64,
+    "text_ar": "وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمۡ سُجَّدٗا وَقِيَٰمٗا",
+    "text_en": "And those who spend [part of] the night to their Lord prostrating and standing [in prayer]",
+    "text_ug": "ئۇلار كېچىلەرنى پەرۋەردىگارىغا سەجدە قىلىش ۋە قىيامدا تۇرۇش بىلەن (يەنى ناماز ئوقۇش بىلەن) ئۆتكۈزىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 65,
+    "text_ar": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصۡرِفۡ عَنَّا عَذَابَ جَهَنَّمَۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا",
+    "text_en": "And those who say, \"Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering;",
+    "text_ug": "ئۇلار (يەنى ئاللاھ ياخشى كۆرىدىغان بەندىلەر) ئېيتىدۇ: «پەرۋەردىگارىمىز! بىزدىن جەھەننەم ئازابىنى دەپئى قىلغىن، جەھەننەمنىڭ ئازابى ھەقىقەتەن (سېنىڭ دۈشمەنلىرىڭدىن) ئايرىلمايدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 66,
+    "text_ar": "إِنَّهَا سَآءَتۡ مُسۡتَقَرّٗا وَمُقَامٗا",
+    "text_en": "Indeed, it is evil as a settlement and residence.\"",
+    "text_ug": "جەھەننەم ھەقىقەتەن يامان قارارگاھتۇر، يامان جايدۇر»"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 67,
+    "text_ar": "وَٱلَّذِينَ إِذَآ أَنفَقُواْ لَمۡ يُسۡرِفُواْ وَلَمۡ يَقۡتُرُواْ وَكَانَ بَيۡنَ ذَٰلِكَ قَوَامٗا",
+    "text_en": "And [they are] those who, when they spend, do so not excessively or sparingly but are ever, between that, [justly] moderate",
+    "text_ug": "ئۇلار (يەنى ئاللاھ ياخشى كۆرىدىغان بەندىلەر) خىراجەت قىلغاندا، ئىسراپچىلىقمۇ قىلمايدۇ، بېخىللىقمۇ قىلمايدۇ، ئوتتۇراھال خىراجەت قىلىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 68,
+    "text_ar": "وَٱلَّذِينَ لَا يَدۡعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقۡتُلُونَ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّ وَلَا يَزۡنُونَۚ وَمَن يَفۡعَلۡ ذَٰلِكَ يَلۡقَ أَثَامٗا",
+    "text_en": "And those who do not invoke with Allāh another deity or kill the soul which Allāh has forbidden [to be killed], except by right, and do not commit unlawful sexual intercourse. And whoever should do that will meet a penalty.",
+    "text_ug": "ئۇلار ئاللاھقا ئىككىنچى بىر مەبۇدنى شېرىك قىلمايدۇ، ئاللاھ ھارام قىلغان ناھەق ئادەم ئۆلتۈرۈش ئىشىنى قىلمايدۇ، زىنا قىلمايدۇ، كىمكى بۇ (گۇناھلار) نى قىلىدىكەن، (ئاخىرەتتە) ئۇ جازاغا ئۇچرايدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 69,
+    "text_ar": "يُضَٰعَفۡ لَهُ ٱلۡعَذَابُ يَوۡمَ ٱلۡقِيَٰمَةِ وَيَخۡلُدۡ فِيهِۦ مُهَانًا",
+    "text_en": "Multiplied for him is the punishment on the Day of Resurrection, and he will abide therein humiliated -",
+    "text_ug": "قىيامەت كۈنى ئۇنىڭغا ھەسسىلەپ ئازاب قىلىنىدۇ، ئۇ مەڭگۈ ئازاب ئىچىدە خارلانغان ھالدا قالىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 70,
+    "text_ar": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلٗا صَٰلِحٗا فَأُوْلَٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمۡ حَسَنَٰتٖۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
+    "text_en": "Except for those who repent, believe and do righteous work. For them Allāh will replace their evil deeds with good. And ever is Allāh Forgiving and Merciful.",
+    "text_ug": "پەقەت (ئۇلارنىڭ ئىچىدىن) (بۇ دۇنيادىكى چېغىدا) تەۋبە قىلغان، ئىمان ئېيتقان ۋە ياخشى ئەمەللەرنى قىلغانلارلا بۇ ھالدا قالمايدۇ، ئاللاھ ئۇلارنىڭ گۇناھلىرىنى ياخشىلىققا ئالماشتۇرىدۇ، ئاللاھ تولىمۇ مەغپىرەت قىلغۇچىدۇر ۋە مەرھەمەت قىلغۇچىدۇر"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 71,
+    "text_ar": "وَمَن تَابَ وَعَمِلَ صَٰلِحٗا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابٗا",
+    "text_en": "And he who repents and does righteousness does indeed turn to Allāh with [accepted] repentance.",
+    "text_ug": "كىمكى (گۇناھلىرىغا) تەۋبە قىلىدىكەن ۋە ئەمەلىنى تۈزەيدىكەن، ئۇ ئاللاھقا يۈزلەنگەن بولىدۇ (يەنى ئاللاھ ئۇنىڭ تەۋبىسىنى قوبۇل قىلىپ، ئۇنىڭدىن رازى بولىدۇ)"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 72,
+    "text_ar": "وَٱلَّذِينَ لَا يَشۡهَدُونَ ٱلزُّورَ وَإِذَا مَرُّواْ بِٱللَّغۡوِ مَرُّواْ كِرَامٗا",
+    "text_en": "And [they are] those who do not testify to falsehood, and when they pass near ill speech, they pass by with dignity.",
+    "text_ug": "ئۇلار (يەنى ئاللاھ ياخشى كۆرىدىغان بەندىلەر) يالغان گۇۋاھلىق بەرمەيدۇ، يامان سۆزنى ئاڭلاپ قالغان چاغدا ئالىيجانابلىق بىلەن ئۆتۈپ كېتىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 73,
+    "text_ar": "وَٱلَّذِينَ إِذَا ذُكِّرُواْ بِـَٔايَٰتِ رَبِّهِمۡ لَمۡ يَخِرُّواْ عَلَيۡهَا صُمّٗا وَعُمۡيَانٗا",
+    "text_en": "And those who, when reminded of the verses of their Lord, do not fall upon them deaf and blind.",
+    "text_ug": "ئۇلارغا پەرۋەردىگارىنىڭ ئايەتلىرى بىلەن ۋەز ـ نەسىھەت قىلىنسا، گاس، كور بولۇۋالمايدۇ (يەنى ئۇنى بېرىلىپ ئىخلاس بىلەن ئاڭلايدۇ)"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 74,
+    "text_ar": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبۡ لَنَا مِنۡ أَزۡوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعۡيُنٖ وَٱجۡعَلۡنَا لِلۡمُتَّقِينَ إِمَامًا",
+    "text_en": "And those who say, \"Our Lord, grant us from among our wives and offspring comfort to our eyes and make us a leader [i.e., example] for the righteous.\"",
+    "text_ug": "ئۇلار: «ئى پەرۋەردىگارىمىز! بىزگە ئاياللىرىمىز ۋە ئەۋلاتلىرىمىز ئارقىلىق شادلىق بېغىشلىشىڭنى (يەنى بىزگە ساڭا ئىتائەتمەن پەرزەنت ئاتا قىلىشىڭنى) تىلەيمىز، بىزنى تەقۋادارلارنىڭ پېشىۋاسى (يەنى تەقۋادارلارنىڭ نەمۇنىسى، ياخشىلىققا دەۋەت قىلغۇچى) قىلغىن» دەيدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 75,
+    "text_ar": "أُوْلَٰٓئِكَ يُجۡزَوۡنَ ٱلۡغُرۡفَةَ بِمَا صَبَرُواْ وَيُلَقَّوۡنَ فِيهَا تَحِيَّةٗ وَسَلَٰمًا",
+    "text_en": "Those will be awarded the Chamber for what they patiently endured, and they will be received therein with greetings and [words of] peace,",
+    "text_ug": "ئەنە شۇلار سەۋرلىك بولغانلىقى ئۈچۈن جەننەت بىلەن مۇكاپاتلىنىدۇ، ئۇلار جەننەتتە (پەرىشتىلەر تەرىپىدىن قىلىنغان) دۇئا ۋە سالام بىلەن قارشى ئېلىنىدۇ"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 76,
+    "text_ar": "خَٰلِدِينَ فِيهَاۚ حَسُنَتۡ مُسۡتَقَرّٗا وَمُقَامٗا",
+    "text_en": "Abiding eternally therein. Good is the settlement and residence.",
+    "text_ug": "ئۇلار جەننەتتە مەڭگۈ قالىدۇ، جەننەت نېمىدېگەن گۈزەل قارارگاھ! نېمىدېگەن گۈزەل جاي!(76)"
+  },
+  {
+    "surah": 25,
+    "surah_name_en": "Al-Furqan",
+    "surah_name_ar": "الفرقان",
+    "surah_name_ug": "ئەلفۇرقان",
+    "ayah": 77,
+    "text_ar": "قُلۡ مَا يَعۡبَؤُاْ بِكُمۡ رَبِّي لَوۡلَا دُعَآؤُكُمۡۖ فَقَدۡ كَذَّبۡتُمۡ فَسَوۡفَ يَكُونُ لِزَامَۢا",
+    "text_en": "Say, \"What would my Lord care for you if not for your supplication?\" For you [disbelievers] have denied, so it [i.e., your denial] is going to be adherent.",
+    "text_ug": "ئېيتقىنكى، «ئەگەر سىلەرنىڭ دۇئايىڭلار بولمىسا، پەرۋەردىگارىم سىلەرگە پەرۋا قىلمايدۇ، (ئى كاپىرلار! پەيغەمبەرنى) ئىنكار قىلدىڭلار، (ئاخىرەتتە) سىلەر قۇتۇلالمايدىغان ئازابقا دۇچار بولۇسىلەر»"
+  }
+]
