@@ -736,6 +736,12 @@ function closeBookmarks() {
 $bookmarksBtn.addEventListener('click', openBookmarks);
 $closeBookmarks.addEventListener('click', closeBookmarks);
 
+// ── Home button ──────────────────────────────────────────────────────────────
+document.getElementById('home-btn').addEventListener('click', () => {
+  document.getElementById('main-content').scrollTo({ top: 0, behavior: 'smooth' });
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
 // ── Dark mode ─────────────────────────────────────────────────────────────────
 const $darkBtn   = document.getElementById('dark-mode-btn');
 const $darkIcon  = document.getElementById('dark-icon');

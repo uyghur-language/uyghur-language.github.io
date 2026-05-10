@@ -1,6 +1,6 @@
 'use strict';
 
-const CACHE_VERSION = 'v3';
+const CACHE_VERSION = 'v4';
 const CACHE_NAME    = `quran-app-${CACHE_VERSION}`;
 
 // Build absolute URLs relative to the SW's own location (works on any host/path).
