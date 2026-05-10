@@ -627,8 +627,7 @@ body.dark .result-snippet mark { background: #8a7a00; color: #fff; }
 
   .nav-panel {
     width: 100%;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 12px;
     padding: 10px 12px;
     border-right: none;
@@ -636,7 +635,7 @@ body.dark .result-snippet mark { background: #8a7a00; color: #fff; }
     overflow: visible;
   }
 
-  .nav-section { flex: 1; min-width: 0; }
+  .nav-section { flex: none; }
 
   .main-content {
     height: auto;
