@@ -1,15 +1,9 @@
 @charset "utf-8";
 
 @font-face {
-	font-family: 'UKIJ Basma Qara';
-	src: local("UKIJ Basma Qara"),
-        url('../fonts/UKIJBasma.ttf') format('truetype')
-}
-
-@font-face {
-	font-family: 'UKIJ Kawak 3D';
-	src: local("UKIJ Kawak 3D"),
-        url('../fonts/UKIJKa3D.ttf') format('truetype')
+	font-family: 'UKIJ Basma Tuz';
+	src: local("UKIJ Basma Tuz"),
+        url('../fonts/UKIJBasmaT.ttf') format('truetype')
 }
 
 @font-face {
@@ -20,22 +14,22 @@
 
 
 p {
-  font-family: "UKIJ Basma Qara", Times, serif;
+  font-family: "UKIJ Basma Tuz", Times, serif;
   font-size: 24px;
   direction: rtl;
   text-align: right;
 }
 
 title{
-  font-family: "UKIJ Basma Qara"
-  align="center";
+  font-family: "UKIJ Basma Tuz";
+  text-align: center;
   direction: rtl;
 }
 table {
-  font-family: "UKIJ Basma Qara"
+  font-family: "UKIJ Basma Tuz";
   border-collapse: collapse;
   width: 100%;
-  align="center";
+  text-align: center;
   direction: rtl;
 }
 
@@ -48,7 +42,7 @@ th,td {
   padding: 0px;
 }
 p.a {
-  font-family: "UKIJ Basma";
+  font-family: "UKIJ Basma Qara";
   font-size: 36px;
 }
 

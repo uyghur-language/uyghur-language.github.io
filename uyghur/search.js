@@ -42,6 +42,24 @@ function getLetterPage(word) {
     return CHAR_TO_PAGE[word.slice(0, 2)] || CHAR_TO_PAGE[word[0]] || null;
 }
 
+function levenshtein(a, b) {
+    const m = a.length, n = b.length;
+    const dp = Array.from({ length: m + 1 }, (_, i) =>
+        Array.from({ length: n + 1 }, (_, j) => i === 0 ? j : j === 0 ? i : 0)
+    );
+    for (let i = 1; i <= m; i++)
+        for (let j = 1; j <= n; j++)
+            dp[i][j] = a[i-1] === b[j-1]
+                ? dp[i-1][j-1]
+                : 1 + Math.min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]);
+    return dp[m][n];
+}
+
+// Allow 1 edit for short queries, 2 for longer ones.
+function fuzzyThreshold(q) {
+    return q.length <= 4 ? 1 : 2;
+}
+
 document.addEventListener('DOMContentLoaded', function () {
     if (document.getElementById('audioPlayer')) {
         setupLetterPageSearch();
@@ -126,7 +144,7 @@ function setupMainPageSearch() {
         row.addEventListener('click', () => { window.location.href = link.href; });
     });
 
-    input.focus();
+    if (!/Mobi|Android/i.test(navigator.userAgent)) input.focus();
 }
 
 // --- Letter pages (A.html etc.): filter both tables as you type ---
@@ -146,6 +164,12 @@ function setupLetterPageSearch() {
     input.setAttribute('dir', 'rtl');
     input.setAttribute('placeholder', ' ئىزدەش...');
     wrapper.appendChild(input);
+
+    const fuzzySuggest = document.createElement('p');
+    fuzzySuggest.id = 'fuzzy-suggest';
+    fuzzySuggest.style.display = 'none';
+    wrapper.appendChild(fuzzySuggest);
+
     wordTable.parentNode.insertBefore(wrapper, wordTable);
 
     // Group dict table rows into per-word entries.
@@ -169,17 +193,54 @@ function setupLetterPageSearch() {
     const wordRows = Array.from(wordTable.querySelectorAll('tr'));
 
     function applyFilter(q) {
+        fuzzySuggest.style.display = 'none';
+        fuzzySuggest.innerHTML = '';
+
         if (!q) {
             wordRows.forEach(r => (r.style.display = ''));
             allDictRows.forEach(r => (r.style.display = ''));
             return;
         }
+
         wordRows.forEach(r => (r.style.display = r.textContent.includes(q) ? '' : 'none'));
         headerRow.style.display = '';
         entries.forEach(e => {
-            const show = e.word.includes(q);
+            const show = e.rows.some(r => r.textContent.includes(q));
             e.rows.forEach(r => (r.style.display = show ? '' : 'none'));
         });
+
+        // If exact/substring search found nothing, show a "did you mean?" suggestion list
+        const exactWordHits = wordRows.filter(r => r.style.display !== 'none').length;
+        const exactDictHits = entries.filter(e => e.rows[0].style.display !== 'none').length;
+
+        if (exactWordHits === 0 && exactDictHits === 0) {
+            const thresh = fuzzyThreshold(q);
+            const candidates = entries
+                .map(e => ({ word: e.word, dist: levenshtein(q, e.word) }))
+                .filter(c => c.dist <= thresh)
+                .sort((a, b) => a.dist - b.dist)
+                .slice(0, 5);
+
+            if (candidates.length > 0) {
+                const label = document.createElement('span');
+                label.id = 'fuzzy-label';
+                label.textContent = 'شۇنى دېمەكچى ئىدىڭىزمۇ؟ ';
+                fuzzySuggest.appendChild(label);
+
+                candidates.forEach(c => {
+                    const btn = document.createElement('button');
+                    btn.className = 'fuzzy-word';
+                    btn.textContent = c.word;
+                    btn.addEventListener('click', () => {
+                        input.value = c.word;
+                        applyFilter(c.word);
+                    });
+                    fuzzySuggest.appendChild(btn);
+                });
+
+                fuzzySuggest.style.display = '';
+            }
+        }
     }
 
     input.addEventListener('input', () => applyFilter(input.value.trim()));
