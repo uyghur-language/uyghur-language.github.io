@@ -1,0 +1,1238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Convert between the Uyghur Arabic script (كونا يېزىق) and Latin Uyghur (يېڭى يېزىق).">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Uyghur &amp; Latin — Alphabet Converter</title>
+<link rel="preload" href="fonts/UKIJTuzBasma.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/UKIJTuzBasmaBold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Noto+Naskh+Arabic:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+  /* UKIJ faces, self-hosted. Subset to Latin + Arabic + the symbols the
+     interface draws, then converted to woff2 — verified pixel-identical to
+     the originals. Fonts are free from ukij.org.
+
+     Each family ships regular and bold, because the selected face sets the
+     interface as well as the Uyghur text and the UI has 600-weight labels;
+     without a real bold the browser would synthesize one. No local(): the
+     page should render the same for everyone rather than shifting for
+     whoever has the desktop fonts, and the installed originals differ from
+     these subsets at U+2192 (see fonts/README.md). Only Tuz Basma, the
+     default, is preloaded; the rest arrive when picked. */
+  @font-face {
+    font-family: 'UKIJ Tuz Basma';
+    src: url('fonts/UKIJTuzBasma.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UKIJ Tuz Basma';
+    src: url('fonts/UKIJTuzBasmaBold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UKIJ Tuz Kitab';
+    src: url('fonts/UKIJTuzKitab.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UKIJ Tuz Kitab';
+    src: url('fonts/UKIJTuzKitabBold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UKIJ Basma Qara';
+    src: url('fonts/UKIJBasmaQara.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UKIJ Basma Qara';
+    src: url('fonts/UKIJBasmaQaraBold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UKIJ Tuz Gezit';
+    src: url('fonts/UKIJTuzGezit.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'UKIJ Tuz Gezit';
+    src: url('fonts/UKIJTuzGezitBold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  :root {
+    --paper: #F7F3EA;
+    --paper-2: #EDE7DA;
+    --keys-bg: #E4DFD1;
+    --card: #FFFFFF;
+    --ink: #14231F;
+    --ink-2: #4A5A55;
+    --muted: #6B7A75;
+    --muted-2: #8B9893;
+    --faint: #9AA7A2;
+    --green: #1E5F52;
+    --green-dark: #17493F;
+    --rust: #C2542A;
+    --line: rgba(20, 35, 31, 0.12);
+    --line-soft: rgba(20, 35, 31, 0.08);
+    --line-strong: rgba(20, 35, 31, 0.14);
+    --on-dark: #F7F3EA;
+    --on-dark-muted: #8FA39C;
+    --on-dark-faint: #62766F;
+    --serif: 'Instrument Serif', Georgia, 'Times New Roman', serif;
+    /* --sans and --arabic both follow the selected font; see applyFont(). */
+    --sans: 'UKIJ Tuz Basma', system-ui, -apple-system, sans-serif;
+    --arabic: 'UKIJ Tuz Basma', 'Noto Naskh Arabic', serif;
+  }
+
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--paper-2);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.5;
+  }
+  button { font-family: inherit; }
+  textarea { font-family: inherit; }
+  a { color: var(--green); text-decoration: none; }
+  a:hover { color: var(--rust); }
+  :focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
+
+  @keyframes riseIn {
+    from { transform: translateY(14px); opacity: 0; }
+    to   { transform: translateY(0);    opacity: 1; }
+  }
+
+  .app {
+    min-height: 100vh;
+    min-height: 100dvh;
+    background: var(--paper);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .shell {
+    width: 100%;
+    max-width: 520px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    min-height: 100dvh;
+  }
+
+  /* ---------- header ---------- */
+  .site-head {
+    padding: 22px 20px 16px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    border-bottom: 1px solid rgba(20, 35, 31, 0.10);
+  }
+  .titles { display: flex; flex-direction: column; gap: 4px; }
+  .titles h1 {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+  }
+  .subtitle {
+    font-family: var(--arabic);
+    direction: rtl;
+    font-size: 17px;
+    color: var(--ink-2);
+    line-height: 1.5;
+  }
+  .head-actions { display: flex; gap: 8px; flex-shrink: 0; padding-top: 4px; }
+  .icon-btn {
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    border: 1px solid var(--line-strong);
+    background: var(--card);
+    color: var(--ink);
+    font-size: 17px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: border-color 0.15s, color 0.15s;
+  }
+  .icon-btn:hover { border-color: var(--green); color: var(--green); }
+
+  /* ---------- main ---------- */
+  main {
+    flex: 1;
+    padding: 18px 20px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .pane {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .pane--out { background: var(--ink); border-color: var(--ink); }
+  .pane-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .pane-head label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .pane--out .pane-head label { color: var(--on-dark-muted); }
+  .count { font-size: 11px; font-variant-numeric: tabular-nums; color: var(--faint); }
+  .pane--out .count { color: var(--on-dark-faint); }
+
+  .pane textarea {
+    width: 100%;
+    min-height: 118px;
+    resize: vertical;
+    border: 0;
+    outline: none;
+    background: transparent;
+    color: var(--ink);
+    font-size: 17px;
+    line-height: 1.6;
+    padding: 0;
+  }
+  .pane textarea::placeholder { color: var(--faint); }
+  .pane textarea[dir="rtl"] { font-family: var(--arabic); font-size: 19px; line-height: 1.85; }
+  .pane--out textarea { color: var(--on-dark); font-size: 18px; line-height: 1.7; }
+  .pane--out textarea::placeholder { color: var(--on-dark-faint); }
+
+  .pane-foot {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    border-top: 1px solid var(--line-soft);
+    padding-top: 10px;
+  }
+  .pane--out .pane-foot { border-top-color: rgba(247, 243, 234, 0.12); }
+
+  .chip {
+    height: 36px;
+    padding: 0 12px;
+    border-radius: 10px;
+    border: 1px solid var(--line-strong);
+    background: var(--paper);
+    color: var(--ink);
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: border-color 0.15s, background 0.15s;
+  }
+  .chip:hover { border-color: var(--green); }
+  .chip[aria-pressed="true"] { background: var(--green); border-color: var(--green); color: var(--on-dark); }
+  .chip--arabic { font-family: var(--arabic); font-size: 15px; }
+  .chip--ghost {
+    border-color: transparent;
+    background: transparent;
+    color: var(--muted);
+    margin-left: auto;
+  }
+  .chip--ghost:hover { color: var(--rust); border-color: transparent; }
+
+  .btn-solid-light {
+    height: 38px;
+    padding: 0 14px;
+    border-radius: 10px;
+    border: 0;
+    background: var(--on-dark);
+    color: var(--ink);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .btn-solid-light:hover { background: #FFFFFF; }
+  .btn-outline-dark {
+    height: 38px;
+    padding: 0 14px;
+    border-radius: 10px;
+    border: 1px solid rgba(247, 243, 234, 0.24);
+    background: transparent;
+    color: #DCD6C7;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-left: auto;
+    transition: border-color 0.15s, color 0.15s;
+  }
+  .btn-outline-dark:hover { border-color: var(--on-dark); color: #FFFFFF; }
+
+  /* ---------- convert ---------- */
+  .convert { display: flex; gap: 10px; }
+  .convert button {
+    flex: 1;
+    min-height: 52px;
+    border-radius: 14px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    transition: background 0.15s;
+  }
+  .convert .primary { border: 0; background: var(--green); color: var(--paper); }
+  .convert .primary:hover { background: var(--green-dark); }
+  .convert .secondary { border: 1px solid var(--green); background: transparent; color: var(--green); }
+  .convert .secondary:hover { background: rgba(30, 95, 82, 0.07); }
+  .convert .arrow { opacity: 0.7; }
+  .convert .script { font-family: var(--arabic); font-size: 16px; }
+
+  /* ---------- keyboard ---------- */
+  .keyboard {
+    background: var(--keys-bg);
+    border: 1px solid rgba(20, 35, 31, 0.10);
+    border-radius: 16px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .keyboard[hidden] { display: none; }
+  .key-grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 6px;
+    direction: rtl;
+  }
+  .key-row { display: flex; gap: 6px; }
+  .key {
+    height: 44px;
+    border-radius: 9px;
+    border: 1px solid rgba(20, 35, 31, 0.10);
+    background: var(--card);
+    color: var(--ink);
+    font-family: var(--arabic);
+    font-size: 19px;
+    cursor: pointer;
+    padding: 0;
+  }
+  .key:active { background: var(--green); color: #FFFFFF; }
+  .key--wide { flex: 1; font-family: var(--sans); font-size: 12px; font-weight: 500; color: var(--muted); }
+  .key--back { width: 96px; font-family: var(--sans); font-size: 14px; color: var(--muted); }
+
+  .note { margin: 4px 0 0; font-size: 12px; line-height: 1.6; color: var(--muted-2); }
+
+  /* ---------- footer ---------- */
+  .site-foot {
+    padding: 14px 20px 22px;
+    border-top: 1px solid rgba(20, 35, 31, 0.10);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    font-size: 12px;
+    color: var(--muted-2);
+  }
+
+  /* ---------- sheets ---------- */
+  .scrim {
+    position: fixed;
+    inset: 0;
+    background: rgba(20, 35, 31, 0.42);
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    z-index: 40;
+  }
+  .scrim[hidden] { display: none; }
+  .sheet {
+    width: 100%;
+    max-width: 520px;
+    background: var(--paper);
+    border-radius: 20px 20px 0 0;
+    padding: 20px 20px 26px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    animation: riseIn 0.22s ease-out;
+    max-height: 88vh;
+    overflow: auto;
+  }
+  .sheet-head { display: flex; align-items: center; justify-content: space-between; }
+  .sheet-head h2 { margin: 0; font-family: var(--serif); font-size: 25px; font-weight: 400; }
+  .sheet-close {
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    border: 1px solid var(--line-strong);
+    background: var(--card);
+    color: var(--ink);
+    font-size: 15px;
+    cursor: pointer;
+  }
+  .sheet-note { margin: 0; font-size: 12px; line-height: 1.6; color: var(--muted); }
+
+  .setting {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 12px 14px;
+  }
+  .setting-id { display: flex; align-items: center; gap: 12px; }
+  .setting-glyph {
+    font-family: var(--arabic);
+    font-size: 26px;
+    line-height: 1;
+    color: var(--green);
+    min-width: 34px;
+  }
+  .setting-note { font-size: 12px; color: var(--muted); }
+  .setting-note code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 11px;
+    background: var(--paper-2);
+    padding: 1px 4px;
+    border-radius: 4px;
+  }
+  .choices { display: flex; gap: 6px; flex-shrink: 0; }
+  .choice {
+    min-width: 46px;
+    height: 40px;
+    padding: 0 12px;
+    border-radius: 10px;
+    border: 1px solid var(--line-strong);
+    background: var(--paper);
+    color: var(--ink);
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+  }
+  .choice[aria-pressed="true"] { background: var(--green); border-color: var(--green); color: var(--paper); }
+
+  .sheet-section { display: flex; flex-direction: column; gap: 10px; }
+  .section-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .font-list { display: flex; flex-direction: column; gap: 8px; }
+  .font-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    width: 100%;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 11px 14px;
+    font: inherit;
+    color: var(--ink);
+    text-align: left;
+    cursor: pointer;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .font-row:hover { border-color: var(--green); }
+  .font-row[aria-pressed="true"] {
+    border-color: var(--green);
+    box-shadow: inset 0 0 0 1px var(--green);
+  }
+  .font-meta { display: flex; flex-direction: column; gap: 2px; flex-shrink: 0; }
+  .font-name { font-size: 13px; font-weight: 600; }
+  .font-row[aria-pressed="true"] .font-name { color: var(--green); }
+  .font-state { font-size: 11px; color: var(--muted); }
+  .font-sample {
+    direction: rtl;
+    font-size: 22px;
+    line-height: 1.5;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+  }
+
+  .chart-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+  .chart-cell {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 10px 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }
+  .chart-uyghur { font-family: var(--arabic); font-size: 24px; line-height: 1.1; color: var(--ink); }
+  .chart-latin { font-size: 13px; font-weight: 600; color: var(--green); }
+
+  @media (max-width: 380px) {
+    .titles h1 { font-size: 27px; }
+    .convert button { font-size: 13px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="app">
+  <div class="shell">
+
+    <header class="site-head">
+      <div class="titles">
+        <h1>Uyghur &amp; Latin</h1>
+        <div class="subtitle" lang="ug" dir="rtl">كونا يېزىق ↔ يېڭى يېزىق ئۆرۈگۈچ</div>
+      </div>
+      <div class="head-actions">
+        <button type="button" class="icon-btn" id="btnChart" aria-label="Alphabet chart">Aa</button>
+        <button type="button" class="icon-btn" id="btnSettings" aria-label="Letter mapping settings">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3.1"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.6h.09A1.65 1.65 0 0 0 10.09 3.1V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82v.09a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section class="pane">
+        <div class="pane-head">
+          <label for="txtInput">Input · <span lang="ug" dir="rtl">مەنبە</span></label>
+          <span class="count" id="inCount">0 chars</span>
+        </div>
+        <textarea id="txtInput" rows="5" dir="ltr" spellcheck="false" autocapitalize="none" placeholder="Type Latin Uyghur…"></textarea>
+        <div class="pane-foot">
+          <button type="button" class="chip chip--arabic" id="btnKeyboard" aria-pressed="false" aria-controls="keyboard">ئا ⌨</button>
+          <button type="button" class="chip chip--ghost" id="btnClear">Clear</button>
+        </div>
+      </section>
+
+      <section class="keyboard" id="keyboard" hidden aria-label="Uyghur keyboard">
+        <div class="key-grid" id="keyGrid"></div>
+        <div class="key-row">
+          <button type="button" class="key key--wide" id="keySpace">space</button>
+          <button type="button" class="key key--back" id="keyBack" aria-label="Backspace">⌫</button>
+        </div>
+      </section>
+
+      <div class="convert">
+        <button type="button" class="primary" id="btnL2U">Latin <span class="arrow">→</span> <span class="script" lang="ug">ئۇيغۇرچە</span></button>
+        <button type="button" class="secondary" id="btnU2L"><span class="script" lang="ug">ئۇيغۇرچە</span> <span class="arrow">→</span> Latin</button>
+      </div>
+
+      <section class="pane pane--out">
+        <div class="pane-head">
+          <label for="txtOutput">Output · <span lang="ug" dir="rtl">نىشان</span></label>
+          <span class="count" id="outCount">0 chars</span>
+        </div>
+        <textarea id="txtOutput" rows="5" dir="rtl" spellcheck="false" placeholder="Converted text appears here"></textarea>
+        <div class="pane-foot">
+          <button type="button" class="btn-solid-light" id="btnCopy">Copy</button>
+          <button type="button" class="btn-outline-dark" id="btnShare">Share link</button>
+        </div>
+      </section>
+
+      <p class="note">The font (used for the Uyghur text and the interface alike) and the letter mappings for <span lang="ug">ئە</span>, <span lang="ug">خ</span>, <span lang="ug">چ</span> and <span lang="ug">ش</span> can be changed in settings and are remembered on this device.</p>
+    </main>
+
+    <footer class="site-foot">
+      <span>Anwar Mamat</span>
+      <a href="mailto:anwarmamat@gmail.com">anwarmamat@gmail.com</a>
+    </footer>
+  </div>
+
+  <div class="scrim" id="settingsScrim" hidden>
+    <div class="sheet" role="dialog" aria-modal="true" aria-label="Settings">
+      <div class="sheet-head">
+        <h2>Settings</h2>
+        <button type="button" class="sheet-close" data-close aria-label="Close">✕</button>
+      </div>
+
+      <div class="sheet-section">
+        <span class="section-label">Font</span>
+        <div class="font-list" id="fontRows"></div>
+        <p class="sheet-note" id="fontHint"></p>
+      </div>
+
+      <div class="sheet-section">
+        <span class="section-label">Letter mappings</span>
+        <div id="settingRows" style="display:flex; flex-direction:column; gap:10px;"></div>
+        <p class="sheet-note" id="settingsHint"></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="scrim" id="chartScrim" hidden>
+    <div class="sheet" role="dialog" aria-modal="true" aria-label="Alphabet">
+      <div class="sheet-head">
+        <h2>Alphabet</h2>
+        <button type="button" class="sheet-close" data-close aria-label="Close">✕</button>
+      </div>
+      <p class="sheet-note">Reflects your current settings.</p>
+      <div class="chart-grid" id="chartGrid"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  var STORE = 'uyghur-latin-settings-v1';
+
+  /* ------------------------------------------------------------------
+     Transliteration tables.
+
+     One table serves both directions. Each entry is [latin, arabic] and
+     may carry a third element `true` marking it an ALIAS: an alternate
+     spelling accepted when converting Latin -> Arabic, but never emitted
+     when converting Arabic -> Latin. Aliases are what keep the legacy
+     `c` for چ usable without making چ round-trip as "c".
+     ------------------------------------------------------------------ */
+
+  var BASE = [
+    ['a', 'ا'], ['b', 'ب'], ['p', 'پ'], ['t', 'ت'],
+    ['j', 'ج'], ['d', 'د'], ['r', 'ر'], ['z', 'ز'],
+    ['zh', 'ژ'], ['s', 'س'], ['gh', 'غ'], ['f', 'ف'],
+    ['k', 'ك'], ['g', 'گ'], ['ng', 'ڭ'], ['l', 'ل'],
+    ['m', 'م'], ['n', 'ن'], ['o', 'و'], ['u', 'ۇ'],
+    ['ö', 'ۆ'], ['ü', 'ۈ'], ['w', 'ۋ'],
+    ['i', 'ى'], ['y', 'ي'],
+    ['c', 'چ', true]          // legacy typing alias for چ
+  ];
+
+  var PUNCT = [
+    ['?', '؟'],               // ؟
+    [',', '،'],               // ،
+    [';', '؛'],               // ؛
+    ['.', '۔'],               // ۔  (U+06D4 ARABIC FULL STOP)
+    ['.', 'ٜ', true]          // accept the combining mark older
+                                   // builds wrote here, never emit it
+  ];
+
+  // Vowels, keyed by Arabic letter: these take a leading hamza (ئ) when
+  // they open a word.
+  var VOWELS = 'اەېىوۇۆۈ';
+  var HAMZA = 'ئ';
+  // Characters after which the next letter counts as word-initial.
+  var BREAKS = ' \n\r\t\'".,:;?!()،؛؟۔«»—–-';
+
+  var KEYS = (
+    'ئ ا ە ب پ ت ج چ خ د ' +
+    'ر ز ژ س ش غ ف ق ك گ ' +
+    'ڭ ل م ن ھ و ۇ ۆ ۈ ۋ ' +
+    'ې ى ي ، ؟ ۔'
+  ).split(' ');
+
+  /* ------------------------------------------------------------------
+     Uyghur display fonts. The four UKIJ faces are the ones Uyghur
+     typesetting actually uses. They are self-hosted (see the @font-face
+     rules above) so every visitor gets them, installed or not; each stack
+     still ends in Noto Naskh Arabic in case a download fails.
+     ------------------------------------------------------------------ */
+  var FONTS = [
+    { id: 'tuzbasma',  name: 'UKIJ Tuz Basma',    note: 'Body text, the default' },
+    { id: 'tuzkitab',  name: 'UKIJ Tuz Kitab',    note: 'Body text, wider' },
+    { id: 'basmaqara', name: 'UKIJ Basma Qara',   note: 'Heavier, compact' },
+    { id: 'tuzgezit',  name: 'UKIJ Tuz Gezit',    note: 'Newspaper' },
+    { id: 'noto',      name: 'Noto Naskh Arabic', note: 'Naskh',  builtin: true }
+  ];
+  FONTS.forEach(function (f) {
+    // stack: Uyghur text.  uiStack: the Latin interface, same face.
+    f.stack = f.builtin
+      ? "'Noto Naskh Arabic', serif"
+      : "'" + f.name + "', 'Noto Naskh Arabic', serif";
+    f.uiStack = f.builtin
+      ? "'Noto Naskh Arabic', system-ui, -apple-system, sans-serif"
+      : "'" + f.name + "', system-ui, -apple-system, sans-serif";
+  });
+  var FONT_SAMPLE = 'ئۇيغۇرچە يېزىق';
+
+  function fontById(id) {
+    for (var i = 0; i < FONTS.length; i++) if (FONTS[i].id === id) return FONTS[i];
+    return null;
+  }
+
+  // Canonical Uyghur alphabet order, for the chart.
+  var ORDER = (
+    'ا ە ب پ ت ج چ خ د ر ' +
+    'ز ژ س ش غ ف ق ك گ ڭ ' +
+    'ل م ن ھ و ۇ ۆ ۈ ۋ ې ' +
+    'ى ي'
+  ).split(' ');
+
+  /* Build the settings-dependent part of the table. */
+  /* x cannot stand for both خ and ش. The settings UI stops you selecting
+     that pair, but the tables must be correct on their own too — otherwise
+     whichever entry happened to be pushed first would silently win. */
+  function normalize(cfg) {
+    var h = cfg.h === 'h' ? 'h' : 'x';
+    var sh = cfg.sh === 'x' ? 'x' : 'sh';
+    if (h === 'x' && sh === 'x') sh = 'sh';
+    return {
+      e: cfg.e === 'ë' ? 'ë' : 'e',
+      h: h,
+      q: cfg.q === 'q' ? 'q' : 'ch',
+      sh: sh
+    };
+  }
+
+  function buildTable(raw) {
+    var cfg = normalize(raw);
+    var t = BASE.concat(PUNCT);
+
+    // The Yengi Yeziq letters for ھ and ق are always accepted as input,
+    // whichever convention is selected.
+    t = t.concat([['ⱨ', 'ھ', true], ['ⱪ', 'ق', true]]);
+
+    // خ  and  ھ
+    if (cfg.h === 'x') {
+      t = t.concat([['x', 'خ'], ['h', 'ھ']]);
+    } else {
+      // h is spoken for by خ, so ھ takes the digraph hh. Without this ھ
+      // was untypable.
+      t = t.concat([['h', 'خ'], ['hh', 'ھ']]);
+    }
+
+    // چ  and  ق
+    if (cfg.q === 'ch') {
+      t = t.concat([['ch', 'چ'], ['q', 'ق']]);
+    } else {
+      // q is spoken for by چ, so ق takes the digraph qh. Without this ق
+      // was untypable.
+      t = t.concat([['q', 'چ'], ['qh', 'ق']]);
+    }
+
+    // ش
+    if (cfg.sh === 'sh') {
+      t = t.concat([['sh', 'ش']]);
+      // With خ on h and ش on sh, nothing claimed x and it fell through as a
+      // literal Latin letter. Yengi Yeziq spells ش as x, so accept it.
+      if (cfg.h !== 'x') t = t.concat([['x', 'ش', true]]);
+    } else {
+      t = t.concat([['x', 'ش']]);
+    }
+
+    // ە  and  ې
+    if (cfg.e === 'e') {
+      t = t.concat([
+        ['e', 'ە'], ['ë', 'ې'],
+        ['é', 'ې', true], ['è', 'ې', true]
+      ]);
+    } else {
+      t = t.concat([
+        ['ë', 'ە'],
+        ['é', 'ە', true], ['è', 'ە', true],
+        ['e', 'ې']
+      ]);
+    }
+    return t;
+  }
+
+  /* Latin -> Arabic lookups, split by length so a two-letter entry can
+     never be matched by its first character alone. */
+  function forwardMaps(cfg) {
+    var one = {}, two = {};
+    buildTable(cfg).forEach(function (row) {
+      var bucket = row[0].length === 2 ? two : one;
+      if (!(row[0] in bucket)) bucket[row[0]] = row[1];
+    });
+    return { one: one, two: two };
+  }
+
+  /* Arabic -> Latin, primaries only: aliases never win the reverse. */
+  function reverseMap(cfg) {
+    var rev = {};
+    buildTable(cfg).forEach(function (row) {
+      if (row[2]) return;
+      if (!(row[1] in rev)) rev[row[1]] = row[0];
+    });
+    // Legacy: clean up the combining mark old builds emitted for '.'
+    if (!('ٜ' in rev)) rev['ٜ'] = '.';
+    return rev;
+  }
+
+  function latinToUyghur(src, cfg) {
+    var m = forwardMaps(cfg);
+    var s = String(src || '').toLowerCase();
+    var out = '';
+    var i = 0;
+    while (i < s.length) {
+      var latin = null, arabic = null;
+
+      if (i + 1 < s.length) {
+        var pair = s.substr(i, 2);
+        if (pair in m.two) { latin = pair; arabic = m.two[pair]; }
+      }
+      if (arabic === null && s[i] in m.one) {
+        latin = s[i];
+        arabic = m.one[s[i]];
+      }
+      if (arabic === null) {
+        // Unknown character passes through. The apostrophe is a syllable
+        // separator ("bi'ologiye") and is consumed here.
+        if (s[i] !== '\'') out += s[i];
+        i += 1;
+        continue;
+      }
+
+      var wordStart = i === 0 || BREAKS.indexOf(s[i - 1]) !== -1;
+      if (wordStart && VOWELS.indexOf(arabic) !== -1) out += HAMZA;
+      out += arabic;
+      i += latin.length;
+    }
+    return out;
+  }
+
+  function uyghurToLatin(src, cfg) {
+    var rev = reverseMap(cfg);
+    var s = String(src || '');
+    var out = '';
+    var afterLetter = false;
+    for (var i = 0; i < s.length; i++) {
+      var ch = s[i];
+      if (ch === HAMZA) {
+        // Word-initial hamza is silent; mid-word it marks a syllable
+        // boundary and comes back as an apostrophe.
+        if (afterLetter) out += '\'';
+        afterLetter = false;
+        continue;
+      }
+      if (ch in rev) {
+        out += rev[ch];
+        afterLetter = true;
+      } else {
+        out += ch;
+        afterLetter = false;
+      }
+    }
+    return out;
+  }
+
+  /* ------------------------------------------------------------------
+     State
+     ------------------------------------------------------------------ */
+
+  var state = { mode: 'l2u', font: 'tuzbasma', e: 'e', h: 'x', q: 'ch', sh: 'sh' };
+
+  function loadSettings() {
+    try {
+      var saved = JSON.parse(localStorage.getItem(STORE) || 'null');
+      if (saved) {
+        if (saved.e === 'e' || saved.e === 'ë') state.e = saved.e;
+        if (saved.h === 'x' || saved.h === 'h') state.h = saved.h;
+        if (saved.q === 'ch' || saved.q === 'q') state.q = saved.q;
+        if (saved.sh === 'sh' || saved.sh === 'x') state.sh = saved.sh;
+        if (saved.font && fontById(saved.font)) state.font = saved.font;
+      }
+    } catch (err) { /* private mode, corrupt JSON — defaults are fine */ }
+    resolveConflict('sh');
+  }
+
+  function saveSettings() {
+    try {
+      localStorage.setItem(STORE, JSON.stringify({
+        e: state.e, h: state.h, q: state.q, sh: state.sh, font: state.font
+      }));
+    } catch (err) { /* ignore */ }
+  }
+
+  // خ=x and ش=x would both claim the letter x. Whichever the user just
+  // touched wins; the other moves to its alternative.
+  function resolveConflict(touched) {
+    if (state.h === 'x' && state.sh === 'x') {
+      if (touched === 'sh') state.h = 'h';
+      else state.sh = 'sh';
+    }
+  }
+
+  /* ------------------------------------------------------------------
+     DOM
+     ------------------------------------------------------------------ */
+
+  var $ = function (id) { return document.getElementById(id); };
+  var input = $('txtInput'), output = $('txtOutput');
+  var inCount = $('inCount'), outCount = $('outCount');
+  var keyboard = $('keyboard'), btnKeyboard = $('btnKeyboard');
+  var settingsScrim = $('settingsScrim'), chartScrim = $('chartScrim');
+  var copyTimer = null, shareTimer = null;
+
+  function syncDirection() {
+    var latinFirst = state.mode === 'l2u';
+    input.dir = latinFirst ? 'ltr' : 'rtl';
+    output.dir = latinFirst ? 'rtl' : 'ltr';
+    input.placeholder = latinFirst
+      ? 'Type Latin Uyghur…'
+      : 'ئۇيغۇر يېزىقىدا كىرگۈزۈڭ…';
+  }
+
+  function syncCounts() {
+    inCount.textContent = input.value.length + ' chars';
+    outCount.textContent = output.value.length + ' chars';
+  }
+
+  function convert(mode) {
+    state.mode = mode;
+    output.value = mode === 'l2u'
+      ? latinToUyghur(input.value, state)
+      : uyghurToLatin(input.value, state);
+    syncDirection();
+    syncCounts();
+  }
+
+  function insertAtCaret(text) {
+    var start = input.selectionStart, end = input.selectionEnd;
+    if (typeof start !== 'number') {
+      input.value += text;
+    } else {
+      input.value = input.value.slice(0, start) + text + input.value.slice(end);
+      input.selectionStart = input.selectionEnd = start + text.length;
+    }
+    input.focus();
+    syncCounts();
+  }
+
+  function flash(button, label, timerRef) {
+    var original = timerRef.original || button.textContent;
+    timerRef.original = original;
+    button.textContent = label;
+    clearTimeout(timerRef.id);
+    timerRef.id = setTimeout(function () { button.textContent = original; }, 1700);
+  }
+
+  /* ---- keyboard ---- */
+  (function buildKeyboard() {
+    var grid = $('keyGrid');
+    KEYS.forEach(function (ch) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'key';
+      b.textContent = ch;
+      b.addEventListener('click', function () { insertAtCaret(ch); });
+      grid.appendChild(b);
+    });
+    $('keySpace').addEventListener('click', function () { insertAtCaret(' '); });
+    $('keyBack').addEventListener('click', function () {
+      var start = input.selectionStart, end = input.selectionEnd;
+      if (typeof start !== 'number') {
+        input.value = input.value.slice(0, -1);
+      } else if (start !== end) {
+        input.value = input.value.slice(0, start) + input.value.slice(end);
+        input.selectionStart = input.selectionEnd = start;
+      } else if (start > 0) {
+        input.value = input.value.slice(0, start - 1) + input.value.slice(start);
+        input.selectionStart = input.selectionEnd = start - 1;
+      }
+      input.focus();
+      syncCounts();
+    });
+  })();
+
+  /* ---- font picker ---- */
+  function applyFont() {
+    var f = fontById(state.font) || FONTS[0];
+    var root = document.documentElement.style;
+    root.setProperty('--arabic', f.stack);
+    root.setProperty('--sans', f.uiStack);
+    // Headings keep Instrument Serif; only body/UI text follows the choice.
+    if (document.fonts && document.fonts.load) {
+      try { document.fonts.load('700 1em ' + f.uiStack, 'Settings'); } catch (err) { /* ignore */ }
+    }
+  }
+
+  /* The previews are the whole point of the picker, so the faces have to be
+     in hand before the rows are drawn — otherwise all five render in the
+     fallback and look identical. Fetch them the first time the sheet is
+     opened, then redraw. */
+  var fontsWarmed = false;
+  function warmFonts() {
+    if (fontsWarmed) return;
+    fontsWarmed = true;
+    if (!document.fonts || !document.fonts.load || typeof Promise === 'undefined') return;
+    var loads = FONTS.map(function (f) {
+      return document.fonts.load('22px ' + f.stack, FONT_SAMPLE);
+    });
+    Promise.all(loads).then(renderFonts, function () { /* offline — swap covers it */ });
+  }
+
+  function renderFonts() {
+    var host = $('fontRows');
+    host.textContent = '';
+    FONTS.forEach(function (f) {
+      var row = document.createElement('button');
+      row.type = 'button';
+      row.className = 'font-row';
+      row.setAttribute('aria-pressed', String(state.font === f.id));
+
+      var meta = document.createElement('div');
+      meta.className = 'font-meta';
+      var name = document.createElement('span');
+      name.className = 'font-name';
+      name.textContent = f.name;
+      var note = document.createElement('span');
+      note.className = 'font-state';
+      note.textContent = f.note;
+      meta.appendChild(name);
+      meta.appendChild(note);
+
+      var sample = document.createElement('span');
+      sample.className = 'font-sample';
+      sample.lang = 'ug';
+      sample.style.fontFamily = f.stack;
+      sample.textContent = FONT_SAMPLE;
+
+      row.appendChild(meta);
+      row.appendChild(sample);
+      row.addEventListener('click', function () {
+        state.font = f.id;
+        applyFont();
+        saveSettings();
+        renderFonts();
+      });
+      host.appendChild(row);
+    });
+
+    $('fontHint').textContent =
+      'Your choice sets the Uyghur text and the interface; headings keep ' +
+      'their own face. The four UKIJ faces are served with the page, so ' +
+      'they work on any device. Free for desktop use at ukij.org.';
+  }
+
+  /* ---- settings sheet ---- */
+  var SETTING_DEFS = [
+    { key: 'e',  glyph: 'ئە', choices: ['e', 'ë'],
+      note: function () {
+        return state.e === 'e'
+          ? 'e → ە, ë → ې'
+          : 'ë → ە, e → ې';
+      } },
+    { key: 'h',  glyph: 'خ', choices: ['x', 'h'],
+      note: function () {
+        return state.h === 'x'
+          ? 'x → خ, h → ھ'
+          : 'h → خ, hh → ھ';
+      } },
+    { key: 'q',  glyph: 'چ', choices: ['ch', 'q'],
+      note: function () {
+        return state.q === 'ch'
+          ? 'ch → چ, q → ق'
+          : 'q → چ, qh → ق';
+      } },
+    { key: 'sh', glyph: 'ش', choices: ['sh', 'x'],
+      note: function () {
+        if (state.sh !== 'sh') return 'x → ش';
+        // With خ on h, nothing else claims x, so it is taken for ش too.
+        return state.h === 'x' ? 'sh → ش' : 'sh → ش, x → ش';
+      } }
+  ];
+
+  function renderSettings() {
+    var host = $('settingRows');
+    host.textContent = '';
+    SETTING_DEFS.forEach(function (def) {
+      var row = document.createElement('div');
+      row.className = 'setting';
+
+      var id = document.createElement('div');
+      id.className = 'setting-id';
+      var glyph = document.createElement('span');
+      glyph.className = 'setting-glyph';
+      glyph.lang = 'ug';
+      glyph.textContent = def.glyph;
+      var note = document.createElement('span');
+      note.className = 'setting-note';
+      note.textContent = def.note();
+      id.appendChild(glyph);
+      id.appendChild(note);
+
+      var choices = document.createElement('div');
+      choices.className = 'choices';
+      def.choices.forEach(function (value) {
+        var b = document.createElement('button');
+        b.type = 'button';
+        b.className = 'choice';
+        b.textContent = value;
+        b.setAttribute('aria-pressed', String(state[def.key] === value));
+        b.addEventListener('click', function () {
+          state[def.key] = value;
+          resolveConflict(def.key);
+          saveSettings();
+          renderSettings();
+          renderChart();
+          if (output.value) convert(state.mode);
+        });
+        choices.appendChild(b);
+      });
+
+      row.appendChild(id);
+      row.appendChild(choices);
+      host.appendChild(row);
+    });
+
+    $('settingsHint').textContent =
+      'x cannot stand for both خ and ش, so choosing one moves the other. ' +
+      'When h or q is taken by خ or چ, the digraphs hh and qh cover ھ and ق, ' +
+      'as do the Yengi Yeziq letters ⱨ and ⱪ, which are always accepted.';
+  }
+
+  /* ---- alphabet chart ---- */
+  function renderChart() {
+    var rev = reverseMap(state);
+    var grid = $('chartGrid');
+    grid.textContent = '';
+    ORDER.forEach(function (arabic) {
+      var latin = rev[arabic];
+      if (!latin) return;
+      var cell = document.createElement('div');
+      cell.className = 'chart-cell';
+      var u = document.createElement('span');
+      u.className = 'chart-uyghur';
+      u.lang = 'ug';
+      u.textContent = VOWELS.indexOf(arabic) !== -1 ? HAMZA + arabic : arabic;
+      var l = document.createElement('span');
+      l.className = 'chart-latin';
+      l.textContent = latin;
+      cell.appendChild(u);
+      cell.appendChild(l);
+      grid.appendChild(cell);
+    });
+  }
+
+  /* ---- sheets open/close ---- */
+  function openSheet(scrim) {
+    settingsScrim.hidden = true;
+    chartScrim.hidden = true;
+    scrim.hidden = false;
+  }
+  function closeSheets() {
+    settingsScrim.hidden = true;
+    chartScrim.hidden = true;
+  }
+  [settingsScrim, chartScrim].forEach(function (scrim) {
+    scrim.addEventListener('click', function (ev) {
+      if (ev.target === scrim || ev.target.hasAttribute('data-close')) closeSheets();
+    });
+  });
+  document.addEventListener('keydown', function (ev) {
+    if (ev.key === 'Escape') closeSheets();
+  });
+
+  /* ---- wiring ---- */
+  $('btnL2U').addEventListener('click', function () { convert('l2u'); });
+  $('btnU2L').addEventListener('click', function () { convert('u2l'); });
+  input.addEventListener('input', syncCounts);
+  output.addEventListener('input', syncCounts);
+
+  $('btnClear').addEventListener('click', function () {
+    input.value = '';
+    output.value = '';
+    syncCounts();
+    input.focus();
+  });
+
+  btnKeyboard.addEventListener('click', function () {
+    var open = keyboard.hidden;
+    keyboard.hidden = !open;
+    btnKeyboard.setAttribute('aria-pressed', String(open));
+  });
+
+  var copyRef = {}, shareRef = {};
+  $('btnCopy').addEventListener('click', function () {
+    var btn = this;
+    if (!output.value) return;
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(output.value).then(
+        function () { flash(btn, 'Copied', copyRef); },
+        function () { flash(btn, 'Press ⌘C', copyRef); }
+      );
+    } else {
+      output.select();
+      flash(btn, 'Press ⌘C', copyRef);
+    }
+  });
+
+  $('btnShare').addEventListener('click', function () {
+    var btn = this;
+    var url;
+    try {
+      url = new URL(location.href);
+      url.search = '?t=' + encodeURIComponent(input.value) + '&m=' + state.mode;
+      url = url.toString();
+    } catch (err) { return; }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(
+        function () { flash(btn, 'Link copied', shareRef); },
+        function () { flash(btn, 'Copy failed', shareRef); }
+      );
+    } else {
+      flash(btn, 'Copy failed', shareRef);
+    }
+  });
+
+  $('btnSettings').addEventListener('click', function () {
+    warmFonts();
+    openSheet(settingsScrim);
+  });
+  $('btnChart').addEventListener('click', function () { openSheet(chartScrim); });
+
+  /* ---- boot ---- */
+  loadSettings();
+  applyFont();
+  renderFonts();
+  renderSettings();
+  renderChart();
+
+  try {
+    var params = new URLSearchParams(location.search);
+    var shared = params.get('t');
+    if (shared) {
+      input.value = shared;
+      state.mode = params.get('m') === 'u2l' ? 'u2l' : 'l2u';
+      convert(state.mode);
+    }
+  } catch (err) { /* ignore */ }
+
+  syncDirection();
+  syncCounts();
+})();
+</script>
+</body>
+</html>
